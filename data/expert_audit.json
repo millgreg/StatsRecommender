@@ -1,0 +1,48 @@
+{
+    "12570275.json": {
+        "title": "Prevention of acute myocardial infarction induced heart failure by intracoronary infusion of mesenchymal stem cells: phase 3 randomised clinical trial (PREVENT-TAHA8)",
+        "expert_findings": {
+            "strengths": [
+                "Normality checks (Shapiro-Wilk) explicitly stated",
+                "Proportional hazards assumption checked (Schoenfeld residuals)",
+                "ITT approach used",
+                "Interaction and subgroup analyses performed"
+            ],
+            "gaps": [
+                "No explicit correction for multiplicity despite multiple secondary endpoints and subgroup analyses",
+                "Blinding description lacks detail on allocation concealment process",
+                "Sample size calculation uses 'approximate' rates which could be more precise"
+            ],
+            "overall_rigor_rating": "Medium-High"
+        }
+    },
+    "12660148.json": {
+        "title": "Spatial multiomic landscape of the human placenta at molecular resolution",
+        "expert_findings": {
+            "strengths": [
+                "Multiplicity correction (Benjamini-Hochberg) for spatial autocorrelation",
+                "FDR adjustment for marker identification"
+            ],
+            "gaps": [
+                "Sample size justification lacks power calculation details",
+                "Blinding not explicitly described (noted as not relevant)"
+            ],
+            "overall_rigor_rating": "High"
+        }
+    },
+    "12618242.json": {
+        "title": "A multimodal whole-slide foundation model for pathology",
+        "expert_findings": {
+            "strengths": [
+                "Multiplicity correction (Tukey) for pairwise comparisons",
+                "Accounted for data dependency using GLMM models",
+                "Bootstrapping for performance reporting"
+            ],
+            "gaps": [
+                "Sample size lacks power calculation (common in ML studies)",
+                "P-values reported without effect size metrics"
+            ],
+            "overall_rigor_rating": "High"
+        }
+    }
+}

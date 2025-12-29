@@ -1,0 +1,19 @@
+name: stats_rec_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - scikit-learn
+  - spacy
+  - requests
+  - flask
+  - biopython
+  - pip
+  - pip:
+    - openai
+    - anthropic
+    - python-dotenv
+    - spacy-transformers
+    - beautifulsoup4
+    - lxml
