@@ -1,0 +1,383 @@
+{
+  "title": "Changing the availability and positioning of more vs. less environmentally sustainable products: A randomised controlled trial in an online experimental supermarketHow do shoppers behave online? An observational study of online grocery shoppingMeta-analyses of fifteen determinants of public opinion about climate change taxes and lawsEncouraging healthier grocery purchases online: A randomised controlled trial and lessons learnedEstimating the environmental impacts of 57,000 food productsImpact on alcohol selection and online purchasing of changing the proportion of available non-alcoholic versus alcoholic drinks: A randomised controlled trialFood systems are responsible for a third of global anthropogenic GHG emissionsThe Price Knowledge and Search of Supermarket ShoppersPublic acceptability of government intervention to change health-related behaviours: A systematic review and narrative synthesisImpact of increasing vegetarian availability on meal selection and sales in cafeteriasEnvironmental performance of blue foodsDirect observation of search behavior in the purchase of two nondurable productsPublic support for healthy supermarket initiatives focused on product placement: A multi-country cross-sectional analysis of the 2018 International food policy studyNutrient composition databases in the age of big data: foodDB, a comprehensive, real-time database infrastructureThe TIPPME intervention typology for changing environments to change behaviourAltering the availability or proximity of food, alcohol, and tobacco products to change their selection and consumptionOpen Science online grocery: A Tool for studying choice context and food choiceAn Examination of consumer decision making for a common repeat purchase productAmerican attitudes toward nudgesrstatix: Pipe-Friendly framework for basic statistical testsProminent positioning and food swaps are effective interventions to reduce the saturated fat content of the shopping basket in an experimental online supermarket: A randomized controlled trialCo-Benefits from sustainable dietary shifts for population and environmental health: An assessment from a large European cohort studyA replication and extension of the Dickson and Sawyer price-awareness studyConsumer decision making for common, repeat-purchase products: A dual replicationEffects of labelling and increasing the proportion of lower-energy density products on online food shopping: A randomised control trial in high-and low-socioeconomic position participantsThe effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domainsA review and taxonomy of choice architecture techniquesImpact of increasing the relative availability of meat-free options on food selection: Two natural field experiments and an online randomised trialImpact of altering the available food options on selection: Potential mediation by social normsAltering the availability of products within physical micro-environments: A conceptual frameworkAcceptability of policies to reduce consumption of red and processed meat: A population-based survey experimentTesting availability, positioning, promotions, and signage of healthier food options and purchasing behaviour within major UK supermarkets: Evaluation of 6 nonrandomised controlled intervention studiesReducing food\u2019s environmental impacts through producers and consumersImpact of decreasing the proportion of higher energy foods and reducing portion sizes on food purchased in worksite cafeterias: A stepped-wedge randomised controlled trialUnderstanding attitudes towards reducing meat consumption for environmental reasons. A Qualitative synthesis reviewConsumer attitudes towards environmental Concerns of meat consumption: A systematic reviewCONSORT 2010 statement: Updated guidelines for reporting parallel group randomised trialsHealth and nutritional aspects of sustainable diet strategies and their association with environmental impacts: A global modelling analysis with country-level detailChanging the default order of food items in an online grocery store may nudge healthier food choicesDplyr: A Grammar of data manipulationtidyr: Tidy Messy dataCan changing the position of online menu items increase selection of fruit and vegetable snacks? A cluster randomized trial within an online canteen ordering system in Australian primary schoolsTesting the impact of overt and covert ordering interventions on sustainable consumption choices: A randomised controlled trial",
+  "pmcid": "7618412",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "n = 29",
+        "n = 24",
+        "sample size",
+        "n = 159",
+        "n = 3",
+        "n = 42"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "d alpha of 0.05, the required sample size was 1053. We aimed to achieve"
+        },
+        {
+          "match": "n = 24",
+          "context": "to availability intervention: n = 24); pie or quiche (n = 29); rea"
+        },
+        {
+          "match": "n = 29",
+          "context": "tion: n = 24); pie or quiche (n = 29); ready meal (n = 159); and s"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 15,
+      "unique_matches": [
+        "randomisation",
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "tally sustainable products: A randomised controlled trial in an onlin"
+        },
+        {
+          "match": "randomise",
+          "context": "r grocery purchases online: A randomised controlled trial and lessons"
+        },
+        {
+          "match": "randomise",
+          "context": "ic versus alcoholic drinks: A randomised controlled trialFood systems"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "ysing the primary outcome was blinded to intervention allocation. A"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "concealment"
+      ],
+      "examples": [
+        {
+          "match": "concealment",
+          "context": "cs, thus achieving allocation concealment. Participant data was anonymo"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "interaction effect"
+      ],
+      "examples": [
+        {
+          "match": "interaction effect",
+          "context": "effect size (f = 0.1) for any interaction effect between the order and availab"
+        },
+        {
+          "match": "interaction effect",
+          "context": "ANOVA was used to test for an interaction effect between the two interventions"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "tukey",
+        "bonferroni"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "ied a threshold of p \u2264 0.003 (Bonferroni adjustment) to determine stat"
+        },
+        {
+          "match": "Tukey",
+          "context": "pping baskets per group and a Tukey test (following a significant"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "alpha",
+          "context": "score, and with 90% power and alpha of 0.05, the required sample"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "chi-square"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "tem were investigated through chi-square tests and descriptive statist"
+        },
+        {
+          "match": "Chi-square",
+          "context": "h category. CAPTION:  FOOTER: Chi-square tests for gender excluded par"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity analysis"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity analysis",
+          "context": "en the two interventions. The sensitivity analysis included only participants wh"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "anova",
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "impact was investigated using logistic regression models. The intervention effe"
+        },
+        {
+          "match": "logistic regression",
+          "context": "el regression was replaced by logistic regression models for each shopping list"
+        },
+        {
+          "match": "ANOVA",
+          "context": "test (following a significant ANOVA test result (p=<0.001)) inves"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "fruit and vegetable snacks? A cluster randomized trial within an on"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "missing data"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": "count for an estimated 10% of missing data. Participants who bought less"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "effect size"
+      ],
+      "examples": [
+        {
+          "match": "effect size",
+          "context": "Appendix B. Based on a small effect size (f = 0.1) for any interaction"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "tukey",
+        "post-hoc"
+      ],
+      "examples": [
+        {
+          "match": "post-hoc",
+          "context": "), followed by a Games-Howell post-hoc test. A two-way ANOVA was use"
+        },
+        {
+          "match": "Tukey",
+          "context": "pping baskets per group and a Tukey test (following a significant"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "ucts appear on earlier pages (Table 1 shows the percentage shown on"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "pre-specified",
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "household. Participants were excluded if they followed a vegan or v"
+        },
+        {
+          "match": "excluded",
+          "context": "30% of the median time, were excluded from analysis. The main analy"
+        },
+        {
+          "match": "excluded",
+          "context": ": Chi-square tests for gender excluded participants identifying as a"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "en the two interventions. The sensitivity analysis included only partic"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

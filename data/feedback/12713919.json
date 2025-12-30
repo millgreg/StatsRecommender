@@ -1,0 +1,418 @@
+{
+  "title": "Effect of high-risk sleep apnea on treatment-response to a tailored digital cognitive behavioral therapy for insomnia program: a quasi-experimental trialRandomized controlled trial of an integrated approach to treating insomnia and improving use of positive airway pressure therapy in veterans with comorbid insomnia disorder and obstructive sleep apneaThe European Academy for Cognitive Behavioural Therapy for Insomnia: an initiative of the European Insomnia Network to promote implementation and dissemination of treatmentValidation of the insomnia severity index as an outcome measure for insomnia researchThe subjective-objective mismatch in sleep perception among those with insomnia and sleep apneaQuality of life among untreated sleep apnea patients compared with the general population and changes after treatment with positive airway pressureNo effect of a self-help book for insomnia in patients with obstructive sleep apnea and comorbid chronic insomnia\u2013a randomized controlled trialStimulus control for the treatment of insomniaA simplified model of screening questionnaire and home monitoring for obstructive sleep apnea in primary careEffectiveness of an online insomnia program (SHUTi) for prevention of depressive episodes (the GoodNight Study): a randomised controlled trialSTOP-Bang questionnaire: a practical approach to screen for obstructive sleep apneaStepped care management of insomnia co-occurring with sleep apnea: the AIR study protocolClinical guideline for the evaluation, management and long-term care of obstructive sleep apnea in adults: adult obstructive sleep apnea task force of the American Academy of Sleep MedicineEffect of digital cognitive behavioral therapy for insomnia on health, psychological well-being, and sleep-related quality of life: a randomized clinical trialA randomized, placebo-controlled trial of online cognitive behavioral therapy for chronic insomnia disorder delivered via an automated media-rich web applicationThe Flinders Fatigue Scale: preliminary psychometric properties and clinical sensitivity of a new scale for measuring daytime fatigue associated with insomniaO048 Help seeking behaviours of Australian adults with insomnia in a community sampleA new method for measuring daytime sleepiness: The Epworth Sleepiness ScalePrevalence of insomnia symptoms in patients with sleep-disordered breathingThe Patient Health Questionnaire-2: validity of a two-item depression screenerSleep restriction therapy for insomnia is associated with reduced objective total sleep time, increased daytime somnolence, and objectively-impaired vigilance: Implications for the clinical management of insomnia disorderCo-morbid OSA and insomnia increases depression prevalence and severity in menThe association of co-morbid insomnia and obstructive sleep apnea with prevalent cardiovascular disease and incident cardiovascular eventsCo-morbid insomnia and obstructive sleep apnea is associated with all-cause mortalityAll-cause mortality in people with co-occurring insomnia symptoms and sleep apnea: analysis of the Wisconsin Sleep CohortOccult sleep apnea in a recruited sample of older adults with insomniaComorbid insomnia and obstructive sleep apnea: challenges for clinical practice and researchTime trends in the family physician management of insomnia: the Australian experience (2000\u20132015)Nonpharmacological interventions for insomnia: a meta-analysis of treatment efficacyDysfunctional beliefs and attitudes about sleep (DBAS): validation of a brief version (DBAS-16)Efficacy of an internet-delivered intervention for improving insomnia severity and functioning in veterans: randomized controlled trialA randomized controlled trial of CBT-I and PAP for obstructive sleep apnea and comorbid insomnia: main outcomes from the MATRICS studyManagement of obstructive sleep apnea and comorbid insomnia: a mixed-methods evaluationSleep apnea and insomnia: emerging evidence for effective clinical managementGuideline-concordant use of cognitive behavioral therapy for insomnia in the Veterans Health AdministrationManagement of chronic insomnia disorder in adults: a clinical practice guideline from the American College of PhysiciansAustralasian Sleep Association position statement regarding the use of psychological/behavioral treatments in the management of insomnia in adultsEffect of a web-based cognitive behavior therapy for insomnia intervention with 1-year follow-up: a randomized clinical trialThe joint contribution of insomnia and obstructive sleep apnea on sickness absenceEfficacy of digital cognitive behavioural therapy for insomnia: a meta-analysis of randomised controlled trialsTreatment of chronic insomnia by restriction of time in bedA brief measure for assessing generalized anxiety disorder: the GAD-7The effect of cognitive behavioural therapy for insomnia in people with co-morbid insomnia and sleep apnea: a systematic review and meta-analysisCo-morbid insomnia and sleep apnea (COMISA): Prevalence, consequences, methodological considerations, and recent randomized controlled trialsCognitive and behavioral therapy for insomnia increases the use of continuous positive airway pressure therapy in obstructive sleep apnea participants with co-morbid insomnia: A randomized clinical trialDoes co-morbid obstructive sleep apnea impair the effectiveness of cognitive and behavioral therapy for insomnia?Cognitive behavioural therapy for insomnia reduces sleep apnea severity: a randomised controlled trialBi-directional relationships between co-morbid insomnia and sleep apnea (COMISA)Association of co-morbid insomnia and sleep apnea symptoms with all cause mortality: analysis of the NHANES 2005-2008 dataThe effect of cognitive and behavioral therapy for insomnia on week-to-week changes in sleepiness and sleep parameters in insomnia patients with co-morbid moderate and severe sleep apnea: a randomized controlled trialCo-morbid insomnia and sleep apnea (COMISA): recent research and future directionsDigital CBT-i versus digital sleep education control in an Australian community-based cohort: a randomised controlled trailDeveloping a successful treatment for co-morbid insomnia and sleep apneaDevelopment and perceived utility and impact of an internet intervention for insomniaNeurocognitive functioning in COMISA patients is better after PAP therapy, but worse after CBT-I: exploratory analysis of cognitive outcomes from the MATRICS studyEffects of alcohol and sleep restriction on simulated driving performance in untreated patients with obstructive sleep apneaCognitive behavioral therapy for insomnia: a meta-analysis of long-term effects in controlled studiesDoes online insomnia treatment reduce depressive symptoms? A randomized controlled trial in individuals with both insomnia and depressive symptomsEffects of digital cognitive behavioural therapy for insomnia on insomnia severity: a large-scale randomised controlled trialPredictors of insomnia severity index profiles in US veterans with obstructive sleep apneaAdherence to continuous positive airway pressure therapy: the challenge to effective treatmentInternet-based cognitive behavioral therapy for insomnia (ICBT-i) improves comorbid anxiety and depression\u2014a meta-analysis of randomized controlled trials",
+  "pmcid": "12713919",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 15,
+      "unique_matches": [
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "odes (the GoodNight Study): a randomised controlled trialSTOP-Bang qu"
+        },
+        {
+          "match": "randomise",
+          "context": "insomnia: a meta-analysis of randomised controlled trialsTreatment o"
+        },
+        {
+          "match": "randomise",
+          "context": "duces sleep apnea severity: a randomised controlled trialBi-direction"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "interaction effect"
+      ],
+      "examples": [
+        {
+          "match": "interaction effect",
+          "context": "linear mixed models. Overall interaction effects were required before investi"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "insomnia severity index as an outcome measure for insomnia researchThe subj"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "spss"
+      ],
+      "examples": [
+        {
+          "match": "SPSS",
+          "context": "d at each follow-up occasion. SPSS (IBM Statistics, version 28)"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "ata are presented as mean and standard deviation/95% confidence intervals for"
+        },
+        {
+          "match": "standard deviation",
+          "context": "d-values with pooled baseline standard deviations were used as a standardized"
+        },
+        {
+          "match": "standard deviation",
+          "context": "023c). CAPTION: Average mean (standard deviation) between-group baseline socio"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "bonferroni"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "required before investigating Bonferroni-corrected pairwise comparison"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "Alpha",
+          "context": "ortions for categorical data. Alpha levels of <0.05 were used to"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval",
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "s in estimated marginal mean (95% CI) insomnia symptoms during tre"
+        },
+        {
+          "match": "confidence interval",
+          "context": "an and standard deviation/95% confidence intervals for continuous data, and cou"
+        },
+        {
+          "match": "95% confidence",
+          "context": "s mean and standard deviation/95% confidence intervals for continuous data"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "chi2"
+      ],
+      "examples": [
+        {
+          "match": "chi2",
+          "context": "ixed models and complete-case chi2 analyses were used. We report"
+        },
+        {
+          "match": "Chi2",
+          "context": "of effect size. Complete case Chi2 analyses were used to analyze"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "linear mixed model"
+      ],
+      "examples": [
+        {
+          "match": "linear mixed model",
+          "context": "groups were investigated with linear mixed models. Overall interaction effects"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "proportions"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "and count and proportions for categorical data. Alpha levels of <0.05 w"
+        },
+        {
+          "match": "continuous",
+          "context": "insomnia increases the use of continuous positive airway pressure ther"
+        },
+        {
+          "match": "continuous",
+          "context": "ctive sleep apneaAdherence to continuous positive airway pressure ther"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "complete case"
+      ],
+      "examples": [
+        {
+          "match": "Complete case",
+          "context": "dized measure of effect size. Complete case Chi2 analyses were used to an"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "effect size",
+        "cohen's d"
+      ],
+      "examples": [
+        {
+          "match": "effect size",
+          "context": "as a standardized measure of effect size. Complete case Chi2 analyses"
+        },
+        {
+          "match": "effect size",
+          "context": "d as standardized measures of effect size (Wilson, 2017). Complete-case"
+        },
+        {
+          "match": "Cohen's d",
+          "context": "rrected pairwise comparisons. Cohen's d-values with pooled baseline s"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "excluded",
+        "categorized"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "doctor diagnosis of OSA were excluded from this study which intende"
+        },
+        {
+          "match": "categorized",
+          "context": "pants with a score of <5 were categorized with insomnia-alone. A five-s"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "etric properties and clinical sensitivity of a new scale for measuring"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 2.5,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...dized measure of effect size. Complete case Chi2 analyses were used to an..."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...ortions for categorical data. Alpha levels of <0.05 were used to..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...doctor diagnosis of OSA were excluded from this study which intende..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...required before investigating Bonferroni-corrected pairwise comparison..."
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...d at each follow-up occasion. SPSS (IBM Statistics, version 28)..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...as a standardized measure of effect size. Complete case Chi2 analyses..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...etric properties and clinical sensitivity of a new scale for measuring..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

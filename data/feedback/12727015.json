@@ -1,0 +1,271 @@
+{
+  "title": "ESGO Quality Indicators for Surgical Management of Cervical Cancer: An Audit of Compliance of a Tertiary Care CenterRecent global burden of cervical cancer incidence and mortality, predictors, and temporal trendsGlobal Cancer Statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countriesCancer of the cervix uteri: 2021 updateSurvival rate of cervical cancer from a study conducted in IndiaEuropean Society of Gynaecological Oncology quality indicators for surgical treatment of cervical cancerThe European Society of Gynaecological Oncology/European Society for Radiotherapy and Oncology/European Society of Pathology guidelines for the management of patients with cervical cancerCervical cancer: formulation and implementation of Govt of India guidelines for screening and managementThe outcomes of ovarian cancer treatment are better when provided by gynecologic oncologists and in specialized hospitals: a systematic reviewInfluence of gynecologic oncologists on the survival of patients with endometrial cancerImpact of institutional accreditation by the Japan Society of Gynecologic Oncology on the treatment and survival of women with cervical cancerRevised FIGO staging for carcinoma of the cervix uteriTreatment outcomes of early carcinoma cervix before and after sub-specializationThe importance of quality assurance in surgical oncologyMinimally invasive versus abdominal radical hysterectomy for cervical cancerRisk factors for recurrence after robot-assisted radical hysterectomy for early-stage cervical cancer: a multicenter retrospective studySUCCOR study: an international European cohort observational study comparing minimally invasive surgery versus open abdominal radical hysterectomy in patients with stage IB1 cervical cancerSUCCOR quality: validation of ESGO quality indicators for surgical treatment of cervical cancerAssessment of ESGO quality indicators in cervical cancer surgery: a real-world study in a high-volume Chinese hospital",
+  "pmcid": "12727015",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "spss statistics"
+      ],
+      "examples": [
+        {
+          "match": "SPSS Statistics",
+          "context": "data were analyzed using IBM SPSS Statistics for Windows, version 22 (IBM"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "esented as mean or median and categorical variables are presented as pe"
+        },
+        {
+          "match": "Continuous",
+          "context": "nk, New York, United States). Continuous variables are presented as me"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "Compliance",
+          "context": "Cervical Cancer: An Audit of Compliance of a Tertiary Care CenterRece"
+        },
+        {
+          "match": "compliance",
+          "context": "spectively analyzed to assess compliance to the ESGO quality indicator"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Categorical data mentioned, but no appropriate categorical tests found.",
+        "evidence": "...esented as mean or median and categorical variables are presented as pe..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...data were analyzed using IBM SPSS Statistics for Windows, version 22 (IBM..."
+      },
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...Cervical Cancer: An Audit of Compliance of a Tertiary Care CenterRece..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

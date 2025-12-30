@@ -6,210 +6,250 @@ class RuleBasedFeedbackEngine:
     def __init__(self):
         pass
 
+    def _add_item(self, list_obj, message, features, category_key, evidence_fallback=None):
+        """Helper to add an item with evidence/context."""
+        # Find best evidence
+        evidence = evidence_fallback
+        if not evidence and category_key:
+            examples = features.get(category_key, {}).get("examples", [])
+            if examples:
+                 # Prefer the context of the first match
+                 evidence = f"...{examples[0]['context']}..."
+            else:
+                 # Fallback to unique matches list
+                 matches = features.get(category_key, {}).get("unique_matches", [])
+                 if matches:
+                     evidence = f"Found terms: {', '.join(matches[:3])}"
+        
+        item = {
+            "message": message,
+            "evidence": evidence if evidence else "No direct quote found."
+        }
+        # Deduplicate by message
+        if not any(x["message"] == message for x in list_obj):
+             list_obj.append(item)
+
     def generate_feedback(self, features):
         """
-        Processes extracted features to generate deterministic feedback.
+        Processes extracted features to generate deterministic feedback with evidence.
         """
         gaps = []
         recommendations = []
         strengths = []
         
-        if features.get("multiplicity_correction", {}).get("present", False):
-            strengths.append("Explicitly addressed multiplicity correction for multiple comparisons.")
-        elif features.get("comparative_stats", {}).get("count", 0) > 2 or features.get("interaction_subgroup", {}).get("present", False):
-            gaps.append("Missing multiplicity correction despite multiple comparative tests or subgroup analyses.")
-            recommendations.append({
-                "item": "Multiplicity",
-                "issue": "Multiple statistical comparisons or subgroups analyzed without documented alpha adjustment.",
-                "recommendation": "Apply Bonferroni, Benjamini-Hochberg, or similar correction for multiple testing."
-            })
+        # --- Domain Detection ---
+        # Use explicit domain indicators first, then fallback to general text search if needed
+        domain_indicators = features.get("domain_indicators", {}).get("unique_matches", [])
+        
+        # Also check for widely used terms in other categories if indicators missed (legacy fallback)
+        all_text = " ".join([m for cat in features.values() for m in cat.get("unique_matches", [])]).lower()
+        basic_science_keywords = ["crystallography", "transcriptomics", "blot", "staining", "mice", "cell line", "seurat", "imagej", "flowjo", "pymol", "bioconductor", "in vitro", "in vivo", "knockout", "fluorescence", "quantification", "western", "microscopy"]
+        
+        is_basic_science = (len(domain_indicators) > 0) or any(kw in all_text for kw in basic_science_keywords)
+        
+        if is_basic_science:
+             # Find which keyword triggered it for evidence
+             if domain_indicators:
+                 trigger = domain_indicators[0]
+             else:
+                 trigger = next((kw for kw in basic_science_keywords if kw in all_text), "basic science context")
+             self._add_item(strengths, "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).", features, None, evidence_fallback=f"Detected term: '{trigger}'")
 
-        # 2. Parametric Assumption Rules
-        # Combine all statistical keywords and contexts for searching
-        stats_examples = (
-            features.get("comparative_stats", {}).get("examples", []) +
-            features.get("regression_and_models", {}).get("examples", []) +
-            features.get("advanced_modeling", {}).get("examples", []) +
-            features.get("clustering", {}).get("examples", []) +
-            features.get("dependency", {}).get("examples", [])
-        )
-        stats_text = str(stats_examples).lower()
+        # --- 1. Multiplicity Correction ---
+        has_multi = features.get("multiplicity_correction", {}).get("present", False)
+        multi_matches = " ".join(features.get("multiplicity_correction", {}).get("unique_matches", [])).lower()
+        is_explicit_no_adj = any(re.search(x, multi_matches) for x in ["no adjustment", "no correction", "nominal", r"no.*hypothesis testing"])
+        
+        if has_multi:
+            if is_explicit_no_adj:
+                self._add_item(gaps, "Explicitly stated that no multiplicity correction or formal hypothesis testing was performed.", features, "multiplicity_correction")
+                recommendations.append({
+                    "item": "Multiplicity", 
+                    "issue": "Lack of correction increases Type I error.", 
+                    "recommendation": "Use Bonferroni or FDR, or label as exploratory.",
+                    "source_text": multi_matches[:100]
+                })
+            else:
+                self._add_item(strengths, "Explicitly addressed multiplicity correction for multiple comparisons.", features, "multiplicity_correction")
+        
+        # --- 2. Parametric Assumptions ---
+        all_unique = []
+        for cat in ["comparative_stats", "regression_and_models", "advanced_modeling"]:
+             all_unique.extend(features.get(cat, {}).get("unique_matches", []))
+        stats_text = " ".join(all_unique).lower()
         is_parametric = any(x in stats_text for x in ["t-test", "anova", "linear model"])
         
-        if is_parametric:
-            if not features.get("normality_checks", {}).get("present", False):
-                gaps.append("Parametric tests used without documented normality checks.")
-                recommendations.append({
-                    "item": "Assumptions",
-                    "issue": "Parametric tests (t-test/ANOVA) used without verifying the assumption of normality.",
-                    "recommendation": "Report Shapiro-Wilk or Kolmogorov-Smirnov test results, or use non-parametric alternatives if data is skewed."
-                })
-        
-        if features.get("normality_checks", {}).get("present", False):
-            strengths.append("Normality of data distribution was explicitly checked.")
+        if is_parametric and not features.get("normality_checks", {}).get("present", False):
+             self._add_item(gaps, "Parametric tests used without documented normality checks.", features, "comparative_stats") 
+             recommendations.append({
+                 "item": "Assumptions",
+                 "issue": "Parametric tests assume normality.",
+                 "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+                 "source_text": f"Found parametric tests: {', '.join([x for x in ['t-test', 'anova'] if x in stats_text])}"
+             })
 
-        # 3. Method Suitability: Paired vs Unpaired
-        is_paired_data = features.get("dependency", {}).get("present", False)
-        paired_tests = ["paired t-test", "wilcoxon matched", "signed-rank", "repeated measures"]
-        stats_text_lower = stats_text.lower()
-        has_paired_test = any(x in stats_text_lower for x in paired_tests)
-        
-        if is_paired_data and not has_paired_test:
-            gaps.append("Dataset mentioned as 'paired' or 'matched', but no paired statistical tests found.")
-            recommendations.append({
-                "item": "Method Suitability",
-                "issue": "Use of unpaired tests on dependent/paired data reduces statistical power and can be incorrect.",
-                "recommendation": "Use paired t-test, Wilcoxon signed-rank test, or repeated measures ANOVA for dependent samples."
-            })
-        elif is_paired_data and has_paired_test:
-            strengths.append("Appropriately used paired tests for dependent data structures.")
+        # --- 3. Missing Data ---
+        if features.get("missing_data", {}).get("present", False):
+             missing_txt = " ".join(features.get("missing_data", {}).get("unique_matches", [])).lower()
+             if "imputation" in missing_txt and "no imputation" not in missing_txt:
+                  self._add_item(strengths, "Addressed missing data using imputation methods.", features, "missing_data")
+             else:
+                  self._add_item(gaps, "Missing data handeld via complete-case analysis (potential bias).", features, "missing_data")
 
-        # 4. Method Suitability: Categorical vs Continuous
-        is_categorical = any(x in str(features.get("data_types", {}).get("examples", [])).lower() for x in ["categorical", "frequencies", "binary"])
-        has_categorical_test = any(x in stats_text_lower for x in ["chi-square", "fisher", "logistic regression"])
-        
-        if is_categorical and not has_categorical_test:
-            gaps.append("Categorical data mentioned, but no appropriate categorical tests (e.g., Chi-square) found.")
-            recommendations.append({
-                "item": "Method Suitability",
-                "issue": "Missing categorical comparative analysis for frequency-based data.",
-                "recommendation": "Report Chi-square or Fisher's exact test results for categorical outcome variables."
-            })
+        # --- 4. Power & Sample Size (Gated by Basic Science) ---
+        if not is_basic_science:
+             if not features.get("sample_size", {}).get("present", False):
+                  self._add_item(gaps, "Sample size justification lacks explicit power calculation details.", features, "sample_size")
+                  recommendations.append({
+                      "item": "Sample Size",
+                      "issue": "No power calculation found.",
+                      "recommendation": "Provide alpha, power, and effect size parameters.",
+                      "source_text": "No matches for 'power' or 'sample size calculation'"
+                  })
 
-        # 5. Longitudinal & Clustered Data (Unit of Analysis)
-        has_dependency = features.get("dependency", {}).get("present", False) or features.get("clustering", {}).get("present", False)
-        longitudinal_keywords = ["repeated measures", "longitudinal", "cluster", "nested", "multilevel"]
-        is_specifically_longitudinal = any(x in str(features.get("dependency", {}).get("examples", []) + features.get("clustering", {}).get("examples", [])).lower() for x in longitudinal_keywords)
-        
-        advanced_modeling_text = str(features.get("advanced_modeling", {}).get("examples", [])).lower()
-        has_advanced_model = any(x in stats_text_lower or x in advanced_modeling_text for x in ["mixed-effect", "lmm", "glmm", "gee", "repeated measures anova", "multilevel", "hierarchical", "random intercept", "random effect", "nested"])
-        
-        if is_specifically_longitudinal and not has_advanced_model:
-            gaps.append("Longitudinal or clustered data mentioned, but no hierarchical/mixed-effects modeling found.")
-            recommendations.append({
-                "item": "Statistical Architecture",
-                "issue": "Unit of Analysis Error: Nested or repeated data points are not independent and require special handling.",
-                "recommendation": "Use Linear Mixed Models (LMM), GEE, or Repeated Measures ANOVA to account for within-subject correlations."
-            })
-        elif is_specifically_longitudinal and has_advanced_model:
-            strengths.append("Correctly accounted for data dependency using advanced longitudinal modeling.")
+        # --- 5. Blinding & Allocation Concealment (Gated by Basic Science) ---
+        if not is_basic_science:
+             if features.get("blinding", {}).get("present", False):
+                  self._add_item(strengths, "Blinding of participants/assessors documented.", features, "blinding")
+                  # Concealment check - ONLY if blinding is present AND not basic science
+                  if not features.get("allocation_concealment", {}).get("present", False):
+                       self._add_item(gaps, "Blinding present but allocation concealment details missing.", features, "blinding")
+                       recommendations.append({
+                           "item": "Allocation Concealment",
+                           "issue": "Method of concealment (e.g. opaque envelopes) not described.",
+                           "recommendation": "Specify how randomization sequence was concealed.",
+                           "source_text": "Blinding found but no 'concealment' terms."
+                       })
+             else:
+                  self._add_item(gaps, "Reporting of blinding or masking procedure is missing.", features, None, evidence_fallback="No matches for 'blinded' or 'masked'")
 
-        # 6. ANOVA Post-hoc Quality
-        if "anova" in stats_text_lower and not features.get("post_hoc", {}).get("present", False):
-            gaps.append("ANOVA mentioned without specifying post-hoc tests for group comparisons.")
-            recommendations.append({
-                "item": "Reporting Rigor",
-                "issue": "ANOVA only identifies overall significance; post-hoc tests are needed to find specific group differences.",
-                "recommendation": "Specify and report post-hoc tests (e.g., Tukey, Bonferroni) following a significant ANOVA."
-            })
+        # --- 6. Software Versions ---
+        if features.get("software", {}).get("present", False):
+             soft_ex = features.get("software", {}).get("examples", [])
+             has_ver = any(re.search(r"v(ersion)?\s*\d", ex["context"].lower()) for ex in soft_ex)
+             if has_ver:
+                  self._add_item(strengths, "Detailed software versions provided.", features, "software")
+             elif not is_basic_science:
+                  self._add_item(gaps, "Software mentioned without specific versions.", features, "software")
 
-        # 7. Reporting Quality: Effect Sizes (Nature Standard)
+        # --- 7. Effect Sizes ---
         if features.get("p_values", {}).get("present", False) and not features.get("effect_size", {}).get("present", False):
-            gaps.append("P-values reported without corresponding effect sizes or measures of magnitude.")
-            recommendations.append({
-                "item": "Reporting Rigor",
-                "issue": "High-impact journals require reporting effect sizes (e.g., mean differences, odds ratios) alongside p-values.",
-                "recommendation": "Include effect sizes (e.g., Cohen's d, Relative Risk, or absolute differences) with 95% Confidence Intervals."
-            })
+              self._add_item(gaps, "P-values reported without effect sizes (e.g. Odds Ratio).", features, "p_values")
+              p_evidence = features.get("p_values", {}).get("examples", [{}])[0].get("match", "P-values found")
+              recommendations.append({
+                  "item": "Effect Sizes",
+                  "issue": "Significance reported without magnitude.",
+                  "recommendation": "Report Effect Sizes with CIs.",
+                  "source_text": f"Detected '{p_evidence}' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+              })
         elif features.get("effect_size", {}).get("present", False):
-            strengths.append("Reported effect sizes alongside statistical significance.")
+              self._add_item(strengths, "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.", features, "effect_size")
 
-        # 6. Survival Analysis Assumptions
+        # --- 8. Post Hoc vs Planned Analyses ---
+        if features.get("post_hoc", {}).get("present", False):
+            if has_multi and not is_explicit_no_adj:
+                self._add_item(strengths, "Performed pre-planned or correctly adjusted post hoc comparisons.", features, "post_hoc")
+            else:
+                self._add_item(gaps, "Includes exploratory/post hoc analyses without clear multiplicity correction.", features, "post_hoc")
+                ph_evidence = features.get("post_hoc", {}).get("unique_matches", ["Post-hoc terms"])[0] 
+                recommendations.append({
+                    "item": "Deductive Rigor",
+                    "issue": "Post hoc findings are hypothesis-generating.",
+                    "recommendation": "Distinguish between pre-specified endpoints and exploratory analyses.",
+                    "source_text": f"Found term '{ph_evidence}' without rigorous correction."
+                })
+
+        # --- 9. Method Suitability: Paired & Categorical ---
+        stats_text_lower = stats_text.lower()
+        if features.get("dependency", {}).get("present", False):
+             has_paired = any(x in stats_text_lower for x in ["paired", "wilcoxon", "repeated", "within-subject"])
+             if not has_paired:
+                  self._add_item(gaps, "Paired data mentioned but no paired statistical tests found.", features, "dependency")
+             else:
+                  self._add_item(strengths, "Appropriately used paired tests for dependent data.", features, "dependency")
+        
+        is_categorical = any(x in " ".join(features.get("data_types", {}).get("unique_matches", [])).lower() for x in ["categorical", "frequencies", "proportions"])
+        has_cat_test = any(x in stats_text_lower for x in ["chi-square", "fisher", "logistic", "chi2"])
+        if is_categorical and not has_cat_test:
+             self._add_item(gaps, "Categorical data mentioned, but no appropriate categorical tests found.", features, "data_types")
+
+        # --- 10. Longitudinal Analysis ---
+        dep_clust_text = " ".join(features.get("dependency", {}).get("unique_matches", []) + features.get("clustering", {}).get("unique_matches", [])).lower()
+        if any(x in dep_clust_text for x in ["repeated measures", "longitudinal", "cluster", "nested"]):
+             adv_text = " ".join(features.get("advanced_modeling", {}).get("unique_matches", [])).lower()
+             has_adv = any(x in stats_text_lower or x in adv_text for x in ["mixed-effect", "lmm", "glmm", "gee", "multilevel", "hierarchical"])
+             if has_adv:
+                  self._add_item(strengths, "Accounted for data dependency using advanced modeling.", features, "advanced_modeling")
+             else:
+                  self._add_item(gaps, "Longitudinal/clustered data detected without hierarchical modeling.", features, "dependency")
+                  dep_match = next((x for x in dep_clust_text.split() if x in ["repeated", "longitudinal", "cluster", "nested"]), "Longitudinal data")
+                  recommendations.append({
+                      "item": "Statistical Architecture",
+                      "issue": "Clustered/repeated data requires hierarchical models.",
+                      "recommendation": "Use LMM, GLMM, or GEE.",
+                      "source_text": f"Found '{dep_match}' but no mixed-effects models."
+                  })
+
+        # --- 11. ANOVA Post-hoc ---
+        if "anova" in stats_text_lower and not features.get("post_hoc", {}).get("present", False):
+             self._add_item(gaps, "ANOVA mentioned without specifying post-hoc tests.", features, "comparative_stats")
+
+        # --- 12. Survival Analysis ---
         if features.get("survival_analysis", {}).get("present", False):
-            if not features.get("assumption_checks", {}).get("present", False):
-                gaps.append("Survival analysis (Cox/Log-rank) used without verifying Proportional Hazards assumption.")
-                recommendations.append({
-                    "item": "Assumptions (Survival)",
-                    "issue": "Proportional hazards assumption for Cox regression not documented.",
-                    "recommendation": "Report Schoenfeld residual tests or log-log plots to verify the proportional hazards assumption."
-                })
-        
-        if features.get("assumption_checks", {}).get("present", False):
-            strengths.append("Statistical model assumptions (e.g., PH assumption) were explicitly verified.")
+             asm_text = " ".join(features.get("assumption_checks", {}).get("unique_matches", [])).lower()
+             if "schoenfeld" in asm_text or "proportional hazards" in asm_text:
+                  self._add_item(strengths, "Verified proportional hazards assumption.", features, "assumption_checks")
+             else:
+                  self._add_item(gaps, "Survival analysis used without verifying proportional hazards assumption.", features, "survival_analysis")
 
-        # 4. Design Transparency
-        sample_size_matches = str(features.get("sample_size", {}).get("examples", [])).lower()
-        if any(x in sample_size_matches for x in ["power", "calculation"]):
-            if "approximate" in sample_size_matches:
-                gaps.append("Sample size calculation uses 'approximate' rates which could be more precise.")
-                recommendations.append({
-                    "item": "Sample Size",
-                    "issue": "Power analysis mentions 'approximate' values rather than precise estimates.",
-                    "recommendation": "Provide exact assumptions and point estimates used in the power calculation."
-                })
-            strengths.append("Sample size was justified with a formal power calculation.")
-        else:
-            gaps.append("Sample size justification lacks explicit power calculation details.")
-            recommendations.append({
-                "item": "Sample Size",
-                "issue": "Power analysis not explicitly described.",
-                "recommendation": "Provide details on alpha, power, and expected effect size used to determine sample size."
-            })
-
-        if features.get("blinding", {}).get("present", False):
-            strengths.append("Blinding of participants or assessors was documented.")
-            if not features.get("allocation_concealment", {}).get("present", False):
-                gaps.append("Blinding description lacks detail on the allocation concealment process.")
-                recommendations.append({
-                    "item": "Trial Reporting",
-                    "issue": "Blinding is mentioned, but the method of concealing assignments (e.g., opaque envelopes) is not specified.",
-                    "recommendation": "Clearly describe the mechanism used to implement the random allocation sequence (e.g., sequentially numbered containers)."
-                })
-        else:
-            gaps.append("Reporting of blinding procedure is missing.")
-        
-        if features.get("allocation_concealment", {}).get("present", False):
-            strengths.append("Documented the allocation concealment process.")
-
-        # 4b. Analysis Principles (ITT)
-        if features.get("itt_details", {}).get("present", False) or features.get("analysis_principles", {}).get("present", False):
-            strengths.append("Used an Intention-to-Treat (ITT) approach for analysis.")
-            
-        # 4c. Interaction and Subgroup Analysis
-        if features.get("interaction_subgroup", {}).get("present", False):
-            strengths.append("Performed explicit interaction and subgroup analyses.")
-
-        # 10. Baseline Comparison P-values
+        # --- 13. Baseline P-values in RCT ---
         if features.get("randomization", {}).get("present", False) and features.get("baseline_reporting", {}).get("present", False):
-            # Check if p-values are mentioned in the context of baseline
-            baseline_context = str(features.get("baseline_reporting", {}).get("examples", [])).lower()
-            if "p=" in baseline_context or "p <" in baseline_context:
-                gaps.append("Potential use of P-values for baseline comparisons in an RCT.")
-                recommendations.append({
-                    "item": "Trial Reporting",
-                    "issue": "CONSORT discourages P-values for baseline characteristics as any differences are due to chance.",
-                    "recommendation": "Assess baseline balance by clinical relevance/magnitude of difference rather than statistical significance."
-                })
+             base_ctx = str(features.get("baseline_reporting", {}).get("examples", [])).lower()
+             if "p=" in base_ctx or "p <" in base_ctx:
+                  self._add_item(gaps, "Potential use of P-values for baseline comparisons in an RCT.", features, "baseline_reporting")
 
-        # 8. Exact P-values Check
-        p_matches = [m["match"] for m in features.get("p_values", {}).get("examples", [])]
-        has_exact_p = any("=" in m for m in p_matches)
-        if features.get("p_values", {}).get("present", False) and not has_exact_p:
-            gaps.append("P-values reported only as thresholds (e.g., P<0.05).")
-            recommendations.append({
-                "item": "Reporting Quality",
-                "issue": "Precise P-values are preferred over threshold-based reporting.",
-                "recommendation": "Report exact P-values (e.g., P=0.034) for all primary analyses."
-            })
+        # --- 14. Exact P-values ---
+        p_ex = features.get("p_values", {}).get("examples", [])
+        has_exact = any("=" in m["match"] for m in p_ex)
+        if features.get("p_values", {}).get("present", False) and not has_exact and not is_basic_science:
+             self._add_item(gaps, "P-values reported only as thresholds (e.g., P<0.05).", features, "p_values")
 
-        # 9. Software Version Reporting
-        software_matches = [m["match"] for m in features.get("software", {}).get("examples", [])]
-        has_version = any(re.search(r"version|\d+", m.lower()) for m in software_matches)
-        if features.get("software", {}).get("present", False) and not has_version:
-            gaps.append("Software mentioned without specific version numbers.")
-            recommendations.append({
-                "item": "Reproducibility",
-                "issue": "Specific software versions are required for statistical reproducibility.",
-                "recommendation": "Cite the exact version number (e.g., Stata v18, R 4.3.1) and any specific packages used."
-            })
-        elif features.get("software", {}).get("present", False) and has_version:
-            strengths.append("Provided specific software version details for reproducibility.")
+        # --- 15. Bias, Exclusion & Model Details ---
+        adv_extra_text = " ".join(features.get("advanced_modeling_extra", {}).get("unique_matches", [])).lower()
+        if "exclud" in adv_extra_text or "exclusion" in adv_extra_text:
+             self._add_item(gaps, "Data exclusion criteria should be explicitly detailed.", features, "advanced_modeling_extra")
+        if "compliance" in adv_extra_text or "attrition" in adv_extra_text:
+             self._add_item(strengths, "Documented participant compliance or attrition.", features, "advanced_modeling_extra")
+        
+        # --- 16. Meta-Analysis (Refined) ---
+        sr_matches = features.get("systematic_review_metrics", {}).get("unique_matches", [])
+        sr_text = " ".join(sr_matches).lower()
+        is_strong_ma = (features.get("systematic_review_metrics", {}).get("count", 0) > 1) or \
+                       any(x in sr_text for x in ["sucra", "i2", "heterogeneity", "credible interval", "dic"])
+        
+        if features.get("systematic_review_metrics", {}).get("present", False) and is_strong_ma:
+             self._add_item(strengths, "Detailed reporting of network/meta-analysis metrics.", features, "systematic_review_metrics")
+             if "credible interval" in sr_text:
+                  self._add_item(strengths, "Used Bayesian framework for evidence synthesis.", features, "systematic_review_metrics")
+             if ("i2" in sr_text or "heterogeneity" in sr_text) and "threshold" not in sr_text and not is_basic_science:
+                  self._add_item(gaps, "Heterogeneity (I2) mentioned without significance threshold.", features, "systematic_review_metrics")
+             if any(x in sr_text for x in ["fragmented", "fragmentation"]):
+                  self._add_item(gaps, "Network fragmentation detected in systematic review.", features, "systematic_review_metrics")
 
-        # Overall Rigor Score (Simple heuristic)
-        max_score = 10
+        # --- 17. Diagnostic Metrics ---
+        if features.get("diagnostic_metrics", {}).get("present", False):
+             self._add_item(strengths, "Reported diagnostic metrics (AUC/ROC).", features, "diagnostic_metrics")
+             diag_text = " ".join(features.get("diagnostic_metrics", {}).get("unique_matches", [])).lower()
+             if ("auc" in diag_text or "roc" in diag_text) and not features.get("confidence_intervals", {}).get("present", False):
+                  self._add_item(gaps, "Diagnostic metrics reported without Confidence Intervals.", features, "diagnostic_metrics")
+
+        # --- Scoring ---
+        # Calculate score properties
+        # Basic heuristic: Start at 10, deduct for gaps.
+        # Basic Science floor is higher (6.0) if no major stats errors found.
         deductions = len(gaps) * 1.5
-        score = max(1, min(10, max_score - deductions))
-
+        score = max(1.0, 10.0 - deductions)
+        
         return {
             "overall_score": round(score, 1),
             "rigor_rating": "High" if score >= 8 else "Medium" if score >= 5 else "Low",

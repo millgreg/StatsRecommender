@@ -1,0 +1,426 @@
+{
+  "title": "Efficacy and Safety of TAS-303 in Female Patients With Stress Urinary Incontinence: A Phase 2, Randomized, Double-Blind, Placebo-Controlled TrialBreaking barriers in stress urinary incontinence care: TAS-303 as a game-changer in pharmacological innovationEditorial Comment.An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female pelvic floor dysfunctionThe prevalence of lower urinary tract symptoms (LUTS) in the USA, the UK and Sweden: results from the Epidemiology of LUTS (EpiLUTS) studyThe prevalence of urinary incontinence in women in four European countriesEpidemiologic survey of lower urinary tract symptoms in JapanPrevalence and risk factors of urinary incontinence in Chinese women: a population-based studyImpact of female stress urinary incontinence on quality of life, mental health, work limitation, and healthcare seeking in China, Taiwan, and South Korea (LUTS Asia): results from a cross-sectional, population-based studyEffects of urinary incontinence subtypes on women's sexual function and quality of lifeFemale urinary incontinence and wellbeing: results from a multi-national surveyUpdates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU Guideline (2023)Yentreve (duloxetine): Summary of Product CharacteristicsSerotonin and noradrenaline reuptake inhibitors (SNRI) for stress urinary incontinence in adultsAssociation between suicide attempts and selective serotonin reuptake inhibitors: systematic review of randomised controlled trialsConsidering benefits and harms of duloxetine for treatment of stress urinary incontinence: a meta-analysis of clinical study reportsEffect of dose escalation on the tolerability and efficacy of duloxetine in the treatment of women with stress urinary incontinenceNeurophysiology and therapeutic receptor targets for stress urinary incontinenceTAS-303, a novel selective norepinephrine reuptake inhibitor that increases urethral pressure in rats, indicating its potential as a therapeutic agent for stress urinary incontinenceSafety and pharmacokinetics of high-dose TAS-303 in healthy Japanese volunteers: a single-center, single-blind, randomized, placebo-controlled, parallel-group, multiple-ascending-dose studyTAS-303 effects on urethral sphincter function in women with stress urinary incontinence: phase I studyEfficacy and safety of the noradrenaline reuptake inhibitor, TAS-303, in women with stress urinary incontinence: results of a double-blind, randomized, placebo-controlled, early phase II trialValidation of two global impression questionnaires for incontinenceQuality of life of women with urinary incontinence: cross-cultural performance of 15 language versions of the I-QOLDuloxetine versus placebo in the treatment of stress urinary incontinenceDuloxetine vs placebo in the treatment of stress urinary incontinence: a four-continent randomized clinical trialThe effect of group or individualised pelvic floor exercises with or without ultrasonography guidance for urinary incontinence in elderly women\u2014a pilot studyDoes it work in the long term? A systematic review on pelvic floor muscle training for female stress urinary incontinenceThe effect of previous treatment experience and incontinence severity on the placebo response of stress urinary incontinenceGuidance for industry and Food and Drug Administration staff: clinical investigations of devices indicated for the treatment of urinary incontinenceMinimal clinically important differences in incontinence quality-of-life scores in stress urinary incontinence",
+  "pmcid": "12721661",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "d based on the assumptions of sample size, SD, and significance level."
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "ibitors: systematic review of randomised controlled trialsConsidering"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "t.van Elteren test, where the stratification factors were the average numb"
+        },
+        {
+          "match": "stratification",
+          "context": "e.van Elteren test, where the stratification factors were the average numb"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "or placebo for 12 weeks. The primary endpoint was percent change from basel"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "ollected remaining drugs. The primary endpoint was percent change from basel"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "en TAS-303 and placebo in the primary endpoint of 20% (SD of 46% for both gr"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "per-protocol"
+      ],
+      "examples": [
+        {
+          "match": "per-protocol",
+          "context": "y per 24 hours (SUIEF) in the per-protocol set. The secondary endpoints"
+        },
+        {
+          "match": "per-protocol",
+          "context": "ing the treatment period. The per-protocol set (PPS) included all patien"
+        },
+        {
+          "match": "per-protocol",
+          "context": "LSM, least squares mean; PPS, per-protocol set; SUIEF, stress urinary in"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sas, version 9.4"
+      ],
+      "examples": [
+        {
+          "match": "SAS, version 9.4",
+          "context": "analyses were performed using SAS, version 9.4. CAPTION: Baseline Characteri"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sd"
+      ],
+      "examples": [
+        {
+          "match": "SD",
+          "context": "the primary endpoint of 20% (SD of 46% for both groups), 170"
+        },
+        {
+          "match": "SD",
+          "context": "e assumptions of sample size, SD, and significance level. The"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "significance level",
+        "secondary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "significance level",
+          "context": "303 and placebo, at a 2-sided significance level of 5%. Given that \u223c10% of pat"
+        },
+        {
+          "match": "significance level",
+          "context": "tions of sample size, SD, and significance level. The full analysis set (FAS)"
+        },
+        {
+          "match": "significance level",
+          "context": "e 24-hour pad test. A 2-sided significance level of 5% was used. All secondary"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "wilcoxon",
+        "fisher\u2019s exact"
+      ],
+      "examples": [
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "est, the van Elteren test, or Fisher\u2019s exact test as appropriate; missing"
+        },
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "better\u201d) or 2 (\u201cmuch better\u201d).Fisher\u2019s exact test. CAPTION: Summary of Adv"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "either the Student\u2019s t test, Wilcoxon rank sum test, the van Eltere"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "ancova"
+      ],
+      "examples": [
+        {
+          "match": "ANCOVA",
+          "context": "ebo group in the PPS using an ANCOVA (analysis of covariance) mode"
+        },
+        {
+          "match": "ANCOVA",
+          "context": "were covariate variables. The ANCOVA model was adjusted using the"
+        },
+        {
+          "match": "ANCOVA",
+          "context": "Hours FOOTER: Abbreviations: ANCOVA, analysis of covariance; FAS,"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "not imputed",
+        "missing data"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": "ariance) model; there were no missing data in the PPS, and in the supple"
+        },
+        {
+          "match": "missing data",
+          "context": "ementary analysis of the FAS, missing data were imputed using the worst"
+        },
+        {
+          "match": "missing data",
+          "context": "\u2019s exact test as appropriate; missing data were not imputed and were exc"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "mean difference"
+      ],
+      "examples": [
+        {
+          "match": "mean difference",
+          "context": "sen. The pooled t test on the mean difference (assuming equal variances) wa"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "post hoc"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "ded from the analysis. In the post hoc analysis, total I-QOL scores"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "Baseline Characteristic",
+          "context": "ng SAS, version 9.4. CAPTION: Baseline Characteristics of Patients in the Full Anal"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "excluded",
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "hat \u223c10% of patients would be excluded due to premature discontinuat"
+        },
+        {
+          "match": "excluded",
+          "context": "ata were not imputed and were excluded from the analysis. In the pos"
+        },
+        {
+          "match": "compliance",
+          "context": "acebo for 12 weeks. Treatment compliance was recorded by the patients"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 2.5,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...ariance) model; there were no missing data in the PPS, and in the supple..."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Includes exploratory/post hoc analyses without clear multiplicity correction.",
+        "evidence": "...ded from the analysis. In the post hoc analysis, total I-QOL scores..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...303 and placebo, at a 2-sided significance level of 5%. Given that \u223c10% of pat..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...hat \u223c10% of patients would be excluded due to premature discontinuat..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...analyses were performed using SAS, version 9.4. CAPTION: Baseline Characteri..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...sen. The pooled t test on the mean difference (assuming equal variances) wa..."
+      },
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...hat \u223c10% of patients would be excluded due to premature discontinuat..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Deductive Rigor",
+        "issue": "Post hoc findings are hypothesis-generating.",
+        "recommendation": "Distinguish between pre-specified endpoints and exploratory analyses.",
+        "source_text": "Found term 'post hoc' without rigorous correction."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "title": "Long-Term Outcomes of Adjuvant Trastuzumab for 9 Weeks or 1 Year for -Positive Breast CancerTrastuzumab for early-stage, HER2-positive breast cancer: a meta-analysis of 13\u2009864 women in seven randomised trialsEarly breast cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-upPan-Asian adapted ESMO Clinical Practice Guidelines for the management of patients with early breast cancer: a KSMO-ESMO initiative endorsed by CSCO, ISMPO, JSMO, MOS, SSO and TOSSix versus 12 months of adjuvant trastuzumab in combination with dose-dense chemotherapy for women with HER2-positive breast cancer: a multicenter randomized study by the Hellenic Oncology Research Group (HORG)6 months versus 12 months of adjuvant trastuzumab in early breast cancer (PHARE): final analysis of a multicentre, open-label, phase 3 randomised trial6 versus 12 months of adjuvant trastuzumab for HER2-positive early breast cancer (PERSEPHONE): 4-year disease-free survival results of a randomised phase 3 non-inferiority trialEffect of adjuvant trastuzumab for a duration of 9 weeks vs 1 year with concomitant chemotherapy for early human epidermal growth factor receptor 2-positive breast cancer: the SOLD randomized clinical trialNine weeks versus 1 year adjuvant trastuzumab in combination with chemotherapy: final results of the phase III randomized Short-HER studyNine-week versus one-year trastuzumab for early human epidermal growth factor receptor 2-positive breast cancer: 10-year update of the ShortHER phase III randomized trialTrastuzumab and chemotherapeutics: drug interactions and synergiesFour-year follow-up of trastuzumab plus adjuvant chemotherapy for operable human epidermal growth factor receptor 2-positive breast cancer: joint analysis of data from NCCTG N9831 and NSABP B-31Trastuzumab plus adjuvant chemotherapy for human epidermal growth factor receptor 2-positive breast cancer: planned joint analysis of overall survival from NSABP B-31 and NCCTG N9831Cardiac toxicity events in the PHARE trial, an adjuvant trastuzumab randomised phase III studyLonger-term assessment of trastuzumab-related cardiac adverse events in the Herceptin Adjuvant (HERA) trialRisk of congestive heart failure in early breast cancer patients undergoing adjuvant treatment with trastuzumab: a meta-analysisAccess to cancer medicines deemed essential by oncologists in 82 countries: an international, cross-sectional surveyMetastatic behavior of breast cancer subtypes",
+  "pmcid": "12507463",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "te of 3%, the estimated final sample size was 2168 patients (Supplement"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "ysis of 13\u2009864 women in seven randomised trialsEarly breast cancer: E"
+        },
+        {
+          "match": "randomise",
+          "context": "ticentre, open-label, phase 3 randomised trial6 versus 12 months of a"
+        },
+        {
+          "match": "randomise",
+          "context": "se-free survival results of a randomised phase 3 non-inferiority tria"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "method, and the study site as stratification factors. Chemotherapy consist"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "rrent study were based on the intention-to-treat population. Survival between"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat population"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat population",
+          "context": "rrent study were based on the intention-to-treat population. Survival between the groups"
+        }
+      ]
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas",
+        "sas, version 9.4"
+      ],
+      "examples": [
+        {
+          "match": "SAS, version 9.4",
+          "context": "analyses were performed with SAS, version 9.4 (SAS Institute, Inc). CAPTION"
+        },
+        {
+          "match": "SAS",
+          "context": "formed with SAS, version 9.4 (SAS Institute, Inc). CAPTION:  FO"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "multiple testing"
+      ],
+      "examples": [
+        {
+          "match": "multiple testing",
+          "context": "s are 2-sided, unadjusted for multiple testing, and should be interpreted as"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "he upper limit of the 1-sided 95% CI used in the evaluation of non"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "proportional hazards",
+          "context": "ank test or a univariable Cox proportional hazards regression model; hazard rati"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "lated using a univariable Cox proportional hazards regression model. Interaction"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "p were analyzed using the Cox proportional hazards regression model. Survival an"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "overall survival",
+        "os",
+        "kaplan-meier",
+        "log-rank",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "Kaplan-Meier",
+          "context": "groups was compared using the Kaplan-Meier life table method and the log"
+        },
+        {
+          "match": "log-rank",
+          "context": "ier life table method and the log-rank test or a univariable Cox pro"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "nal hazards regression model; hazard ratios (HRs) were calculated using"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "cox proportional"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "og-rank test or a univariable Cox proportional hazards regression model; haz"
+        },
+        {
+          "match": "Cox proportional",
+          "context": "alculated using a univariable Cox proportional hazards regression model. Int"
+        },
+        {
+          "match": "Cox proportional",
+          "context": "group were analyzed using the Cox proportional hazards regression model. Sur"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "consort"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "tandards of Reporting Trials (CONSORT) reporting guideline for rand"
+        }
+      ]
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "dropout"
+      ],
+      "examples": [
+        {
+          "match": "dropout",
+          "context": "f 1.3, 1-sided testing, and a dropout rate of 3%, the estimated fin"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "nal hazards regression model; hazard ratios (HRs) were calculated using"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "post hoc"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "breast cancer subtypes  This post hoc secondary analysis of the SOL"
+        },
+        {
+          "match": "post hoc",
+          "context": "accumulated.7 In the current post hoc secondary analysis of the tri"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "s or neoadjuvant therapy were excluded.7 The trial protocol (Supplem"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...f 1.3, 1-sided testing, and a dropout rate of 3%, the estimated fin..."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...s or neoadjuvant therapy were excluded.7 The trial protocol (Supplem..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...s are 2-sided, unadjusted for multiple testing, and should be interpreted as..."
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...analyses were performed with SAS, version 9.4 (SAS Institute, Inc). CAPTION..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...nal hazards regression model; hazard ratios (HRs) were calculated using..."
+      },
+      {
+        "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
+        "evidence": "...breast cancer subtypes  This post hoc secondary analysis of the SOL..."
+      },
+      {
+        "message": "Verified proportional hazards assumption.",
+        "evidence": "...ank test or a univariable Cox proportional hazards regression model; hazard rati..."
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

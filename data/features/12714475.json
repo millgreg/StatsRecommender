@@ -1,0 +1,311 @@
+{
+  "title": "Novel Nomogram for Prediction of Lymph Node Metastases from Buccal Mucosa Squamous Carcinoma Using Histological ParametersOral cancer prevalence in Western population of Maharashtra, India, for a period of 5 yearsThe Eighth Edition AJCC Cancer Staging Manual: continuing to build a bridge from a population-based to a more \u201cpersonalized\u201d approach to cancer stagingSentinel lymph node biopsy for oral squamous cell carcinoma. Where are we now?Elective versus therapeutic neck dissection in node-negative oral cancerLymph node metastasis: a bearing on prognosis in squamous cell carcinomaSentinel European Node Trial (SENT): 3-year results of sentinel node biopsy in oral cancerAccuracy of the preoperative diagnostic workup in patients with head and neck cancers undergoing neck dissection in terms of nodal metastasesImpact of lymphovascular invasion in oral squamous cell carcinoma: a meta-analysisPrognostic impact of perineural invasion in oral cancer: a systematic reviewDevelopment of a new outcome prediction model in early-stage squamous cell carcinoma of the oral cavity based on histopathologic parameters with multivariate analysisTumor budding and worse pattern of invasion can predict nodal metastasis in oral cancers and associated with poor survival in early-stage tumorsClinicopathological correlation between depth of tumor and neck node metastasis in oral (tongue and buccal mucosa) carcinomaA preoperative nomogram model for the prediction of lymph node metastasis in buccal mucosa cancerA model to predict nodal metastasis in patients with oral squamous cell carcinomaCT-based radiomic signatures for predicting histopathologic features in head and neck squamous cell carcinomaMagnetic resonance imaging-based radiomics features associated with depth of invasion predicted lymph node metastasis and prognosis in tongue cancer",
+  "pmcid": "12714475",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "spss",
+        "stata"
+      ],
+      "examples": [
+        {
+          "match": "SPSS",
+          "context": "analysis was performed using SPSS software (version 26, SPSS In"
+        },
+        {
+          "match": "SPSS",
+          "context": "ng SPSS software (version 26, SPSS Inc., Chicago, Illinois, Unit"
+        },
+        {
+          "match": "STATA",
+          "context": "go, Illinois, United States), STATA (version 14.0), and \u201cR\u201d (vers"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": ":  FOOTER: Abbreviations: CI, confidence interval; OR, odds ratio. CAPTION:  FO"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "chi-square",
+        "fisher's exact",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "was carried out by using the chi-square test/Fisher's exact test. The"
+        },
+        {
+          "match": "Fisher's exact",
+          "context": "by using the chi-square test/Fisher's exact test. The receiver operating"
+        },
+        {
+          "match": "odds ratio",
+          "context": "CI, confidence interval; OR, odds ratio. CAPTION:  FOOTER: Abbreviati"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "assessed. A simple univariate logistic regression was followed by multiple bina"
+        },
+        {
+          "match": "logistic regression",
+          "context": "s followed by multiple binary logistic regression using significant predictors."
+        },
+        {
+          "match": "logistic regression",
+          "context": "s) based on the multivariable logistic regression model was plotted. Nomogram w"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "categorical",
+        "binary"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "he descriptive statistics for categorical data were given by frequency"
+        },
+        {
+          "match": "binary",
+          "context": "sion was followed by multiple binary logistic regression using sig"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "or",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "CI, confidence interval; OR, odds ratio. CAPTION:  FOOTER: Abbreviati"
+        },
+        {
+          "match": "OR",
+          "context": "ons: CI, confidence interval; OR, odds ratio. CAPTION:  FOOTER"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "nd coexisting malignancy were excluded. Patients of both sexes, all"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "sensitivity",
+        "npv",
+        "positive predictive value",
+        "roc",
+        "nomogram",
+        "ppv",
+        "specificity"
+      ],
+      "examples": [
+        {
+          "match": "Nomogram",
+          "context": "Novel Nomogram for Prediction of Lymph Node"
+        },
+        {
+          "match": "nomogram",
+          "context": "cosa) carcinomaA preoperative nomogram model for the prediction of l"
+        },
+        {
+          "match": "Nomogram",
+          "context": "regression model was plotted. Nomogram was constructed for the class"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

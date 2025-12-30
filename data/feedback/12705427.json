@@ -1,0 +1,346 @@
+{
+  "title": "Brain activity associated with breakthrough food preoccupation in an individual on tirzepatideOverlapping brain circuits for homeostatic and hedonic feedingReward mechanisms in obesity: new insights and future directionsAn orexigenic subnetwork within the human hippocampusBlaming the brain for obesity: integration of hedonic and homeostatic mechanismsThe insulo-opercular cortex encodes food-specific content under controlled and naturalistic conditionsHow may GIP enhance the therapeutic efficacy of GLP-1?GLP-1 and weight loss: unraveling the diverse neural circuitryPotent incretin-based therapy for obesity: a systematic review and meta-analysis of the efficacy of semaglutide and tirzepatide on body weight and waist circumference, and safetyA pilot randomized controlled trial of liraglutide 3.0 mg for binge eating disorderGLP-1 receptor agonists: a novel pharmacotherapy for binge eating (binge eating disorder and bulimia nervosa)? A systematic reviewWhat is food noise? A conceptual model of food cue reactivityLoss of control over eating predicts outcomes in bariatric surgery patients: a prospective, 24-month follow-up studyPreoccupation in bulimia nervosa, binge-eating disorder, anorexia nervosa, and higher weightBinge eating disorderFood-related impulsivity in obesity and binge eating disorder\u2013a systematic reviewThe neurobiology of binge-eating disorder compared with obesity: implications for differential therapeuticsHuman habit neural circuitry may be perturbed in eating disordersEffects of liraglutide on appetite, food preoccupation, and food liking: results of a randomized controlled trialTwo-year effect of semaglutide 2.4 mg on control of eating in adults with overweight/obesity: STEP 5Closed-loop neuromodulation in an individual with treatment-resistant depressionPilot study of responsive nucleus accumbens deep brain stimulation for loss-of-control eatingResponsive deep brain stimulation guided by ventral striatal electrophysiology of obsession durably ameliorates compulsionBrain-responsive neurostimulation for loss of control eating: early feasibility studyClosing the loop on impulsivity via nucleus accumbens delta-band activity in mice and manOptimal detection of changepoints with a linear computational costUsing penalized contrasts for the change-point problemSub-acute delayed failure of subthalamic DBS in Parkinson\u2019s disease: the role of micro-lesion effectTirzepatide after intensive lifestyle intervention in adults with overweight or obesity: the SURMOUNT-3 phase 3 trialCingulate dynamics track depression recovery with deep brain stimulationAn electroencephalographic signature predicts antidepressant response in major depressionLong-term ecological assessment of intracranial electrophysiology synchronized to behavioral markers in obsessive-compulsive disorderSubthalamic nucleus deep brain stimulation in the beta frequency range boosts cortical beta oscillations and slows down movementDeep brain stimulation of the subthalamic nucleus alters the cortical profile of response inhibition in the beta frequency band: a scalp EEG study in Parkinson\u2019s diseaseThe eating disorder examination: a semi-structured interview for the assessment of the specific psychopathology of eating disordersAppetitive mapping of the human nucleus accumbensAberrant impulse control circuitry in obesityFieldTrip: open source software for advanced analysis of MEG, EEG, and invasive electrophysiological data",
+  "pmcid": "12705427",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "cumference, and safetyA pilot randomized controlled trial of liraglutide 3.0 mg for bin"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "and food liking: results of a randomized controlled trialTwo-year effect of semaglutide"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "ss of the hunger rating. This stratification included episodes with both h"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "matlab"
+      ],
+      "examples": [
+        {
+          "match": "MATLAB",
+          "context": "techniques were conducted in MATLAB (v.R2022b) using the FieldTri"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "ifact was larger than the six standard deviations of the data points of a corr"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "p\u2009=\u20090.05"
+      ],
+      "examples": [
+        {
+          "match": "P\u2009=\u20090.05",
+          "context": "g with 1,000 permutations and P\u2009=\u20090.05. Then, it underwent cluster c"
+        },
+        {
+          "match": "P\u2009=\u20090.05",
+          "context": "with 10,000 permutations and P\u2009=\u20090.05. The transition point, which"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "spectral density",
+        "power spectrum",
+        "permutation test"
+      ],
+      "examples": [
+        {
+          "match": "permutation test",
+          "context": "s were tested using two-sided permutation testing with 1,000 permutations an"
+        },
+        {
+          "match": "permutation test",
+          "context": "s were tested using two-sided permutation testing with 10,000 permutations a"
+        },
+        {
+          "match": "power spectrum",
+          "context": "5\u2009s without overlaps. A full power spectrum (1\u2013124\u2009Hz) was acquired with"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "permutation test"
+      ],
+      "examples": [
+        {
+          "match": "permutation test",
+          "context": "s were tested using two-sided permutation testing with 1,000 permutations an"
+        },
+        {
+          "match": "permutation test",
+          "context": "s were tested using two-sided permutation testing with 10,000 permutations a"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "arker rather than stimulating continuously. Neural recordings acquired"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "P\u2009=\u20090.05. Then, it underwent cluster correction using a cluster si"
+        },
+        {
+          "match": "cluster",
+          "context": "nt cluster correction using a cluster size threshold of the top 2.5"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "in this article. Moreover, we excluded data from up to a month from"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "umbens delta-band activity in mice and manOptimal detection of c"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...g with 1,000 permutations and P\u2009=\u20090.05. Then, it underwent cluster c..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...in this article. Moreover, we excluded data from up to a month from..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'mice'"
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'P\u2009=\u20090.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'cluster' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

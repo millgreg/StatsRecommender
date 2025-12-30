@@ -1,0 +1,271 @@
+{
+  "title": "Comparative investigation of immune-related biomarkers related to alopecia areata subtypesA randomized comparative study of the efficacy of topical latanoprost versus topical betamethasone diproprionate lotion in the treatment of localized alopecia areataAlopecia areata: a review on diagnosis, immunological etiopathogenesis and treatment optionsHistopathologic diagnosis of alopecia: clues and pitfalls in the follicular microcosmosAlopecia areata: an update on etiopathogenesis, diagnosis, and managementGenome-wide meta-analysis in alopecia areata resolves HLA associations and reveals two new susceptibility lociFunctional interpretation of genome-wide association study evidence in alopecia areataMolecular signatures define alopecia areata subtypes and transcriptional biomarkersNCBI GEO: archive for high-throughput functional genomic datalimma powers differential expression analyses for RNA-sequencing and microarray studiesMerging K-means with hierarchical clustering for identifying general-shaped groupsRobust analysis of phylogenetic tree spaceRNA-seq analyses of multiple meristems of soybean: novel and alternative transcripts, evolutionary and functional implicationsComputational methods and software tools for functional analysis of miRNA dataDifferential gene set enrichment analysis: a statistical approach to quantify the relative enrichment of two gene setsPrognostic significance of immune landscape in tumour microenvironment of endometrial cancerApplication of weighted gene co-expression network analysis for data from paired designWGCNA: an R package for weighted correlation network analysisComparative Toxicogenomics Database (CTD): update 2021Cytoscape: a community-based framework for network modelingDAVID: a web server for functional enrichment analysis and functional annotation of gene lists (2021 update)The comparative toxicogenomics database: update 2019Alopecia areata: a multifactorial autoimmune conditionEffects of mesenchymal stem cell therapy on alopecia areata in cellular and hair follicle organ culture modelsAlopecia areata is characterized by expansion of circulating Th2/Tc2/Th22, within the skin-homing and systemic T-cell populationsB cell activating factor and T-helper 17 cells: possible synergistic culprits in the pathogenesis of alopecia areataIncreased serum levels of IFN-\u03b3, IL-1\u03b2, and IL-6 in patients with alopecia areata and nonsegmental vitiligoCD4, CD8 and natural killer cells are depressed in patients with alopecia areata: their association with disease activityDifferential expression of CXCL9, CXCL10, and IFN-\u03b3 in vitiligo and alopecia areata patientsIncreased circulating CXCL10 in non-segmental vitiligo concomitant with autoimmune thyroid disease and alopecia areataCXCL10 chemokine: a critical player in RNA and DNA viral infectionsCCL13 is upregulated in alopecia areata lesions and is correlated with disease severityBioinformatics analysis of genes associated with the patchy-type alopecia areata: CD2 may be a new therapeutic targetCytokine and chemokine signals of T-Cell exclusion in tumorsAdvances of long non-coding RNAs as potential biomarkers for tuberculosis: new hope for diagnosis?Long noncoding RNAs in cancer and therapeutic potentialEx vivo treatment with allogenic mesenchymal stem cells of a healthy donor on peripheral blood mononuclear cells of patients with severe alopecia areata: targeting dysregulated T cells and the acquisition of immunotoleranceThe role of serum Th1, Th2, and Th17 cytokines in patients with alopecia areata: clinical implications",
+  "pmcid": "12703612",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "selected due to its extensive sample size and representation of differe"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "p < 0.05",
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "p < 0.05",
+          "context": ". A significance threshold of p < 0.05 was applied to select the enr"
+        },
+        {
+          "match": "p < 0.05",
+          "context": "ng modules was established as p < 0.05 and fold enrichment > 1. DERs"
+        },
+        {
+          "match": "p-value",
+          "context": "A module. Fold enrichment and p-values of the DERs within each modu"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "non-parametric"
+      ],
+      "examples": [
+        {
+          "match": "non-parametric",
+          "context": "Version 1.36.3) [15]. GSVA, a non-parametric unsupervised analysis, was em"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "paired design"
+      ],
+      "examples": [
+        {
+          "match": "paired design",
+          "context": "etwork analysis for data from paired designWGCNA: an R package for weight"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "hierarchical",
+          "context": "y studiesMerging K-means with hierarchical clustering for identifying ge"
+        },
+        {
+          "match": "hierarchical",
+          "context": "Subsequently, bi-directional hierarchical clustering [10, 11] was perfo"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "excluded",
+        "categorized"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "nsistency in our analysis, we excluded gene expression profiling dat"
+        },
+        {
+          "match": "categorized",
+          "context": "tic targets. The samples were categorized into three comparison groups:"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "comes, and clinical treatment sensitivity. Intricate and significant in"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

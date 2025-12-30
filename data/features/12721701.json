@@ -1,0 +1,372 @@
+{
+  "title": "Effect of adiposity status on salivary  and \nEffect of adiposity status on salivary  and \nProblems and proposals for recording gingivitis and plaqueSalivary microbiological and gingival health status evaluation of adolescents with overweight and obesity: A cluster analysisIntake of sweet foods and counts of cariogenic microorganisms in obese and normal\u2010weight womenIntake of sweet foods and counts of cariogenic microorganisms in relation to body mass index and psychometric variables in womenObservational study regarding the relationship between nutritional status, dental caries, Mutans Streptococci, and Lactobacillus bacterial coloniesInduction of cytokines by glucosyltransferases of \nEstablishing a standard definition for child overweight and obesity worldwide: International surveyComparing the cariogenic species  and  on whole genome levelSplash!: A prospective birth cohort study of the impact of environmental, social and family\u2010level influences on child oral health and obesity related risk factors and outcomesSalivary profile and its correlation with dental caries and/or obesityClinical and biological indicators of dental caries and periodontal disease in adolescents with or without obesityG*power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciencesSalivary biomarkers for dental cariesNovel and conventional assays in determining abundance of  in salivaGene expression analysis of inflammation\u2010related genes in macrophages treated with \u03b1\u2010(1 \u2192\u20093, 1 \u2192\u20096)\u2010D\u2010glucan extracted from \nTransient acid\u2010impairment of growth ability of oral streptococcus, Actinomyces, and lactobacillus: A possible ecological determinant in dental plaqueBulk RNA\u2010seq and scRNA\u2010seq analysis reveal an activation of immune response and compromise of secretory function in major salivary glands of obese miceImpaired mitochondria and intracellular calcium transients in the salivary glands of obese ratsAP\u2010PCR detection of  and  in caries\u2010free and caries\u2010active subjectsThe infectious and transmissible nature of experimental dental caries. Findings and implicationsMutans streptococci, lactobacilli and caries prevalence in 11\u2010 and 12\u2010year\u2010old Icelandic childrenPractical method to facilitate estimation of  levels in saliva\n as a predominant oral bacteria related to the occurrence of dental caries in polish children at 12\u2009years oldSalivary clearance of sugar and its effects on pH changes by streptococcus mitior in an artificial mouthFactors influencing oral colonization of mutans streptococci in young childrenLongitudinal association between obesity and dental caries in adolescentsObesity and dental caries in early childhood: A systematic review and meta\u2010analysesMicrobial ecology of dental plaque and its significance in health and diseaseInfluence of sample type and collection method on  and  spp. counts in the oral cavitySubmandibular gland and caries susceptibility in the obese Zucker ratMethods for collecting salivaMeasuring salivary flow: Challenges and opportunitiesEvaluation of cariogenic bacteriaIs dental caries experience associated with adiposity status in preschool children?Association between dental caries and adiposity status (general, central, and peripheral adiposity) in 12\u2010year\u2010old childrenCaries\u2010associated micro\u2010organisms in infants from different socio\u2010economic backgrounds in ScotlandObesity, salivary glands and oral pathology\n and  detection by polymerase chain reaction and their relation to dental caries in 12 and 15 year\u2010old schoolchildren in Valencia (Spain)\n and  colonization and caries experience in 3\u2010 and 5\u2010year\u2010old Thai childrenDental cariesColonization with mutans streptococci and lactobacilli and the caries experience of children after the age of fiveWaist circumference and waist\u2010to\u2010height ratio of Hong Kong Chinese childrenQuantitative analysis of multi\u2010species oral biofilms by TaqMan real\u2010time PCRThe role of bacteria in the caries process: Ecological perspectivesThe microbiology of primary dental caries in humansAre mutans streptococci detected in preschool children a reliable predictive factor for dental caries risk? A systematic review\n streptococci and dental caries patterns in pre\u2010school childrenMutans streptococci and caries prevalence in preschool childrenAn investigation into the dental health of children with obesity: An analysis of dental erosion and caries statusType IIA secreted phospholipase A2 in host defense against bacterial infectionsDiagnosis and management of xerostomia and hyposalivationSalivary cariogenic bacteria counts are associated with obesity in student women at a Malaysian universityDevelopment of a 5\u2032 nuclease\u2010based real\u2010time PCR assay for quantitative detection of cariogenic dental pathogens  and \nDysfunction of salivary glands, disturbances in salivary antioxidants and increased oxidative damage in saliva of overweight and obese adolescents",
+  "pmcid": "12721701",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "Sample size",
+          "context": "ong West Cluster (UW 20\u2013738). Sample size was determined using the G*Po"
+        },
+        {
+          "match": "sample size",
+          "context": "weight (Deng et\u00a0al.,\u00a02022), a sample size of 152 (76 in each group) was"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "spss"
+      ],
+      "examples": [
+        {
+          "match": "SPSS",
+          "context": "analyses were performed using SPSS software version 28.0 (IBM Co"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sd",
+        "standard deviation",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "uous data are shown as mean\u2009\u00b1\u2009standard deviation or median (interquartile rang"
+        },
+        {
+          "match": "interquartile range",
+          "context": "standard deviation or median (interquartile range). Significant p\u2010values (<\u20090.0"
+        },
+        {
+          "match": "SD",
+          "context": "Data are presented as mean\u2009\u00b1\u2009SD or median (Q1\u2013Q3). The number"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "significance level",
+        "p\u2009<\u20090.01",
+        "p\u2009<\u20090.05"
+      ],
+      "examples": [
+        {
+          "match": "p\u2009<\u20090.01",
+          "context": "ignificant at the 0.01 level (p\u2009<\u20090.01).Correlation is significant a"
+        },
+        {
+          "match": "p\u2009<\u20090.05",
+          "context": "ignificant at the 0.05 level (p\u2009<\u20090.05). CAPTION: Binary logistic re"
+        },
+        {
+          "match": "significance level",
+          "context": "mated with 80% power, and the significance level was set at 0.05. In view of a"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "ge; BMI, body mass index; CI, confidence interval; IL\u20106, interleukin\u20106; Lp\u2010PLA2"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "fisher's exact",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "Fisher's exact",
+          "context": "data, the chi\u2010squared test or Fisher's exact test was used. The correlatio"
+        },
+        {
+          "match": "odds ratio",
+          "context": "ociated phospholipase A2; OR, odds ratio; SAA, serum amyloid A; S. mut"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "collinearity"
+      ],
+      "examples": [
+        {
+          "match": "collinearity",
+          "context": "coefficient to check for multicollinearity, as were the salivary paramet"
+        },
+        {
+          "match": "collinearity",
+          "context": "rameters. In the case of multicollinearity, the variables for salivary p"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "Logistic regression",
+          "context": "were the salivary parameters. Logistic regression analyses were performed to in"
+        },
+        {
+          "match": "logistic regression",
+          "context": "re included separately in the logistic regression models. A p\u2010value <0.05 was c"
+        },
+        {
+          "match": "logistic regression",
+          "context": "l (p\u2009<\u20090.05). CAPTION: Binary logistic regression models of the association of"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "binary"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "used for non\u2010normal data. For categorical data, the chi\u2010squared test or"
+        },
+        {
+          "match": "continuous",
+          "context": "xaminations. The normality of continuous variables was tested using th"
+        },
+        {
+          "match": "Continuous",
+          "context": "study sample. FOOTER:  Note: Continuous data are shown as mean\u2009\u00b1\u2009stan"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "Longitudinal",
+          "context": "streptococci in young childrenLongitudinal association between obesity a"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "icc",
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "Cluster",
+          "context": "ital Authority Hong Kong West Cluster (UW 20\u2013738). Sample size was"
+        },
+        {
+          "match": "ICC",
+          "context": "lass correlation coefficient (ICC) was used to assess the inter"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "missing data"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": "up is shown in parentheses if missing data exist. Significant p\u2010values ("
+        },
+        {
+          "match": "missing data",
+          "context": "up is shown in parentheses if missing data exist.Abbreviations: BF%, bod"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "or",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ociated phospholipase A2; OR, odds ratio; SAA, serum amyloid A; S. mut"
+        },
+        {
+          "match": "OR",
+          "context": "\u2010associated phospholipase A2; OR, odds ratio; SAA, serum amylo"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "quantification",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "ajor salivary glands of obese miceImpaired mitochondria and intr"
+        },
+        {
+          "match": "quantification",
+          "context": "coli (105\u2013109\u2009CFU/mL) for the quantification of total bacterial load were"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "title": "Continued versus discontinued oral anticoagulant treatment for unprovoked venous thromboembolism: target trial emulationDeep vein thrombosis and pulmonary embolismHeart Disease and Stroke Statistics-2021 Update: A Report From the American Heart Association30-year mortality after venous thromboembolism: a population-based cohort studyAntithrombotic therapy for VTE disease: Antithrombotic Therapy and Prevention of Thrombosis, 9th ed: American College of Chest Physicians Evidence-Based Clinical Practice GuidelinesAmerican Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolismApixaban for extended treatment of venous thromboembolismOral rivaroxaban for symptomatic venous thromboembolismAnticoagulation strategies and long-term recurrence in patients with venous thromboembolism in the era of direct oral anticoagulantsSafety and Efficacy of Rivaroxaban for Extended-Phase Anticoagulation of Patients with Unprovoked or Recurrent Venous Thromboembolism: Real-Life Data from the MAC ProjectEmulation of Randomized Clinical Trials With Nonrandomized Database Analyses: Results of 32 Clinical TrialsTarget Trial Emulation: A Framework for Causal Inference From Observational DataInfluence of the duration of hospital length of stay on frequency of prophylaxis and risk for venous thromboembolism among patients hospitalized for acute medical illnesses in the USAWarfarin Discontinuation in Patients With Unprovoked Venous Thromboembolism: A Large US Insurance Database AnalysisA systematic review of validated methods for identifying venous thromboembolism using administrative and claims dataAssociation of Type of Oral Anticoagulant Dispensed With Adverse Clinical Outcomes in Patients Extending Anticoagulation Therapy Beyond 90 Days After Hospitalization for Venous ThromboembolismAn automated database case definition for serious bleeding related to oral anticoagulant useStroke, Bleeding, and Mortality Risks in Elderly Medicare Beneficiaries Treated With Dabigatran or Rivaroxaban for Nonvalvular Atrial FibrillationPrediction of bleeding events in patients with venous thromboembolism on stable anticoagulation treatmentA combined comorbidity score predicted mortality in elderly patients better than existing scoresPrediction Score for Anticoagulation Control Quality Among Older AdultsMeasuring Frailty in Medicare Data: Development and Validation of a Claims-Based Frailty IndexMeasuring Frailty in Administrative Claims Data: Comparative Performance of Four Claims-Based Frailty Measures in the U.S. Medicare DataUpdating International Classification of Diseases 9th Revision to 10th Revision of a Claims-Based Frailty IndexBalance diagnostics for comparing the distribution of baseline covariates between treatment groups in propensity-score matched samplesA basic introduction to fixed-effect and random-effects models for meta-analysisTrends in the Use of Oral Anticoagulants for Adults With Venous Thromboembolism in the US, 2010-2020The statistical basis of meta-analysisHigh-dimensional propensity score adjustment in studies of treatment effects using health care claims dataCardiovascular outcomes and mortality in patients using clopidogrel with proton pump inhibitors after percutaneous coronary intervention or acute coronary syndromeHigh-dimensional versus conventional propensity scores in a comparative effectiveness study of coxibs and reduced upper gastrointestinal complicationsEffects of aggregation of drug and diagnostic codes on the performance of the high-dimensional propensity score algorithm: an empirical examplePerformance of the High-dimensional Propensity Score in a Nordic Healthcare ModelA Proportional Hazards Model for the Subdistribution of a Competing RiskSensitivity Analysis in Observational Research: Introducing the E-ValueTransparency and Reproducibility of Observational Cohort Studies Using Large Healthcare DatabasesUse of Health Care Databases to Support Supplemental Indications of Approved MedicationsCardiovascular Safety of Tocilizumab Versus Tumor Necrosis Factor Inhibitors in Patients With Rheumatoid Arthritis: A Multi-Database Cohort StudyAntithrombotic therapy for secondary prevention of unprovoked venous thromboembolism: a systematic review and network meta-analysis of randomized controlled trialsA randomised controlled trial of extended anticoagulation treatment versus standard treatment for the prevention of recurrent venous thromboembolism (VTE) and post-thrombotic syndrome in patients being treated for a first episode of unprovoked VTE (the ExACT study)Clinical Outcomes of Direct Oral Anticoagulants vs Warfarin for Extended Treatment of Venous ThromboembolismEffectiveness and safety of oral anticoagulation treatment beyond 1 year after venous thromboembolism in patients at intermediate recurrence riskSystematic review: case-fatality rates of recurrent venous thromboembolism and major bleeding events among patients treated for venous thromboembolismLong term risk of symptomatic recurrent venous thromboembolism after discontinuation of anticoagulant treatment for first unprovoked venous thromboembolism event: systematic review and meta-analysisLong-Term Risk for Major Bleeding During Extended Oral Anticoagulant Therapy for First Unprovoked Venous Thromboembolism : A Systematic Review and Meta-analysisIncidence and mortality of venous thrombosis: a population-based studyCase fatality of bleeding and recurrent venous thromboembolism during, initial therapy with direct oral anticoagulants: a systematic reviewWhen and How Can Real World Data Analyses Substitute for Randomized Controlled Trials?Methodological considerations when analysing and interpreting real-world data",
+  "pmcid": "12607009",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "we did not have a sufficient sample size for dabigatran (<1%) and edox"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "randomized controlled trialsA randomised controlled trial of extended"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "and network meta-analysis of randomized controlled trialsA randomised controlled trial"
+        },
+        {
+          "match": "Randomized Controlled Trial",
+          "context": "Data Analyses Substitute for Randomized Controlled Trials?Methodological consideration"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "heterogeneity",
+          "context": "Cochran\u2019s Q test to test for heterogeneity of treatment effect across th"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "=venous thromboembolism.P for heterogeneity by OAC type.Composite of recu"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "ays. Second, we conducted the intention-to-treat analysis in which we followed"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat analysis"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat analysis",
+          "context": "ays. Second, we conducted the intention-to-treat analysis in which we followed patients"
+        }
+      ]
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "r version 4.3.1"
+      ],
+      "examples": [
+        {
+          "match": "R version 4.3.1",
+          "context": "utations were conducted using R version 4.3.1. Our study was based on an an"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "ripheral vascular disease; SD=standard deviation; SMD=standardized mean differ"
+        },
+        {
+          "match": "SD",
+          "context": "=peripheral vascular disease; SD=standard deviation; SMD=stand"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "Secondary outcome",
+          "context": "definition and performance). Secondary outcomes included all cause mortality"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "ios and the corresponding 95% confidence intervals (CIs) using Cox proportional"
+        },
+        {
+          "match": "confidence interval",
+          "context": "matics Data Mart Database; CI=confidence interval; OAC=oral anticoagulant; VTE="
+        },
+        {
+          "match": "95% confidence",
+          "context": "ratios and the corresponding 95% confidence intervals (CIs) using Cox pro"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "\u03c72"
+      ],
+      "examples": [
+        {
+          "match": "\u03c72",
+          "context": "c kidney disease. We used the \u03c72 statistic from the Cochran\u2019s"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "sensitivity analysis",
+        "propensity score"
+      ],
+      "examples": [
+        {
+          "match": "propensity score",
+          "context": "meta-analysisHigh-dimensional propensity score adjustment in studies of trea"
+        },
+        {
+          "match": "propensity score",
+          "context": "mensional versus conventional propensity scores in a comparative effectivene"
+        },
+        {
+          "match": "propensity score",
+          "context": "mance of the high-dimensional propensity score algorithm: an empirical examp"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "Proportional Hazards",
+          "context": "in a Nordic Healthcare ModelA Proportional Hazards Model for the Subdistribution"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "nce intervals (CIs) using Cox proportional hazards models. The proportionality a"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "kaplan-meier",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "Kaplan-Meier",
+          "context": "assumption was checked using Kaplan-Meier curves, which was satisfied i"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "matched cohort, we estimated hazard ratios and the corresponding 95% co"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "linear model",
+        "cox proportional",
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "fidence intervals (CIs) using Cox proportional hazards models. The proportio"
+        },
+        {
+          "match": "logistic regression",
+          "context": "y score was estimated using a logistic regression that modeled the probability"
+        },
+        {
+          "match": "linear model",
+          "context": "differences using generalized linear models. Random effects meta-analysi"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "and with at least 365 days of continuous medical and pharmacy insuranc"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "tabases contain deidentified, longitudinal, individual level data on hea"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "missing information"
+      ],
+      "examples": [
+        {
+          "match": "missing information",
+          "context": "aseline assessment period; or missing information on age or sex (see supplement"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "mean difference",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "matched cohort, we estimated hazard ratios and the corresponding 95% co"
+        },
+        {
+          "match": "mean difference",
+          "context": "es. The absolute standardized mean difference was used to compare clinical"
+        },
+        {
+          "match": "mean difference",
+          "context": "if the absolute standardized mean difference was <0.1.24 We used 1:1 prope"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "including) the index date. We excluded those with multiple OACs on t"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "Sensitivity",
+          "context": "stribution of a Competing RiskSensitivity Analysis in Observational Res"
+        },
+        {
+          "match": "sensitivity",
+          "context": "oups.27  We conducted several sensitivity analyses. First, we extended"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...c kidney disease. We used the \u03c72 statistic from the Cochran\u2019s..."
+      },
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...aseline assessment period; or missing information on age or sex (see supplement..."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...tabases contain deidentified, longitudinal, individual level data on hea..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...tabases contain deidentified, longitudinal, individual level data on hea..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...definition and performance). Secondary outcomes included all cause mortality..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...including) the index date. We excluded those with multiple OACs on t..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...utations were conducted using R version 4.3.1. Our study was based on an an..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...matched cohort, we estimated hazard ratios and the corresponding 95% co..."
+      },
+      {
+        "message": "Verified proportional hazards assumption.",
+        "evidence": "...in a Nordic Healthcare ModelA Proportional Hazards Model for the Subdistribution..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...stribution of a Competing RiskSensitivity Analysis in Observational Res..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: "
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

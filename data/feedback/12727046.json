@@ -1,0 +1,294 @@
+{
+  "title": "Clinical Profile and Outcomes of Childhood Wilms Tumors Treated in a Tertiary Cancer Center from North IndiaThe diagnostic accuracy and clinical utility of pediatric renal tumor biopsy: report of the UK experience in the SIOP UK WT 2001 trialIncidence of childhood renal tumours: an international population-based studyGlobal disparities in Wilms tumorLocalized Wilms' tumor in low-middle-income countries (LMIC): how can we get better?Wilms tumor treatment outcomes: perspectives from a low-income settingImproving care for children with cancer in low-and middle-income countries-a SIOP PODC initiativeWilms tumor in India: a systematic reviewCustomized approach for upfront or delayed resection using radiological criteria in unilateral, nonmetastatic pediatric renal tumors: a prospective studyPosition paper: rationale for the treatment of Wilms tumour in the UMBRELLA SIOP-RTSG 2016 protocolWilms tumor: \u201cState-of-the-art\u201d update, 2016Standardizing lymph nodal sampling for Wilms tumor: a feasibility study with outcomesWilms' tumor in low- and middle-income countries: survey of current practices, challenges, and prioritiesThe role of biopsy in the diagnosis of renal tumors of childhood: results of the UKCCSG Wilms tumor study 3Intravascular extension of Wilms tumor: characteristics of tumor thrombus and their impact on outcomesA higher tumor volume and undernutrition at diagnosis adversely affect the survival of children with Wilms tumor: a study of 200 patientsClinical outcomes of children with Wilms tumor treated on a SIOP WT 2001 protocol in a tertiary care hospital in south IndiaOmission of doxorubicin from the treatment of stage II-III, intermediate-risk Wilms' tumour (SIOP WT 2001): an open-label, non-inferiority, randomised controlled trialOutcome of pediatric renal tumor treated using the Japan Wilms Tumor Study-1 (JWiTS-1) protocol: a report from the JWiTS groupGlobal cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countriesPrognostic significance of age in 5631 patients with Wilms tumour prospectively registered in International Society of Paediatric Oncology (SIOP) 93-01 and 2001Results of the first prospective multi-institutional treatment study in children with bilateral Wilms tumor (AREN0534): a report from the Children's Oncology GroupManagement and outcomes in massive bilateral Wilms' tumors",
+  "pmcid": "12727046",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "open-label, non-inferiority, randomised controlled trialOutcome of p"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": ":  FOOTER: Abbreviations: CI, confidence interval; HR, hazard ratio."
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "overall survival",
+        "os",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "CI, confidence interval; HR, hazard ratio."
+        },
+        {
+          "match": "overall survival",
+          "context": "event-free survival (EFS) and overall survival (OS) of patients with WT. Sec"
+        },
+        {
+          "match": "OS",
+          "context": "l (EFS) and overall survival (OS) of patients with WT. Seconda"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cox proportional"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "te analyses were performed by Cox proportional-hazard model using R Statisti"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "s descriptive statistics, and continuous data as median (range). Conve"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "hr",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "CI, confidence interval; HR, hazard ratio."
+        },
+        {
+          "match": "HR",
+          "context": "ons: CI, confidence interval; HR, hazard ratio."
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...CI, confidence interval; HR, hazard ratio...."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...CI, confidence interval; HR, hazard ratio...."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

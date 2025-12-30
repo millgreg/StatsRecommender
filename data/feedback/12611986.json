@@ -1,0 +1,427 @@
+{
+  "title": "Cost-effectiveness of posterior versus anterior surgery for cervical radiculopathy: results from a multicentre randomised non-inferiority trial (FACET)Cervical radiculopathyEpidemiology of cervical radiculopathy: a population-based study from rochester, minnesota, 1976 through 1990Surgical interventions for cervical radiculopathy without myelopathyCost-utility analysis of anterior cervical discectomy and fusion with plating (ACDFP) versus posterior cervical foraminotomy (PCF) for patients with single-level cervical radiculopathy at 1-year follow-upSingle-level anterior cervical discectomy and fusion versus minimally invasive posterior cervical foraminotomy for patients with cervical radiculopathy: a cost analysisManagement of unilateral cervical radiculopathy in the military: the cost effectiveness of posterior cervical foraminotomy compared with anterior cervical discectomy and fusionComparison of anterior cervical discectomy and fusion to posterior cervical foraminotomy for cervical radiculopathy: utilization, costs, and adverse events 2003 to 2014Study protocol for a randomised controlled multicentre study: the foraminotomy ACDF cost-effectiveness trial (FACET) in patients with cervical radiculopathyConsolidated health economic evaluation reporting standards (CHEERS) 2022 explanation and elaboration: a report of the ISPOR CHEERS II good practices task forceUpdate of the Dutch manual for costing studies in health careMeasurement properties of the EQ-5D-5L compared to the EQ-5D-3L across eight patient groups: a multi-country studyDutch tariff for the five-level version of EQ-5DUpdate of the dutch manual for costing in economic evaluationsCost assessment and price setting of inpatient care in the Netherlands. The DBC case-mix systemThe iMTA productivity cost questionnaire: a standardized instrument for measuring and valuing health-related productivity lossesThe friction cost method for measuring indirect costs of diseaseMultiple imputation in health-are databases: an overview and some applicationsCost-effectiveness in clinical trials: using multiple imputation to deal with incomplete cost dataMissing presumed at random: cost-analysis of incomplete dataAnalysis of uncertainty in health care cost-effectiveness studies: An introduction to statistical issues and methodsVarying willingness to pay based on severity of illness: impact on health technology assessment outcomes of inpatient and outpatient drug therapies in the NetherlandsThe odom criteria: validated at last: a clinimetric evaluation in cervical spine surgeryCervical disk lesionsNeck pain and disability scale and neck disability index: validity of Dutch language versionsThe friction-cost method: Replacement for nothing and leisure for free?Economics of cervical disc replacementCost-effectiveness of anterior surgical decompression surgery for cervical degenerative disk disease: a systematic review of economic evaluations",
+  "pmcid": "12611986",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "n\u2009=\u200973",
+        "n\u2009=\u200980",
+        "n\u2009=\u200911"
+      ],
+      "examples": [
+        {
+          "match": "n\u2009=\u200911",
+          "context": "eous improvement of symptoms (n\u2009=\u200911). Participants were included"
+        },
+        {
+          "match": "n\u2009=\u200980",
+          "context": "and an available Odom score (n\u2009=\u200980 in the posterior group and n"
+        },
+        {
+          "match": "n\u2009=\u200973",
+          "context": "80 in the posterior group and n\u2009=\u200973 in the anterior group)*All va"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "randomisation",
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "y: results from a multicentre randomised non-inferiority trial (FACET"
+        },
+        {
+          "match": "randomise",
+          "context": "3 to 2014Study protocol for a randomised controlled multicentre study"
+        },
+        {
+          "match": "randomise",
+          "context": "a multicentre, noninferiority randomised clinical trial (Foraminotomy"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "ith multiple patient reported outcome measures (PROMs) including questionna"
+        },
+        {
+          "match": "outcome measure",
+          "context": "s (assessing patient reported outcome measures, medical consumption and pro"
+        },
+        {
+          "match": "outcome measure",
+          "context": "s (assessing patient reported outcome measures, medical consumption and pro"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "spss"
+      ],
+      "examples": [
+        {
+          "match": "SPSS",
+          "context": "utcome of the clinical trial. SPSS software (version 28.0, IBM C"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "sd",
+        "standard deviation",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "were described as means with standard deviation (SD), or median and interquar"
+        },
+        {
+          "match": "Standard deviation",
+          "context": "iologists classification, SD: Standard deviation, IQR: Inter Quartile Range, N"
+        },
+        {
+          "match": "Standard deviation",
+          "context": "kCI: Confidence Interval, SD: Standard deviation"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "secondary outcome",
+          "context": "ivity losses, were considered secondary outcomes. The costs of healthcare res"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "mulations were used to obtain confidence intervals (CIs). The FACET is a random"
+        },
+        {
+          "match": "confidence interval",
+          "context": "d means with bootstrapped 95% confidence intervals (CI) [28]. Results of all an"
+        },
+        {
+          "match": "confidence interval",
+          "context": "ooled means with bootstrapped confidence intervals, with exception of the Succe"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "\u03c72"
+      ],
+      "examples": [
+        {
+          "match": "\u03c72",
+          "context": "t, Mann\u2013Whitney U, or Pearson \u03c72 depending on level of measure"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "s and Microsoft Excel 365 for bootstrapping simulation. The detailed stat"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 11,
+      "unique_matches": [
+        "multiple imputation",
+        "bootstrap",
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "Multiple imputation",
+          "context": "ring indirect costs of diseaseMultiple imputation in health-are databases: an o"
+        },
+        {
+          "match": "multiple imputation",
+          "context": "ess in clinical trials: using multiple imputation to deal with incomplete cost"
+        },
+        {
+          "match": "multiple imputation",
+          "context": "ng values were estimated with multiple imputations and bootstrap simulations we"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "proportions"
+      ],
+      "examples": [
+        {
+          "match": "proportions",
+          "context": "he Odom score is expressed as proportions per group and difference in p"
+        },
+        {
+          "match": "proportions",
+          "context": "s per group and difference in proportions between groupsCI: Confidence"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 13,
+      "unique_matches": [
+        "complete case",
+        "missing values",
+        "imputation",
+        "missing data"
+      ],
+      "examples": [
+        {
+          "match": "Missing values",
+          "context": "adjusted life years (QALYs)). Missing values were estimated with multiple"
+        },
+        {
+          "match": "Missing data",
+          "context": "ulated using all time points. Missing data in costs and patient reported"
+        },
+        {
+          "match": "missing data",
+          "context": "d sufficient, unless rates of missing data are very high [27]. Data were"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "table 1",
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "Baseline characteristic",
+          "context": "osts were expressed in Euros. Baseline characteristics, including education level a"
+        },
+        {
+          "match": "Baseline characteristic",
+          "context": "upplementary File 1. CAPTION: Baseline characteristics of included participants. FO"
+        },
+        {
+          "match": "Table 1",
+          "context": "ee Supplementary Information, Table 1). All costs were expressed in"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "Sensitivity",
+          "context": "ng on burden of disease [29]. Sensitivity analyses were performed by co"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...ivity losses, were considered secondary outcomes. The costs of healthcare res..."
+      },
+      {
+        "message": "Categorical data mentioned, but no appropriate categorical tests found.",
+        "evidence": "...he Odom score is expressed as proportions per group and difference in p..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...ivity losses, were considered secondary outcomes. The costs of healthcare res..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Addressed missing data using imputation methods.",
+        "evidence": "...adjusted life years (QALYs)). Missing values were estimated with multiple..."
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...utcome of the clinical trial. SPSS software (version 28.0, IBM C..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...ng on burden of disease [29]. Sensitivity analyses were performed by co..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'secondary outcome' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

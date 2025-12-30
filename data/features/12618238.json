@@ -1,0 +1,541 @@
+{
+  "title": "Pridopidine in early-stage manifest Huntington\u2019s disease: a phase 3 trialA novel gene containing a trinucleotide repeat that is expanded and unstable on Huntington\u2019s disease chromosomesHuntington disease: natural history, biomarkers and prospects for therapeuticsFactors influencing the total functional capacity score as a critical endpoint in Huntington\u2019s disease researchHuntington disease: functional capacities in patients treated with neuroleptic and antidepressant drugsTetrabenazine as antichorea therapy in Huntington disease: a randomized controlled trialSafety and efficacy of tetrabenazine and use of concomitant medications during long-term, open-label treatment of chorea associated with Huntington\u2019s and other diseasesAntidopaminergic medication is associated with more rapidly progressive Huntington\u2019s diseaseAntidopaminergic treatment is associated with reduced chorea and irritability but impaired cognition in Huntington\u2019s disease (Enroll-HD)Modeling disease progression and placebo response in Huntington\u2019s disease: insights from Enroll-HD and GENERATION HD1 cohortsPridopidine in the treatment of Huntington\u2019s diseasePridopidine activates neuroprotective pathways impaired in Huntington diseaseThe Sigma-1 receptor mediates the beneficial effects of pridopidine in a mouse model of Huntington diseasePridopidine protects neurons from mutant-huntingtin toxicity via the Sigma-1 receptorThe Sigma-1 receptor mediates pridopidine rescue of mitochondrial function in Huntington disease modelsThe Sigma-1 receptor chaperone as an inter-organelle signaling modulatorPridopidine reduces mutant huntingtin\u2010induced endoplasmic reticulum stress by modulation of the Sigma\u20101 receptorPridopidine rescues BDNF/TrkB trafficking dynamics and synapse homeostasis in a Huntington disease brain-on-a-chip modelSigma-1 and dopamine D2/D3 receptor occupancy of pridopidine in healthy volunteers and patients with Huntington disease: a [F] fluspidine and [F] fallypride PET studyAdditional safety and exploratory efficacy data at 48 and 60 months from Open-HART, an open-label extension study of pridopidine in Huntington diseaseSafety and exploratory efficacy at 36 months in Open-HART, an open-label extension study of pridopidine in Huntington\u2019s diseasePridopidine for the treatment of motor function in patients with Huntington\u2019s disease (MermaiHD): a phase 3, randomised, double-blind, placebo-controlled trialSafety and efficacy of pridopidine in patients with Huntington\u2019s disease (PRIDE-HD): a phase 2, randomised, placebo-controlled, multicentre, dose-ranging studyEffects of pridopidine on functional capacity in early-stage participants from the PRIDE-HD studyPridopidine does not significantly prolong the QTc interval at the clinically relevant therapeutic doseA randomized, double-blind, placebo-controlled trial of pridopidine in Huntington\u2019s diseaseOne-year safety and tolerability profile of pridopidine in patients with Huntington diseasePridopidine for the treatment of ALS\u2014results from the phase 2 Healey ALS platform trial (S5.003)Motor, cognitive, and functional declines contribute to a single progressive factor in early HDAntidopaminergic medications in Huntington\u2019s disease.Antidopaminergic medications and clinical changes in measures of Huntington\u2019s disease: a causal analysis.Psychopathology in verified Huntington\u2019s disease gene carriersNeuropsychiatric aspects of Huntington\u2019s diseaseTiming and impact of psychiatric, cognitive, and motor abnormalities in Huntington diseaseThe safety profile of pridopidine, a novel Sigma-1 receptor agonist for the treatment of Huntington\u2019s disease.Critical periods of suicide risk in Huntington\u2019s diseaseAnalysis of responder-based endpoints: improving power through utilising continuous componentsNatural history of Huntington diseaseThe global prevalence of depression, anxiety, and sleep disorder among patients coping with post COVID-19 syndrome (long COVID): a systematic review and meta-analysisAntipsychotic prescribing to people with dementia during COVID-19Impact of the COVID-19 pandemic on antipsychotic prescribing in individuals with autism, dementia, learning disability, serious mental illness or living in a care home: a federated analysis of 59 million patients\u2019 primary care records in situ using OpenSAFELYSulpiride and mnemonic function: effects of a dopamine D2 receptor antagonist on working memory, emotional memory and long-term memory in healthy volunteersAntipsychotic dose, dopamine D2 receptor occupancy and extrapyramidal side-effects: a systematic review and dose\u2013response meta-analysisAntipsychotic-induced akathisia in adults with acute schizophrenia: a systematic review and dose\u2013response meta-analysisA review of the important role of CYP2D6 in pharmacogenomicsThe effect of potent CYP2D6 inhibition on the pharmacokinetics and safety of deutetrabenazine in healthy volunteersPharmacokinetic and tolerability profile of pridopidine in healthy-volunteer poor and extensive CYP2D6 metabolizers, following single and multiple dosingPridopidine for the improvement of motor function in patients with Huntington\u2019s disease: a systematic review and meta-analysis of randomized controlled trialsPridopidine: overview of pharmacology and rationale for its use in Huntington\u2019s diseaseMotor outcome measures in Huntington disease clinical trials.The dopamine stabilizers ACR16 and (-)-OSU6162 display nanomolar affinities at the \u03c3-1 receptorNeuronal Sigma-1 receptors: signaling functions and protective roles in neurodegenerative diseasesImpairment and restoration of homeostatic plasticity in cultured cortical neurons from a mouse model of Huntington diseaseSigma-1 receptor ligands: potential in the treatment of neuropsychiatric disordersDefining clinically meaningful change on the composite Unified Huntington\u2019s Disease Rating Scale (cUHDRS) (P1.8-043)Safety and efficacy of laquinimod for Huntington\u2019s disease (LEGATO-HD): a multicentre, randomised, double-blind, placebo-controlled, phase 2 studyInterrater reliability of the Unified Huntington\u2019s Disease Rating Scale-Total Motor Score certificationAddressing bias in responder analysis of patient-reported outcomesComparison of 4 diets of varying glycemic load on weight loss and cardiovascular risk reduction in overweight and obese young adults: a randomized controlled trialCo-administration of the dopaminergic stabilizer pridopidine and tetrabenazine in rats",
+  "pmcid": "12618238",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "sample size",
+        "n\u2009=\u2009250",
+        "n\u2009=\u2009249"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "plied in the study, including sample size calculations, were prespecifi"
+        },
+        {
+          "match": "sample size",
+          "context": "n the overall population. The sample size determination aimed to ensure"
+        },
+        {
+          "match": "sample size",
+          "context": "f 0.05. Specifically, a total sample size of 372 participants provided"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "isease (MermaiHD): a phase 3, randomised, double-blind, placebo-contr"
+        },
+        {
+          "match": "randomise",
+          "context": "isease (PRIDE-HD): a phase 2, randomised, placebo-controlled, multice"
+        },
+        {
+          "match": "randomise",
+          "context": "e (LEGATO-HD): a multicentre, randomised, double-blind, placebo-contr"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "unblinded",
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "patient completing the double-blinded portion of the study on 14 Ma"
+        },
+        {
+          "match": "blinded",
+          "context": "nd analysis was automated and blinded. FT\u2009IOI, FT\u2009ITI, Pro-Sup\u2009ITI"
+        },
+        {
+          "match": "blinded",
+          "context": "nitoring committee reviewed unblinded data during the trial to ensu"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "h America), two randomization stratification factors (antipsychotic or neu"
+        },
+        {
+          "match": "stratification",
+          "context": "ts duration. The SAP included stratification at baseline based on antipsyc"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "outcome measure",
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "in Huntington\u2019s diseaseMotor outcome measures in Huntington disease clinic"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "withdrawal were recorded. The primary endpoint of the study was the change f"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "opean Union (EU) regions, the primary endpoint was United Huntington\u2019s Disea"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 14,
+      "unique_matches": [
+        "itt"
+      ],
+      "examples": [
+        {
+          "match": "ITT",
+          "context": "ither pridopidine or placebo (ITT population n\u2009=\u2009249 placebo an"
+        },
+        {
+          "match": "ITT",
+          "context": "ed 414 patients (83.0% of the ITT) and included participants fr"
+        },
+        {
+          "match": "ITT",
+          "context": "18 participants (63.7% of the ITT) and was defined similar to W"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "analyses were conducted using SAS v.9.4. Given the potential of"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "sd",
+        "standard deviation",
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "Standard Deviation",
+          "context": "luding FT\u2009IOI Mean and FT\u2009IOI Standard Deviation (digitomotography), FT\u2009ITI, a"
+        },
+        {
+          "match": "standard deviation",
+          "context": "Q1, Q3 = quartile 1, 3; SD = standard deviation; SE = standard error. Notes:"
+        },
+        {
+          "match": "standard deviation",
+          "context": "Q1, Q3 = quartile 1, 3; SD = standard deviation; SE = standard error. Notes:"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "multiple comparisons",
+        "nominal"
+      ],
+      "examples": [
+        {
+          "match": "multiple comparisons",
+          "context": "level of \u22640.05 to control for multiple comparisons. The endpoints included in th"
+        },
+        {
+          "match": "nominal",
+          "context": "h point estimates, 95% CI and nominal P values, and were interprete"
+        },
+        {
+          "match": "nominal",
+          "context": "imary MMRM findings, although nominal statistical significance was"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "significance level",
+        "p-value",
+        "secondary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "p-value",
+          "context": "t random (MNAR). Analysis and p-values for comparison of pridopidin"
+        },
+        {
+          "match": "p-value",
+          "context": "TT analysis: The analysis and p-values were generated using observe"
+        },
+        {
+          "match": "p-value",
+          "context": "standard error. Notes: \u2022 The p-values presented are nominal. \u2022 Ana"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "confidence interval",
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "eported with point estimates, 95% CI and nominal P values, and wer"
+        },
+        {
+          "match": "confidence interval",
+          "context": "ions: bid = twice daily; CI = confidence interval; LS = least square; max = max"
+        },
+        {
+          "match": "confidence interval",
+          "context": "ions: bid = twice daily; CI = confidence interval; cUHDRS = composite Unified H"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "s.d. of 1.9 and a two-tailed t-test. To accommodate a projected d"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 19,
+      "unique_matches": [
+        "pattern mixture model",
+        "multiple imputation",
+        "mmrm",
+        "mnar"
+      ],
+      "examples": [
+        {
+          "match": "multiple imputation",
+          "context": "ssing data were imputed using multiple imputations (MI) under the assumption of"
+        },
+        {
+          "match": "multiple imputation",
+          "context": "ics are not applicable due to multiple imputations. The MMRM included change fr"
+        },
+        {
+          "match": "MNAR",
+          "context": "nder a Missing Not at Random (MNAR) assumption. In this approach"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 13,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "proportions"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "aseline HD stage (HD1, HD2)), categorical week and treatment-by-week in"
+        },
+        {
+          "match": "categorical",
+          "context": "tics (mean, s.d., quartiles); categorical variables were summarized usi"
+        },
+        {
+          "match": "categorical",
+          "context": "eline HD stage (HD1 and HD2), categorical week, and treatment by catego"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "repeated measures"
+      ],
+      "examples": [
+        {
+          "match": "repeated measures",
+          "context": "ults from the mixed model for repeated measures (MMRM) for each imputed datas"
+        },
+        {
+          "match": "Repeated Measures",
+          "context": "erved data from a Mixed Model Repeated Measures (MMRM) for comparison of prid"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "hierarchical",
+          "context": "othesis testing was conducted hierarchically for the primary and key sec"
+        },
+        {
+          "match": "hierarchical",
+          "context": "The endpoints included in the hierarchical testing sequence were:Change"
+        },
+        {
+          "match": "hierarchical",
+          "context": "stment was applied beyond the hierarchical testing procedure. Subgroup a"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 15,
+      "unique_matches": [
+        "missing data",
+        "imputation",
+        "no imputation",
+        "dropout"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": "llowing the primary analysis, missing data were handled using a control-"
+        },
+        {
+          "match": "Missing data",
+          "context": "r. Notes: \u2022 For ITT analysis: Missing data were imputed using multiple i"
+        },
+        {
+          "match": "missing data",
+          "context": "o imputation was performed on missing data. \u2022 One participant was screen"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "post hoc",
+        "multiple comparisons"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "omponent at each study visit, post hoc forest plot analyses were con"
+        },
+        {
+          "match": "Post hoc",
+          "context": "atus, as outlined in the SAP. Post hoc analyses were subsequently pe"
+        },
+        {
+          "match": "post hoc",
+          "context": "ment received. We performed a post hoc responder analysis of pridopi"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "nd PP populations (Fig. 1 and Table 1). Participants were closely m"
+        },
+        {
+          "match": "Table 1",
+          "context": "ation (Table 2; Extended Data Table 1). Investigators assessed the"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "excluded",
+        "excluding",
+        "categorized",
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "quirements. Participants were excluded if any of the following appli"
+        },
+        {
+          "match": "excluded",
+          "context": "all data from the mITT, which excluded nine patients from the ITT po"
+        },
+        {
+          "match": "excluding",
+          "context": "tion in HD, subgroup analyses excluding antipsychotics and VMAT2 inhi"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "sition sensors to ensure high sensitivity and reliability across sessio"
+        },
+        {
+          "match": "Sensitivity",
+          "context": "ents from the ITT population. Sensitivity analyses were conducted on th"
+        },
+        {
+          "match": "sensitivity",
+          "context": "opriate caution. Prespecified sensitivity analyses included subgroup an"
+        }
+      ]
+    },
+    "model_details": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "unstructured"
+      ],
+      "examples": [
+        {
+          "match": "unstructured",
+          "context": "participant was included. An unstructured covariance matrix was used to"
+        },
+        {
+          "match": "unstructured",
+          "context": "on for degrees of freedom. An unstructured covariance matrix was used fo"
+        },
+        {
+          "match": "unstructured",
+          "context": "on for degrees of freedom. An unstructured covariance matrix was used fo"
+        }
+      ]
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "mouse model"
+      ],
+      "examples": [
+        {
+          "match": "mouse model",
+          "context": "l effects of pridopidine in a mouse model of Huntington diseasePridopid"
+        },
+        {
+          "match": "mouse model",
+          "context": "tured cortical neurons from a mouse model of Huntington diseaseSigma-1"
+        }
+      ]
+    }
+  }
+}

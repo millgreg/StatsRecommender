@@ -1,0 +1,292 @@
+{
+  "title": "Upfront Combined Hydroxyurea and Imatinib versus Imatinib Monotherapy in Newly Diagnosed Chronic Phase Chronic Myeloid Leukemia: A Randomized Controlled TrialWHO 2016 definition of chronic myeloid leukemia and tyrosine kinase inhibitorsImatinib in chronic myeloid leukemia: an overviewChronic myeloid leukemia in IndiaMonitoring of response to therapy with imatinib mesylate in chronic myeloid leukemia in chronic phase (CML-CP)Predictive performance of population pharmacokinetic models of imatinib in chronic myeloid leukemia patientsAMPK-induced novel phosphorylation of RUNX1 inhibits STAT3 activation and overcome imatinib resistance in chronic myelogenous leukemia (CML) subjectsChronic myeloid leukemia in the Imatinib era - compilation of Indian data from 22 centers involving 8115 patientsImatinib in combination with hydroxyurea showed significantly lower major molecular response rates at 6 months but similar MMR at 18 months in patients with CML1st CP compared to IM alone. Final results of the CML2004 study. Comparative analysis of the Sokal, Euro and European Treatment and Outcome Study score in prognostication of Indian chronic myeloid leukemia-chronic phase patients on imatinibComparison of the applicability of Hasford score and European Treatment and Outcome Study score in Indian patients with chronic phase chronic myeloid leukemia on imatinib therapyPredicting complete cytogenetic response and subsequent progression-free survival in 2060 patients with CML on imatinib treatment: the EUTOS scoreCommon Terminology Criteria for Adverse Events (CTCAE)Chronic myeloid leukemia data from IndiaReport of chronic myeloid leukemia in chronic phase from All India Institute of Medical Sciences, 1990-2010The EUTOS population-based registry: incidence and clinical characteristics of 2904 CML patients in 20 European countriesTrends in chronic myeloid leukemia incidence and survival in the United States from 1975 to 2009Meeting the needs of CML patients in resource-poor countriesChronic myeloid leukemia in the Asia-Pacific region: current practice, challenges and opportunities in the targeted therapy eraTo study outcomes in young CML treated with TKI. A registry data from Hematological Cancer Consortium (HCC) of IndiaFeasibility of treatment-free remission with generic imatinib: results of generic imatinib-free trial-in-chronic myeloid leukaemia-chronic phase studyPrevalence of anemia among chronic myeloid leukemia patients treated with imatinib: a evidence-based meta-analysisPatterns of tyrosine kinase inhibitor utilization in newly treated patients with chronic myeloid leukemia: an exhaustive population-based study in FranceCorrelation of plasma trough levels of imatinib with molecular response in patients with chronic myeloid leukemiaNo advantage of imatinib in combination with hydroxyurea over imatinib monotherapy: a study of the East German Study Group (OSHO) and the German CML study group",
+  "pmcid": "12727047",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "Sample size",
+          "context": "R ABL1 (I.S.) levels \u2264 10%.   Sample size was determined to be 90 (45 p"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "Randomized Controlled Trial",
+          "context": "e Chronic Myeloid Leukemia: A Randomized Controlled TrialWHO 2016 definition of chronic"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "ML study group  An open-label randomized controlled trial was conducted at a tertiary c"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "stata"
+      ],
+      "examples": [
+        {
+          "match": "STATA",
+          "context": "analysis was performed using STATA version-12 (StataCorp, United"
+        },
+        {
+          "match": "Stata",
+          "context": "ormed using STATA version-12 (StataCorp, United States). Descript"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "interquartile range",
+          "context": "Shapiro\u2013Wilk test. Median and interquartile ranges (IQRs) were calculated. Wilc"
+        },
+        {
+          "match": "interquartile range",
+          "context": "ations: HU, hydroxyurea; IQR, interquartile range; I.S., international scale. C"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "chi-square",
+        "wilcoxon",
+        "fisher's exact"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "re quantitative variables and chi-square test and Fisher's exact test"
+        },
+        {
+          "match": "Fisher's exact",
+          "context": "ables and chi-square test and Fisher's exact test were used to compare cat"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "anges (IQRs) were calculated. Wilcoxon rank sum test was used to com"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "categorical"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "act test were used to compare categorical variables in the two treatmen"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "tistics was used to summarize baseline characteristics of patients. Normality was a"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...analysis was performed using STATA version-12 (StataCorp, United..."
+      }
+    ],
+    "strengths": [],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

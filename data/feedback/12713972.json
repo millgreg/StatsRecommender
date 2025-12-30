@@ -1,0 +1,413 @@
+{
+  "title": "Polysomnographic insights into the attention-deficit/hyperactivity disorder and obstructive sleep apnea connection in childrenEstimating sleep patterns with activity monitoring in children and adolescents: how many nights are necessary for reliable measures?The first night effect: an EEG study of sleepAASM scoring manual updates for 2017 (version 2.4)Rules for scoring respiratory events in sleep: update of the 2007 AASM Manual for the Scoring of Sleep and Associated Events. Deliberations of the sleep apnea definitions task force of the american academy of sleep medicineMental health surveillance among children - United States, 2013-2019Natural history of sleep disordered breathing in prepubertal children transitioning to adolescenceGender dimorphism in pediatric OSA: is it for real?Stimulant rebound: how common is it and what does it mean?Disruption of blood pressure circadian rhythm in children with obstructive sleep apnea-is it a pathway leading to cardiovascular morbidities?Inattention, hyperactivity, and symptoms of sleep-disordered breathingSleep disturbances in children with attention-deficit/hyperactivity disorderAssessment and management of sleep problems in youths with attention-deficit/hyperactivity disorderSleep in children with attention-deficit/hyperactivity disorder: meta-analysis of subjective and objective studiesCharacteristics of EEG power spectrum during sleep spindle events in ADHD childrenSeverity, prevalence, predictors, and rate of identification of insomnia symptoms in a sample of hospitalized psychiatric patientsOutcomes of long-term iron supplementation in pediatric restless legs syndrome/periodic limb movement disorder (RLS/PLMD)Subtyping primary insomnia: is sleep state misperception a distinct clinical entity?Pediatric obstructive sleep apneaScreening for sleep disorders in pediatric primary care: are we there yet?Time structure of leg movement activity during sleep in attention-deficit/hyperactivity disorder and effects of levodopaSex differences and the interaction of age and sleep issues in neuropsychological testing performance across the lifespan in an ADD/ADHD sample from the years 1989 to 2009Gender differences in attention deficit hyperactivity disorder: an update of the current evidenceTime to rest a hypothesis? Accumulating evidence that periodic leg movements during sleep are not increased in children with attention-deficit hyperactivity disorder (ADHD): results of a case-control study and a meta-analysisMetabolic alterations and systemic inflammation in obstructive sleep apnea among nonobese and obese prepubertal childrenSleep characteristics of children and adolescents with attention deficit-hyperactivity disorderAssociations of sleep disturbance with ADHD: implications for treatmentCircadian motor activity affected by stimulant medication in children with attention-deficit/hyperactivity disorderExpert consensus statement: management of pediatric persistent obstructive sleep apnea after adenotonsillectomyCan methylphenidate facilitate sleep in children with attention deficit hyperactivity disorder?A cross-sectional comparative study of sleep disturbances in children with adhd and matched controlsRestless sleep disorder in children with attention-deficit/hyperactivity disorderPharmacological management of new-onset bipolar disorderObjectively measured sleep continuity in children and adolescents with ADHD: a systematic review and meta-analysisWomen with symptoms of sleep-disordered breathing are less likely to be diagnosed and treated for sleep apnea than menSleep disturbances in adolescents with ADHD: a systematic review and framework for future researchSleep phenotypes in attention deficit hyperactivity disorderAttention deficit hyperactivity disorder and restless leg syndrome across the lifespan: a systematic review and meta-analysisNight-to-night variability of sleep in children with ADHD and typically developing controlsBehavioral, neurocognitive, polysomnographic and cardiometabolic profiles associated with obstructive sleep apnea in adolescents with ADHDParadoxical insomnia and subjective-objective sleep discrepancy: a reviewAssociation of sleep quality, media use and book reading with behavioral problems in early childhood. The Ulm SPATZ health studyGender differences in attention-deficit/hyperactivity disorderInternational classification of sleep disorders-third edition: highlights and modificationsAttention deficit hyperactivity disorder and sleep disordered breathing in pediatric populations: a meta-analysisNight-to-night variability in periodic leg movements in patients with restless legs syndromeInter-movement interval as a primary stable measure of periodic limb movements of sleepEffects of automated diurnal variation in electronic screen temperature on sleep quality in young adults: a randomized controlled trialSleep and circadian rhythmicity in adult ADHD and the effect of stimulantsSleep disturbances in children with attention-deficit/hyperactivity disorderValidation of a leg movements count and periodic leg movements analysis in a custom polysomnography systemADHD treatments, sleep, and sleep problems: complex associationsADHD: clinical practice guideline for the diagnosis, evaluation, and treatment of attention-deficit/hyperactivity disorder in children and adolescentsSleep disorders in patients with ADHD: impact and management challengesThe prevalence of DSM-IV attention-deficit/hyperactivity disorder: a meta-analytic reviewIs obstructive sleep apnea associated with ADHD?Adverse effects of 21 antidepressants on sleep during acute-phase treatment in major depressive disorder: a systemic review and dose-effect network meta-analysis",
+  "pmcid": "12713972",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "ep quality in young adults: a randomized controlled trialSleep and circadian rhythmicit"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "Analyses were performed using SAS v9.4 (SAS Institute, Cary, NC"
+        },
+        {
+          "match": "SAS",
+          "context": "ere performed using SAS v9.4 (SAS Institute, Cary, NC). Values"
+        },
+        {
+          "match": "SAS",
+          "context": "Analyses were performed using SAS v9.4 (SAS Institute, Cary, NC"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "alues were reported as means (standard deviations) for continuous variables an"
+        },
+        {
+          "match": "standard deviation",
+          "context": "alues were reported as means (standard deviations) for continuous variables an"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "bonferroni"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "ignificantly different with a Bonferroni adjustment. The PSG parameter"
+        },
+        {
+          "match": "Bonferroni",
+          "context": "ignificantly different with a Bonferroni adjustment. CAPTION: Demograp"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "p-value",
+          "context": "r categorical variables, with p-values from ANOVA and Chi-Square te"
+        },
+        {
+          "match": "P-value",
+          "context": "i-Square tests, respectively. P-value superscripts were labeled to"
+        },
+        {
+          "match": "p-value",
+          "context": "r categorical variables, with p-values from ANOVA and Chi-Square te"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 11,
+      "unique_matches": [
+        "fisher's exact",
+        "wilcoxon",
+        "t-test",
+        "power spectrum",
+        "chi-square"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "were analyzed using Student's t-tests for two group comparisons an"
+        },
+        {
+          "match": "t-test",
+          "context": "were analyzed using Student's t-tests for two group comparisons an"
+        },
+        {
+          "match": "Chi-Square",
+          "context": "variables were analyzed using Chi-Square tests, and Fisher's Exact was"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "non-parametric",
+        "kruskal-wallis"
+      ],
+      "examples": [
+        {
+          "match": "non-parametric",
+          "context": "d the Wilcoxon-Kruskal-Wallis non-parametric test being used where necessa"
+        },
+        {
+          "match": "non-parametric",
+          "context": "d the Wilcoxon-Kruskal-Wallis non-parametric test being used where necessa"
+        },
+        {
+          "match": "Kruskal-Wallis",
+          "context": "ere possible and the Wilcoxon-Kruskal-Wallis non-parametric test being use"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "anova"
+      ],
+      "examples": [
+        {
+          "match": "ANOVA",
+          "context": "ons and Analysis of Variance (ANOVA) models for >2 groups. Catego"
+        },
+        {
+          "match": "ANOVA",
+          "context": "variables, with p-values from ANOVA and Chi-Square tests, respect"
+        },
+        {
+          "match": "ANOVA",
+          "context": "ons and Analysis of Variance (ANOVA) models for >2 groups. Catego"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "frequencies"
+      ],
+      "examples": [
+        {
+          "match": "Categorical",
+          "context": "(ANOVA) models for >2 groups. Categorical variables were analyzed using"
+        },
+        {
+          "match": "categorical",
+          "context": "frequencies (percentages) for categorical variables, with p-values from"
+        },
+        {
+          "match": "Categorical",
+          "context": "(ANOVA) models for >2 groups. Categorical variables were analyzed using"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "matched controls"
+      ],
+      "examples": [
+        {
+          "match": "matched controls",
+          "context": "ces in children with adhd and matched controlsRestless sleep disorder in chi"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "facial abnormalities were not excluded to preserve representation of"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...were analyzed using Student's t-tests for two group comparisons an..."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...r categorical variables, with p-values from ANOVA and Chi-Square te..."
+      },
+      {
+        "message": "ANOVA mentioned without specifying post-hoc tests.",
+        "evidence": "...were analyzed using Student's t-tests for two group comparisons an..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...r categorical variables, with p-values from ANOVA and Chi-Square te..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...facial abnormalities were not excluded to preserve representation of..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...ignificantly different with a Bonferroni adjustment. The PSG parameter..."
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...Analyses were performed using SAS v9.4 (SAS Institute, Cary, NC..."
+      },
+      {
+        "message": "Appropriately used paired tests for dependent data.",
+        "evidence": "...ces in children with adhd and matched controlsRestless sleep disorder in chi..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test, anova"
+      },
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'p-value' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

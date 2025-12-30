@@ -1,0 +1,252 @@
+{
+  "title": "Virtual first: implementation of a novel sleep telehealth platform in the United States militaryEngaging stakeholders to optimize sleep disorders' management in the U. S. military: a qualitative analysisRemote clinical research operations during COVID-19: lessons learned and recommendationsCognitive behavioral therapy for insomnia in older veterans using nonclinician sleep coaches: randomized controlled trialA randomized controlled trial of nurse-led care for symptomatic moderate-severe obstructive sleep apneaEffectiveness of guided internet-based cognitive behavioral therapy vs face-to-face clinical care for treatment of tinnitus: a randomized clinical trialPreliminary validation of the Defense and Veterans Pain Rating Scale (DVPRS) in a military populationOptimizing sleep in the military: challenges and opportunitiesDaytime sleep-tracking performance of four commercial wearable devices during unrestricted home sleepSleep disturbances and predictors of nondeployability among active-duty Army soldiers: an odds ratio analysis of medical healthcare data from fiscal year 2018Evaluating the public health impact of health promotion interventions: the RE-AIM frameworkRE-AIM in clinical, community, and corporate settings: perspectives, strategies, and recommendations to enhance public health impactNational Sleep Foundation's sleep time duration recommendations: methodology and results summaryGuided internet cognitive behavioral therapy for insomnia compared to a control treatment - a randomized trialValidity of a commercial wearable sleep tracker in adult insomnia disorder patients and good sleepersAcute Effects of Online Mind-Body Skills Training on Resilience, Mindfulness, and EmpathyA randomized controlled trial comparing guided internet-based multi-component treatment and internet-based guided sleep restriction treatment to care as usual in insomniaThe PHQ-9: validity of a brief depression severity measureSleep duration in the United States: a cross-sectional population-based studyField-based measurement of sleep: agreement between six commercial activity monitors and a validated accelerometerProvider types and outcomes in obstructive sleep apnea case finding and treatment: a systematic reviewGuided online or face-to-face cognitive behavioral treatment for insomnia: a randomized wait-list controlled trialValidation of fitbit inspire 2Prevalence and impact of short sleep duration in redeployed OIF soldiersIncidence of insomnia and obstructive sleep apnea in active duty united states military service membersSleep disorders and associated medical comorbidities in active duty military personnelUsing the Berlin Questionnaire to identify patients at risk for the sleep apnea syndromeA randomized controlled trial of an alternative care provider clinic for severe sleep-disordered breathingThe primary care PTSD screen for DSM-5 (PC-PTSD-5): development and evaluation within a veteran primary care sampleScreening for traumatic brain injury in troops returning from deployment in Afghanistan and Iraq: initial investigation of the usefulness of a short screening tool for traumatic brain injuryThe effectiveness of psychotherapy: the consumer reports studybrief measure for assessing generalized anxiety disorder: the GAD-7Evaluations of commercial sleep technologies for objective monitoring during routine sleeping conditionsPrimary versus specialist care for obstructive sleep apnea: a systematic review and individual-participant data-level meta-analysisRecommended amount of sleep for a healthy adult: a joint consensus statement of the American Academy of Sleep Medicine and Sleep Research SocietyActive duty service members, primary managers, and administrators' perspectives on a novel sleep telehealth management platform in the U.S. military healthcare systemThe impact of treatments for osa on monetized health economic outcomes: a systematic reviewHealth economics of insomnia treatments: the return on investment for a good night's sleepThe impact of sleep on soldier performance",
+  "pmcid": "12713946",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "n = 270",
+        "n = 251"
+      ],
+      "examples": [
+        {
+          "match": "n = 270",
+          "context": "as assessed via sleep diary (n = 270) and Fitbit (n = 251) during"
+        },
+        {
+          "match": "n = 251",
+          "context": "p diary (n = 270) and Fitbit (n = 251) during 10-day remote monitor"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "g nonclinician sleep coaches: randomized controlled trialA randomized controlled trial"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "randomized controlled trialA randomized controlled trial of nurse-led care for symptom"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "ce, Mindfulness, and EmpathyA randomized controlled trial comparing guided internet-bas"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "active-duty Army soldiers: an odds ratio analysis of medical healthcar"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "ve [QUAL 2]) design driven by continuous engagement with stakeholders"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "active-duty Army soldiers: an odds ratio analysis of medical healthcar"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

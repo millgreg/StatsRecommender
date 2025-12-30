@@ -1,0 +1,281 @@
+{
+  "title": "Reporting of Factorial Randomized Trials Extension of the CONSORT 2010 StatementFactorial design considerationsReporting of randomized factorial trials was frequently inadequateFactorial trials in cardiology: pros and consAnalysis and reporting of factorial trials: a systematic reviewReporting of factorial trials of complex interventions in community settings: a systematic reviewDesign, analysis and presentation of factorial randomised controlled trialsFactorial designs: a graphical aid for choosing study designs accounting for interactionEconomic evaluation of factorial randomised controlled trials: challenges, methods and recommendationsPartial factorial trials: comparing methods for statistical analysis and economic evaluationTwo-by-two factorial cancer treatment trials: is sufficient attention being paid to possible interactions?Estimands for factorial trialsNon-factorial analyses of two-by-two factorial trial designsMonitoring futility in a two-by-two factorial design: the SPS3 experienceSimultaneous inference on treatment effects in survival studies with factorial designsFactorial design for randomized clinical trialsSome statistical considerations for design of cancer prevention trialsBias in randomised factorial trialsCONSORT 2010 explanation and elaboration: updated guidelines for reporting parallel group randomised trialsCONSORT 2010 statement: updated guidelines for reporting parallel group randomised trialsCONSORT for reporting randomised trials in journal and conference abstractsCONSORT for reporting randomized controlled trials in journal and conference abstracts: explanation and elaborationReporting of multi-arm parallel-group randomized trials: extension of the CONSORT 2010 StatementThe2\u00d72 cluster randomized controlled factorial trial design is mainly used for efficiency and to explore intervention interactions: a systematic reviewAn examination of effect estimation in factorial and standardly-tailored designsImplementing clinical research using factorial designs: a primerCombining factorial and multi-arm multi-stage platform designs to evaluate multiple interventions efficientlySample size estimation in phase III cancer clinical trialsAnalysis of factorial survival experimentsEvaluating how clear the questions being investigated in randomised trials are: systematic review of estimandsEstimands in published protocols of randomised trials: urgent improvement neededEstimation of treatment effects in short-term depression studies: an evaluation based on the ICH E9(R1) estimands frameworkSample size calculation in hierarchical 2\u00d72 factorial trials with unequal cluster sizesChallenging issues in clinical trial design: part 4 of a 4-part series on statistics for clinical trialsJoint testing of overall and simple effects for the two-by-two factorial trial design",
+  "pmcid": "7617336",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "Sample size",
+          "context": "iple interventions efficientlySample size estimation in phase III cance"
+        },
+        {
+          "match": "Sample size",
+          "context": "ICH E9(R1) estimands frameworkSample size calculation in hierarchical 2"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "and presentation of factorial randomised controlled trialsFactorial d"
+        },
+        {
+          "match": "randomise",
+          "context": "nomic evaluation of factorial randomised controlled trials: challenge"
+        },
+        {
+          "match": "randomise",
+          "context": "ncer prevention trialsBias in randomised factorial trialsCONSORT 2010"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "statistical interaction"
+      ],
+      "examples": [
+        {
+          "match": "statistical interaction",
+          "context": ".  Method(s) used to evaluate statistical interaction(s)  It is recommended practic"
+        },
+        {
+          "match": "statistical interaction",
+          "context": "e to evaluate the presence of statistical interactions, either because analyses rel"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "secondary outcome",
+          "context": "in comparison for primary and secondary outcomes, including: Whether the targ"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "consort",
+        "spirit"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "mized Trials Extension of the CONSORT 2010 StatementFactorial desig"
+        },
+        {
+          "match": "CONSORT",
+          "context": "ized trials: extension of the CONSORT 2010 StatementThe2\u00d72 cluster"
+        },
+        {
+          "match": "CONSORT",
+          "context": "factorial trial design  This CONSORT extension development occurre"
+        }
+      ]
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "cluster",
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "CONSORT 2010 StatementThe2\u00d72 cluster randomized controlled factori"
+        },
+        {
+          "match": "cluster",
+          "context": "factorial trials with unequal cluster sizesChallenging issues in cl"
+        },
+        {
+          "match": "hierarchical",
+          "context": "orkSample size calculation in hierarchical 2\u00d72 factorial trials with une"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

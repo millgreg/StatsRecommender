@@ -1,0 +1,492 @@
+{
+  "title": "JAK inhibition decreases the autoimmune burden in Down syndromeJAK inhibition decreases the autoimmune burden in Down syndromeEarly-onset, coexisting autoimmunity and decreased HLA-mediated susceptibility are the characteristics of diabetes in down syndromeImmune-mediated necrotizing myopathy: clinical features and pathogenesisAntibodies against desmoglein 3 (pemphigus vulgaris antigen) are present in sera from patients with paraneoplastic pemphigus and cause acantholysis in vivo in neonatal miceMAIT cells in barrier tissues: lessons from immediate neighborsThyroid disorders in subjects with down syndrome: an updateDown syndromeTrisomy 21 dysregulates T cell lineages toward an autoimmunity-prone state associated with interferon hyperactivityIGF1 deficiency integrates stunted growth and neurodegeneration in Down syndromeEpidemiological and clinical aspects of autoimmune thyroid diseases in children with Down\u2019s syndromeflowVS: channel-specific variance stabilization in flow cytometryLifespan analysis of brain development, gene expression and behavioral phenotypes in the Ts1Cje, Ts65Dn and Dp(16)1/Yey mouse models of Down syndromePersonalized immunomonitoring uncovers molecular networks that stratify lupus patientsA Trisomy 21 Lung Cell AtlasPrevalence and clinical characteristics of celiac disease in Downs syndrome in a US studyAutoimmune inner ear disease: a systematic review of managementCompensation of signal spillover in suspension and imaging mass cytometryInterferon hyperactivity impairs cardiogenesis in Down syndrome via downregulation of canonical Wnt signalingPrevalence of common disease conditions in a large cohort of individuals with down syndrome in the united statesLong-term safety of tofacitinib for the treatment of rheumatoid arthritis up to 8.5\u2005years: integrated analysis of data from the global clinical trialsDistinct interferon signatures and cytokine patterns define additional systemic autoinflammatory diseasesVariegated overexpression of chromosome 21 genes reveals molecular and immune subtypes of Down syndromeMultimodal analysis of dysregulated heme metabolism, hypoxic signaling, and stress erythropoiesis in Down syndromeMyasthenia gravis: epidemiologyOtitis media in children with down syndrome is associated with shifts in the nasopharyngeal and middle ear microbiotasThe role of infections in autoimmune diseaseNormalization of mass cytometry data with bead standardsEvolution of neuroinflammation across the lifespan of individuals with Down syndromeMultidimensional definition of the interferonopathy of Down syndrome and its response to JAK inhibitionDysregulation of the immune system in a natural history study of 1299 individuals with down syndromeDown syndrome, accelerated aging and immunosenescenceMuscle-specific kinase (MuSK) autoantibodies suppress the MuSK pathway and ACh receptor retention at the mouse neuromuscular junctionHigh-throughput multiplexed autoantibody detection to screen type 1 diabetes and multiple autoimmune diseases simultaneouslyHemophagocytic lymphohistocytosis in trisomy 21: successful treatment with interferon inhibitionFlowcore: a bioconductor package for high throughput flow cytometryResearch electronic data capture (REDCap)--a metadata-driven methodology and workflow process for providing translational research informatics supportType I interferon [corrected] gene induction by the interferon regulatory factor family of transcription factorsTen-year longitudinal study of thyroid function in children with Down\u2019s syndromeTrisomy 21 is a cause of permanent neonatal diabetes that is autoimmune but not HLA associatedDown syndrome: insights into autoimmune mechanismsJanus kinase inhibitors for alopecia areataAssociation between endocrine diseases and serous otitis media in childrenBoth normal memory counts and decreased naive cells favor intrinsic defect over early senescence of Down syndrome T lymphocytesHidradenitis suppurativa and down syndrome: a systematic review and meta-analysisDeep immune phenotyping reveals similarities between aging, Down syndrome, and autoimmunityMongolism; a chromosomal disease (trisomy)Biallelic variants in WARS1 cause a highly variable neurodevelopmental syndrome and implicate a critical exon for normal auditory functionRoutine screening for celiac disease in children with down syndrome improves case findingModerated estimation of fold change and dispersion for RNA-seq data with DESeq2Dermatological manifestations of Down\u2019s syndromeAutoimmunity in Down\u2019s syndrome via cytokines, CD4 T cells and CD11c+ B cellsSex differences in the gut microbiome drive hormone-dependent regulation of autoimmunityPartial IFN-  and IFN-  receptor knockout trisomy 16 mouse fetuses show improved growth and cultured neuron viabilityCluster analysis of autoimmune rheumatic diseases based on autoantibodies: new insights for polyautoimmunityJAK inhibition for treatment of psoriatic arthritis in Down syndromeCharacterization of thyroid abnormalities in a large cohort of children with down syndromeNovel somatic mutations in UBA1 as a cause of VEXAS syndromeTrisomy 21 activates the kynurenine pathway via increased dosage of interferon receptorsJanus kinase inhibition in Down syndrome: 2 cases of therapeutic benefit for alopecia areataJAK inhibition in Down Syndrome Regression DisorderDermatologic conditions in down syndrome: a multi-site retrospective review of international classification of diseases codesType I interferon-mediated monogenic autoinflammation: The type I interferonopathies, a conceptual overviewTofacitinib in juvenile idiopathic arthritis: a double-blind, placebo-controlled, withdrawal phase 3 randomised trialAssessment and diagnosis of down syndrome regression disorder: international expert consensusType I/II cytokines, JAKs, and new strategies for treating autoimmune diseasesJAK inhibition as a therapeutic strategy for immune and inflammatory diseasesEvolution of interferons and interferon receptorsA comprehensive overview of globally approved JAK inhibitorsGlobal prevalence of celiac disease: systematic review and meta-analysisGene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profilesTrisomy 21 consistently activates the interferon responseTrisomy 21 causes changes in the circulating proteome indicative of chronic autoinflammationPhenotypic and dermatological manifestations in Down SyndromeA new horizon for atopic dermatitis treatments: jak inhibitorsInflammatory and Immunological parameters in adults with Down syndromeJAK1 inhibition blocks lethal immune hypersensitivity in a mouse model of down syndromeFlowSOM: using self-organizing maps for visualization and interpretation of cytometry dataMass cytometry reveals global immune remodeling with multi-lineage hypersensitivity to type i interferon in down syndromeTriplication of the interferon receptor locus contributes to hallmarks of Down syndrome in a mouse modelDown\u2019s syndrome, neuroinflammation, and Alzheimer neuropathogenesisCardiovascular and cancer risk with tofacitinib in rheumatoid arthritisPrevalence of celiac disease in down syndrome in the united statesAberrations in circulating inflammatory cytokine levels in patients with Down syndrome: a meta-analysisPalladium-based mass tag cell barcoding with a doublet-filtering scheme and single-cell deconvolution algorithmeLife AssessmentReviewer #1 (Public review):Reviewer #2 (Public review):Reviewer #3 (Public review):Author response",
+  "pmcid": "11687933",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "n=1",
+        "n=60",
+        "n=3",
+        "n=120",
+        "n=6"
+      ],
+      "examples": [
+        {
+          "match": "n=120",
+          "context": "sma samples (50 \u00b5L each; T21, n=120; D21, n=60) was performed by"
+        },
+        {
+          "match": "n=60",
+          "context": "(50 \u00b5L each; T21, n=120; D21, n=60) was performed by the Affinit"
+        },
+        {
+          "match": "n=6",
+          "context": "cipants were alopecia areata: n=6 (46.1%), hidradenitis suppura"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "ontrolled, withdrawal phase 3 randomised trialAssessment and diagnosi"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "outcome measure",
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "ng condition. The two primary outcome measures for this trial are safety an"
+        },
+        {
+          "match": "outcome measure",
+          "context": "escribed above. The secondary outcome measures for this trial include impro"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "erg et al., 2022), the safety primary endpoint was defined as no more than t"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "matlab",
+        "bioconductor"
+      ],
+      "examples": [
+        {
+          "match": "Matlab",
+          "context": "reviously described using the Matlab-based Normalizer tool (Finck"
+        },
+        {
+          "match": "Matlab",
+          "context": "were demultiplexed using the Matlab-based Single Cell Debarcoder"
+        },
+        {
+          "match": "bioconductor",
+          "context": "erferon inhibitionFlowcore: a bioconductor package for high throughput f"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "standard deviation",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "sample, based on the mean and standard deviation of the HTP euploid control sa"
+        },
+        {
+          "match": "standard deviation",
+          "context": "sample, based on the mean and standard deviation of the HTP euploid control sa"
+        },
+        {
+          "match": "interquartile range",
+          "context": "nts more than three times the interquartile range below or above the first and"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "multiple comparisons",
+        "benjamini-hochberg",
+        "multiple testing",
+        "false discovery rate"
+      ],
+      "examples": [
+        {
+          "match": "Benjamini-Hochberg",
+          "context": "sting was performed using the Benjamini-Hochberg approach and significance def"
+        },
+        {
+          "match": "Benjamini-Hochberg",
+          "context": "isons was performed using the Benjamini-Hochberg (FDR) approach. Effect sizes"
+        },
+        {
+          "match": "Benjamini-Hochberg",
+          "context": "ection was performed with the Benjamini-Hochberg method using a false discover"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "alpha",
+        "secondary endpoint",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "Alpha",
+          "context": "in DS: Tumor Necrosis Factor Alpha (TNF-\u03b1), interleukin 6 (IL-6)"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "data is described above. The secondary outcome measures for this trial inclu"
+        },
+        {
+          "match": "secondary endpoint",
+          "context": "with a range of 0\u201321. Another secondary endpoint assessing global skin health"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "fold-change",
+        "fisher\u2019s exact"
+      ],
+      "examples": [
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "21 group was determined using Fisher\u2019s exact test, excluding antigens dete"
+        },
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "ilarly, within the T21 group, Fisher\u2019s exact test was used to test for ove"
+        },
+        {
+          "match": "fold-change",
+          "context": "R) approach. Effect sizes (as fold-change in T21 vs. euploid controls o"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "proportions",
+        "frequencies"
+      ],
+      "examples": [
+        {
+          "match": "proportions",
+          "context": "model using cell type cluster proportions (relative frequency) as the o"
+        },
+        {
+          "match": "frequencies",
+          "context": "le and comparison to relative frequencies obtained by independent flow"
+        },
+        {
+          "match": "frequencies",
+          "context": "nimal spanning tree. Relative frequencies for each cell type / cluster"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "transcription factorsTen-year longitudinal study of thyroid function in"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "nested",
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "15) was carried out using the cluster() function from CATALYST, wit"
+        },
+        {
+          "match": "cluster",
+          "context": "e compromise between gains in cluster stability and number of clust"
+        },
+        {
+          "match": "cluster",
+          "context": "egative markers for each cell cluster based on marker expression di"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "missing values"
+      ],
+      "examples": [
+        {
+          "match": "missing values",
+          "context": "ge flagged. For each analyte, missing values were replaced with either the"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "effect size"
+      ],
+      "examples": [
+        {
+          "match": "Effect size",
+          "context": "mini-Hochberg (FDR) approach. Effect sizes (as fold-change in T21 vs. e"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "multiple comparisons"
+      ],
+      "examples": [
+        {
+          "match": "multiple comparisons",
+          "context": "sion analysis. Correction for multiple comparisons was performed using the Benja"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "excluded",
+        "excluding"
+      ],
+      "examples": [
+        {
+          "match": "excluding",
+          "context": "ed using Fisher\u2019s exact test, excluding antigens detected in <18 samp"
+        },
+        {
+          "match": "excluded",
+          "context": "stly, CD3 +CD19+doublets were excluded and remaining cells exported"
+        },
+        {
+          "match": "excluded",
+          "context": "3*IQR or above Q3 +3*IQR) and excluded from beta regression analysis"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "ion blocks lethal immune hypersensitivity in a mouse model of down synd"
+        },
+        {
+          "match": "sensitivity",
+          "context": "eling with multi-lineage hypersensitivity to type i interferon in down"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 25,
+      "unique_matches": [
+        "knockout",
+        "in vivo",
+        "mouse model",
+        "flow cytometry",
+        "cell line",
+        "transcriptome",
+        "fluorescence",
+        "staining",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "ntholysis in vivo in neonatal miceMAIT cells in barrier tissues:"
+        },
+        {
+          "match": "mouse model",
+          "context": "s1Cje, Ts65Dn and Dp(16)1/Yey mouse models of Down syndromePersonalized"
+        },
+        {
+          "match": "mouse model",
+          "context": "immune hypersensitivity in a mouse model of down syndromeFlowSOM: usin"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...ge flagged. For each analyte, missing values were replaced with either the..."
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...transcription factorsTen-year longitudinal study of thyroid function in..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...transcription factorsTen-year longitudinal study of thyroid function in..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...ed using Fisher\u2019s exact test, excluding antigens detected in <18 samp..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'knockout'"
+      },
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...sting was performed using the Benjamini-Hochberg approach and significance def..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...mini-Hochberg (FDR) approach. Effect sizes (as fold-change in T21 vs. e..."
+      },
+      {
+        "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
+        "evidence": "...sion analysis. Correction for multiple comparisons was performed using the Benja..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...ion blocks lethal immune hypersensitivity in a mouse model of down synd..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

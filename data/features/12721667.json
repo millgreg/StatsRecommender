@@ -1,0 +1,293 @@
+{
+  "title": "Multi-Institutional Outcomes of Dorsal Onlay Buccal Mucosal Graft Urethroplasty in Patients With Postprostatectomy, Postradiation Anastomotic StenosisAn update on best practice in the diagnosis and management of post-prostatectomy anastomotic stricturesProstate cancer radiation and urethral strictures: a systematic review and meta-analysisManagement of urethral stricture and bladder neck contracture following primary and salvage treatment of prostate cancerSIU/ICUD Consultation on Urethral Strictures: posterior urethral stenosis after treatment of prostate cancerImpact of prior prostate radiation on complications after radical prostatectomySalvage versus primary robot-assisted radical prostatectomy: a propensity-matched comparative effectiveness study from a high-volume tertiary centreIncidence of stress urinary incontinence after posterior urethroplasty for radiation-induced urethral stricturesImproving outcomes of bulbomembranous urethroplasty for radiation-induced urethral strictures in post-Urolume eraUrethroplasty after radiation therapy for prostate cancerUrethroplasty for radiotherapy induced bulbomembranous strictures: a multi-institutional experienceVesicourethral anastomotic stenosis after prostate cancer treatmentOutcomes and complications after intervention for postradiation prostatic urethral stenosisVesico-urethral anastomotic stenosis following radical prostatectomy: a multi-institutional outcome analysis with a focus on endoscopic approach, surgical sequence, and the impact of radiation therapyCurrent management of membranous urethral strictures due to radiationSIU/ICUD Consultation on Urethral Strictures: epidemiology, etiology, anatomy, and nomenclature of urethral stenoses, strictures, and pelvic fracture urethral disruption injuriesOne-sided anterior urethroplasty: a new dorsal onlay graft techniqueHistological study of the cavernous nerve mesh outside the periprostatic region: anatomical basis for erectile function after nonnerve sparing radical prostatectomyDorsal onlay urethroplasty for membranous urethral strictures: urinary and erectile functional outcomesThe International Index of Erectile Function (IIEF): a state-of-the-science reviewA pilot clinical trial of oral pentosan polysulfate and oral hydroxyzine in patients with interstitial cystitisDevastated bladder outlet in pelvic cancer survivors: issues on surgical reconstruction and quality of lifeSalvage prostatectomy post-definitive radiation therapy: the Vancouver experienceAdjuvant radiotherapy following radical prostatectomy for prostate cancerSalvage radical prostatectomy for recurrent prostate cancer: morbidity and functional outcomes from a large multicenter series of open versus robotic approachesSurgical correction of bladder neck contracture following prostate cancer treatmentOpen reconstruction of recurrent vesicourethral anastomotic stricture after radical prostatectomyBuccal mucosal graft urethroplasty for radiation-induced urethral strictures: an evaluation using the extended Urethral Stricture Surgery Patient-Reported Outcome Measure (USS PROM)Robotic urethral reconstruction outcomes in men with posterior urethral stenosisPatency and incontinence rates after robotic bladder neck reconstruction for vesicourethral anastomotic stenosis and recalcitrant bladder neck contractures: the Trauma and Urologic Reconstructive Network of Surgeons experienceUrethroplasty for high risk, long segment urethral strictures with ventral buccal mucosa graft and gracilis muscle flapA multi-institutional critical assessment of dorsal onlay urethroplasty for post-radiation urethral stenosis",
+  "pmcid": "12721667",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "Outcome Measure",
+          "context": "ture Surgery Patient-Reported Outcome Measure (USS PROM)Robotic urethral re"
+        },
+        {
+          "match": "outcome measure",
+          "context": "nd validated patient-reported outcome measures (PROMs) such as GRA, IPSS, a"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sas version 9.4"
+      ],
+      "examples": [
+        {
+          "match": "SAS version 9.4",
+          "context": "analyses were performed using SAS version 9.4. CAPTION: Patient Characteris"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "Secondary outcome",
+          "context": "stress urinary incontinence. Secondary outcomes were surgical complications,"
+        },
+        {
+          "match": "Secondary outcome",
+          "context": "and incidence of de novo SUI. Secondary outcomes included qualitative and qua"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "wilcoxon"
+      ],
+      "examples": [
+        {
+          "match": "Wilcoxon",
+          "context": "ssed using a paired t test or Wilcoxon signed rank test, depending o"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "ssed using a paired t test or Wilcoxon signed rank test. Categorical"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "kaplan-meier"
+      ],
+      "examples": [
+        {
+          "match": "Kaplan-Meier",
+          "context": "tively and at last follow-up. Kaplan-Meier curves and the log rank test"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "binary"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "epending on normality. Binary categorical outcomes were evaluated using"
+        },
+        {
+          "match": "Categorical",
+          "context": "or Wilcoxon signed rank test. Categorical outcomes were evaluated using"
+        },
+        {
+          "match": "Continuous",
+          "context": "perative PROMs were analyzed. Continuous outcomes were assessed using"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "ect of the urethra is incised longitudinally through the length of steno"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "on, and length were reviewed (Table 1). Operative reports were revi"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "categorized"
+      ],
+      "examples": [
+        {
+          "match": "categorized",
+          "context": "Preoperatively patients were categorized continent, incontinent, or un"
+        },
+        {
+          "match": "categorized",
+          "context": "ostoperatively, patients were categorized as either continent or incont"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

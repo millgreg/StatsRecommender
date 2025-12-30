@@ -1,0 +1,268 @@
+{
+  "title": "Community based cohort studies in China: critical insights for shaping the future of population and public healthThe Rotterdam Study. Design update and major findings between 2020 and 2024Risk factors associated with heatwave mortality in Chinese adults over 65 yearsNowcasting and forecasting the care needs of the older population in China: analysis of data from the China Health and Retirement Longitudinal Study (CHARLS)Landscape of large scale cohort development in ChinaCohort profile: the Cebu longitudinal health and nutrition surveyProspective Epidemiological Research Studies in Iran (the PERSIAN Cohort Study): Rationale, Objectives, and DesignSurvival after minimally invasive radical hysterectomy for early-stage cervical cancerBreadth versus depth: balancing variables, sample size, and quality in Chinese cohort studiesAge and genetic risk score and rates of blood lipid changes in ChinaMetabolomics and type 2 diabetes risk: An updated systematic review and meta-analysis of prospective cohort studiesEthnic differences in the association between body mass index and hypertensionConventional and genetic evidence on alcohol and vascular disease aetiology: a prospective study of 500\u2008000 men and women in ChinaGenome-wide association study in Chinese identifies novel loci for blood pressure and hypertensionEvaluation of atherosclerotic cardiovascular risk prediction models in China: results from the CHERRY studySecular trends in salt and soy sauce intake among Chinese adults, 1997-2011Association of a province-wide intervention with salt intake and hypertension in Shandong province, China, 2011-2016The cost-effectiveness of low-cost essential antihypertensive medicines for hypertension control in China: a modelling studyBuilding sustainable cohort studies in China: a hybrid model for public health researchA village doctor-led multifaceted intervention for blood pressure control in rural China: an open, cluster randomised trialPerformance and effectiveness of hepatocellular carcinoma screening in individuals with HBsAg seropositivity in China: a multicenter prospective studyMorbidity and mortality after lifestyle intervention for people with impaired glucose tolerance: 30-year results of the Da Qing Diabetes Prevention Outcome StudyWhy representativeness should be avoidedTobacco smoking and risks of more than 470 diseases in China: a prospective cohort studyEnhancing international collaboration in cohort studies in China: opportunities and challengesLinking air pollution exposure to blood-based metabolic features in a community-based aging cohort with and without dementiaEffect of a multicomponent intervention delivered on a web-based platform on hypertension control: a cluster randomized clinical trial",
+  "pmcid": "12542862",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "s depth: balancing variables, sample size, and quality in Chinese cohor"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "rural China: an open, cluster randomised trialPerformance and effecti"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "Longitudinal",
+          "context": "e China Health and Retirement Longitudinal Study (CHARLS)Landscape of la"
+        },
+        {
+          "match": "longitudinal",
+          "context": "ChinaCohort profile: the Cebu longitudinal health and nutrition surveyPr"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "trol in rural China: an open, cluster randomised trialPerformance a"
+        },
+        {
+          "match": "cluster",
+          "context": "rm on hypertension control: a cluster randomized clinical trial"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...e China Health and Retirement Longitudinal Study (CHARLS)Landscape of la..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...e China Health and Retirement Longitudinal Study (CHARLS)Landscape of la..."
+      }
+    ],
+    "strengths": [],
+    "actionable_recommendations": [
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

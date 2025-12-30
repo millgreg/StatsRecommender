@@ -1,0 +1,275 @@
+{
+  "title": "Simultaneous noninvasive quantification of redox and downstream glycolytic fluxes reveals compartmentalized brain metabolismBrain energy metabolism: A roadmap for future researchBrain metabolism in health, aging, and neurodegenerationVariability of regional glucose metabolism and the topology of functional networks in the human brainBrain energy and oxygen metabolism: Emerging role in normal function and diseaseIsocitrate dehydrogenase variants in cancer\u2014Cellular consequences and therapeutic opportunitiesCalcium and ROS: A mutual interplayMolecular mechanisms and genetics of oxidative stress in Alzheimer's diseaseTargeting oxidative stress in disease: Promise and limitations of antioxidant therapyMetabolic analysis as a driver for discovery, diagnosis, and therapyThe neurochemical profile quantified by in vivo H NMR spectroscopyBrain PET in suspected dementia: Patterns of altered FDG metabolismMetabolomics and isotope tracingReal-time metabolic imagingHyperpolarized C MRI: Path to clinical translation in oncologyMetabolic imaging of the human brain with hyperpolarized C pyruvate demonstrates C lactate production in brain tumor patientsQuantifying normal human brain metabolism using hyperpolarized [1-C] pyruvate and magnetic resonance imagingLactate topography of the human brain using hyperpolarized C-MRIKinetic modeling of hyperpolarized carbon-13 pyruvate metabolism in the human brainFirst in-human evaluation of [1-C]pyruvate in DO for hyperpolarized MRI of the brain: A safety and feasibility studyChemistry and biochemistry of C hyperpolarized magnetic resonance using dynamic nuclear polarizationOxidative stress in cancerLifestyle, oxidative stress, and antioxidants: Back and forth in the pathophysiology of chronic diseasesVitamin C selectively kills  and  mutant colorectal cancer cells by targeting GAPDHHigh-dose intravenous vitamin C, a promising multi-targeting agent in the treatment of cancerMammalian facilitative hexose transporters mediate the transport of dehydroascorbic acidHyperpolarized C dehydroascorbate as an endogenous redox sensor for in vivo metabolic imagingNoninvasive in vivo imaging of diabetes-induced renal oxidative stress and response to therapy using hyperpolarized C dehydroascorbate magnetic resonanceImaging brain metabolism using hyperpolarized C magnetic resonance spectroscopyHyperpolarized [2-C]-fructose: A hemiketal DNP substrate for in vivo metabolic imagingKetohexokinase-mediated fructose metabolism is lost in hepatocellular carcinoma and can be leveraged for metabolic imagingHyperpolarized sodium [1-C]-glycerate as a probe for assessing glycolysis in vivoPhotogenerated radical in phenylglyoxylic acid for in vivo hyperpolarized C MR with photosensitive metabolic substratesReal-time detection of hepatic gluconeogenic and glycogenolytic states using hyperpolarized [2-C]dihydroxyacetoneImaging glutathione depletion in the rat brain using ascorbate-derived hyperpolarized MR and PET probesHyperpolarized C magnetic resonance metabolic imaging: Application to brain tumorsImmunometabolism of tissue-resident macrophages\u2014An appraisal of the current knowledge and cutting-edge methods and technologiesMALDI Imaging mass spectrometry: Current frontiers and perspectives in pathology research and practiceImaging brain glucose metabolism in vivo reveals propionate as a major anaplerotic substrate in pyruvate dehydrogenase deficiencyEvidence of C-lactate oxidation in the human brain from hyperpolarized C-MRIA variable resolution approach for improved acquisition of hyperpolarized C metabolic MRIHyperpolarized [2-C]pyruvate MR molecular imaging with whole brain coverageInvestigation of analysis methods for hyperpolarized 13C-pyruvate metabolic MRI in prostate cancer patientsSIVIC: Open-source, standards-based software for DICOM MR spectroscopy workflowsQuantitation of magnetic resonance spectroscopy signals: The jMRUI software packageImproved method for accurate and efficient quantification of MRS data with use of prior knowledge",
+  "pmcid": "11661454",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "n = 3",
+        "n = 4"
+      ],
+      "examples": [
+        {
+          "match": "n = 3",
+          "context": "rformed on athymic nude mice (n = 3). Mice were intravenously inj"
+        },
+        {
+          "match": "n = 4",
+          "context": "s were performed on C57BL/6J (n = 4) mice. Following the mouse po"
+        },
+        {
+          "match": "n = 4",
+          "context": "rformed on athymic nude mice (n = 4). Following the mouse setup,"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "matlab",
+        "graphpad prism"
+      ],
+      "examples": [
+        {
+          "match": "GraphPad Prism",
+          "context": "analysis was performed using GraphPad Prism version 10.0.3 (GraphPad Soft"
+        },
+        {
+          "match": "Matlab",
+          "context": "tively modeled using a custom Matlab script (Matlab R2021b, The Ma"
+        },
+        {
+          "match": "Matlab",
+          "context": "using a custom Matlab script (Matlab R2021b, The MathWorks). Kinet"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sd"
+      ],
+      "examples": [
+        {
+          "match": "SD",
+          "context": "alues are reported as means \u00b1 SD for all dataset unless specif"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "p < 0.05"
+      ],
+      "examples": [
+        {
+          "match": "P < 0.05",
+          "context": "In all statistical analysis, P < 0.05 was taken as significant. One"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "nputless\u201d (42). The estimated longitudinal relaxation time (T1) of each"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 30,
+      "unique_matches": [
+        "quantification",
+        "in vivo",
+        "cell line",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "9). Eight female athymic nude mice (the Jackson Laboratory, Bar"
+        },
+        {
+          "match": "mice",
+          "context": "36 g and four female C57BL/6J mice (the Jackson Laboratory) aged"
+        },
+        {
+          "match": "mice",
+          "context": "three female athymic Foxn1nu mice (Charles River, Wilmington, M"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "title": "\uac04\uc12c\uc720\ud654 \ud3c9\uac00\ub97c \uc704\ud55c \ube44\uce68\uc2b5\uc801 \uc601\uc0c1\uac80\uc0ac: \uc21c\uac04 \ud0c4\uc131\uce21\uc815\ubc95KASL clinical practice guidelines for noninvasive tests to assess liver fibrosis in chronic liver diseaseEvaluation of hepatic fibrosis: a review from the society of abdominal radiology disease focus panelUltrasound elastography and MR elastography for assessing liver fibrosis: Part 1, principles and techniquesElastography assessment of liver fibrosis: Society of radiologists in ultrasound consensus conference statementTransient elastography: a new noninvasive method for assessment of hepatic fibrosisUltrasound elastography for liver disease with focus on hepatic fibrosisWFUMB guidelines and recommendations for clinical use of ultrasound elastography: Part 1: basic principles and terminologyLiver stiffness in the hepatitis B virus carrier: a non-invasive marker of liver disease influenced by the pattern of transaminasesFood intake increases liver stiffness in patients with chronic or resolved hepatitis C virus infectionVariability in liver stiffness values from different intercostal spacesTransient elastography in chronic hepatitis B: an Asian perspectiveFactors of accuracy of transient elastography (fibroscan) for the diagnosis of liver fibrosis in chronic hepatitis CPrevalence, risk factors and causes of discordance in fibrosis staging by transient elastography and liver biopsyTransient elastography is unreliable for detection of cirrhosis in patients with acute liver damageAcute viral hepatitis increases liver stiffness values measured by transient elastographyTransient elastography: a new surrogate marker of liver fibrosis influenced by major changes of transaminasesHow can we enhance the performance of liver stiffness measurement using FibroScan in diagnosing liver cirrhosis in patients with chronic hepatitis B?Extrahepatic cholestasis increases liver stiffness (FibroScan) irrespective of fibrosisLiver stiffness is directly influenced by central venous pressureEffect of alcohol consumption on liver stiffness measured by transient elastographyIncreased liver stiffness in alcoholic liver disease: differentiating fibrosis from steatohepatitisRapid decline of liver stiffness following alcohol withdrawal in heavy drinkersNon-invasive assessment of liver fibrosis by stiffness measurement in patients with chronic hepatitis BAlanine aminotransferasebased algorithms of liver stiffness measurement by transient elastography (Fibroscan) for liver fibrosis in chronic hepatitis BProspective validation of FibroTest in comparison with liver stiffness for predicting liver fibrosis in Asian subjects with chronic hepatitis BProspective evaluation of FibroScan for the diagnosis of hepatic fibrosis compared with liver biopsy/AST platelet ratio index and FIB-4 in patients with chronic HBV infectionDiagnostic accuracy of FibroScan and comparison to liver fibrosis biomarkers in chronic viral hepatitis: a multicenter prospective study (the FIBROSTIC study)Liver stiffness measurements in patients with HBV vs HCV chronic hepatitis: a comparative studyDual cut-off transient elastography to assess liver fibrosis in chronic hepatitis B: a cohort study with internal validationEvaluation of transient elastography for fibrosis assessment compared with large biopsies in chronic hepatitis B and CDirect comparison of diagnostic performance of transient elastography in patients with chronic hepatitis B and chronic hepatitis CPerformance of transient elastography for the staging of liver fibrosis in patients with chronic hepatitis B: a meta-analysisSystematic review with meta-analysis: the diagnostic accuracy of transient elastography for the staging of liver fibrosis in patients with chronic hepatitis BTransient elastography for significant liver fibrosis and cirrhosis in chronic hepatitis B: A meta-analysisDiagnostic performance of elastography on liver fibrosis in antiviral treatment-naive chronic hepatitis B patients: a meta-analysisEtiology-related determinants of liver stiffness values in chronic viral hepatitis B or CEASL-ALEH Clinical Practice Guidelines: Non-invasive tests for evaluation of liver disease severity and prognosisVibration-controlled transient elastography for significant fibrosis in treatment-na\u00efve chronic hepatitis B patients: A systematic review and meta-analysisNoninvasive assessment of liver fibrosis by measurement of stiffness in patients with chronic hepatitis CRelative performances of FibroTest, Fibroscan, and biopsy for the assessment of the stage of liver fibrosis in patients with chronic hepatitis C: a step toward the truth in the absence of a gold standardAccuracy of transient elastography in assessing liver fibrosis in chronic viral hepatitis: A multicentre, retrospective study",
+  "pmcid": "12285383",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

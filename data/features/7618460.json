@@ -1,0 +1,306 @@
+{
+  "title": "A phase 1 randomized, placebo-controlled trial of a combination typhoid and non-typhoidal  polysaccharide conjugate vaccineA phase 1 randomized, placebo-controlled trial of a combination typhoid and non-typhoidal  polysaccharide conjugate vaccineInvasive non-typhoidal salmonella disease: an emerging and neglected tropical disease in AfricaBacteremia among children admitted to a rural hospital in KenyaEpidemiologic and clinical characteristics of community-acquired invasive bacterial infections in children aged 2-29 months in The GambiaCommunity-acquired bacteremia among children admitted to a rural hospital in MozambiqueInvasive Nontyphoidal Salmonella Infections Among Children in Mali, 2002-2014: Microbiological and Epidemiologic Features Guide Vaccine DevelopmentThe global burden of non-typhoidal salmonella invasive disease: a systematic analysis for the Global Burden of Disease Study 2017Haemophilus influenzae Type B conjugate vaccine introduction in Mali: impact on disease burden and serologic correlate of protectionThe global burden of typhoid and paratyphoid fevers: a systematic analysis for the Global Burden of Disease Study 2017Introduction of Typhoid Conjugate Vaccines in Africa and AsiaDevelopment of a glycoconjugate vaccine to prevent invasive Salmonella Typhimurium infections in sub-Saharan AfricaSalmonella enterica serovar enteritidis core O polysaccharide conjugated to H:g,m flagellin as a candidate vaccine for protection against invasive infection with S. enteritidisImmunogenicity and Induction of Functional Antibodies in Rabbits Immunized with a Trivalent Typhoid-Invasive Nontyphoidal Salmonella Glycoconjugate FormulationTyphoid conjugate vaccine gets WHO prequalificationGavi Support for Typhoid Conjugate Vaccines: Moving From Global Investments to Country IntroductionA scalable method for biochemical purification of Salmonella flagellinImmunogenicity and efficacy following sequential parenterally-administered doses of Salmonella Enteritidis COPS:FliC glycoconjugates in infant and adult miceEngineering and preclinical evaluation of attenuated nontyphoidal Salmonella strains serving as live oral vaccines and as reagent strainsNeutralizing and cross-reactive antibodies against enterobacterial lipopolysaccharideCross-reactivity between six Enterobacteriaceae complete lipopolysaccharide core chemotypesThe global burden and epidemiology of invasive non-typhoidal Salmonella infectionsInvasive nontyphoidal Salmonella disease: epidemiology, pathogenesis and diagnosisGenetic changes associated with the temporal shift in invasive non-typhoidal Salmonella serovars in Bamako MaliEpidemic multiple drug resistant Salmonella Typhimurium causing invasive disease in sub-Saharan Africa have a distinct genotypeSupporting evidence for a human reservoir of invasive non-Typhoidal Salmonella from household samples in Burkina FasoDevelopment of VAX128, a recombinant hemagglutinin (HA) influenza-flagellin fusion vaccine with improved safety and immune responseSafety and immunogenicity of a recombinant hemagglutinin influenza-flagellin fusion vaccine (VAX125) in healthy young adultsSafety and immunogenicity of a recombinant M2e-flagellin influenza vaccine (STF2.4xM2e) in healthy adultsVi-specific serological correlates of protection for typhoid feverDifferentiation and homing of IgA-secreting cellsGut-Homing Conventional Plasmablasts and CD27(-) Plasmablasts Elicited after a Short Time of Exposure to an Oral Live-Attenuated Shigella Vaccine Candidate in HumansCritical role for beta7 integrins in formation of the gut-associated lymphoid tissueFunctional Activity of Antibodies Directed towards Flagellin Proteins of Non-Typhoidal Salmonella",
+  "pmcid": "7618460",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sample size",
+        "power calculation",
+        "n=2",
+        "n=10"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "is testing was performed. The sample size was deemed appropriate to mee"
+        },
+        {
+          "match": "power calculation",
+          "context": "ing FlowJo V10.7.1. No formal power calculations or hypothesis testing was pe"
+        },
+        {
+          "match": "n=10",
+          "context": "2.5 \u00b5g dose group, Vaccinees; n=10, Placebo; n=2). Briefly, dupl"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "-in-human, randomized, double-blinded, placebo-controlled, phase 1"
+        },
+        {
+          "match": "blinded",
+          "context": "randomization and receipt of blinded study vaccine, eligibility cr"
+        },
+        {
+          "match": "blinded",
+          "context": "0.5 mL intramuscular dose of blinded study vaccine, participants w"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "flowjo"
+      ],
+      "examples": [
+        {
+          "match": "FlowJo",
+          "context": "Samples were analyzed using a FlowJo software package (Tree Star,"
+        },
+        {
+          "match": "FlowJo",
+          "context": "liCyt ForeCyt (v8.1) or using FlowJo V10.7.1. No formal power calc"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "no formal power calculations or hypothesis testing"
+      ],
+      "examples": [
+        {
+          "match": "No formal power calculations or hypothesis testing",
+          "context": "8.1) or using FlowJo V10.7.1. No formal power calculations or hypothesis testing was performed. The sample siz"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "fold-change",
+        "titer"
+      ],
+      "examples": [
+        {
+          "match": "fold-change",
+          "context": "ntelliCyt ForeCyt (v8.1). The fold-change of PE median fluorescent inte"
+        },
+        {
+          "match": "titer",
+          "context": "igen-specific serum IgG ELISA titers, at 28-days and 57-days post"
+        },
+        {
+          "match": "Titer",
+          "context": "l sera were run in duplicate. Titers were calculated by interpola"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "deviations. Demographics and baseline characteristics were summarized using descri"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "8-45 years. Participants were excluded if they had a history of a cl"
+        },
+        {
+          "match": "excluded",
+          "context": "accination visit and thus are excluded from the immunogenicity endpo"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "in vitro",
+        "flow cytometry",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "onjugates in infant and adult miceEngineering and preclinical ev"
+        },
+        {
+          "match": "in vitro",
+          "context": ", thawed PBMC were stimulated in vitro with a B cell-expansion media"
+        },
+        {
+          "match": "flow cytometry",
+          "context": "ls). We utilized an optimized flow cytometry-based sorting protocol to sim"
+        }
+      ]
+    }
+  }
+}

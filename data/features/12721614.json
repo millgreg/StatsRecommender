@@ -1,0 +1,345 @@
+{
+  "title": "miR-371a-3p Predicting Viable Tumor in Patients Undergoing Retroperitoneal Lymph Node Dissection for Metastatic Testicular Cancer: The SWENOTECA-MIR StudyInternational trends in the incidence of testicular cancer: lessons from 35 years and 41 countriesLong-term and late effects of germ cell testicular cancer treatment and implications for follow-upLong-term relative survival after diagnosis of testicular germ cell tumorThe present and future of serum diagnostic tests for testicular germ cell tumoursSWENOTECA X management program of testicular cancerSurgery in early metastatic seminoma: a phase II trial of retroperitoneal lymph node dissection for testicular seminoma with limited retroperitoneal lymphadenopathyNerve sparing retroperitoneal lymph node dissection in clinical stage IIA/B seminoma: the COTRIMS trialPhase 2 single-arm trial of primary retroperitoneal lymph node dissection in patients with seminomatous testicular germ cell tumors with clinical stage IIA/B (PRIMETEST)Nonrandomized comparison of primary chemotherapy and retroperitoneal lymph node dissection for clinical stage IIA and IIB nonseminomatous germ cell testicular cancerComplications of primary nerve sparing retroperitoneal lymph node dissection for clinical stage I nonseminomatous germ cell tumors of the testis: experience of the German Testicular Cancer Study GroupUnilateral or bilateral retroperitoneal lymph node dissection in nonseminoma patients with postchemotherapy residual tumour? Results from RETROP, a population-based mapping study by the Swedish Norwegian Testicular Cancer GroupIdentification of microRNAs from the miR-371\u223c373 and miR-302 clusters as potential serum biomarkers of malignant germ cell tumorsSerum levels of microRNA-371a-3p are not elevated in testicular tumours of non-germ cell originSerum levels of microRNA-371a-3p (M371 test) as a new biomarker of testicular germ cell tumors: results of a prospective multicentric studyCirculating serum miRNA (miR-367-3p, miR-371a-3p, miR-372-3p and miR-373-3p) as biomarkers in patients with testicular germ cell cancerSerum levels of microRNA miR-371a-3p: a sensitive and specific new biomarker for germ cell tumoursSerum miRNA predicts viable disease after chemotherapy in patients with testicular nonseminoma germ cell tumorDeveloping a highly specific biomarker for germ cell malignancies: plasma miR371 expression across the germ cell malignancy spectrumThe role of micro-RNAs in management of germ cell tumors: future directionsSerum miR371 in testicular germ cell cancer before and after orchiectomy, assessed by digital-droplet PCR in a prospective studyEvaluation of miR-371a-3p to predict viable germ cell tumor in patients with pure seminoma receiving retroperitoneal lymph node dissectionSerum microRNA-371a-3p levels predict viable germ cell tumor in chemotherapy-na\u00efve patients undergoing retroperitoneal lymph node dissectionEvaluation of a miRNA-371a-3p assay for predicting final histopathology in patients undergoing primary nerve-sparing retroperitoneal lymphadenectomy for stage IIA/B seminoma or nonseminomaRefining the serum miR-371a-3p test for viable germ cell tumor detectionSerum level of microRNA-375-3p is not a reliable biomarker of teratomaIntegrated expression of circulating miR375 and miR371 to identify teratoma and active germ cell malignancy components in malignant germ cell tumorsThe combination of microRNA-371a-3p and 375-5p can distinguish viable germ cell tumor and teratoma from necrosis in postchemotherapy retroperitoneal lymph node dissection specimensSerum small RNA sequencing and miR-375 assay do not identify the presence of pure teratoma at postchemotherapy retroperitoneal lymph node dissectionMicroRNAs in differentiation of embryoid bodies and the teratoma subtype of testicular cancerRadiomics allows for detection of benign and malignant histopathology in patients with metastatic testicular germ cell tumors prior to post-chemotherapy retroperitoneal lymph node dissection",
+  "pmcid": "12721614",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "n = 72",
+        "n = 23",
+        "n = 18",
+        "n = 24",
+        "n = 14"
+      ],
+      "examples": [
+        {
+          "match": "n = 18",
+          "context": "Lymph Node Dissection Group, n = 18) FOOTER: Abbreviations: AFP,"
+        },
+        {
+          "match": "n = 24",
+          "context": "Lymph Node Dissection Group, n = 24) FOOTER: Abbreviations: BEP,"
+        },
+        {
+          "match": "n = 14",
+          "context": "er Than Teratoma After RPLND (n = 14) FOOTER: Abbreviations: AFP+,"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomly assigned"
+      ],
+      "examples": [
+        {
+          "match": "randomly assigned",
+          "context": "ootstrap sample, classes were randomly assigned with probability 0.5. In the"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "n patient treatment were kept blinded to the results. Clinical para"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "stata version 16",
+        "r version 4.3.2",
+        "stata"
+      ],
+      "examples": [
+        {
+          "match": "R version 4.3.2",
+          "context": ", College Station, Texas) and R version 4.3.2 (The R Foundation, Vienna, Au"
+        },
+        {
+          "match": "STATA version 16",
+          "context": "d graphics were created using STATA version 16.1 (StataCorp LCC, College Sta"
+        },
+        {
+          "match": "Stata",
+          "context": "ted using STATA version 16.1 (StataCorp LCC, College Station, Tex"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "alPha",
+          "context": "IA/B seminoma: the COTRIMS trialPhase 2 single-arm trial of prima"
+        },
+        {
+          "match": "alpha",
+          "context": ") FOOTER: Abbreviations: AFP, alpha fetoprotein; \u03b2-hCG, beta huma"
+        },
+        {
+          "match": "alpha",
+          "context": "FOOTER: Abbreviations: AFP+, alpha fetoprotein serum marker posi"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "wilcoxon"
+      ],
+      "examples": [
+        {
+          "match": "Wilcoxon",
+          "context": "vels was determined using the Wilcoxon signed-rank test due to nonno"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "signed-rank",
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "Bootstrapping",
+          "context": "ve positive miR-371a-3p test. Bootstrapping of 1000 replications was empl"
+        },
+        {
+          "match": "signed-rank",
+          "context": "determined using the Wilcoxon signed-rank test due to nonnormal distrib"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "bootstrap",
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrap",
+          "context": "nt for potential overfitting, bootstrap optimism correction was appli"
+        },
+        {
+          "match": "bootstrap",
+          "context": "babilities when training on a bootstrap sample, classes were randomly"
+        },
+        {
+          "match": "bootstrap",
+          "context": "a class in the predictor in a bootstrap sample, the overall class pro"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "ssociations were evaluated by logistic regression. Patients who underwent prima"
+        },
+        {
+          "match": "logistic regression",
+          "context": "r the primary RPLND patients, logistic regression was used to assess associatio"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "categorized"
+      ],
+      "examples": [
+        {
+          "match": "categorized",
+          "context": "underwent primary RPLND were categorized into seminoma and nonseminoma"
+        },
+        {
+          "match": "categorized",
+          "context": "in miR-371a-3p tests and were categorized as benign outcomes or disease"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 21,
+      "unique_matches": [
+        "sensitivity",
+        "npv",
+        "positive predictive value",
+        "ppv",
+        "specificity"
+      ],
+      "examples": [
+        {
+          "match": "Sensitivity",
+          "context": "m, as previously described.20 Sensitivity, specificity, positive predic"
+        },
+        {
+          "match": "sensitivity",
+          "context": "andard in our calculations of sensitivity, specificity, PPV, and NPV is"
+        },
+        {
+          "match": "specificity",
+          "context": "sly described.20 Sensitivity, specificity, positive predictive value (P"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

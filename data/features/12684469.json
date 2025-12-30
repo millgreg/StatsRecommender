@@ -1,0 +1,218 @@
+{
+  "title": "Unmasking and Addressing COVID-19\u2013Related Maladaptive Grief Reactions Among Suicidal Youth: Pilot Evidence for an Enhanced Psychiatry Emergency Room Safety Preventive InterventionUnderstanding the public discussion about the Centers for Disease Control and Prevention during the COVID-19 pandemic using Twitter data: text mining analysis studyEthnic minority status as social determinant for COVID-19 infection, hospitalisation, severity, ICU admission and deaths in the early phase of the pandemic: a meta-analysis51.3. Clinical outcome of COVID-19 patients with and without diagnosed mental disorder treated at the Los Angeles County Department of Health ServicesTrends in suicide among youth aged 10 to 19 years in the United States, 1975 to 2016Factors associated with depression, anxiety, and PTSD symptomatology during the COVID-19 pandemic: clinical implications for U.S. young adult mental healthThe long-term clinical outcome of posttraumatic stress disorder with impaired coronary distensibilityA randomized controlled feasibility trial of reminder-focused positive psychiatry in adolescents with comorbid attention-deficit/hyperactivity disorder and posttraumatic stress disorderTrauma reminders and PTSD symptoms in children three years after a terrorist attack in BeslanEvaluating referral, screening, and assessment procedures for middle school trauma/grief-focused treatment groupsPosttraumatic stress disorder following childhood abuse increases the severity of suicide attemptsSuicide screening in schools, primary care and emergency departmentsThe emergency department: challenges and opportunities for suicide preventionPsychometric properties of the UCLA PTSD reaction index: part IPACHIQ-R: the Parent-Child Interaction Questionnaire\u2013revisedPsychometric validation of the PERMA-profiler as a well-being measure for student veteransAffective style, psychopathology, and resilience: brain mechanisms and plasticityThe Posttraumatic Growth Inventory: factor structure and invariance among persons with chronic diseasesValidation of the Persistent Complex Bereavement Disorder (PCBD) Checklist: a developmentally informed assessment tool for bereaved youthValidation of the UCLA PTSD Reaction Index for DSM-5: a developmentally informed assessment tool for youthPerceived job insecurity and depressive symptoms among Italian dentists: the moderating role of fear of COVID-19Tracking the reach of COVID-19 kin loss with a bereavement multiplier applied to the United StatesGrief during the COVID-19 pandemic: considerations for palliative care providersWho suffered most after deaths due to COVID-19? Prevalence and correlates of prolonged grief disorder in COVID-19 related bereaved adultsChange in youth mental health during the COVID-19 pandemic in a majority Hispanic/Latinx US sampleLA County COVID-19 Surveillance DashboardA 4-year review of pediatric mental health emergencies in AlbertaSummary statistics for pediatric psychiatric visits to US emergency departments, 1993-1999Pediatric mental health emergencies in the emergency medical services system. American College of Emergency PhysiciansChildhood maltreatment compromises resilience against occupational trauma exposure: a retrospective study among emergency medical service personnelEmergency department as a first contact for mental health problems in children and youthEvolutionizing grief: viewing photographs of the deceased predicts misattribution of ambiguous stimuli by the bereavedAdolescent sibling bereavement: an ongoing attachmentSuicidality in parentally bereaved adolescentsEstimates and projections of COVID-19 and parental death in the USUnfinished business and self-blaming emotions among those bereaved by a COVID-19 deathThe psychiatric sequelae of the COVID-19 pandemic in adolescents, adults, and health care workersAcceptability of the systematic screening of suicidal adolescents in emergency departmentsIdentifying adolescents at highly elevated risk for suicidal behavior in the emergency departmentFirearm-related injuries in children and adolescents: an emergency and critical care perspectiveEmergency department screening for suicide and mental health riskPsychosocial problems of children whose parents visit the emergency department due to intimate partner violence, substance abuse or a suicide attemptA randomized controlled trial to engage in care of adolescent emergency department patients with mental health problems that increase suicide riskAn emergency department intervention for linking pediatric suicidal patients to follow-up mental health treatmentReminder-focused positive psychiatry: suicide prevention among youths with comorbid posttraumatic stress disorder and suicidalitySuicide, self-harm, & traumatic stress exposure: a trauma-informed approach to the evaluation and management of suicide risk",
+  "pmcid": "12684469",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "e abuse or a suicide attemptA randomized controlled trial to engage in care of adolesce"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "Standard deviation",
+          "context": "to trauma and loss reminders.Standard deviation change from baseline to day 2"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

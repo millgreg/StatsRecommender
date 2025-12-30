@@ -1,0 +1,248 @@
+{
+  "title": "Caracterizaci\u00f3n y factores asociados a la malnutrici\u00f3n en menores de 5 a\u00f1os en el municipio de Neiva, ColombiaMalnutrici\u00f3n infantil e inseguridad alimentaria como expresi\u00f3n de las condiciones socio-econ\u00f3micas familiares en Villaguay, Argentina (2010-2012). Un enfoque bioculturalSecond International Conference of Nutrition: Why Nutrition Matters [Internet]Dynamics of the double burden of malnutrition and the changing nutrition realityFed to Fail? The Crisis of Children\u2019s Diets in Early LifeLineamientos Nacionales Para la Vigilancia, 2022 [Internet]Desnutrici\u00f3n Infantil [Internet]Malnutrition [Internet]The double burden of malnutrition: a systematic review of operational definitionsEncuesta Nacional de la Situaci\u00f3n Nutricional en Colombia - ENSIN 2015 [Internet]Bolet\u00edn del Comportamiento de los Indicadores de la Dimensi\u00f3n de Seguridad Alimentaria y Nutricional del Departamento del Huila 2021Prevalencia de Desnutrici\u00f3n Aguda en menores de 5 A\u00f1os: Huila y municipios - 2016 a 2022 [Internet]Poblaci\u00f3n Huila y Municipios - 1995 a 2035 [Internet]Informaci\u00f3n del Municipio de Neiva [Internet]Prevalencia y determinantes sociales de malnutrici\u00f3n en menores de 5 a\u00f1os afiliados al Sistema de Selecci\u00f3n de Beneficiarios para Programas Sociales (SISBEN) del \u00e1rea urbana del municipio de Palermo en Colombia, 2017Ley 1581 de 2012 \u00abPor la cual se dictan disposiciones generales para la protecci\u00f3n de datos personales\u00bb [Internet]Resoluci\u00f3n 2465 de 2016 [Internet]Portal ICBF - Instituto Colombiano de Bienestar Familiar ICBFBuen Vivir (Sumak Kawsay): definiciones, cr\u00edtica e implicaciones en la planificaci\u00f3n del desarrollo en EcuadorAm\u00e9rica Latina y el Caribe - Panorama regional de la seguridad alimentaria y nutricional 2023: Estad\u00edsticas y tendencias [Internet]Nutrition gap in children, urban-rural: the key education and food. Colombia, 2015: educaci\u00f3n y alimentos, la clave. Colombia, 2015Reducing childhood malnutrition in Bangladesh: the importance of addressing socio-economic inequalitiesDeterminants of undernutrition among young children in EthiopiaAcute malnutrition and its determinants of preschool children in Bangladesh: gender differentiationUnderstanding sex differences in childhood undernutrition: a narrative reviewA study to assess undernutrition and its sociodemographic correlates in under-five children in urban and rural areas of Rishikesh, UttarakhandPrevalence and factors associated with stunting and excess weight in children aged 0-5 years from the Brazilian semi-arid regionSociodemographic risk factors of under-five stunting in Bangladesh: assessing the role of interactions using a machine learning methodPrevalence and determinants of the double burden of malnutrition with a focus on concurrent stunting and overweight/obesity in children and adolescentsIdentifying access barriers faced by rural and dispersed communities to better address their needs: implications and lessons learned for rural proofing for health in the Americas and beyondMalnutrition in all its forms and socio-economic disparities in children under 5 years of age and women of reproductive age in PeruDouble burden of maternal and child malnutrition and socioeconomic status in urban Sri LankaDeterminantes socioecon\u00f3micos del exceso de peso en ni\u00f1os preescolares y escolares colombianos. Encuesta Nacional de Situaci\u00f3n Nutricional 2015Espacios de pobreza en la periferia urbana y suburbios interiores de la Ciudad de M\u00e9xico: las desventajas acumuladasRepresentaci\u00f3n geogr\u00e1fica de la malnutrici\u00f3n en ni\u00f1os y adolescentes de Medell\u00edn, Colombia",
+  "pmcid": "12715316",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "n\u2009=\u20091"
+      ],
+      "examples": [
+        {
+          "match": "n\u2009=\u20091",
+          "context": "el municipio de Neiva, 2022 (n\u2009=\u20091 315 ni\u00f1os). FOOTER: OR: Odds"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "Odds Ratio",
+          "context": "n\u2009=\u20091 315 ni\u00f1os). FOOTER: OR: Odds Ratio ajustado. IC 95 %: Intervalos"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "or",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "Odds Ratio",
+          "context": "n\u2009=\u20091 315 ni\u00f1os). FOOTER: OR: Odds Ratio ajustado. IC 95 %: Intervalos"
+        },
+        {
+          "match": "OR",
+          "context": "22 (n\u2009=\u20091 315 ni\u00f1os). FOOTER: OR: Odds Ratio ajustado. IC 95 %"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 8.5,
+    "rigor_rating": "High",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...n\u2009=\u20091 315 ni\u00f1os). FOOTER: OR: Odds Ratio ajustado. IC 95 %: Intervalos..."
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

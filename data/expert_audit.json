@@ -1,48 +1,744 @@
 {
-    "12570275.json": {
-        "title": "Prevention of acute myocardial infarction induced heart failure by intracoronary infusion of mesenchymal stem cells: phase 3 randomised clinical trial (PREVENT-TAHA8)",
-        "expert_findings": {
-            "strengths": [
-                "Normality checks (Shapiro-Wilk) explicitly stated",
-                "Proportional hazards assumption checked (Schoenfeld residuals)",
-                "ITT approach used",
-                "Interaction and subgroup analyses performed"
-            ],
-            "gaps": [
-                "No explicit correction for multiplicity despite multiple secondary endpoints and subgroup analyses",
-                "Blinding description lacks detail on allocation concealment process",
-                "Sample size calculation uses 'approximate' rates which could be more precise"
-            ],
-            "overall_rigor_rating": "Medium-High"
-        }
-    },
-    "12660148.json": {
-        "title": "Spatial multiomic landscape of the human placenta at molecular resolution",
-        "expert_findings": {
-            "strengths": [
-                "Multiplicity correction (Benjamini-Hochberg) for spatial autocorrelation",
-                "FDR adjustment for marker identification"
-            ],
-            "gaps": [
-                "Sample size justification lacks power calculation details",
-                "Blinding not explicitly described (noted as not relevant)"
-            ],
-            "overall_rigor_rating": "High"
-        }
-    },
-    "12618242.json": {
-        "title": "A multimodal whole-slide foundation model for pathology",
-        "expert_findings": {
-            "strengths": [
-                "Multiplicity correction (Tukey) for pairwise comparisons",
-                "Accounted for data dependency using GLMM models",
-                "Bootstrapping for performance reporting"
-            ],
-            "gaps": [
-                "Sample size lacks power calculation (common in ML studies)",
-                "P-values reported without effect size metrics"
-            ],
-            "overall_rigor_rating": "High"
-        }
+  "12570275.json": {
+    "title": "Prevention of acute myocardial infarction induced heart failure by intracoronary infusion of mesenchymal stem cells: phase 3 randomised clinical trial (PREVENT-TAHA8)",
+    "expert_findings": {
+      "strengths": [
+        "Normality checks (Shapiro-Wilk) explicitly stated",
+        "Proportional hazards assumption checked (Schoenfeld residuals)",
+        "ITT approach used",
+        "Interaction and subgroup analyses performed"
+      ],
+      "gaps": [
+        "No explicit correction for multiplicity despite multiple secondary endpoints and subgroup analyses",
+        "Blinding description lacks detail on allocation concealment process",
+        "Sample size calculation uses 'approximate' rates which could be more precise"
+      ],
+      "overall_rigor_rating": "Medium-High"
     }
+  },
+  "12660148.json": {
+    "title": "Spatial multiomic landscape of the human placenta at molecular resolution",
+    "expert_findings": {
+      "strengths": [
+        "Multiplicity correction (Benjamini-Hochberg) for spatial autocorrelation",
+        "FDR adjustment for marker identification"
+      ],
+      "gaps": [
+        "Sample size justification lacks power calculation details",
+        "Blinding not explicitly described (noted as not relevant)"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12618242.json": {
+    "title": "A multimodal whole-slide foundation model for pathology",
+    "expert_findings": {
+      "strengths": [
+        "Multiplicity correction (Tukey) for pairwise comparisons",
+        "Accounted for data dependency using GLMM models",
+        "Bootstrapping for performance reporting"
+      ],
+      "gaps": [
+        "Sample size lacks power calculation (common in ML studies)",
+        "P-values reported without effect size metrics"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12505835.json": {
+    "title": "Population based cohort study of routinely collected data in electronic health records",
+    "expert_findings": {
+      "strengths": [
+        "Large population-based cohort using routinely collected EHR data",
+        "Standardized reporting according to RECORD/STROBE guidelines",
+        "Used mixed effects negative binomial regression and linear mixed effects models",
+        "Adjusted for several fixed effects (age, ethnicity, IMD, region, family history, etc.)",
+        "Included random intercepts for practices (clustering)",
+        "Sensitivity analyses performed"
+      ],
+      "gaps": [
+        "No explicit power calculation for the cohort study",
+        "No explicit correction for multiplicity mentioned despite many fixed effects and subgroup analyses",
+        "Imputation for missing data was NOT performed (potential gap in rigor)"
+      ],
+      "overall_rigor_rating": "Medium"
+    }
+  },
+  "12603894.json": {
+    "title": "Vernakalant versus procainamide for acute atrial fibrillation: a randomised clinical trial (RAFF3)",
+    "expert_findings": {
+      "strengths": [
+        "Superiority trial with a clearly defined primary outcome",
+        "Sample size calculation explicitly performed (80% power, 15% difference)",
+        "Intention-to-treat (ITT) analysis",
+        "Multiple logistic regression used, adjusting for stratification and prognostic variables",
+        "Handled clustering by site as a random effect",
+        "Secondary outcomes used appropriate models (logistic, linear, Cox PH)",
+        "Subgroup analyses (planned a priori) with interaction terms"
+      ],
+      "gaps": [
+        "No explicit mention of multiplicity correction for secondary endpoints",
+        "Blinding details are thin for treating physician and patient"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12607009.json": {
+    "title": "Continued versus discontinued oral anticoagulant treatment for unprovoked venous thromboembolism: target trial emulation",
+    "expert_findings": {
+      "strengths": [
+        "Used target trial emulation framework to reduce bias in observational data",
+        "1:1 propensity score matching using 89 baseline covariates",
+        "Absolute standardized mean difference (ASMD) used to verify covariate balance",
+        "Cox proportional hazards models with PH assumption checked",
+        "Random effects meta-analysis for pooling database results",
+        "Extensive sensitivity analyses (HDPS, E-value, Fine and Gray for competing risks)"
+      ],
+      "gaps": [
+        "No explicit mention of power calculation for the emulated trial",
+        "No explicit correction for multiplicity mentioned for subgroup analyses"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12618225.json": {
+    "title": "Effects of volenrelaxin in worsening heart failure with preserved ejection fraction: a phase 2 randomised trial",
+    "expert_findings": {
+      "strengths": [
+        "Used Mixed Model for Repeated Measures (MMRM) to handle longitudinal data",
+        "Blinded adjudication of clinical endpoints by an independent committee",
+        "Interim analyses planned and reviewed by an independent assessment committee"
+      ],
+      "gaps": [
+        "Explicitly stated that no adjustment for multiplicity was performed",
+        "Imputation for missing data not explicitly described for main endpoints"
+      ],
+      "overall_rigor_rating": "Medium-High"
+    }
+  },
+  "12705426.json": {
+    "title": "Sonelokimab, an IL-17A/IL-17F-inhibiting nanobody for active psoriatic arthritis: a randomized, placebo-controlled phase 2b trial (ARGO)",
+    "expert_findings": {
+      "strengths": [
+        "Highly rigorous multiplicity control using hierarchical order and Bonferroni-Holm",
+        "Intention-to-treat (ITT) population used for efficacy analyses",
+        "Explicit handling of missing data using Non-Responder Imputation (NRI) or MMRM"
+      ],
+      "gaps": [
+        "Includes exploratory or post hoc analyses (composites) which may inflate type I error",
+        "Sample size justification lacks explicit power calculation details"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12628362.json": {
+    "title": "Targeted therapy in advanced BRAF-mutated colorectal cancer: systematic review and network meta-analysis",
+    "expert_findings": {
+      "strengths": [
+        "Used Bayesian network meta-analysis framework with credible intervals",
+        "Evaluated rankings using systematic review metrics (SUCRA, rankograms)",
+        "Assessed transitivity and inconsistency using appropriate methods"
+      ],
+      "gaps": [
+        "Network fragmentation or fragmentation issues mentioned",
+        "Multiplicity correction not explicitly mentioned for multiple treatment comparisons"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12705454.json": {
+    "title": "A consensus blood transcriptomic framework for sepsis",
+    "expert_findings": {
+      "strengths": [
+        "Machine learning (Random Forest) for classification with cross-validation",
+        "Association evaluated using Jaccard similarity and bootstrapping",
+        "Propensity score matching used to evaluate corticosteroid impact"
+      ],
+      "gaps": [
+        "No statistical method used to predetermine sample size (no power calculation)",
+        "Multiplicity correction not explicitly mentioned for all high-dimensional comparisons"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12618238.json": {
+    "title": "Pridopidine in early-stage manifest Huntington's disease: a phase 3 trial",
+    "expert_findings": {
+      "strengths": [
+        "Rigorous Phase 3 RCT design with 94% power calculation",
+        "Advanced missing data handling using MNAR and pattern mixture models (PMM)",
+        "MMRM used for longitudinal outcomes",
+        "Pre-specified subgroup analyses (e.g., ADM use, disease stage)"
+      ],
+      "gaps": [
+        "Post hoc responder and CDF analyses which may inflate type I error",
+        "No explicit multiplicity correction for multiple secondary endpoints"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "7618460.json": {
+    "title": "A phase 1 randomized, placebo-controlled trial of a combination typhoid and non-typhoidal polysaccharide conjugate vaccine",
+    "expert_findings": {
+      "strengths": [
+        "Phase 1 first-in-human trial with blinded study product",
+        "Immunogenicity analyzed for all participants with available data"
+      ],
+      "gaps": [
+        "Explicitly stated that no formal power calculations were performed",
+        "No multiplicity adjustment for multiple immunogenicity markers and time points",
+        "No imputation for missing data"
+      ],
+      "overall_rigor_rating": "Medium-High"
+    }
+  },
+  "12705427.json": {
+    "title": "Brain activity associated with breakthrough food preoccupation in an individual on tirzepatide",
+    "expert_findings": {
+      "strengths": [
+        "Innovative N=1 case study using permutation testing and cluster correction",
+        "Responsive deep brain stimulation (rDBS) with iEEG recording biomarker discovery"
+      ],
+      "gaps": [
+        "N=1 case study limits generalizability and statistical power",
+        "Potential recall bias and confounded data exclusion (montage changes)",
+        "No explicit multiplicity correction for full power spectrum analysis"
+      ],
+      "overall_rigor_rating": "Medium"
+    }
+  },
+  "12618236.json": {
+    "title": "Lymph node-targeted, mKRAS-specific amphiphile vaccine in pancreatic and colorectal cancer: phase 1 AMPLIFY-201 trial final results",
+    "expert_findings": {
+      "strengths": [
+        "Molecular response assessment using ctDNA (Natera Signatera)",
+        "Used Mann-Whitney, Kaplan-Meier, and log-rank tests appropriately",
+        "ROC analysis for predictive accuracy"
+      ],
+      "gaps": [
+        "Multiplicity correction missing for multiple immune assays and neoantigens",
+        "No mention of proportional hazards (PH) assumption check for RFS"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12618248.json": {
+    "title": "Heterologous two-dose Ebola vaccine regimen in pregnant women in Rwanda: a randomized controlled phase 3 trial",
+    "expert_findings": {
+      "strengths": [
+        "Phase 3 RCT in a vulnerable population (pregnant women)",
+        "Used validated and FDA-endorsed FANG ELISA assays",
+        "Independent Data Monitoring Committee (IDMC) oversight"
+      ],
+      "gaps": [
+        "Not powered for hypothesis testing (feasibility-based sample size)",
+        "Multiplicity inflation acknowledged but not corrected for primary outcomes",
+        "Post hoc correlation and risk difference analyses"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12705421.json": {
+    "title": "Clinical validation of a 29-mRNA blood-based host response test for the diagnosis and prognosis of sepsis (TACOMA study)",
+    "expert_findings": {
+      "strengths": [
+        "Detailed diagnostic vs prognostic population definitions",
+        "Use of likelihood ratios, sensitivity, specificity, and NPV/PPV",
+        "Fisher's exact test used for ICU-level care differences",
+        "DeLong's test for comparing AUROCs",
+        "Bootstrapping for immunocompromised vs COVID-19 comparisons",
+        "SAS 9.4 and R 4.2 cited"
+      ],
+      "gaps": [
+        "No explicit mention of multiplicity correction for secondary endpoints",
+        "Sample size calculation and power analysis details missing from text"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12713919.json": {
+    "title": "Treatment-response to digital CBTi in people with insomnia and high-risk of OSA: A secondary analysis of an online randomized controlled trial",
+    "expert_findings": {
+      "strengths": [
+        "Intention-to-treat (ITT) linear mixed models",
+        "Bonferroni-corrected pairwise comparisons for interaction effects",
+        "Cohen's d values reported as effect sizes",
+        "SPSS 28 cited"
+      ],
+      "gaps": [
+        "Secondary analysis lacks specific power calculation for the subgroup comparison",
+        "Potential bias from collapsing intervention and waitlist control groups"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12721611.json": {
+    "title": "Fluoroscopy-free versus conventional retrograde intrarenal surgery: a prospective, multicenter randomized controlled trial (RAFF3)",
+    "expert_findings": {
+      "strengths": [
+        "Non-inferiority design with justified 20% margin",
+        "Explicit power calculation (80% power, n=140 planned for attrition)",
+        "SAS 9.4 PROC PLAN used for randomization",
+        "Allocation concealment and CONSORT adherence mentioned",
+        "Normality checked and Mann-Whitney used for non-normal data",
+        "Fisher's exact test used when cell counts < 5"
+      ],
+      "gaps": [
+        "No explicit multiplicity correction for secondary endpoints"
+      ],
+      "overall_rigor_rating": "High"
+    }
+  },
+  "12497947.json": {
+    "title": "Immunogenicity and Safety of a Purified Vero Cell Rabies Vaccine Produced With a Next-Generation Process (PVRV-NG2): A Phase 3 Controlled Randomized Trial",
+    "expert_strengths": [
+      "Non-inferiority design with justified margin (-5%).",
+      "Fixed-sequence method used for multiplicity correction of secondary objectives.",
+      "Explicit power calculation (80% power) provided.",
+      "ITT (FAS) and Per-protocol (PPAS) populations clearly defined.",
+      "Detailed confidence interval methods (Wilson score, Clopper-Pearson) specified."
+    ],
+    "critical_gaps": [
+      "Randomization sequence generation and masking details moved to supplementary materials rather than in main text methods."
+    ],
+    "overall_rigor": 9
+  },
+  "12507463.json": {
+    "title": "Long-Term Outcomes of Adjuvant Trastuzumab for 9 Weeks or 1 Year for ERBB2-Positive Breast Cancer",
+    "expert_strengths": [
+      "Post-hoc secondary analysis of a large RCT following CONSORT guidelines.",
+      "Central randomization with stratification factors (ER status, nodal status).",
+      "Non-inferiority margin and original power calculation specified.",
+      "Survival analysis using Kaplan-Meier, log-rank, and Cox proportional hazards with HRs.",
+      "Interaction analyses for subgroup variables."
+    ],
+    "critical_gaps": [
+      "P-values unadjusted for multiple testing (exploratory nature acknowledged).",
+      "Missing power calculation for the secondary analysis endpoint specifically."
+    ],
+    "overall_rigor": 8
+  },
+  "12713889.json": {
+    "title": "Sleep disturbances and psychopathology in children/adolescents",
+    "expert_strengths": [
+      "Large sample size (N=13,472) with Cronbach's alpha reported for scaling.",
+      "Split-sample approach (S1/S2) to ensure reproducibility of findings.",
+      "Multiple imputation (SPSS) used to handle non-random missing data.",
+      "Hierarchical regression models used to disaggregate effects across 5 blocks.",
+      "Interaction effects investigated using PROCESS macro with mean centering."
+    ],
+    "critical_gaps": [
+      "No formal sample size/power calculation mentioned for this secondary analysis.",
+      "Multiplicity correction for multiple model blocks and interaction terms not detailed."
+    ],
+    "overall_rigor": 8
+  },
+  "12727072.json": {
+    "title": "BRIDGE platform for dementia research in Korea",
+    "expert_strengths": [
+      "Comprehensive data management and validation system (DVS) with statistician oversight.",
+      "Use of Data Quality Index (DQI) for continuous monitoring of data defects.",
+      "ANOVA for continuous and Chi-square for categorical data with Kruskal-Wallis for non-normal distributions.",
+      "Comparison with general population (KNHANES) using matching process.",
+      "Specific software versions cited (SAS EG 7.1, R 4.1.2)."
+    ],
+    "critical_gaps": [
+      "Power calculation missing for the platform's primary cohort objectives.",
+      "Strategy for handling missing data (especially in imaging/PET) not described."
+    ],
+    "overall_rigor": 7
+  },
+  "12721701.json": {
+    "title": "Salivary parameters, oral health, and adiposity in children",
+    "expert_strengths": [
+      "Intra- and inter-examiner reproducibility assessed with ICC.",
+      "Normality testing (Shapiro-Wilk) and appropriate data transformation (log/sqrt) used.",
+      "Appropriate tests for data distribution (t-test vs Mann-Whitney).",
+      "Spearman's correlation used to assess multicollinearity among parameters.",
+      "Logistic regression models with separate inclusion of collinear variables."
+    ],
+    "critical_gaps": [
+      "Sample size justification/power calculation missing.",
+      "Variables in logistic regression blocks need more detailed definition."
+    ],
+    "overall_rigor": 7
+  },
+  "12735295.json": {
+    "title": "Critical consciousness, social networks, and mental health in adolescents",
+    "expert_strengths": [
+      "Validated scales (PHQ-4, Flourishing) with reported internal reliability (alpha).",
+      "Egocentric network features (degree, density) used in OLS regression.",
+      "Assumptions of linear regression (normality of residuals, etc.) explicitly tested.",
+      "Robustness check using disaggregated mental health components.",
+      "Stepwise regression procedures with standardized continuous variables."
+    ],
+    "critical_gaps": [
+      "Potential for confounding due to multicollinearity (addressed via separate models but limits integration).",
+      "No power analysis provided for the complex network effects."
+    ],
+    "overall_rigor": 7
+  },
+  "12713947.json": {
+    "title": "Emotion regulation and insomnia with psychiatric comorbidity",
+    "expert_strengths": [
+      "Structured clinical screening (MINI) and balanced group design (n=25/group).",
+      "Extensive use of validated scales with current-sample reliability (alpha) reported.",
+      "Bonferroni correction used for post-hoc tests after ANOVA.",
+      "Effect sizes (Cohen's d) reported for all significant group differences."
+    ],
+    "critical_gaps": [
+      "Small sample size per group (n=25) without power calculation.",
+      "Normality assumption for ANOVA not explicitly verified."
+    ],
+    "overall_rigor": 8
+  },
+  "12717196.json": {
+    "title": "Meta-analysis of valvular heart disease treatments",
+    "expert_strengths": [
+      "Follows PRISMA guidelines and RevMan 5.4.1 used for quantitative synthesis.",
+      "Risk of bias assessed using Cochrane Review Manager criteria by dual reviewers.",
+      "Heterogeneity assessed with Chi-square and I2 (fixed vs random effects models).",
+      "Publication bias evaluated through funnel plot analysis.",
+      "Trial Sequential Analysis (TSA) used to evalute power and monitoring boundaries (80% power, 5% alpha)."
+    ],
+    "critical_gaps": [
+      "Threshold for heterogeneity (P > 0.1) is conventional but some sources recommend I2 > 50% as more robust.",
+      "Descriptive analysis used when meta-analysis not possible, but criteria for 'not possible' not detailed."
+    ],
+    "overall_rigor": 8
+  },
+  "12713972.json": {
+    "title": "PSG parameters in children with ADHD and OSA",
+    "expert_strengths": [
+      "Polysomnography performed in accredited lab following AASM technical standards.",
+      "Explicit clinical definitions for OSA based on AHI thresholds (\u22655 and \u22651).",
+      "Assumption verification for all tests, with non-parametric (Wilcoxon-Kruskal-Wallis) fallbacks.",
+      "Bonferroni adjustment applied for pairwise comparisons between the 4 cohorts.",
+      "SAS v9.4 cited for all analyses."
+    ],
+    "critical_gaps": [
+      "No formal sample size/power calculation reported.",
+      "Control group (ADHD-/OSA-) lacked normative reference data and served only as a proxy."
+    ],
+    "overall_rigor": 8
+  },
+  "12738678.json": {
+    "title": "Circulating miRNAs as biomarkers for MASLD",
+    "expert_strengths": [
+      "Advanced liver imaging (MRI DIXON, ARFI elastography) as reference standards.",
+      "Sophisticated miRNA normalization (geometric mean + spike-in spikes) and relative quantification (2^-\u0394Ct).",
+      "Internal validation of regression models using optimism-corrected bootstrap (Tibshirani method).",
+      "Multivariate logistic regressions adjusted for extensive confounders (age, sex, PA, markers).",
+      "Stata 15.0 cited."
+    ],
+    "critical_gaps": [
+      "Loss of information by categorizing continuous liver stiffness/fat based on the median.",
+      "No formal power calculation for biomarker discovery phase."
+    ],
+    "overall_rigor": 9
+  },
+  "12618250.json": {
+    "title": "AAV2i8 gene therapy for heart failure (Phase 1/2)",
+    "expert_strengths": [
+      "Rigorous bioanalytical assays (ddPCR, ELISpot, Western blot) for transduction and immunogenicity.",
+      "Explicit definition of FAS and Safety analysis sets.",
+      "Triplicate testing for antigens in ELISpot.",
+      "Follows ICH-GCP and Declaration of Helsinki.",
+      "SAS v9.4 cited."
+    ],
+    "critical_gaps": [
+      "Explicitly stated that no formal hypothesis testing or power calculations were performed.",
+      "Very small sample size (n=18) limits conclusions beyond feasibility."
+    ],
+    "overall_rigor": 6
+  },
+  "12673659.json": {
+    "title": "Breast density notification randomized trial",
+    "expert_strengths": [
+      "Triple-arm RCT with allocation concealment and Oracle-based simple randomization.",
+      "Co-design process with consumers and multidisciplinary experts.",
+      "A priori power calculation with Bonferroni adjustment for 3 pairwise comparisons (alpha=0.017).",
+      "Use of GLM (ordinal/multinomial logistic regression) and testing of proportional odds (Brant-Wald).",
+      "Sensitivity analysis using MICE for missing primary outcomes."
+    ],
+    "critical_gaps": [
+      "Complete case analysis used as primary despite sensitivity analysis with imputation.",
+      "Multiple primary outcomes (3 measures of psychological outcomes) not adjusted beyond pairwise arm comparisons."
+    ],
+    "overall_rigor": 9
+  },
+  "12670246.json": {
+    "title": "FIMMAC trial: surgery vs placebo vs exercise for shoulder pain",
+    "expert_strengths": [
+      "Surgical RCT with sham/placebo control arm.",
+      "Clinical significance defined via Minimal Important Difference (MID).",
+      "Mixed Model for Repeated Measurements (MMRM) to handle missing data under MAR.",
+      "Strict multiplicity protection requiring BOTH primary outcomes to be significant.",
+      "Internal validation via sensitivity analyses (per protocol, as treated)."
+    ],
+    "critical_gaps": [
+      "High crossover rate (only 56/79 in ASD group fulfilled per-protocol) weakens the pragmatic comparison.",
+      "Simple identity covariance structure in mixed model may not capture longitudinal correlation well."
+    ],
+    "overall_rigor": 9
+  },
+  "12723751.json": {
+    "title": "PGT-A in severe male factor infertility RCT",
+    "expert_strengths": [
+      "RCT with ITT as primary analysis population.",
+      "Power calculation using Hochberg\u2019s procedure for co-primary endpoints (LBR and cLBR).",
+      "Generalised linear mixed models (GLMM) used for central effect adjustment.",
+      "Non-parametric (Wilcoxon) tests used for non-normal continuous data.",
+      "MICE or worst/best-case imputation for missing data."
+    ],
+    "critical_gaps": [
+      "Normality assessment method not explicitly described beyond the choice of non-parametric test."
+    ],
+    "overall_rigor": 9
+  },
+  "12723525.json": {
+    "title": "Carboplatin in triple-negative breast cancer RCT",
+    "expert_strengths": [
+      "Observer-blind RCT following CONSORT 2025 guidelines.",
+      "Event-driven primary analysis (144 DFS events) with pre-specified power calculation.",
+      "Advanced survival modeling including Schoenfeld residual tests for proportional hazards.",
+      "Restricted Mean Survival Analysis (RMST) and piecewise HR when PH assumption failed.",
+      "Adjustment for non-linear effects of continuous biomarkers (Ki-67) using splines."
+    ],
+    "critical_gaps": [
+      "No formal Type I error control for multiple secondary endpoints."
+    ],
+    "overall_rigor": 9
+  },
+  "12721610.json": {
+    "title": "URBANE trial: vibegron for OAB in men with BPH",
+    "expert_strengths": [
+      "Phase 3 double-blind trial with single-blind placebo run-in period.",
+      "MMRM analysis to handle longitudinal data and missingness.",
+      "Fixed-sequence testing procedure to control family-wise error rate for secondary endpoints.",
+      "Centralized IWRS randomization with block stratification by multiple clinically relevant factors.",
+      "High statistical power (90-94%) with clear baseline set (FAS)."
+    ],
+    "critical_gaps": [
+      "Randomization was not stratified by site, though centralized. Responder analysis was uncontrolled."
+    ],
+    "overall_rigor": 9
+  },
+  "12713916.json": {
+    "title": "Systematic review of remote CBT-I for children",
+    "expert_strengths": [
+      "Follows PRISMA 2020 and Cochrane Handbook standards.",
+      "Dual independent reviewers for screening, data extraction, and risk of bias.",
+      "Formal Risk of Bias assessment using ROB 2 tool.",
+      "Comprehensive search strategy with explicit keyword set and database inclusion."
+    ],
+    "critical_gaps": [
+      "Lack of quantitative meta-analysis (descriptive synthesis only) despite focus on RCTs."
+    ],
+    "overall_rigor": 8
+  },
+  "12721662.json": {
+    "title": "STRATA trial: Cxbladder Triage for microhematuria",
+    "expert_strengths": [
+      "Multicenter prospective study with 12 sites and randomization (2:1).",
+      "Explicit power calculation to detect reduction in cystoscopy rates.",
+      "Use of prop.test in R for proportions and exact binomial CIs for validity metrics (NPV, sensitivity).",
+      "Follow-up period (3-24 months) used to confirm absence of disease in non-surgical patients.",
+      "Analysis done in R 4.2.10."
+    ],
+    "critical_gaps": [
+      "Discrepancies in patient totals between validity and utility populations due to strict review criteria.",
+      "Potential for misclassification if the follow-up period was too short for occult UC."
+    ],
+    "overall_rigor": 8
+  },
+  "12721647.json": {
+    "title": "Psychological comorbidities in women with Fowler's syndrome",
+    "expert_strengths": [
+      "Standardized multidisciplinary assessment including ICS-standard invasive urodynamics.",
+      "Advanced neuro-urological tests (Brown-Wickham UPP and concentric needle EMG).",
+      "Semi-structured psychological interviews by a chartered psychologist using validated screens (GAD-2, PHQ-2).",
+      "Data-driven choice of tests (mean/SD vs median/range) and comparative stats (\u03c72, Fisher's, t-test)."
+    ],
+    "critical_gaps": [
+      "Clinical audit/service evaluation design rather than formal prospective protocol.",
+      "Small sample sizes for specific invasive tests (n=62-79)."
+    ],
+    "overall_rigor": 7
+  },
+  "12705465.json": {
+    "title": "RELATIVITY-098: Adjuvant nivolumab and relatlimab in melanoma",
+    "expert_strengths": [
+      "Large phase 3 RCT (n=1050) with O'Brien-Fleming alpha spending function for interim analyses.",
+      "Hierarchical testing of secondary endpoints to control Type I error.",
+      "Sophisticated biomarker imaging/analysis using CODEX PhenoCycler and HALO AI.",
+      "Longitudinal modeling (linear mixed-effects) and non-parametric Wilcoxon tests for biomarkers.",
+      "SAS and R v4.3.1 cited."
+    ],
+    "critical_gaps": [
+      "Biomarker analyses labeled as exploratory, reducing rigor for those secondary findings."
+    ],
+    "overall_rigor": 9
+  },
+  "12705419.json": {
+    "title": "EDGE-Gastric trial: domvanalimab and zimberelimab in GC/GEJC/EAC",
+    "expert_strengths": [
+      "Multicenter study with central PD-L1 assessment (VENTANA SP263 assay).",
+      "Exact binomial Clopper-Pearson 90% CIs for ORR and log-log transformation for survival CIs.",
+      "Precise AE monitoring using MedDRA v25.0 and NCI-CTCAE v5.0.",
+      "SAS v9.4 cited."
+    ],
+    "critical_gaps": [
+      "Descriptive design explicitly avoiding formal hypothesis testing or power considerations.",
+      "Open-label (unblinded) and small sample size (n=41) in the reported arm."
+    ],
+    "overall_rigor": 7
+  },
+  "12714473.json": {
+    "title": "Induction vs. Adjuvant Chemotherapy in NPC: A propensity-matched study",
+    "expert_strengths": [
+      "Use of Propensity Score Matching (PSM) with a stringent caliper (0.01) to control for selection bias.",
+      "Standardized oncology endpoints (OS, FFS, LRRFS, DMFS) following RECIST.",
+      "Standardized radiotherapy (IMRT) following ICRU guidelines.",
+      "Cox proportional hazards model with 95% CIs and Kaplan-Meier analysis.",
+      "SPSS v23.0 cited."
+    ],
+    "critical_gaps": [
+      "Retrospective nature limits causal inference despite PSM.",
+      "Categorization of continuous variables may lead to information loss."
+    ],
+    "overall_rigor": 8
+  },
+  "12713946.json": {
+    "title": "Sleep Monitoring App in Military Primary Care",
+    "expert_strengths": [
+      "Mixed-methods pilot study evaluating both quantitative app data and qualitative PCM feedback.",
+      "Approved by WRNMMC IRB.",
+      "Educational components tailored to military population."
+    ],
+    "critical_gaps": [
+      "Lack of detailed statistical methodology for quantitative outcomes in the Methods section.",
+      "Non-randomized, feasibility-focused design."
+    ],
+    "overall_rigor": 5
+  },
+  "7618412.json": {
+    "title": "Availability and order on sustainable food choices",
+    "expert_strengths": [
+      "Factorial RCT (Availability x Order) with explicit power calculation (n=1053).",
+      "Robust data handling: switched to eco-quintile analysis when primary data was found to be bimodal.",
+      "Welch ANOVA and Games-Howell used for unequal variances.",
+      "Strict multiplicity control (p < 0.003) for secondary/exploratory outcomes.",
+      "R v4.1.3 and specific packages (dplyr, ggplot2, rstatix) cited."
+    ],
+    "critical_gaps": [
+      "Deviated from pre-specified plan for ecoscore to handle bimodal distribution."
+    ],
+    "overall_rigor": 9
+  },
+  "12647978.json": {
+    "title": "Impact of an SMS intervention on nutrition in Nepal",
+    "expert_strengths": [
+      "Large-scale cluster-randomized trial (134 clusters) with Difference-in-Differences (DiD) ITT analysis.",
+      "Cluster-level adjustments using a sandwich estimator.",
+      "Concealed allocation to PIs and data collectors.",
+      "Data collection using ODK with logic checks and equity tools for wealth quintiles.",
+      "Stata/SE 14.2 cited."
+    ],
+    "critical_gaps": [
+      "Significant data missingness and delays due to COVID-19 pandemic.",
+      "Exposure to similar health messages in control areas (contamination)."
+    ],
+    "overall_rigor": 8
+  },
+  "12705423.json": {
+    "title": "DESTINY-Breast04: T-DXd in HER2-low metastatic breast cancer",
+    "expert_strengths": [
+      "Phase 3 RCT (2:1) with central HER2 confirmation and blinded independent central review (BICR).",
+      "Hierarchical testing procedure for OS to preserve alpha.",
+      "Assumption checks: visual inspection of log-log survival functions.",
+      "Independent adjudication for sensitive AEs (ILD/pneumonitis).",
+      "SAS v9.3 cited."
+    ],
+    "critical_gaps": [
+      "Open-label design. No imputation for missing data (censoring only)."
+    ],
+    "overall_rigor": 9
+  },
+  "12728524.json": {
+    "title": "In silico drug target identification for NAFLD",
+    "expert_strengths": [
+      "Comprehensive computational pipeline (Homology modeling, docking, MD simulations, pharmacophore).",
+      "Use of verified servers (SAVES v5.0) and software (AutoDock Vina, Desmond, LIGPLOT).",
+      "Drug-likeness filters based on multiple established rules (Lipinski, Veber, Ghose).",
+      "Free energy calculations via MM-GBSA and stability checking with PCA in R."
+    ],
+    "critical_gaps": [
+      "Lack of experimental (in vitro/in vivo) validation for predicted leads.",
+      "Strict p-value (0.01) for GEO dataset but no FDR correction mentioned."
+    ],
+    "overall_rigor": 8
+  },
+  "12727047.json": {
+    "title": "Surgical RCT for post-operative management in India",
+    "expert_strengths": [
+      "Prospectively registered RCT (CTRI/2019/08/020879).",
+      "Use of distribution-appropriate tests (t-test/Mann-Whitney) and categorical checks (\u03c72/Fisher's)."
+    ],
+    "critical_gaps": [
+      "Brief methodology lacking power or sample size justification in the reported snippet."
+    ],
+    "overall_rigor": 6
+  },
+  "12714465.json": {
+    "title": "CCND1 copy number alterations in oral cancer",
+    "expert_strengths": [
+      "Prospective observational study with molecular validation (Qf-PCR) and IHC correlation.",
+      "Explicit cutoff (1.8 fold change) using \u0394\u0394Ct method for genetic amplification.",
+      "Quantitative IHC scoring system (integrated intensity and percentage).",
+      "SPSS used for \u03c72, ANOVA, and logistic regression."
+    ],
+    "critical_gaps": [
+      "Small sample size (n=63) and single-center design."
+    ],
+    "overall_rigor": 8
+  },
+  "12714475.json": {
+    "title": "Diagnostic ability of DOI for lymph node metastasis in oral cancer",
+    "expert_strengths": [
+      "Prospective observational study with standardized pathology (CAP protocol).",
+      "Advanced multivariate modeling: multiple binary logistic regression and nomogram construction.",
+      "Diagnostic validation: ROC, AUC, sensitivity, specificity, PPV, NPV, and Hosmer-Lemeshow fit.",
+      "SPSS v26, STATA v14, and R v4.0.3 cited."
+    ],
+    "critical_gaps": [
+      "Single-center tertiary care setting may limit external generalizability."
+    ],
+    "overall_rigor": 9
+  },
+  "12727006.json": {
+    "title": "Clinicopathological profile of EOC in India",
+    "expert_strengths": [
+      "Detailed surgical assessment (PCI, SCS, CC score) and complications (Clavien-Dindo).",
+      "Appropriate non-parametric (Kruskal-Wallis, Mann-Whitney) and categorical (Fisher's exact) tests.",
+      "SPSS v21.0 cited."
+    ],
+    "critical_gaps": [
+      "Purely observational/descriptive cohort; no power calculations reported."
+    ],
+    "overall_rigor": 7
+  },
+  "12727007.json": {
+    "title": "Cancer incidence and trends in Bam City, Iran",
+    "expert_strengths": [
+      "Population-based registry data integrated with clinical/histological sources.",
+      "ICD-O coding and Age-Standardized Rates (ASRs) computed using World Standard Population.",
+      "Demographic context provided (population pyramids).",
+      "SPSS v22 and GraphPad Prism 9 cited."
+    ],
+    "critical_gaps": [
+      "Simple cross-sectional analysis without advanced trend modeling (joinpoint)."
+    ],
+    "overall_rigor": 6
+  }
 }

@@ -1,0 +1,348 @@
+{
+  "title": "Investigation of causal effects of blood metabolites on insomnia and circadian rhythm sleep wake disordersMendelian randomization studies: a review of the approaches used and the quality of reportingMendelian randomization with invalid instruments: effect estimation and bias detection through Egger regressionCalculating statistical power in Mendelian randomization studiesMendelian randomization analysis with multiple genetic variants using summarized dataMultivariable Mendelian randomization: the use of pleiotropic genetic variants to estimate causal effectsInterpreting findings from Mendelian randomization using the MR-Egger methodInsomniaGlycerol-3-phosphate is a critical mobile inducer of systemic immunity in plantsAssessment of bidirectional relationships between physical activity and depression among adults: a 2-sample mendelian randomization studyCochran's Q test was useful to assess heterogeneity in likelihood ratios in studies of diagnostic accuracyEffect of sleep deprivation on the human metabolomeThe mammalian circadian timing system: from gene expression to physiologyAltered diurnal states in insomnia reflect peripheral hyperarousal and metabolic desynchrony: a preliminary studyThe MR-Base platform supports systematic causal inference across the human phenomeEffects of glycine on metabolic syndrome components: a reviewIdentification and characterization of HAOX1, HAOX2, and HAOX3, three human peroxisomal 2-hydroxy acid oxidasesKEGG for integration and interpretation of large-scale molecular data setsImpacts of indoxyl sulfate and p-cresol sulfate on chronic kidney disease and mitigating effects of AST-120Nocturnal asthma and the use of theophyllineEpidemiology of insomnia: prevalence, course, risk factors, and public health burdenEffects of melatonin on the quality of life in patients with delayed sleep phase syndromeFunctional neuroimaging evidence for hyperarousal in insomniaDistinguishing genetic correlation from causation across 52 diseases and complex traitsCircadian rhythm sleep-wake disordersEfficient design for Mendelian randomization studies: subsample and 2-sample instrumental variable estimatorsAnandamide and its metabolites: what are their roles in the kidney?Multivariable Mendelian Randomization and MediationInternational classification of sleep disorders-third edition: highlights and modificationsAn atlas of genetic influences on human blood metabolitesTreatment of circadian rhythm sleep-wake disordersMendelian randomization in health research: using appropriate genetic variants and avoiding biased estimatesFamilial resemblances in human plasma metabolites are attributable to both genetic and common environmental effectsDetection of widespread horizontal pleiotropy in causal relationships inferred from Mendelian randomization between complex traits and diseasesIs hearing impairment causally associated with falls? evidence from a two-sample mendelian randomization studyErythrocyte metabolic reprogramming by sphingosine 1-phosphate in chronic kidney disease and therapiesAssessing the causal effects of human serum metabolites on 5 major psychiatric disordersGenetically predicted 486 blood metabolites in relation to risk of colorectal cancer: a Mendelian randomization studyCircadian rhythm sleep-wake disordersType 2 diabetes is causally associated with reduced serum osteocalcin: a genomewide association and mendelian randomization studyCurrent blockades of proteins inside nanopores for real-time metabolome analysisImpacts of circadian gene period2 knockout on intestinal metabolism and hepatic antioxidant and inflammation state in miceKidney glycolysis serves as a mammalian phosphate sensor that maintains phosphate homeostasis",
+  "pmcid": "12713914",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "power calculation"
+      ],
+      "examples": [
+        {
+          "match": "Power calculation",
+          "context": "a Type I error rate of 0.05. Power calculations were based on the R2 of inst"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "heterogeneity",
+          "context": "s Q test was useful to assess heterogeneity in likelihood ratios in studi"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "into potential pleiotropy and heterogeneity, employing sensitivity analys"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "05) indicated the presence of heterogeneity, while horizontal pleiotropy"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sd"
+      ],
+      "examples": [
+        {
+          "match": "SD",
+          "context": "bolites exert their impact on SD, we conducted metabolic pathw"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "p < 0.05",
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "p < 0.05",
+          "context": "result in the Cochran-Q test (p < 0.05) indicated the presence of he"
+        },
+        {
+          "match": "p-value",
+          "context": "(Catalog: Diseases & traits, p-value: 1E-5, Proxies: None, r2: 0.8"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ses with the outcome, and the odds ratio (OR) obtained from IVW analys"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity analysis"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity analysis",
+          "context": "hod, and MR-PRESSO method for sensitivity analysis to mitigate the impact of ple"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "or",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ses with the outcome, and the odds ratio (OR) obtained from IVW analys"
+        },
+        {
+          "match": "OR",
+          "context": "outcome, and the odds ratio (OR) obtained from IVW analysis."
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "are set out in Supplementary Table 1. We had access to a wealth of"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "excluded",
+        "categorized"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "bset of data was meticulously excluded from our analysis. Drawing fr"
+        },
+        {
+          "match": "excluded",
+          "context": "below 0.8 were systematically excluded from our analysis (Brion et a"
+        },
+        {
+          "match": "excluded",
+          "context": "ious investigations, where we excluded single-nucleotide polymorphis"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "hod, and MR-PRESSO method for sensitivity analysis to mitigate the impa"
+        },
+        {
+          "match": "sensitivity",
+          "context": "and heterogeneity, employing sensitivity analyses. This comprehensive"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "in vivo",
+        "knockout",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "ant and inflammation state in miceKidney glycolysis serves as a"
+        },
+        {
+          "match": "in vivo",
+          "context": "orn errors of metabolism, the in vivo blueprint of metabolism in th"
+        },
+        {
+          "match": "knockout",
+          "context": "cts of circadian gene period2 knockout on intestinal metabolism and"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 8.5,
+    "rigor_rating": "High",
+    "critical_gaps": [
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...bset of data was meticulously excluded from our analysis. Drawing fr..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'in vivo'"
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...ses with the outcome, and the odds ratio (OR) obtained from IVW analys..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...hod, and MR-PRESSO method for sensitivity analysis to mitigate the impa..."
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

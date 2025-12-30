@@ -1,0 +1,380 @@
+{
+  "title": "The Efficacy and Safety of Radiation-Free Retrograde Intrarenal Surgery: A Prospective Multicenter-Based, Randomized, Controlled TrialRadiation-free ureteroscopy: risky business or a safe alternative?Feasibility and future directions of radiation-free retrograde intrarenal surgeryRadiation-free RIRS and setting a new standard: redefining safety and efficacy in stone surgeryEditorial Comment.Comparison of two different retrograde intrarenal surgical techniques: is it mandatory to use fluoroscopy during retrograde intrarenal surgery?The impact of pelvicaliceal anatomy on the success of retrograde intrarenal surgery in patients with lower pole renal stonesGenetic background modulates lncRNA-coordinated tissue response to low dose ionizing radiationRetrograde intrarenal surgery for the treatment of renal stones: is fluoroscopy-free technique achievable?Totally fluoroless retrograde intrarenal surgery technique in prestented patients: tips and tricksFluoroless endourological surgery for stone disease: a review of the literature-tips and tricksRetrograde intrarenal surgery without fluoroscopy: is it possible? A randomized prospective study, an extraordinary experienceCONSORT 2010 statement: updated guidelines for reporting parallel group randomised trialsCT-based determination of ureteral stone volume: a predictor of spontaneous passageProspective evaluation and classification of ureteral wall injuries resulting from insertion of a ureteral access sheath during retrograde intrarenal surgeryStone free rate and clinical complications in patients submitted to retrograde intrarenal surgery (RIRS): our experience in 571 consecutive casesShockwave lithotripsy versus ureteroscopic treatment as therapeutic interventions for stones of the ureter (TISU): a multicentre randomised controlled non-inferiority trialThe Cochrane Collaboration's tool for assessing risk of bias in randomised trialsDifferent failure rates of insertion of 10/12-Fr ureteral access sheaths during retrograde intrarenal surgery in patients with and without stonesStone-free rate (SFR): a new proposal for defining levels of SFRWhat is the stone-free rate following flexible ureteroscopy for kidney stones?Advances in ureterorenoscopyRecommendations of the International Commission on Radiological Protection (ICRP) 1990Fluoroscopic radiation exposure: are we protecting ourselves adequately?Fluoroscopic organ and tissue-specific radiation exposure by sex and body mass index during ureteroscopyRepeated radiological radiation exposure in patients undergoing surgery for urinary tract stone disease in Victoria, AustraliaLarge database study of urinary stone composition in South Korea: Korean Society of Endourology and Robotics (KSER) research seriesEffect of obesity and metabolic health on urolithiasis: a nationwide population-based studyRetrograde intrarenal surgery: past, present, and futureUreteroscopy without fluoroscopy: a feasibility study and comparison with conventional ureteroscopy",
+  "pmcid": "12721611",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "n to the primary outcome. The sample size was calculated using Software"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "allocation",
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "for reporting parallel group randomised trialsCT-based determination"
+        },
+        {
+          "match": "randomise",
+          "context": "ureter (TISU): a multicentre randomised controlled non-inferiority t"
+        },
+        {
+          "match": "randomise",
+          "context": "for assessing risk of bias in randomised trialsDifferent failure rate"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "concealment"
+      ],
+      "examples": [
+        {
+          "match": "concealment",
+          "context": "quence generation, allocation concealment, blinding of patients, each c"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sas",
+        "sas, version 9.4",
+        "spss statistics 27"
+      ],
+      "examples": [
+        {
+          "match": "SAS, version 9.4",
+          "context": "n of the statistical software SAS, version 9.4 (SAS Institute Inc, Cary, Nor"
+        },
+        {
+          "match": "SAS",
+          "context": "al software SAS, version 9.4 (SAS Institute Inc, Cary, North Ca"
+        },
+        {
+          "match": "SPSS Statistics 27",
+          "context": "yses were performed using IBM SPSS Statistics 27 (IBM Corp, Armonk, New York)."
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "secondary end point"
+      ],
+      "examples": [
+        {
+          "match": "secondary end point",
+          "context": "tic kidney stones \u2264 3 mm. The secondary end point of this study was ascertainin"
+        },
+        {
+          "match": "secondary end point",
+          "context": "idney stones \u2264 3 mm.15,16 The secondary end point of this study was to compare"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "mann-whitney",
+        "\u03c72"
+      ],
+      "examples": [
+        {
+          "match": "\u03c72",
+          "context": "he ratio difference through a \u03c72 test. Although significant in"
+        },
+        {
+          "match": "\u03c72",
+          "context": ". Although significant in the \u03c72 test, if more than 20% of cel"
+        },
+        {
+          "match": "\u03c72",
+          "context": "able.Fisher exact testPearson \u03c72 test.Ureter injury grade 2 to"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "consort"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "e present study following the CONSORT (Consolidated Standards of Re"
+        }
+      ]
+    },
+    "data_types": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "proportions"
+      ],
+      "examples": [
+        {
+          "match": "Categorical",
+          "context": "IQR (25th, 75th percentile). Categorical variables are presented as co"
+        },
+        {
+          "match": "categorical",
+          "context": "radiation exposure dose). The categorical type tested the ratio differe"
+        },
+        {
+          "match": "Continuous",
+          "context": "oscopy following lithotripsy. Continuous variables are presented as me"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "Baseline Characteristic",
+          "context": "t P < .05. CAPTION: Patients\u2019 Baseline Characteristics in Radiation-Free and Radiat"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "attrition"
+      ],
+      "examples": [
+        {
+          "match": "attrition",
+          "context": "tions, and allowing for a 10% attrition rate, we aimed to accrue 100"
+        },
+        {
+          "match": "attrition",
+          "context": "We increased this to 140 for attrition to the primary outcome. The s"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "roc"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "ndomization code through the PROC PLAN function of the statisti"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...tic kidney stones \u2264 3 mm. The secondary end point of this study was ascertainin..."
+      },
+      {
+        "message": "Categorical data mentioned, but no appropriate categorical tests found.",
+        "evidence": "...IQR (25th, 75th percentile). Categorical variables are presented as co..."
+      },
+      {
+        "message": "Potential use of P-values for baseline comparisons in an RCT.",
+        "evidence": "...t P < .05. CAPTION: Patients\u2019 Baseline Characteristics in Radiation-Free and Radiat..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...tic kidney stones \u2264 3 mm. The secondary end point of this study was ascertainin..."
+      },
+      {
+        "message": "Diagnostic metrics reported without Confidence Intervals.",
+        "evidence": "...ndomization code through the PROC PLAN function of the statisti..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...n of the statistical software SAS, version 9.4 (SAS Institute Inc, Cary, Nor..."
+      },
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...tions, and allowing for a 10% attrition rate, we aimed to accrue 100..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...ndomization code through the PROC PLAN function of the statisti..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'secondary end point' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

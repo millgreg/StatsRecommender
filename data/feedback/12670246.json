@@ -1,0 +1,535 @@
+{
+  "title": "Arthroscopic subacromial decompression versus placebo surgery for subacromial pain syndrome: 10 year follow-up of the FIMPACT randomised, placebo surgery controlled trialLongitudinal study of use and cost of subacromial decompression surgery: the need for effective evaluation of surgical procedures to prevent overtreatment and wasted resourcesRegional variation in low-value musculoskeletal surgery: a nationwide study from the Finnish Care RegisterAppropriate care for orthopedic patients: effect of implementation of the Clinical Practice Guideline for Diagnosis and Treatment of Subacromial Pain Syndrome in the NetherlandsCommon elective orthopaedic procedures and their clinical effectiveness: umbrella review of level 1 evidenceSubacromial decompression versus diagnostic arthroscopy for shoulder impingement: randomised, placebo surgery controlled clinical trialArthroscopic subacromial decompression for subacromial shoulder pain (CSAW): a multicentre, pragmatic, parallel group, placebo-controlled, three-group, randomised surgical trialSubacromial decompression versus diagnostic arthroscopy for shoulder impingement: a 5-year follow-up of a randomised, placebo surgery controlled clinical trialArthroscopic surgery compared with supervised exercises in patients with rotator cuff disease (stage II impingement syndrome)[Mid-term clinical results after surgical versus conservative treatment of subacromial impingement syndrome]Exercises versus arthroscopic decompression in patients with subacromial impingement: a randomised, controlled study in 90 cases with a one year follow upDoes arthroscopic acromioplasty provide any additional value in the treatment of shoulder impingement syndrome?: a two-year randomised controlled trialComparison of open acromioplasty, arthroscopic acromioplasty and physiotherapy in patients with subacromial impingement syndrome: a prospective randomised studyNon-surgical and surgical treatments for rotator cuff disease: a pragmatic randomised clinical trial with 2-year follow-up after initial rehabilitationSubacromial decompression surgery for adults with shoulder pain: a clinical practice guidelineSubacromial decompression surgery for rotator cuff diseaseA Systematic Review of Clinical Practice Guidelines on the Diagnosis and Management of Various Shoulder DisordersCONSORT 2025 statement: updated guideline for reporting randomised trialsFinnish Subacromial Impingement Arthroscopy Controlled Trial (FIMPACT): a protocol for a randomised trial comparing arthroscopic subacromial decompression and diagnostic arthroscopy (placebo control), with an exercise therapy control, in the treatment of shoulder impingement syndromeArthroscopic subacromial decompression: analysis of one- to three-year resultsMinimal clinically important differences (MCID) and patient acceptable symptomatic state (PASS) for visual analog scales (VAS) measuring pain in patients treated for rotator cuff diseaseThe MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selectionThe 15D instrument of health-related quality of life: properties and applicationsThe minimal detectable change of the Constant score in impingement, full-thickness tears, and massive rotator cuff tearsMinimal clinically important differences in ASES and simple shoulder test scores after nonoperative treatment of rotator cuff diseaseMultiple P-values and Bonferroni correctionArthroscopic decompression not recommended in the treatment of rotator cuff tendinopathy: a final review of a randomised controlled trial at a minimum follow-up of ten yearsSubacromial Decompression Yields a Better Clinical Outcome Than Therapy Alone: A Prospective Randomized Study of Patients With a Minimum 10-Year Follow-up",
+  "pmcid": "12670246",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "sample size",
+        "n=56",
+        "n=79",
+        "n=47"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "eatment. We calculated that a sample size of 204 participants (68 per a"
+        },
+        {
+          "match": "n=56",
+          "context": "a treatment conversion (ASD: n=56, placebo surgery: n=47). The"
+        },
+        {
+          "match": "n=47",
+          "context": "(ASD: n=56, placebo surgery: n=47). The as treated population w"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 29,
+      "unique_matches": [
+        "randomisation",
+        "randomly assigned",
+        "allocation",
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "year follow-up of the FIMPACT randomised, placebo surgery controlled"
+        },
+        {
+          "match": "randomise",
+          "context": "opy for shoulder impingement: randomised, placebo surgery controlled"
+        },
+        {
+          "match": "randomise",
+          "context": "cebo-controlled, three-group, randomised surgical trialSubacromial de"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sequentially numbered",
+        "opaque envelopes",
+        "concealment"
+      ],
+      "examples": [
+        {
+          "match": "concealment",
+          "context": "ion was terminated. To ensure concealment of the allocation from partic"
+        },
+        {
+          "match": "opaque envelopes",
+          "context": "sequentially numbered sealed opaque envelopes. A statistician with no invol"
+        },
+        {
+          "match": "sequentially numbered",
+          "context": "isation was carried out using sequentially numbered sealed opaque envelopes. A st"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "n arm activity as our primary outcome measures. Pain was assessed using a v"
+        },
+        {
+          "match": "outcome measure",
+          "context": "tment effect for both primary outcome measures. We did not predefine any me"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "the treatment effect using an intention-to-treat approach for the ASD versus p"
+        },
+        {
+          "match": "intention-to-treat",
+          "context": "th the same principles as the intention-to-treat and full analysis set analyse"
+        },
+        {
+          "match": "intention-to-treat",
+          "context": "subset of participants in the intention-to-treat population who received the t"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "intention-to-treat population",
+        "intention-to-treat approach"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat approach",
+          "context": "the treatment effect using an intention-to-treat approach for the ASD versus placebo su"
+        },
+        {
+          "match": "intention-to-treat population",
+          "context": "subset of participants in the intention-to-treat population who received the treatment th"
+        }
+      ]
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "stata version 18",
+        "stata"
+      ],
+      "examples": [
+        {
+          "match": "Stata",
+          "context": "e used the mixed procedure in Stata to fit the mixed model for re"
+        },
+        {
+          "match": "Stata version 18",
+          "context": "ate statistical significance. Stata version 18 (StataCorp, TX) was used for"
+        },
+        {
+          "match": "Stata",
+          "context": "gnificance. Stata version 18 (StataCorp, TX) was used for all sta"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "study group. Values are mean (standard deviation) unless stated otherwise FOOT"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "multiple comparisons",
+        "bonferroni"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "diseaseMultiple P-values and Bonferroni correctionArthroscopic decomp"
+        },
+        {
+          "match": "multiple comparisons",
+          "context": "hod for adjustment of CIs for multiple comparisons of secondary outcomes. These"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "p-value",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "P-value",
+          "context": "rotator cuff diseaseMultiple P-values and Bonferroni correctionArt"
+        },
+        {
+          "match": "Secondary outcome",
+          "context": "MID) was set at 15 points.21  Secondary outcomes included functional assessme"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "s for multiple comparisons of secondary outcomes. These results are presented"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "36 score, with associated 95% confidence intervals (CIs), at 10 years after the"
+        },
+        {
+          "match": "confidence interval",
+          "context": "low-up. Values are means (95% confidence intervals) unless stated otherwise FOO"
+        },
+        {
+          "match": "95% confidence",
+          "context": "SF-36 score, with associated 95% confidence intervals (CIs), at 10 years"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "used multilevel mixed effects logistic regression, accounting for repeated meas"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "consort"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "tandards of reporting trials (CONSORT) guidelines.18 All participan"
+        }
+      ]
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "categorical",
+        "proportions"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "imate degrees of freedom. For categorical variables, we used multilevel"
+        },
+        {
+          "match": "proportions",
+          "context": ", subjective improvement, the proportions of responders and non-respond"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "repeated measures",
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "repeated measures",
+          "context": "ic regression, accounting for repeated measures. These variables included pat"
+        },
+        {
+          "match": "Longitudinal",
+          "context": "acebo surgery controlled trialLongitudinal study of use and cost of suba"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "multilevel"
+      ],
+      "examples": [
+        {
+          "match": "multilevel",
+          "context": "ategorical variables, we used multilevel mixed effects logistic regres"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "missing values",
+        "imputation",
+        "loss to follow-up"
+      ],
+      "examples": [
+        {
+          "match": "missing values",
+          "context": "ture. This model accommodates missing values under the missing at random a"
+        },
+        {
+          "match": "imputation",
+          "context": "f unbalanced datasets without imputation. Supplementary table S1 shows"
+        },
+        {
+          "match": "loss to follow-up",
+          "context": "only 3% surplus for potential loss to follow-up and crossovers and accordingl"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "multiple comparisons"
+      ],
+      "examples": [
+        {
+          "match": "multiple comparisons",
+          "context": "hod for adjustment of CIs for multiple comparisons of secondary outcomes. These"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "Baseline characteristic",
+          "context": "to the participants. CAPTION: Baseline characteristics of participants according to"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "excluded",
+        "crossover"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "uage of the clinical site. We excluded patients with full thickness"
+        },
+        {
+          "match": "excluded",
+          "context": "tervention other than ASD, we excluded the patient from the trial. O"
+        },
+        {
+          "match": "excluded",
+          "context": "y other treatment\u2014that is, we excluded the participants with a treat"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "carried out two prespecified sensitivity analyses (per protocol and as"
+        }
+      ]
+    },
+    "model_details": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "covariance structure"
+      ],
+      "examples": [
+        {
+          "match": "covariance structure",
+          "context": "nd identity covariance as the covariance structure. This model accommodates miss"
+        }
+      ]
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...rotator cuff diseaseMultiple P-values and Bonferroni correctionArt..."
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...ic regression, accounting for repeated measures. These variables included pat..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...ic regression, accounting for repeated measures. These variables included pat..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...rotator cuff diseaseMultiple P-values and Bonferroni correctionArt..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...uage of the clinical site. We excluded patients with full thickness..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...diseaseMultiple P-values and Bonferroni correctionArthroscopic decomp..."
+      },
+      {
+        "message": "Addressed missing data using imputation methods.",
+        "evidence": "...ture. This model accommodates missing values under the missing at random a..."
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...e used the mixed procedure in Stata to fit the mixed model for re..."
+      },
+      {
+        "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
+        "evidence": "...hod for adjustment of CIs for multiple comparisons of secondary outcomes. These..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...carried out two prespecified sensitivity analyses (per protocol and as..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'P-value' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'repeated' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

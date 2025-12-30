@@ -1,0 +1,308 @@
+{
+  "title": "Prostate specific antigen retesting intervals and trends in England: population based cohort studyLower urinary tract symptoms and prostate cancer: is PSA testing in men with symptoms wise?Current policies on early detection of prostate cancer create overdiagnosis and inequity with minimal benefitAn analysis of time trends in breast and prostate cancer mortality rates in Lithuania, 1986-2020Prostate-Specific Antigen Screening and 15-Year Prostate Cancer Mortality: A Secondary Analysis of the CAP Randomized Clinical TrialProstate cancer screening with prostate-specific antigen (PSA) test: a systematic review and meta-analysisGuideline of guidelines: a critical appraisal of the evidence for PSA retesting intervalsRepeat prostate-specific antigen (PSA) test before prostate biopsy: a 20% decrease in PSA values is associated with a reduced risk of cancer and particularly of high-grade cancerProstate cancer screening: Continued controversies and novel biomarker advancementsProstate-specific antigen testing rates and referral patterns from general practice data in EnglandProstate-specific antigen testing rates remain low in UK general practice: a cross-sectional study in six English citiesProstate-specific antigen testing and opportunistic prostate cancer screening: a cohort study in England, 1998-2017BLOod Test Trend for cancEr Detection (BLOTTED): protocol for an observational and prediction model development study using English primary care electronic health record dataFactors affecting prostate cancer detection through asymptomatic prostate-specific antigen testing in primary care in England: evidence from the 2018 National Cancer Diagnosis AuditTemporal trends in use of tests in UK primary care, 2000-15: retrospective analysis of 250 million testsScreening for Prostate Cancer: US Preventive Services Task Force Recommendation StatementProstate-specific antigen (PSA) screening rates and factors associated with screening in Eastern Canadian men: Findings from cross-sectional survey dataA Comprehensive National Survey of Prostate-specific Antigen Testing and Prostate Cancer Management in France: Uncovering Regional and Temporal DisparitiesAre we there yet? Closing the gap of prostate cancer presentation disparities in IrelandSpatio-temporal variation in prostate cancer testing in Stockholm: A population-based studyChanges in prostate specific antigen (PSA) \u201cscreening\u201d patterns by geographic region and socio-economic status in Australia: Analysis of medicare data in 50-69 year old menLifestyle factors and prostate-specific antigen (PSA) testing in UK Biobank: Implications for epidemiological researchProstate-specific antigen (PSA) testing of men in UK general practice: a 10-year longitudinal cohort studyRisk-reducing mastectomy rates in the US: a closer examination of the Angelina Jolie effectImplications of celebrity endorsement of prostate cancer awareness in a tertiary referral unit - the \u2018Fry-Turnbull\u2019 effectUPDATE \u2013 2022 Canadian Urological Association recommendations on prostate cancer screening and early diagnosisEarly Detection of Prostate Cancer: AUA/SUO Guideline Part I: Prostate Cancer ScreeningThe Memorial Sloan Kettering Cancer Center Recommendations for Prostate Cancer ScreeningNCCN Guidelines\u00ae Insights: Prostate Cancer Early Detection, Version 1.2023French AFU Cancer Committee Guidelines - Update 2022-2024: prostate cancer - Diagnosis and management of localised diseaseDo Men Receive Information Required for Shared Decision Making About PSA Testing? Results from a National SurveyScreening asymptomatic men for prostate cancer: A comparison of international guidelines on prostate-specific antigen testingMen\u2019s experiences of the Swedish Organised Prostate Cancer Testing programme: a qualitative studySEOM guide to primary and secondary prevention of cancer: 2014The South African Prostate Cancer Screening GuidelinesInfluence of blood prostate specific antigen levels at age 60 on benefits and harms of prostate cancer screening: population based cohort studyProstate specific antigen concentration at age 60 and death or metastasis from prostate cancer: case-control studyBaseline Prostate-Specific Antigen Levels in Midlife Predict Lethal Prostate Cancer25 year trends in cancer incidence and mortality among adults aged 35-69 years in the UK, 1993-2018: retrospective secondary analysisEmpirical estimates of prostate cancer overdiagnosis by age and prostate-specific antigen",
+  "pmcid": "12505835",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "subgroup analysis"
+      ],
+      "examples": [
+        {
+          "match": "subgroup analysis",
+          "context": "the age specific threshold. A subgroup analysis was done to investigate assoc"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "interquartile range",
+          "context": "stated otherwise FOOTER: IQR=interquartile range; PSA=prostate specific antige"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "significance level"
+      ],
+      "examples": [
+        {
+          "match": "significance level",
+          "context": "ervals (CIs), and a two sided significance level of 5% was used for all analys"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval",
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "model this was 19.34 months (95% CI 18.92 to 19.69) and in the su"
+        },
+        {
+          "match": "95% CI",
+          "context": "subgroup model 21.60 months (95% CI 21.17 to 22.03).Above the thr"
+        },
+        {
+          "match": "confidence interval",
+          "context": "riate level. We estimated 95% confidence intervals (CIs), and a two sided signi"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "negative binomial"
+      ],
+      "examples": [
+        {
+          "match": "negative binomial",
+          "context": "d multivariable mixed effects negative binomial regression models with an off"
+        },
+        {
+          "match": "negative binomial",
+          "context": "d multivariable mixed effects negative binomial regression models FOOTER: PSA"
+        },
+        {
+          "match": "negative binomial",
+          "context": "stimated from a mixed effects negative binomial regression model with a log-l"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "strobe"
+      ],
+      "examples": [
+        {
+          "match": "STROBE",
+          "context": "onal Studies in Epidemiology (STROBE) guidelines for observational"
+        }
+      ]
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "repeated measures",
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "repeated measures",
+          "context": "both the non-independence of repeated measures within patients and the clust"
+        },
+        {
+          "match": "longitudinal",
+          "context": "K general practice: a 10-year longitudinal cohort studyRisk-reducing mas"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "nested"
+      ],
+      "examples": [
+        {
+          "match": "Nested",
+          "context": "testing interval (in months). Nested random intercepts for patient"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "missing data"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": "test. We did not replace any missing data as we aimed to describe patte"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "ownload for that practice. We excluded PSA tests for all patients th"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "Sensitivity",
+          "context": "e the age specific threshold. Sensitivity analyses were done for two re"
+        },
+        {
+          "match": "Sensitivity",
+          "context": "-up from study entry to exit. Sensitivity analyses are included in supp"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

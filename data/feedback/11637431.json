@@ -1,0 +1,380 @@
+{
+  "title": "Intracellular polarization of RNAs and proteins in the human small intestinal epitheliumIntracellular polarization of RNAs and proteins in the human small intestinal epithelium.Intracellular polarization of RNAs and proteins in the human small intestinal epithelium.Tales from the crypt: new insights into intestinal stem cellsEpithelial cell polarity as reflected in enterocytesGlobal mRNA polarization regulates translation efficiency in the intestinal epitheliumA spatial expression atlas of the adult human proximal small intestineThe polymeric immunoglobulin receptor: bridging innate and adaptive immune responses at mucosal surfacesProteomic analysis of the enterocyte brush borderTissue-based map of the human proteomeThe Matrisome:  Definition and  Characterization by Proteomics of Normal and Tumor Extracellular Matrices*Intestinal mucus components and secretion mechanisms: what we do and do not knowGlucose transporters in the small intestine in health and diseaseIntestinal Lipid Absorption and Lipoprotein FormationIntestinal lipid absorptionIn the right place at the right time: visualizing and understanding mRNA localizationIntracellular mRNA transport and localized translationMechanisms and consequences of subcellular RNA localization across diverse cell typesSubcellular mRNA localization in animal cells and why it mattersmRNA localization: gene expression in the spatial dimensionSystematic imaging reveals features and changing localization of mRNAs in Drosophila developmentGlobal Analysis of mRNA Localization Reveals a Prominent Role in Organizing Cellular Architecture and FunctionGenome-wide screen reveals APC-associated RNAs enriched in cell protrusionsRNA localization mechanisms transcend cell morphologyThe Local Transcriptome in the Synaptic Neuropil Revealed by Deep Sequencing and High-Resolution ImagingIdentification of Process-Localized mRNAs from Cultured Rodent Hippocampal NeuronsSingle-molecule insights into mRNA dynamics in neuronsSpatial discordances between mRNAs and proteins in the intestinal epitheliumGlobal quantification of mammalian gene expression controlAnalysis and Prediction of Translation Rate Based on Sequence and Functional Features of the mRNA.Apical-basal polarity in the gutRecognition of commensal microflora by toll-like receptors is required for intestinal homeostasisMicrobiota regulates immune defense against respiratory tract influenza A virus infectionCritical Roles of Activation-Induced Cytidine Deaminase in the Homeostasis of Gut FloraSingle-molecule mRNA detection and counting in mammalian tissue.Sensitive and powerful single-cell RNA sequencing using mcSCRB-seqUTAP: User-friendly Transcriptome Analysis Pipeline.Suspension Trapping (S-Trap) Is Compatible with Typical Protein Extraction Buffers and Detergents for Bottom-Up Proteomics.MaxQuant enables high peptide identification rates, individualized p.p.b.-range mass accuracies and proteome-wide protein quantificationFiji: an open-source platform for biological-image analysis.Mapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRt.Dictionary learning for integrative, multimodal and scalable single-cell analysisModerated estimation of fold change and dispersion for RNA-seq data with DESeq2A Proximal-to-Distal Survey of Healthy Adult Human Small Intestine and Colon Epithelium by Single-Cell TranscriptomicsKEGGREST: Client-side REST access to the Kyoto Encyclopedia of Genes and Genomes (KEGG).Pathview: an R/Bioconductor package for pathway-based data integration and visualizationA subcellular map of the human proteomeUniProt: the Universal Protein Knowledgebase in 2023Cells of the human intestinal tract mapped across space and timeDecision Letter 0Decision Letter 1Author response to Decision Letter 1Decision Letter 2Author response to Decision Letter 2Decision Letter 3",
+  "pmcid": "11637431",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "n = 5",
+        "n = 8"
+      ],
+      "examples": [
+        {
+          "match": "n = 8",
+          "context": "e is number of patients/mice (n = 8 for human and n = 5 for mouse"
+        },
+        {
+          "match": "n = 5",
+          "context": "nts/mice (n = 8 for human and n = 5 for mouse), A and B are the n"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "imagej",
+        "seurat",
+        "bioconductor"
+      ],
+      "examples": [
+        {
+          "match": "imageJ",
+          "context": "were manually measured using imageJ [37] for each of the 8 patien"
+        },
+        {
+          "match": "ImageJ",
+          "context": "r and membrane staining using ImageJ [37] for each of the 8 patien"
+        },
+        {
+          "match": "imageJ",
+          "context": "were manually measured using imageJ [37] for each of the 8 patien"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "standard error",
+          "context": "ed segmentation. The mean and standard error of the mean were calculated f"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "P-value",
+          "context": ", without skewing the ratios. P-values for apical/basal bias and fo"
+        },
+        {
+          "match": "P-value",
+          "context": "amples and the mouse samples. P-values were corrected for multiple"
+        },
+        {
+          "match": "p-value",
+          "context": "leagues [44]. For each group, p-value was calculated with two-sided"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "wilcoxon"
+      ],
+      "examples": [
+        {
+          "match": "Wilcoxon",
+          "context": "t in ggplot 2 3.5.0 [38], and Wilcoxon rank-sum was performed using"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "lysis section. For each gene, Wilcoxon rank-sum test was performed f"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "was calculated with two-sided Wilcoxon rank sum test (proteins in gr"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "signed-rank"
+      ],
+      "examples": [
+        {
+          "match": "signed-rank",
+          "context": "nsities was calculated, and 2 signed-rank tests were performed on each"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "of Treitz) were resected and longitudinally opened to expose the mucosa"
+        },
+        {
+          "match": "longitudinal",
+          "context": "of Treitz) were resected and longitudinally opened to expose the mucosa"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "missing values"
+      ],
+      "examples": [
+        {
+          "match": "missing values",
+          "context": "od, based on unique peptides, missing values were imputed from a low, rand"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "ng to the Matrisome [8], were excluded. Following this filtration, d"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "Sensitivity",
+          "context": "erformed with an Agilent High Sensitivity D1000 ScreenTape System (Agil"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 26,
+      "unique_matches": [
+        "quantification",
+        "transcriptomics",
+        "staining",
+        "transcriptome",
+        "fluorescence",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "onal guidelines. C57BL/6 Male mice aged 2 to 5 months, housed un"
+        },
+        {
+          "match": "mice",
+          "context": "For the antibiotic treatment, mice were given a combination of t"
+        },
+        {
+          "match": "Mice",
+          "context": "was dissolved in sterile PBS. Mice were injected 20 \u03bcg/kg body w"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...od, based on unique peptides, missing values were imputed from a low, rand..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "..., without skewing the ratios. P-values for apical/basal bias and fo..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...of Treitz) were resected and longitudinally opened to expose the mucosa..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...ng to the Matrisome [8], were excluded. Following this filtration, d..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'quantification'"
+      },
+      {
+        "message": "Appropriately used paired tests for dependent data.",
+        "evidence": "...of Treitz) were resected and longitudinally opened to expose the mucosa..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...erformed with an Agilent High Sensitivity D1000 ScreenTape System (Agil..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'P-value' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

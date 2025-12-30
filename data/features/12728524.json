@@ -1,0 +1,240 @@
+{
+  "title": "Decoding the Knacks of Ellagitannin Lead Compounds to Treat Nonalcoholic Fatty Liver Disease using Computer-aided Drug DesigningThe global epidemiology of nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH): A systematic review.Drug-induced fatty liver disease: An overview of pathogenesis and management.Global incidence and prevalence of nonalcoholic fatty liver disease.Non-alcoholic fatty liver disease (NAFLD): A review of pathophysiology, clinical management and effects of weight loss.The diagnosis and management of nonalcoholic fatty liver disease: Practice guidance from the American Association for the Study of Liver Diseases.Prevalence, incidence, and outcome of non-alcoholic fatty liver disease in Asia, 1999\u20132019: A systematic review and meta-analysis.Global burden of liver cancer in males and females: Changing etiological basis and the growing contribution of NASH.Non-alcoholic fatty liver disease: Growing burden, adverse outcomes and associations.Global burden of NAFLD and NASH: trends, predictions, risk factors and prevention.NAFLD as a continuum: From obesity to metabolic syndrome and diabetes.NASH: The emerging most common form of chronic liver disease.Non-alcoholic fatty liver disease and the impact of genetic, epigenetic and environmental factors in the offspring.NAFLD and cardiovascular diseases: A clinical review.The utility of radiological imaging in nonalcoholic fatty liver disease.Recent insights into the pathogenesis of nonalcoholic fatty liver disease.Oxidative stress in non-alcoholic fatty liver disease. An updated mini review.Combined effects of ambient particulate matter exposure and a high-fat diet on oxidative stress and steatohepatitis in mice.An overview of the genetics, mechanisms and management of NAFLD and ALD.Natural products in non-alcoholic fatty liver disease (NAFLD): Novel lead discovery for drug development.Health disparities in chronic liver disease.Steatohepatitis: A tale of two \u201chits\u201d?Inhibiting triglyceride synthesis improves hepatic steatosis but exacerbates liver damage and fibrosis in obese mice with nonalcoholic steatohepatitis.The strategies and techniques of drug discovery from natural products.Patatin-like phospholipase domain-containing 3/adiponutrin deficiency in mice is not associated with fatty liver disease.Lifestyle changes in patients with non-alcoholic fatty liver disease: A systematic review and meta-analysis.MicroRNAs as regulatory elements in immune system logic.NASH limits anti-tumour surveillance in immunotherapy-treated HCC.A-Jee, H.B.; Cukura, A.; Denny, P.; Dogan, T.; Ebenezer, T.G.; Fan, J.; Garmiri, P.; da Costa Gonzales, L.J.; Hatton-Ellis, E.; Hussein, A.; Ignatchenko, A.; Insana, G.; Ishtiaq, R.; Joshi, V.; Jyothi, D.; Kandasaamy, S.; Lock, A.; Luciani, A.; Lugaric, M.; Luo, J.; Lussi, Y.; MacDougall, A.; Madeira, F.; Mahmoudy, M.; Mishra, A.; Moulang, K.; Nightingale, A.; Pundir, S.; Qi, G.; Raj, S.; Raposo, P.; Rice, D.L.; Saidi, R.; Santos, R.; Speretta, E.; Stephenson, J.; Totoo, P.; Turner, E.; Tyagi, N.; Vasudev, P.; Warner, K.; Watkins, X.; Zaru, R.; Zellner, H.; Wu, C.H.; Arighi, C.N.; Arminski, L.; Chen, C.; Chen, Y.; Huang, H.; Laiho, K.; McGarvey, P.; Natale, D.A.; Ross, K.; Vinayaka, C.R.; Wang, Q.; Wang, Y. Annotation of biologically relevant ligands in UniProtKB using ChEBI.The EMBL Nucleotide Sequence Database.The Protein Data Bank.Protein variety and functional diversity: Swiss-Prot annotation in its biological context.Gapped BLAST and PSI-BLAST: A new generation of protein database search programs.message: \"SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution (SQL: select * from `users`...)\".Open Babel: An open chemical toolbox.High-quality and universal empirical atomic charges for chemoinformatics applications.AutoDock Vina: Improving the speed and accuracy of docking with a new scoring function, efficient optimization, and multithreading.Lead- and drug-like compounds: the rule-of-five revolution.The performance of several docking programs at reproducing protein\u2013macrolide-like crystal structures.Molecular docking studies of a cyclic octapeptide-cyclosaplin from Sandalwood.In silico strategies to support fragment-to-lead optimization in drug discovery.A critical assessment of predicted interaction.Drug design by pharmacophore and virtual screening approach.Protein interface pharmacophore mapping tools for small molecule protein: protein interaction inhibitor discovery.LIGPLOT: A program to generate schematic diagrams of protein-ligand interactions.LigandScout: 3-D pharmacophores derived from protein-bound ligands and their use as virtual screening filters.The burden of nonalcoholic fatty liver disease in Asia, Middle East and North Africa: Data from Global Burden of Disease 2009-2019.Synthesis, spectroscopic investigation, molecular docking, ADME/T toxicity predictions, and DFT study of two trendy ortho vanillin-based scaffolds.ADMETlab 2.0: An integrated online platform for accurate and comprehensive predictions of ADMET properties.admetSAR 2.0: Web-service for prediction and optimization of chemical ADMET properties.NCBI Taxonomy: A comprehensive update on curation, resources and tools.Molecular dynamics simulations in drug discovery and pharmaceutical development.Molecular dynamics simulations and drug discovery.Predicting efficacy of drug-carrier nanoparticle designs for cancer treatment: A machine learning-based solution.Molecular docking, simulation and binding free energy analysis of small molecules as PfHT1 inhibitors.The Bio3D packages for structural bioinformatics.On the uses of PCA to characterise molecular dynamics simulations of biological macromolecules: Basics and tips for an effective use.Therapies for non-alcoholic fatty liver disease: A 2022 update.Nonalcoholic fatty liver disease in severely obese subjects.Key topics in molecular docking for drug design.Predicting drug metabolism: Experiment and/or computation?Non-alcoholic fatty liver disease: A practical approach to diagnosis and staging.Medical nutrition therapy in non-alcoholic fatty liver disease-A review of literature.Randomized controlled trial testing the effects of weight loss on nonalcoholic steatohepatitis.Molecular docking: A powerful approach for structure-based drug discovery.A \u2018rule of 0.5\u2019 for the metabolite-likeness of approved pharmaceutical drugs.LigPlot+: Multiple ligand-protein interaction diagrams for drug discovery.Molecular docking as a tool for the discovery of molecular targets of nutraceuticals in diseases management.The prebiotic potential of geraniin and geraniin-enriched extract against high-fat-diet-induced metabolic syndrome in sprague dawley rats.Evidence for health properties of pomegranate juices and extracts beyond nutrition: A critical systematic review of human studies.Phenolic composition and antioxidant activity of red, ros\u00e9 and white wines originating from Romanian grape cultivars.Nonalcoholic fatty liver disease\u2014A concise review of noninvasive tests and biomarkers.Nonalcoholic fatty liver disease: An emerging modern-day risk factor for cardiovascular disease.",
+  "pmcid": "12728524",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "Randomized controlled trial",
+          "context": "isease-A review of literature.Randomized controlled trial testing the effects of weight"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "pymol"
+      ],
+      "examples": [
+        {
+          "match": "PyMOL",
+          "context": "mputational pipelines such as PyMOL, AutoDock Vina, and Discovery"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "p\u2009<\u20090.01"
+      ],
+      "examples": [
+        {
+          "match": "p\u2009<\u20090.01",
+          "context": "ression of PLPL3 genes with a p\u2009<\u20090.01 was considered significant. T"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "stress and steatohepatitis in mice.An overview of the genetics,"
+        },
+        {
+          "match": "mice",
+          "context": "damage and fibrosis in obese mice with nonalcoholic steatohepat"
+        },
+        {
+          "match": "mice",
+          "context": "g 3/adiponutrin deficiency in mice is not associated with fatty"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "title": "Adjuvant nivolumab and relatlimab in stage III/IV melanoma: the randomized phase 3 RELATIVITY-098 trialAdjuvant nivolumab versus ipilimumab in resected stage III or IV melanomaAdjuvant pembrolizumab versus placebo in resected stage III melanomaFive-year analysis of adjuvant pembrolizumab or placebo in stage III melanomaFinal results for adjuvant dabrafenib plus trametinib in stage III melanomaAdjuvant nivolumab versus ipilimumab in resected stage III/IV melanoma: 5-year efficacy and biomarker results for CheckMate 238Relatlimab and nivolumab versus nivolumab in untreated advanced melanomaOverall survival and response with nivolumab and relatlimab in advanced melanomaNivolumab plus relatlimab in advanced melanoma: RELATIVITY-047 4-year updateNeoadjuvant relatlimab and nivolumab in resectable melanomaNeoadjuvant nivolumab and relatlimab in locally advanced MMR-deficient colon cancer: a phase 2 trialNeoadjuvant nivolumab with or without relatlimab in resectable non-small-cell lung cancer: a randomized phase 2 trialNeoadjuvant anti\u2013PD-1 alone or in combination with anti-TIGIT or an oncolytic virus in resectable stage IIIB\u2013D melanoma: a phase 1/2 trialAdjuvant therapy of nivolumab combined with ipilimumab versus nivolumab alone in patients with resected stage IIIB\u2013D or stage IV melanoma (CheckMate 915)Neoadjuvant nivolumab and ipilimumab in resectable stage III melanomaIndividualised neoantigen therapy mRNA-4157 (V940) plus pembrolizumab versus pembrolizumab monotherapy in resected melanoma (KEYNOTE-942): a randomized, phase 2b study",
+  "pmcid": "12705465",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sample size",
+        "n\u2009=\u20091"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "ELATIVITY-098. An approximate sample size of 1,050 patients was planned"
+        },
+        {
+          "match": "n\u2009=\u20091",
+          "context": "usoidal obstructive syndrome (n\u2009=\u20091) and myocarditis (n\u2009=\u20091). cCa"
+        },
+        {
+          "match": "n\u2009=\u20091",
+          "context": "rome (n\u2009=\u20091) and myocarditis (n\u2009=\u20091). cCause of death was immune-"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "randomly assigned"
+      ],
+      "examples": [
+        {
+          "match": "randomly assigned",
+          "context": "d phase 3 trial with patients randomly assigned in a 1:1 ratio to receive 480"
+        },
+        {
+          "match": "randomly assigned",
+          "context": "ssion. Enrolled patients were randomly assigned 1:1 to receive 480\u2009mg of nivo"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "estigator and site staff were blinded to the study therapy administ"
+        },
+        {
+          "match": "blinded",
+          "context": "), but the study had remained blinded. The study significance bound"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "udy therapy administered. The primary endpoint was investigator-assessed RFS"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "hierarchically tested if the primary endpoint was met. Other secondary endp"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "ratified log-rank test if the primary endpoint was met. At the time of final"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sas",
+        "r version 4.3.1"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "analyses were performed using SAS software (SAS Institute) and"
+        },
+        {
+          "match": "SAS",
+          "context": "performed using SAS software (SAS Institute) and R version 4.3."
+        },
+        {
+          "match": "R version 4.3.1",
+          "context": "software (SAS Institute) and R version 4.3.1. Differences in biomarker lev"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "alpha",
+        "p\u2009<\u20090.05",
+        "secondary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "cal tests were two-sided, and P\u2009<\u20090.05 was considered significant. F"
+        },
+        {
+          "match": "alpha",
+          "context": "e based on an O\u2019Brien\u2212Fleming alpha spending function. A key seco"
+        },
+        {
+          "match": "secondary endpoint",
+          "context": "Overall survival was the key secondary endpoint to be hierarchically tested i"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "ed patients; hazard ratio and confidence intervals were estimated using a strat"
+        },
+        {
+          "match": "confidence interval",
+          "context": "methodology. Hazard ratio and confidence intervals were estimated using a non-s"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "wilcoxon"
+      ],
+      "examples": [
+        {
+          "match": "Wilcoxon",
+          "context": ". For biomarker analyses, the Wilcoxon test was used to compare freq"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "ence were evaluated using the Wilcoxon signed-rank test. Baseline bi"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "red (no recurrence) using the Wilcoxon rank-sum test. All statistica"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "signed-rank"
+      ],
+      "examples": [
+        {
+          "match": "signed-rank",
+          "context": "evaluated using the Wilcoxon signed-rank test. Baseline biomarker expr"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "mixed-effect"
+      ],
+      "examples": [
+        {
+          "match": "mixed-effect",
+          "context": "y) were analyzed using linear mixed-effect models for pharmacodynamic ch"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "proportional hazards",
+          "context": "imated using a stratified Cox proportional hazards model and survival curves usi"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "ed using a non-stratified Cox proportional hazards model on the prespecified sub"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 14,
+      "unique_matches": [
+        "log-rank",
+        "rfs",
+        "overall survival",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "log-rank",
+          "context": "\u03b1 of 0.05 using a stratified log-rank test with at least 90% statis"
+        },
+        {
+          "match": "log-rank",
+          "context": "hierarchically by stratified log-rank test if the primary endpoint"
+        },
+        {
+          "match": "log-rank",
+          "context": "as compared using a two-sided log-rank test on all randomized patien"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "mixed-effect",
+        "cox proportional"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "estimated using a stratified Cox proportional hazards model and survival cu"
+        },
+        {
+          "match": "Cox proportional",
+          "context": "imated using a non-stratified Cox proportional hazards model on the prespeci"
+        },
+        {
+          "match": "mixed-effect",
+          "context": "y) were analyzed using linear mixed-effect models for pharmacodynamic ch"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "frequencies"
+      ],
+      "examples": [
+        {
+          "match": "frequencies",
+          "context": "and reported out as relative frequencies. A PBMC sample from the same"
+        },
+        {
+          "match": "frequencies",
+          "context": "oxon test was used to compare frequencies of T cells in tumor and blood"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "repeated measures"
+      ],
+      "examples": [
+        {
+          "match": "repeated measures",
+          "context": "dom intercepts to account for repeated measures. Within each arm, pairwise co"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "hierarchical",
+          "context": "key secondary endpoint to be hierarchically tested if the primary endpo"
+        },
+        {
+          "match": "hierarchical",
+          "context": "atform from Dotmatics using a hierarchical gating strategy to remove non"
+        },
+        {
+          "match": "hierarchical",
+          "context": "vival was to have been tested hierarchically by stratified log-rank test"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "stical power when the average hazard ratio of nivolumab and relatlimab F"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "nts were 427, with a critical hazard ratio of 0.815 and cumulative power"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "t on all randomized patients; hazard ratio and confidence intervals were"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "compliance",
+          "context": "TY-047 study, including study compliance and a link to the protocol. I"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "flow cytometry",
+        "staining",
+        "cell line",
+        "immunohistochemistry"
+      ],
+      "examples": [
+        {
+          "match": "cell line",
+          "context": "arized markers with the broad cell lineages (tumor, immune and other)"
+        },
+        {
+          "match": "immunohistochemistry",
+          "context": "aseline and at recurrence via immunohistochemistry. Monoplex immunohistochemistr"
+        },
+        {
+          "match": "immunohistochemistry",
+          "context": "mmunohistochemistry. Monoplex immunohistochemistry staining was used to evaluate"
+        }
+      ]
+    }
+  }
+}

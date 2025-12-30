@@ -1,0 +1,295 @@
+{
+  "title": "Unveiling chemotherapy-induced immune landscape remodeling and metabolic reprogramming in lung adenocarcinoma by scRNA-sequencingSingle-cell RNA-seq reveals developmental plasticity with coexisting oncogenic states and immune evasion programs in ETP-ALLReference-based analysis of lung single-cell sequencing reveals a transitional profibrotic macrophageMIF is a noncognate ligand of CXC chemokine receptors in inflammatory and atherogenic cell recruitmentMetronomic chemotherapy modulates clonal interactions to prevent drug resistance in non-small cell lung cancerStalling the engine of resistance: targeting cancer metabolism to overcome therapeutic resistanceOverexpression of close homolog of L1 enhances the chemosensitivity of lung cancer cells via inhibition of the Akt pathwayInhibition of the glycolytic activator pfkfb3 in endothelium induces tumor vessel normalization, impairs metastasis, and improves chemotherapyMetabolic competition in the tumor microenvironment is a driver of cancer progressionDissecting the single-cell transcriptome network in patients with esophageal squamous cell carcinoma receiving operative paclitaxel plus platinum chemotherapyLandscape and dynamics of single tumor and immune cells in early and advanced-stage lung adenocarcinomaNovel dipeptides bearing sulfonamide as antimalarial and antitrypanosomal agents: Synthesis and molecular dockingMetabolic reprogramming and cancer progressionA flexible R package for nonnegative matrix factorizationscCancer: a package for automated processing of single-cell RNA-seq data in cancerInhibition of NADPH Oxidase-4 Potentiates 2-Deoxy-D-Glucose-Induced suppression of glycolysis, migration, and invasion in glioblastoma cells: role of the Akt/HIF1\u03b1/HK-2 signaling axisProspective genotyping of hepatocellular carcinoma: Clinical implications of next-generation sequencing for matching patients to targeted and immune therapiesPhosphoenolpyruvate is a metabolic checkpoint of anti-tumor T cell responsesElucidating the metabolic plasticity of cancer: mitochondrial reprogramming and hybrid metabolic statesInference and analysis of cell-cell communication using CellChatDifferences of tumor microenvironment between stage I lepidic-positive and lepidic-negative lung adenocarcinomasSingle-cell RNA sequencing demonstrates the molecular and cellular reprogramming of metastatic lung adenocarcinomaPhenotype molding of stromal cells in the lung tumor microenvironmentSingle-cell transcriptome atlas of lung adenocarcinoma featured with ground glass nodulesHighly parallel genome-wide expression profiling of individual cells using nanoliter dropletsTumor-associated macrophage status in cancer treatmentSingle-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomasEffect of neoadjuvant chemotherapy on the immune microenvironment in non-small cell lung carcinomas as determined by multiplex immunofluorescence and image analysis approachesSingle-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastomaTargeting tumor-associated macrophages in cancerReversed graph embedding resolves complex single-cell trajectoriesSingle-cell connectomic analysis of adult mammalian lungsCell-programmed nutrient partitioning in the tumour microenvironmentClinical significance of a circulating tumor cell-based classifier in stage ib lung adenocarcinoma: a multicenter, cohort studyFumarate is an epigenetic modifier that elicits epithelial-to-mesenchymal transitionChemoresistance in cancer cells: exosomes as potential regulators of therapeutic tumor heterogeneityCancer statistics, 2020Single-cell landscape of the ecosystem in early-relapse hepatocellular carcinomaStandard radiotherapy but not chemotherapy impairs systemic immunity in non-small cell lung cancerOvercoming chemoresistance by targeting reprogrammed metabolism: the Achilles\u2019 heel of pancreatic ductal adenocarcinomaCD8 T lymphocyte and nk cell network: circuitry in the cytotoxic domain of immunityUnderstanding the Warburg effect: the metabolic requirements of cell proliferationTherapy-induced DNA methylation inactivates MCT1 and renders tumor cells vulnerable to MCT4 inhibitionA molecular atlas of cell types and zonation in the brain vasculatureSIRT1/PGC1\u03b1-dependent increase in oxidative phosphorylation supports chemotherapy resistance of colon cancerMetabolic landscape of the tumor microenvironment at single cell resolutionSingle-cell deconvolution of fibroblast heterogeneity in mouse pulmonary fibrosisTargeting cellular metabolism to improve cancer therapeuticsMitochondria and CancereLife AssessmentReviewer #1 (Public review):Author response",
+  "pmcid": "11677239",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "heterogeneity",
+          "context": "A-seq highlights intratumoral heterogeneity in primary glioblastomaTarget"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "gulators of therapeutic tumor heterogeneityCancer statistics, 2020Single-"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "l deconvolution of fibroblast heterogeneity in mouse pulmonary fibrosisTa"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "flowjo",
+        "seurat"
+      ],
+      "examples": [
+        {
+          "match": "FlowJo",
+          "context": "ntify the required cells, and FlowJo software (TreeStar, Woodburn,"
+        },
+        {
+          "match": "Seurat",
+          "context": "andardization, we applied the Seurat R package (Macosko et al., 20"
+        },
+        {
+          "match": "Seurat",
+          "context": "erted the scRNA-seq data into Seurat identifiable objects, and the"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "p-value",
+          "context": "nes of each cluster: adjusted p-value <0.01 and multiple Log2FC >0."
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "veal the marker genes of each cluster: adjusted p-value <0.01 and m"
+        },
+        {
+          "match": "cluster",
+          "context": "rom nonmalignant tissues in a cluster identified as epithelial cell"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "or"
+      ],
+      "examples": [
+        {
+          "match": "OR",
+          "context": "software (TreeStar, Woodburn, OR) was used to analyze the resu"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "f the criteria, the cells are excluded. After quality standardizatio"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "molog of L1 enhances the chemosensitivity of lung cancer cells via inhi"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 12,
+      "unique_matches": [
+        "immunohistochemistry",
+        "in vivo",
+        "flow cytometry",
+        "transcriptome",
+        "cell line",
+        "fluorescence",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": ", we housed male athymic nude mice (BALB/cASlac-nu) in a specifi"
+        },
+        {
+          "match": "mice",
+          "context": "lung thoracic cavity of nude mice for in situ tumor formation e"
+        },
+        {
+          "match": "cell line",
+          "context": "cell RNA sequencing. The A549 cell line was acquired from the Cell Ba"
+        }
+      ]
+    }
+  }
+}

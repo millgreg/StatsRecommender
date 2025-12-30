@@ -48,6 +48,21 @@ def extract_methods_from_xml(xml_path):
                         "section_title": title_node.text,
                         "content": content
                     })
+
+        # Extract Table Content (Captions and Footers)
+        # These often contain effect size definitions and sample details
+        tables = root.xpath(".//table-wrap")
+        for table in tables:
+            table_id = table.get("id", "unknown")
+            label = "".join(table.xpath(".//label/text()"))
+            caption = "".join(table.xpath(".//caption//p//text()"))
+            footer = "".join(table.xpath(".//table-wrap-foot//p//text()"))
+            
+            if caption or footer:
+                extracted_data["stats_reproducibility"].append({
+                    "section_title": f"Table {label} Context",
+                    "content": f"CAPTION: {caption}\nFOOTER: {footer}"
+                })
                     
         return extracted_data
     except Exception as e:

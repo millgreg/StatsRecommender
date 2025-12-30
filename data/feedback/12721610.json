@@ -1,0 +1,371 @@
+{
+  "title": "Efficacy and Safety of Vibegron for Persistent Symptoms of Overactive Bladder in Men Being Pharmacologically Treated for Benign Prostatic Hyperplasia: Results From the Phase 3 Randomized Controlled COURAGE TrialVibegron for overactive bladder in men with benign prostatic hyperplasia/obstruction: insights from the COURAGE trialEditorial Comment.The development of human benign prostatic hyperplasia with ageThe global, regional, and national burden of benign prostatic hyperplasia in 204 countries and territories from 2000 to 2019: a systematic analysis for the Global Burden of Disease Study 2019Management of lower urinary tract symptoms attributed to benign prostatic hyperplasia: AUA guideline part I\u2014initial work-up and medical managementThe International Continence Society (ICS) report on the terminology for adult male lower urinary tract and pelvic floor symptoms and dysfunctionThe AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladderThe impact of overactive bladder, incontinence and other lower urinary tract symptoms on quality of life, work productivity, sexuality and emotional well-being in men and women: results from the EPIC studyThe psychological impact of overactive bladder: a systematic reviewUndertreatment of overactive bladder among men with lower urinary tract symptoms in the United States: a retrospective observational studyReal-world patterns of care for the overactive bladder syndrome in the United StatesPharmacology of the lower urinary tract: update on LUTS treatmentAnticholinergic drug exposure and the risk of dementia: a nested case-control studyAnticholinergic drugs and risk of dementia: case-control studyManagement of lower urinary tract symptoms attributed to benign prostatic hyperplasia (BPH): AUA guideline amendment 2023Full Prescribing InformationInternational phase III, randomized, double-blind, placebo and active controlled study to evaluate the safety and efficacy of vibegron in patients with symptoms of overactive bladder: EMPOWURMirabegron for the treatment of overactive bladder: a prespecified pooled efficacy analysis and pooled safety analysis of three randomised, double-blind, placebo-controlled, phase III studiesInterpretation of the meaningfulness of symptom reduction with vibegron in patients with overactive bladder: analyses from EMPOWUREffects of vibegron on ambulatory blood pressure in patients with overactive bladder: results from a double-blind, placebo-controlled trialThe efficacy and safety of mirabegron on overactive bladder induced by benign prostatic hyperplasia in men receiving tamsulosin therapy: a systematic review and meta-analysisEfficacy and safety of mirabegron versus placebo add-on therapy in men with overactive bladder symptoms receiving tamsulosin for underlying benign prostatic hyperplasia: a randomized, phase 4 study (PLUS)Mirabegron vs placebo add-on therapy in men with overactive bladder symptoms receiving tamsulosin for underlying benign prostatic hyperplasia: a safety analysis from the randomized, phase 4 PLUS studyComparison in the efficacy of fesoterodine or mirabegron add-on therapy to silodosin for patients with benign prostatic hyperplasia complicated by overactive bladder: a randomized, prospective trial using urodynamic studiesOnce-daily vibegron, a novel oral \u03b2 agonist, does not inhibit CYP2D6, a common pathway for drug metabolism in patients on OAB medicationsAnticholinergic therapy for lower urinary tract symptoms associated with benign prostatic hyperplasiaComparative effectiveness and safety of monodrug therapies for lower urinary tract symptoms associated with benign prostatic hyperplasia: a network meta-analysisIncreased risk of incident dementia following use of anticholinergic agents: a systematic literature review and meta-analysisSUFU white paper on overactive bladder anticholinergic medications and dementia riskIncreased risk of dementia among patients with overactive bladder treated with an anticholinergic medication compared to a beta-3 agonist: a population-based cohort study",
+  "pmcid": "12721610",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "randomly assigned",
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "oled safety analysis of three randomised, double-blind, placebo-contr"
+        },
+        {
+          "match": "randomly assigned",
+          "context": "cturitions. Participants were randomly assigned 1:1 to receive vibegron 75 mg"
+        },
+        {
+          "match": "randomly assigned",
+          "context": "ron (including 2 participants randomly assigned to placebo) are included with"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sd",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "interquartile range",
+          "context": "Prostate Symptom Score; IQR, interquartile range; UUI, urge urinary incontinen"
+        },
+        {
+          "match": "SD",
+          "context": "reatment differences of 0.46 (SD, 1.972) and 0.60 (SD, 2.811)"
+        },
+        {
+          "match": "SD",
+          "context": "of 0.46 (SD, 1.972) and 0.60 (SD, 2.811) in change from baseli"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "secondary end point"
+      ],
+      "examples": [
+        {
+          "match": "Secondary end point",
+          "context": "ritions and urgency episodes. Secondary end points were change from baseline at"
+        },
+        {
+          "match": "secondary end point",
+          "context": ". To adjust for multiplicity, secondary end points were tested sequentially fol"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "mmrm"
+      ],
+      "examples": [
+        {
+          "match": "MMRM",
+          "context": "model for repeated measures (MMRM) with restricted maximum like"
+        },
+        {
+          "match": "MMRM",
+          "context": "were analyzed using a similar MMRM with the baseline value of th"
+        },
+        {
+          "match": "MMRM",
+          "context": "strata were not fitted in the MMRM model. To adjust for multipli"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "repeated measures"
+      ],
+      "examples": [
+        {
+          "match": "repeated measures",
+          "context": "nalyzed using mixed model for repeated measures (MMRM) with restricted maximu"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "nested"
+      ],
+      "examples": [
+        {
+          "match": "nested",
+          "context": "e and the risk of dementia: a nested case-control studyAnticholine"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "dropout"
+      ],
+      "examples": [
+        {
+          "match": "dropout",
+          "context": "respectively, assuming a 15% dropout rate and a 2-sided \u03b1 of .05."
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "sided \u03b1 of .05. Demographics, baseline characteristics, and efficacy were assessed"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "excluded",
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "a episodes. Participants were excluded if they had 24-hour urine vol"
+        },
+        {
+          "match": "excluded",
+          "context": "nence. Participants were also excluded if they had prostate surgery;"
+        },
+        {
+          "match": "compliance",
+          "context": "equate experience with dosing compliance and bladder diary completion,"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...respectively, assuming a 15% dropout rate and a 2-sided \u03b1 of .05...."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...ritions and urgency episodes. Secondary end points were change from baseline at..."
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...nalyzed using mixed model for repeated measures (MMRM) with restricted maximu..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...nalyzed using mixed model for repeated measures (MMRM) with restricted maximu..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...ritions and urgency episodes. Secondary end points were change from baseline at..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...a episodes. Participants were excluded if they had 24-hour urine vol..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...a episodes. Participants were excluded if they had 24-hour urine vol..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'Secondary end point' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'repeated' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

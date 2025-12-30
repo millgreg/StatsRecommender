@@ -1,0 +1,321 @@
+{
+  "title": "Cardiotropic AAV gene therapy for heart failure: a phase 1 trialHeart failure epidemiology and outcomes statistics: a report of the Heart Failure Society of AmericaGlobal public health burden of heart failure: an updated review2024 heart disease and stroke statistics: a report of US and global data from the American Heart Association2022 AHA/ACC/HFSA guideline for the management of heart failure: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice GuidelinesHeart failure in humans reduces contractile force in myocardium from both ventriclesCardiac myofibrillar contractile properties during the progression from hypertension to decompensated heart failureModulation of cardiac contractility by the phospholamban/SERCA2a regulatomeCounteracting protein kinase activity in the heart: the multiple roles of protein phosphatasesType 1 phosphatase, a negative regulator of cardiac functionEnhancement of cardiac function and suppression of heart failure progression by inhibition of protein phosphatase 1Role of protein phosphatase-1 inhibitor-1 in cardiac physiology and pathophysiologyInducible expression of active protein phosphatase-1 inhibitor-1 enhances basal cardiac function and protects against ischemia/reperfusion injuryAbnormal intracellular calcium handling in myocardium from patients with end-stage heart failureSarcoplasmic reticulum Ca ATPase as a therapeutic target for heart failureIncreased expression of cardiac phosphatases in patients with end-stage heart failureProtein phosphatase inhibitor-1 gene therapy in a swine model of nonischemic heart failureActive inhibitor-1 maintains protein hyper-phosphorylation in aging hearts and halts remodeling in failing heartsExpression of active protein phosphatase 1 inhibitor-1 attenuates chronic beta-agonist-induced cardiac apoptosisCardiac gene therapy with adeno-associated virus-based vectorsAAV-mediated gene therapy: advancing cardiovascular disease treatmentHuman cardiac gene therapyRescuing the failing heart by targeted gene transferIntracoronary gene transfer of adenylyl cyclase 6 in patients with heart failure: a randomized clinical trialEffects of Ad5FGF-4 in patients with angina: an analysis of pooled data from the AGENT-3 and AGENT-4 trialsCalcium upregulation by percutaneous administration of gene therapy in cardiac disease (CUPID Trial), a first-in-human phase 1/2 clinical trialCardiac I-1c overexpression with reengineered AAV improves cardiac function in swine ischemic heart failureA first-in-human phase 1 clinical gene therapy trial for the treatment of heart failure using a novel re-engineered adeno-associated vectorReengineering a receptor footprint of adeno-associated virus enables selective and systemic gene transfer to muscleGene therapy for the treatment of heart failure: promise postponedRoutinely reported ejection fraction and mortality in clinical practice: where does the nadir of risk lie?Changes in left ventricular ejection fraction predict survival and hospitalization in heart failure with reduced ejection fraction6-minute walking test: a useful tool in the management of heart failure patientsTargeting calcium regulators as therapy for heart failure: focus on the sarcoplasmic reticulum Ca-ATPase pumpCalcium upregulation by percutaneous administration of gene therapy in cardiac disease (CUPID): a phase 2 trial of intracoronary gene therapy of sarcoplasmic reticulum Ca-ATPase in patients with advanced heart failureCalcium upregulation by percutaneous administration of gene therapy in patients with cardiac disease (CUPID 2): a randomised, multinational, double-blind, placebo-controlled, phase 2b trialBarriers in heart failure gene therapy and approaches to overcome themSERCA2a protein levels are unaltered in human heart failureCombined phospholamban ablation and SERCA1a overexpression result in a new hyperdynamic cardiac stateSynergistic role of protein phosphatase inhibitor 1 and sarco/endoplasmic reticulum Ca-ATPase in the acquisition of the contractile phenotype of arterial smooth muscle cellsFunction and regulation of phosphatase 1 in healthy and diseased heart",
+  "pmcid": "12618250",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "s testing was planned, and no sample size calculations were performed."
+        },
+        {
+          "match": "sample size",
+          "context": "culations were performed. The sample size was based on feasibility; up"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "cardiac disease (CUPID 2): a randomised, multinational, double-blind"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "e analyzed and reported using SAS v.9.4. Further information on"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "no formal hypothesis testing"
+      ],
+      "examples": [
+        {
+          "match": "No formal hypothesis testing",
+          "context": "n of investigational product. No formal hypothesis testing was planned, and no sample si"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "titer"
+      ],
+      "examples": [
+        {
+          "match": "titer",
+          "context": "g antibodies against AAV at a titer of >1:5 within 6\u2009months befor"
+        },
+        {
+          "match": "titer",
+          "context": "ine for neutralizing antibody titer are reported. Cryopreserved p"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "the transgene (Supplementary Table 1). To assess the PLN Ser16 pho"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "excluded",
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "third-degree heart block were excluded. Patients who were supported"
+        },
+        {
+          "match": "excluded",
+          "context": "ime frame. Patients were also excluded if they had clinically releva"
+        },
+        {
+          "match": "excluded",
+          "context": "pate. Patients were similarly excluded if they had known hypersensit"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "cluded if they had known hypersensitivity to contrast dyes for angiogra"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "western blot"
+      ],
+      "examples": [
+        {
+          "match": "Western blot",
+          "context": "human control tissue samples. Western blotting was performed on a 12% (w"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Explicitly stated that no multiplicity correction or formal hypothesis testing was performed.",
+        "evidence": "...n of investigational product. No formal hypothesis testing was planned, and no sample si..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...third-degree heart block were excluded. Patients who were supported..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'western blot'"
+      },
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...third-degree heart block were excluded. Patients who were supported..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...cluded if they had known hypersensitivity to contrast dyes for angiogra..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Multiplicity",
+        "issue": "Lack of correction increases Type I error.",
+        "recommendation": "Use Bonferroni or FDR, or label as exploratory.",
+        "source_text": "no formal hypothesis testing"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

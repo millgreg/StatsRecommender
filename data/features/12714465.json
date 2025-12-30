@@ -1,0 +1,245 @@
+{
+  "title": "Copy Number Alteration of Cyclin D1 (CCND 1) Gene as a Prognostic Factor in Oral Squamous Cancers and its Correlation with Immunohistochemistry (IHC)Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countriesPrognostic and predictive factors in gingivo buccal complex squamous cell carcinoma: role of tumor budding and pattern of invasionCyclin D1 amplification correlates with early recurrence of squamous cell carcinoma of the tongueAbnormal patterns of D-type cyclin expression and G1 regulation in human head and neck cancerG1 phase progression: cycling on cueHow cells cycle toward cancerCyclin D1 overexpression correlates with poor prognosis in patients with tongue squamous cell carcinomaCyclin D1 over expression and poor clinical outcomes in Taiwanese oral cavity squamous cell carcinomaCyclin D1 amplification and p16(MTS1/CDK4I) deletion correlate with poor prognosis in head and neck tumorsPrognostic biomarkers for oral tongue squamous cell carcinoma: a systematic review and meta-analysisCyclin d1 expression and its correlation with histopathological differentiation in oral squamous cell carcinomaClinical relevance of cyclin D1 protein overexpression in laryngeal squamous cell carcinomaExpression of cyclin D1 and p53 as prognostic markers in treatment of oral squamous cell carcinomaCCND1 amplification and protein overexpression in oral squamous cell carcinoma of young patientsCyclin D1 as a cellular proto-oncogeneInhibition of myogenic differentiation in proliferating myoblasts by cyclin D1-dependent kinasePrognostic significance of cyclin D1 amplification and overexpression in oral squamous cell carcinomasCyclin D1 and p16INK4A expression predict reduced survival in carcinoma of the anterior tongueCyclin D1 amplification in tongue and cheek squamous cell carcinoma",
+  "pmcid": "12714465",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "spss"
+      ],
+      "examples": [
+        {
+          "match": "SPSS",
+          "context": "lysis was performed using the SPSS software. The study was desig"
+        },
+        {
+          "match": "SPSS",
+          "context": "was done with the help of the SPSS software using the chi-square"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "chi-square"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "f the SPSS software using the chi-square test, logistic regression ana"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "re using the chi-square test, logistic regression analysis, and analysis of var"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "staining",
+        "immunohistochemistry"
+      ],
+      "examples": [
+        {
+          "match": "Immunohistochemistry",
+          "context": "cers and its Correlation with Immunohistochemistry (IHC)Global cancer statistics"
+        },
+        {
+          "match": "immunohistochemistry",
+          "context": "Photomicrographs depicting immunohistochemistry (IHC) positivity for cyclin D"
+        },
+        {
+          "match": "immunohistochemistry",
+          "context": "FOOTER: Abbreviations: IHC, immunohistochemistry; Qf PCR, quantitative polymer"
+        }
+      ]
+    }
+  }
+}

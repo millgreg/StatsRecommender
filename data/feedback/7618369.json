@@ -1,0 +1,234 @@
+{
+  "title": "Mutations in  bypass the stringent response dependency of virulence in Contribution of an arsenal of virulence factors to pathogenesis of Pseudomonas aeruginosa infectionsA dynamic and intricate regulatory network determines Pseudomonas aeruginosa virulenceProtein Secretion Systems in Pseudomonas aeruginosa: An Essay on Diversity, Evolution, and FunctionSynthesis of multiple exoproducts in Pseudomonas aeruginosa is under the control of RhlR-RhlI, another set of regulators in strain PAO1 with homology to the autoinducer-responsive LuxR-LuxI familyStringent response activates quorum sensing and modulates cell density-dependent gene expression in Pseudomonas aeruginosaThe stringent response modulates 4-hydroxy-2-alkylquinoline biosynthesis and quorum-sensing hierarchy in Pseudomonas aeruginosa(p)ppGpp: still magical?Synthetic Peptides to Target Stringent Response-Controlled Virulence in a Murine Cutaneous Infection ModelPlasposons: modular self-cloning minitransposon derivatives for rapid genetic analysis of gram-negative bacterial genomesCrystal Structure of the Regulatory Domain of MexT, a Transcriptional Activator of the MexEFOprN Efflux PumpA network of networks: quorum-sensing gene regulation in Pseudomonas aeruginosaCharacterization of MexE-MexF-OprN, a positively regulated multidrug efflux system of Pseudomonas aeruginosaRole of (p)ppGpp in antibiotic resistance, tolerance, persistence and survival in FirmicutesDecreased efficacy of antimicrobial agents in a polymicrobial environmentGene Regulatory Network Analysis of Perivascular Adipose Tissue of Abdominal Aortic Aneurysm Identifies Master Regulators of Key Pathogenetic PathwaysNADH Dehydrogenases in in Pseudomonas aeruginosa Growth and Virulenceis an indicator of PAO1 strain integrityEvolution and host-specific adaptation ofThe Pseudomonas aeruginosa Pan-Genome Provides New Insights on Its Population Structure, Horizontal Gene Transfer, and PathogenicitySurvival of the Fittest: The Relationship of (p)ppGpp With Bacterial VirulenceVirulence in Pectobacterium atrosepticum is regulated by a coincidence circuit involving quorum sensing and the stress alarmone,[(p)ppGppCharacterization of MexT, the regulator of the MexE-MexF-OprN multidrug efflux system of Pseudomonas aeruginosaTranscriptome profiling defines a novel regulon modulated by the LysR-type transcriptional regulator MexT in Pseudomonas aeruginosaCumulative effects of several nonenzymatic mechanisms on the resistance of Pseudomonas aeruginosa to aminoglycosidesAminoarabinosylation of Lipid A Is Critical for the Development of Colistin Resistance in Pseudomonas aeruginosaExtracellular DNA chelates cations and induces antibiotic resistance in Pseudomonas aeruginosa biofilmsCationic antimicrobial peptides activate a two-component regulatory system, PmrA-PmrB, that regulates resistance to polymyxin B and cationic antimicrobial peptides in Pseudomonas aeruginosaEvolution of the Pseudomonas aeruginosa quorum-sensing hierarchySelection for increased quorum-sensing cooperation in Pseudomonas aeruginosa through the shut-down of a drug resistance pumpMexEF-OprN efflux pump exports the Pseudomonas quinolone signal (PQS) precursor HHQ (4-hydroxy-2-heptylquinoline)The Pseudomonas quinolone signal regulates rhl quorum sensing in Pseudomonas aeruginosaThe MexGHI-OpmD multidrug efflux pump controls growth, antibiotic susceptibility and virulence in Pseudomonas aeruginosa via 4-quinolone-dependent cell-to-cell communicationThe second type VI secretion system of Pseudomonas aeruginosa strain PAO1 is regulated by quorum sensing and Fur and modulates internalization in epithelial cellsThe T6SSs of Pseudomonas aeruginosa Strain PAO1 and Their Effectors: Beyond Bacterial-Cell TargetingA Pseudomonas aeruginosa type VI secretion phospholipase D effector targets both prokaryotic and eukaryotic cellsPseudomonas aeruginosa Lipoxygenase LoxA Contributes to Lung Infection by Altering the Host Immune Lipid SignalingThe lytic polysaccharide monooxygenase CbpD promotes Pseudomonas aeruginosa virulence in systemic infectionEfflux-mediated fluoro-quinolone resistance in the multidrug-resistant Pseudomonas aeruginosa clinical isolate PA7: identification of a novel MexS variant involved in upregulation of the mexEF-oprN multidrug efflux operonAmino Acid Substitutions Account for Most MexS Alterations in Clinical nfxC Mutants of Pseudomonas aeruginosaMexT regulates the type III secretion system through MexS and PtrC in Pseudomonas aeruginosaMexT modulates virulence determinants in Pseudomonas aeruginosa independent of the MexEF-OprN efflux pumpActive Starvation Responses Mediate Antibiotic Tolerance in Biofilms and Nutrient-Limited BacteriaIdentification of mutations in laboratory-evolved microbes from next-generation sequencing data using breseqFast and accurate short read alignment with Burrows\u2013Wheeler transformfeatureCounts: an efficient general purpose program for assigning sequence reads to genomic featuresCytoscape: a software environment for integrated models of biomolecular interaction networksCytoscape StringApp: Network Analysis and Visualization of Proteomics DataVisualize omics data on networks with Omics Visualizer, a Cytoscape AppA Subtype of aPseudomonas aeruginosa Cystic Fibrosis Epidemic Strain Exhibits Enhanced Virulence in a Murine Model of Acute Respiratory InfectionA simple and rapid method for the preparation of gram-negative bacterial genomic DNAPrecision-engineering the Pseudomonas aeruginosa genome with two-step allelic exchangeA 10-min method for preparation of highly electrocompetent Pseudomonas aeruginosa cells: application for DNA fragment transfer between chromosomes and plasmid transformationThe Sequence Alignment/Map format and SAMtoolsExploiting lung adaptation and phage steering to clear pan-resistant Pseudomonas aeruginosa infections in vivoGuidelines on the recognition of pain, distress and discomfort in experimental animals and an hypothesis for assessment",
+  "pmcid": "7618369",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "transcriptome",
+        "in vivo",
+        "mice"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "s, 6\u20138-week-old female BALB/c mice were used. The mice were allo"
+        },
+        {
+          "match": "mice",
+          "context": "le BALB/c mice were used. The mice were allowed to acclimatise f"
+        },
+        {
+          "match": "in vivo",
+          "context": "domonas aeruginosa infections in vivoGuidelines on the recognition"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 10.0,
+    "rigor_rating": "High",
+    "critical_gaps": [],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'transcriptome'"
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

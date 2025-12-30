@@ -1,0 +1,355 @@
+{
+  "title": "A Multi-Institutional Study of Magnetic Resonance/Ultrasound Fusion\u2013Guided Nanoparticle-Directed Focal Therapy for Prostate AblationA Multi-Institutional Study of Magnetic Resonance/Ultrasound Fusion-Guided Nanoparticle-Directed Focal Therapy for Prostate Ablation: Erratum.A Multi-Institutional Study of Magnetic Resonance/Ultrasound Fusion-Guided Nanoparticle-Directed Focal Therapy for Prostate Ablation: Erratum.Editorial Comment.Editorial Comment.Cancer statistics, 2021Screening for prostate cancer decreases the risk of developing metastatic disease: findings from the European Randomized Study of Screening for Prostate Cancer (ERSPC)Effect of a low-intensity PSA-based screening intervention on prostate cancer mortality: the CAP randomized clinical trialMRI-targeted, systematic, and combined biopsy for prostate cancer diagnosisPeptide mediated in vivo tumor targeting of nanoparticles through optimization in single and multilayer in vitro cell modelsDetermining the size and shape dependence of gold nanoparticle uptake into mammalian cellsToxicologic effects of gold nanoparticles in vivo by different administration routesUnderstanding and overcoming major barriers in cancer nanomedicineDiagnostic accuracy of multi-parametric MRI and TRUS biopsy in prostate cancer (PROMIS): a paired validating confirmatory studyMRI-targeted or standard biopsy for prostate-cancer diagnosisFinal results of a phase I/II multicenter trial of WST11 vascular targeted photodynamic therapy for hemi-ablation of the prostate in men with unilateral low risk prostate cancer performed in the United StatesProstate radiofrequency focal ablation (ProRAFT) trial: a prospective development study evaluating a bipolar radiofrequency device to treat prostate cancerProspective multicenter phase II study on focal therapy (hemiablation) of the prostate with high intensity focused ultrasoundFocal laser ablation of prostate cancer: phase I clinical trialNanoshell-mediated near-infrared thermal therapy of tumors under magnetic resonance guidanceSelective nanoparticle-directed ablation of the canine prostateGold nanoshell-localized photothermal ablation of prostate tumors in a clinical pilot device studyStandardization of definitions in focal therapy of prostate cancer: report from a Delphi consensus projectExtensive histological sampling following focal therapy of clinically significant prostate cancer with high intensity focused ultrasoundTargeted focal therapy for the management of organ confined prostate cancerOncological and quality-of-life outcomes following focal irreversible electroporation as primary treatment for localised prostate cancer: a biopsy-monitored prospective cohortProstate-specific antigen vs. magnetic resonance imaging parameters for assessing oncological outcomes after high intensity-focused ultrasound focal therapy for localized prostate cancerAssociations between prostate volume and oncologic outcomes in men undergoing focal cryoablation of the prostateRadiation and dual checkpoint blockade activate non-redundant immune mechanisms in cancerOptimizing cancer treatments to induce an acute immune response: radiation abscopal effects, PAMPs, and DAMPsEnhanced activated T cell subsets in prostate cancer patients receiving iodine-125 low-dose-rate prostate brachytherapyA multicentre study of 5-year outcomes following focal therapy in treating clinically significant nonmetastatic prostate cancerEarly-medium-term outcomes of primary focal cryotherapy to treat nonmetastatic clinically significant prostate cancer from a prospective multicentre registry",
+  "pmcid": "12721635",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "to the standard of care. The sample size of 45 was based on an expecte"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "spss, version 26"
+      ],
+      "examples": [
+        {
+          "match": "SPSS, version 26",
+          "context": "opsy rate of 85% at 3 months. SPSS, version 26 was used for statistical anal"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sd",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "interquartile range",
+          "context": "Prostate Symptom Score; IQR, interquartile range; ISUP GGG, International Soci"
+        },
+        {
+          "match": "SD",
+          "context": "illumination.17 An average \u00b1 SD of 13 \u00b1 5 introducers was use"
+        },
+        {
+          "match": "SD",
+          "context": "rnal sphincter. The average \u00b1 SD treatment time from the initi"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "Secondary outcome",
+          "context": ") MR/US fusion\u2013guided biopsy. Secondary outcomes included MRI and (target + 1"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "\u03c72"
+      ],
+      "examples": [
+        {
+          "match": "\u03c72",
+          "context": "ichotomous outcome. Pearson\u2019s \u03c72 test was used to compare the"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "\u22658) and QOL over time. Binary logistic regression assessed whether GGG, age, ch"
+        },
+        {
+          "match": "logistic regression",
+          "context": "d a treatment failure. Binary logistic regression was also performed to assess"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "binary",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "18F 3-way catheter placed for continuous bladder irrigation to maintai"
+        },
+        {
+          "match": "Binary",
+          "context": "(SHIM \u22658) and QOL over time. Binary logistic regression assessed"
+        },
+        {
+          "match": "Binary",
+          "context": "redicted a treatment failure. Binary logistic regression was also"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "not imputed",
+        "missing data"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": "for statistical analyses. The missing data were not imputed. Treatment s"
+        },
+        {
+          "match": "not imputed",
+          "context": "alyses. The missing data were not imputed. Treatment success (absence o"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "for Men.Eleven patients were excluded from the SHIM analysis becaus"
+        },
+        {
+          "match": "excluded",
+          "context": "atment.Eighteen patients were excluded for missing IPSS QOL data at"
+        },
+        {
+          "match": "excluded",
+          "context": "baseline.Eleven patients were excluded from the SHIM analysis becaus"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "in vivo",
+        "in vitro"
+      ],
+      "examples": [
+        {
+          "match": "in vitro",
+          "context": "tion in single and multilayer in vitro cell modelsDetermining the si"
+        },
+        {
+          "match": "in vivo",
+          "context": "cer diagnosisPeptide mediated in vivo tumor targeting of nanopartic"
+        },
+        {
+          "match": "in vivo",
+          "context": "effects of gold nanoparticles in vivo by different administration r"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...for statistical analyses. The missing data were not imputed. Treatment s..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...) MR/US fusion\u2013guided biopsy. Secondary outcomes included MRI and (target + 1..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...for Men.Eleven patients were excluded from the SHIM analysis becaus..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'in vivo'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...opsy rate of 85% at 3 months. SPSS, version 26 was used for statistical anal..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'Secondary outcome' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

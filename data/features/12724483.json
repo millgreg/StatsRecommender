@@ -1,0 +1,284 @@
+{
+  "title": "Influence of the COVID-19 pandemic on the amputation rate in Germany in patients with critical limb-threatening ischaemiaThe WHO estimates of excess mortality associated with the COVID-19 pandemicImpact of the COVID-19 pandemic on colorectal cancer screening: a systematic reviewImpact of the COVID-19 pandemic on colorectal cancer diagnosis and\u00a0treatment: a systematic reviewEpidemiology of peripheral arterial disease and critical limb ischemia in an insured national populationDritte Aktualisierung der \u201cRetrospektiven Phaseneinteilung der COVID-19-Pandemie in DeutschlandImpact of the COVID-19 pandemic on incidence and mortality of emergency cardiovascular diseases in TokyoEarly experience of aortic surgery during the COVID-19 pandemic in the UK: a multicentre studyGerman nation-wide in-patient treatment of abdominal aortic aneurysm-trends between 2005 and 2019 and impact of the SARS-CoV-2 pandemicCarotid artery operation delay during the Covid-19 pandemic: results of a multicenter international studyThe impact of the first 11 Months of the COVID-19 pandemic on vascular patients\u2019 care and hospitalisation rate in the vascular surgery divisions of southern ItalyImpact of COVID-19 pandemic on clinical care of peripheral arterial disease patients: a single-centre experienceImpact of the COVID-19 pandemic on cardiovascular mortality and contrast analysis within subgroupsSex-related factors in cardiovascular complications associated to COVID-19Impact of COVID-19 pandemic on patients affected by peripheral arterial disease: an Italian single-centre studyThe impact of the COVID-19 pandemic on time to treatment in surgical oncology: a national registry study in The NetherlandsThe impact of the COVID-19 pandemic on the workload, case mix and hospital resources at a tertiary vascular unitNorth American lower-extremity revascularization and amputation during COVID-19: observations from the vascular quality initiativeImpact of COVID-19 pandemic on the outcomes in patients with critical limb threatening ischaemia and diabetic foot infection",
+  "pmcid": "12724483",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "standard error",
+          "context": "gan test. Applying the robust standard error according to the HC3 method c"
+        },
+        {
+          "match": "standard error",
+          "context": "n\u00a0\u2013 results contain estimate, standard error in brackets, and significance"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "p<0.001",
+        "p>0.05",
+        "p<0.05",
+        "p<0.01"
+      ],
+      "examples": [
+        {
+          "match": "p>0.05",
+          "context": "the normal distribution. With p>0.05 and the assumption of a norma"
+        },
+        {
+          "match": "p<0.05",
+          "context": "-hoc with a paired t-test. At p<0.05, the data are treated as non-"
+        },
+        {
+          "match": "p<0.05",
+          "context": "significance with asterisks: ap<0.05, bp<0.01, cp<0.001."
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "st and post-hoc with a paired t-test. At p<0.05, the data are trea"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "homoscedasticity"
+      ],
+      "examples": [
+        {
+          "match": "homoscedasticity",
+          "context": "e variables were examined for homoscedasticity, using a student Breusch\u2013Paga"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "anova"
+      ],
+      "examples": [
+        {
+          "match": "ANOVA",
+          "context": "e comparison follows with the ANOVA test and post-hoc with a pair"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "paired t-test"
+      ],
+      "examples": [
+        {
+          "match": "paired t-test",
+          "context": "NOVA test and post-hoc with a paired t-test. At p<0.05, the data are trea"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "dunn",
+        "post-hoc"
+      ],
+      "examples": [
+        {
+          "match": "post-hoc",
+          "context": "llows with the ANOVA test and post-hoc with a paired t-test. At p<0."
+        },
+        {
+          "match": "post-hoc",
+          "context": "Kruskal\u2013Wallis test [KWT] and post-hoc a Dunn test). The correlation"
+        },
+        {
+          "match": "Dunn",
+          "context": "lis test [KWT] and post-hoc a Dunn test). The correlation analys"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "schaemia (I74.0\u20135, I74.8) are excluded so that the impact of the COV"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

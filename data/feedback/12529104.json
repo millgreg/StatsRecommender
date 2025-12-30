@@ -1,0 +1,411 @@
+{
+  "title": "Selective plasticity of layer 2/3 inputs onto distal forelimb controlling layer 5 corticospinal neurons with skilled grasp motor trainingLesions of the basal forebrain cholinergic system impair task acquisition and abolish cortical plasticity associated with motor skill learningFunctional reorganization of the rat motor cortex following motor skill learningIn search of the motor engram: motor map plasticity as a mechanism for encoding motor experienceEvidence for active synapse formation or altered postsynaptic metabolism in visual cortex of rats reared in complex environmentsMotor learning-dependent synaptogenesis is localized to functionally reorganized motor cortexEmergence of reproducible spatiotemporal activity during motor learningStructural plasticity within highly specific neuronal populations identifies a unique parcellation of motor learning in the adult brainReach training 508 selectively alters dendritic branching in subpopulations of layer IIII pyramids in rat motor-somatosensory forelimb cortexRapid formation and selective stabilization of synapses for enduring motor memoriesReorganization of recurrent layer 5 corticospinal networks following adult motor trainingThalamocortical projections onto behaviorally relevant neurons exhibit plasticity during adult motor learningCircuits for skilled reaching and graspingSublayer-specific microcircuits of corticospinal and corticostriatal neurons in motor cortexPrimary motor cortex influences on the descending and ascending systemsStudy motor skill learning by single-pellet reaching tasks in miceDifferential contributions of rostral and caudal frontal forelimb areas to compensatory process after neonatal hemidecortication in ratsCircuit organization of the excitatory sensorimotor loop through hand/forelimb S1 and M1Organization of cortical and thalamic input to pyramidal neurons in mouse motor cortexLearning in the Rodent Motor CortexTop-down laminar organization of the excitatory network in motor cortexIn Utero Intraventricular Injection and Electroporation of E16 Rat EmbryosQuantitative analysis of cervical musculature in rats: histochemical composition and motor pool organization. II. Deep dorsal musclesCervical motoneuron topography reflects the proximodistal organization of muscles and movements of the rat forelimb: a retrograde carbocyanine dye analysisSpatial characterization of the motor neuron columns supplying the rat forelimbMotor cortex maturation is associated with reductions in recurrent connectivity among functional subpopulations and increases in intrinsic excitabilityStably maintained dendritic spines are associated with lifelong memoriesImprovements in the signal-448 to-noise ratio of motor cortex cells distinguish early versus late phases of motor skill learningThe role of variability in motor learningMultiple dynamic representations in the motor cortex during sensorimotor learningCholinergic modulation of skill learning and plasticityLearning-related fine-scale specificity imaged in motor cortex circuits of behaving miceTwo distinct layer-specific dynamics of cortical ensembles during learning of a motor taskDisengagement of motor cortex from movement control during long-term learningLearning-induced LTP in neocortexTargeted photostimulation uncovers circuit motifs supporting short-term memoryDREADDs (designer receptors exclusively activated by designer drugs): chemogenetic tools with therapeutic utilitySkilled reaching relies on a V2a propriospinal internal copy circuitThe basal forebrain cholinergic system is essential for cortical plasticity and functional recovery following brain injuryUnique contributions of distinct cholinergic projections to motor cortical plasticity and learningThe structure of skilled forelimb reaching in the rat: a proximally driven movement with a single distal rotatory componentToward a neurocentric view of learning",
+  "pmcid": "12529104",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "zation and/or stratification, sample size estimation, and inclusion and"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "ll patch clamp recordings was blinded to experimental group assignm"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "gies for randomization and/or stratification, sample size estimation, and"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "imagej"
+      ],
+      "examples": [
+        {
+          "match": "ImageJ",
+          "context": "nce) and processed with Fiji (ImageJ). All animals were littermate"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "standard error",
+          "context": "rsion and precision measures (standard error), can be found in the figure"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "p < 0.001",
+        "p < 0.01",
+        "significance level",
+        "p < 0.05",
+        "p > 0.005"
+      ],
+      "examples": [
+        {
+          "match": "p < 0.05",
+          "context": "evel was defined as follows: *p < 0.05, **p < 0.01,***p > 0.005, ***"
+        },
+        {
+          "match": "p < 0.01",
+          "context": "ined as follows: *p < 0.05, **p < 0.01,***p > 0.005, ***p < 0.001. S"
+        },
+        {
+          "match": "p > 0.005",
+          "context": "ows: *p < 0.05, **p < 0.01,***p > 0.005, ***p < 0.001. Statistical te"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "wilcoxon",
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "es 1F; 5E). Two-tailed paired t-tests to compare differences betwe"
+        },
+        {
+          "match": "t-test",
+          "context": "eline (Figure 2D). Two-tailed t-tests to compare means between tra"
+        },
+        {
+          "match": "t-test",
+          "context": "). Post-hoc paired two-tailed t-tests for specific comparisons aft"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "repeated measures anova"
+      ],
+      "examples": [
+        {
+          "match": "Repeated measures ANOVA",
+          "context": "ts used in the study include. Repeated measures ANOVA to demonstrate significant le"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "anova"
+      ],
+      "examples": [
+        {
+          "match": "ANOVA",
+          "context": "dy include. Repeated measures ANOVA to demonstrate significant le"
+        },
+        {
+          "match": "ANOVA",
+          "context": "reatment (Figure 5E). two-way ANOVA to compare intrinsic spiking"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "was not compensated, but was continuously monitored via negative volt"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "matched pairs",
+        "paired t-test",
+        "repeated measures"
+      ],
+      "examples": [
+        {
+          "match": "paired t-test",
+          "context": "(Figures 1F; 5E). Two-tailed paired t-tests to compare differences betwe"
+        },
+        {
+          "match": "matched pairs",
+          "context": "ps (Figures 1F; 5E). Wilcoxon matched pairs signed rank test for comparis"
+        },
+        {
+          "match": "Repeated measures",
+          "context": "ts used in the study include. Repeated measures ANOVA to demonstrate signific"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "post-hoc"
+      ],
+      "examples": [
+        {
+          "match": "Post-hoc",
+          "context": ", 5E, S3E, S4A\u2013S4E, and S5B). Post-hoc paired two-tailed t-tests for"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "specificity"
+      ],
+      "examples": [
+        {
+          "match": "specificity",
+          "context": "tyLearning-related fine-scale specificity imaged in motor cortex circui"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "microscopy",
+        "staining",
+        "mice",
+        "immunohistochemistry"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "ngle-pellet reaching tasks in miceDifferential contributions of"
+        },
+        {
+          "match": "mice",
+          "context": "r cortex circuits of behaving miceTwo distinct layer-specific dy"
+        },
+        {
+          "match": "immunohistochemistry",
+          "context": "S) at 4\u00b0C until processed for immunohistochemistry. For all immunohistochemistry"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...es 1F; 5E). Two-tailed paired t-tests to compare differences betwe..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...evel was defined as follows: *p < 0.05, **p < 0.01,***p > 0.005, ***..."
+      },
+      {
+        "message": "Includes exploratory/post hoc analyses without clear multiplicity correction.",
+        "evidence": "..., 5E, S3E, S4A\u2013S4E, and S5B). Post-hoc paired two-tailed t-tests for..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...(Figures 1F; 5E). Two-tailed paired t-tests to compare differences betwe..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'microscopy'"
+      },
+      {
+        "message": "Appropriately used paired tests for dependent data.",
+        "evidence": "...(Figures 1F; 5E). Two-tailed paired t-tests to compare differences betwe..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...tyLearning-related fine-scale specificity imaged in motor cortex circui..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test, anova"
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'p < 0.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Deductive Rigor",
+        "issue": "Post hoc findings are hypothesis-generating.",
+        "recommendation": "Distinguish between pre-specified endpoints and exploratory analyses.",
+        "source_text": "Found term 'post-hoc' without rigorous correction."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'repeated' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "title": "A global analysis of land use regulation, urban form, and greenhouse gas emissionsUrban form and air pollution: Clustering patterns of urban form factors related to particulate matter in Seoul, KoreaWhat makes cities more productive? Evidence from five OECD countries on the role of urban governanceThe fragmentation of urban landscapes: Global evidence of a key attribute of the spatial structure of cities, 1990\u20132000A century of sprawl in the United StatesA global assessment of street-network sprawlReversal sprawl. Land use regulation, society, and institutions in ProseccotownOSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networksOptimal energy taxation in citiesThe welfare economics of land use planningThe long-run effects of congestion tolls, carbon tax, and land use regulations on urban CO emissionsChanging urban forms and carbon dioxide emissions in China: A case study of 30 provincial capital citiesDoes size matter? Scaling of CO emissions and U.S. urban areasThe greenness of cities: Carbon dioxide emissions and urban developmentCity density and CO efficiencyHas Mexico City\u2019s shift to commercially produced housing increased Car ownership and car useGreenhouse gas emissions from global cities under SSP/RCP scenarios, 1990 to 2100Impacts of urban form on future US passenger-vehicle greenhouse gas emissionsCities and the environmentMapping the carbon footprint of nationsEnergy footprint of the city: Effects of urban land use and transportation policiesThe energy implications of city size and densityTelework: Urban form, energy consumption, and greenhouse gas implicationsThe influence of urban form on GHG emissions in the U.S. household sectorEffects of urban land-use regulations on greenhouse gas emissionsWhat planners know: Using surveys about local land-use regulation to understand housing developmentImpacts of land finance on urban sprawl in China: The case of ChongqingThe impacts of city size and density on CO emissions: Evidence from the Yangtze River delta urban agglomerationRelationship between urban form and CO emissions: Evidence from fifty Japanese citiesWhy do we have urban density controls?Urban land-use regulations and housing markets in developing countries: Evidence from Indonesia on the importance of enforcement\u2013Carbon footprints of 13000 citiesMetropolitan areas in the world. Delineation and population trendsRegulation and the high cost of housing in CaliforniaThe geographic determinants of housing supplyEffects of urban forms on CO emissions in China from a multi-perspective analysisImpact of land use regulations: Evidence from India\u2019s citiesLand use changes and land policies evolution in China\u2019s urbanization processEstimating the impacts of urban form on CO emission efficiency in the Pearl River Delta, China",
+  "pmcid": "12726962",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "Standard error",
+          "context": "es:p < 0.1;p < 0.05;p < 0.01; Standard errors in parentheses; models inclu"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "p < 0.01",
+        "p < 0.05",
+        "p < 0.1"
+      ],
+      "examples": [
+        {
+          "match": "p < 0.1",
+          "context": "y registration. FOOTER: Notes:p < 0.1;p < 0.05;p < 0.01; Standard e"
+        },
+        {
+          "match": "p < 0.05",
+          "context": "ration. FOOTER: Notes:p < 0.1;p < 0.05;p < 0.01; Standard errors in"
+        },
+        {
+          "match": "p < 0.01",
+          "context": "OOTER: Notes:p < 0.1;p < 0.05;p < 0.01; Standard errors in parenthes"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "linear model"
+      ],
+      "examples": [
+        {
+          "match": "linear model",
+          "context": "ression results: hierarchical linear models predicting emissions. FOOTER"
+        },
+        {
+          "match": "linear model",
+          "context": "ression results: hierarchical linear models predicting property registra"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "hierarchical",
+          "context": "CAPTION: Regression results: hierarchical linear models predicting emis"
+        },
+        {
+          "match": "hierarchical",
+          "context": "CAPTION: Regression results: hierarchical linear models predicting prop"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

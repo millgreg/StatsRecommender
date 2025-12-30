@@ -1,0 +1,321 @@
+{
+  "title": "Revitalizing CPAP adherence: lessons from THN study in patients with hypoglossal nerve stimulatorsTreatment with continuous positive airway pressure is not effective in patients with sleep apnea but no daytime sleepiness: a randomized, controlled trialCompliance after switching from CPAP to bilevel for patients with non-compliant OSA: big data analysisIntensive  standard follow-up to improve continuous positive airway pressure complianceDifferences between the real and the desired worlds in the results of clinical trialsPolysomnograph chart view by patients: a new educational strategy to improve CPAP adherence in sleep apnea therapyThe importance of mask selection on continuous positive airway pressure outcomes for obstructive sleep apnea. An official American Thoracic Society workshop reportInvestigating associations between social determinants, self-efficacy measurement of sleep apnea and CPAP adherence: the SEMSA studyThe impact of marital status and race in obstructive sleep apneaEffect of telemedicine education and telemonitoring on continuous positive airway pressure adherence. the Tele-OSA randomized trialWhy most published research findings are falseCompliance with positive airway pressure treatment for obstructive sleep apneaPredictive equations for CPAP titration in OSAS patientsImpact of purchasing the CPAP device on acceptance and long-term adherence: a Belgian modelLong-term adherence to home mechanical ventilation: a 10-year retrospective, single-centre cohort studyTargeted hypoglossal neurostimulation for obstructive sleep apnoea: a 1-year pilot studyLong-term health outcomes for patients with obstructive sleep apnea: placing the Agency for Healthcare Research and Quality report in context\u2014a multisociety commentaryCPAP resumption after a first termination and impact on all-cause mortality in FranceIncreased prevalence of sleep-disordered breathing in adultsMask side-effects in long-term CPAP-patients impact adherence and sleepiness: the InterfaceVent real-life studyEffects of heated humidification and topical steroids on compliance, nasal symptoms, and quality of life in patients with obstructive sleep apnea syndrome using nasal continuous positive airway pressure(2023). Targeted hypoglossal nerve stimulation for patients with obstructive sleep apnea: a randomized clinical trialPatient-centered therapy for obstructive sleep apnea: a review",
+  "pmcid": "12713931",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "spss statistics 23"
+      ],
+      "examples": [
+        {
+          "match": "SPSS Statistics 23",
+          "context": "analysis was conducted using SPSS Statistics 23. CAPTION: Patient characteris"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sd"
+      ],
+      "examples": [
+        {
+          "match": "SD",
+          "context": ", including mean and median \u00b1 SD presentation. Paired t-tests"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "chi-square",
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "ian \u00b1 SD presentation. Paired t-tests were employed to assess base"
+        },
+        {
+          "match": "Chi-square",
+          "context": "follow-up differences, while Chi-squared tests were utilized for disc"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "rve stimulatorsTreatment with continuous positive airway pressure is n"
+        },
+        {
+          "match": "continuous",
+          "context": "standard follow-up to improve continuous positive airway pressure comp"
+        },
+        {
+          "match": "continuous",
+          "context": "portance of mask selection on continuous positive airway pressure outc"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "paired t-test"
+      ],
+      "examples": [
+        {
+          "match": "Paired t-test",
+          "context": "and median \u00b1 SD presentation. Paired t-tests were employed to assess base"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "Compliance",
+          "context": "a randomized, controlled trialCompliance after switching from CPAP to"
+        },
+        {
+          "match": "compliance",
+          "context": "uous positive airway pressure complianceDifferences between the real a"
+        },
+        {
+          "match": "Compliance",
+          "context": "ed research findings are falseCompliance with positive airway pressure"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "i-squared"
+      ],
+      "examples": [
+        {
+          "match": "i-squared",
+          "context": "ollow-up differences, while Chi-squared tests were utilized for disco"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 2.5,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...ian \u00b1 SD presentation. Paired t-tests were employed to assess base..."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...analysis was conducted using SPSS Statistics 23. CAPTION: Patient characteris..."
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...and median \u00b1 SD presentation. Paired t-tests were employed to assess base..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...a randomized, controlled trialCompliance after switching from CPAP to..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test"
+      },
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

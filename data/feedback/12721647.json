@@ -1,0 +1,310 @@
+{
+  "title": "High Prevalence of Psychological Comorbidities and Functional Neurological Symptoms in Women With Urinary RetentionDo we understand voiding dysfunction in women? Current understanding and future perspectives: ICI-RS 2017Fowler's syndrome\u2014a cause of unexplained urinary retention in young women?Sacral neuromodulation for urinary retentionOpen-label study evaluating outpatient urethral sphincter injections of onabotulinumtoxinA to treat women with urinary retention due to a primary disorder of sphincter relaxation (Fowler's syndrome)Fowler's syndrome of urinary retention: a retrospective study of co-morbidityDepression, anxiety and the bladderThe presence of Fowler's syndrome predicts successful long-term outcome of sacral nerve stimulation in women with urinary retentionScreening for depression and anxiety in patients with storage or voiding dysfunction: a retrospective cohort study predicting outcome of sacral neuromodulationPsychological co-morbidities in young women presenting with chronic urinary retentionFunctional neurological disorder: new subtypes and shared mechanismsAn International Continence Society (ICS) report on the terminology for adult male lower urinary tract and pelvic floor symptoms and dysfunctionInternational Continence Society good urodynamic practices and terms 2016: urodynamics, uroflowmetry, cystometry, and pressure-flow studyAbnormal electromyographic activity (decelerating burst and complex repetitive discharges) in the striated muscle of the urethral sphincter in 5 women with persisting urinary retentionAbnormal electromyographic activity of the urethral sphincter, voiding dysfunction, and polycystic ovaries: a new syndrome?The unstructured clinical interviewThe clinical interviewScreening for anxiety disorders with the GAD-7 and GAD- 2: a systematic review and diagnostic metaanalysisCase-finding instrument for depression. Two questions are as good as manySevere depression and anxiety in women with overactive bladderAn investigation of the relationship between anxiety and depression and urge incontinence in women: development of a psychological modelAffective symptoms and the overactive bladder\u2014a systematic reviewDoes depression screening in primary care improve mental health outcomes?Global, regional, and national incidence, prevalence, and years lived with disability for 310 diseases and injuries, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015Improvement in depression and health-related quality of life after sacral nerve stimulation therapy for treatment of voiding dysfunctionPrevalence of non-suicidal self-harm and service contact in England, 2000-14: repeated cross-sectional surveys of the general populationBorderline personality disorder: health service use and social functioning among a national household populationBorderline personality disorderUrinary retention in sexually abused womenLong-term outcomes of childhood sexual abuse: an umbrella reviewSystematic review exploring the relationship between sexual abuse and lower urinary tract symptomsPTSD correlates with somatization in sexually abused children: type of abuse moderates the effect of PTSD on somatizationInternational online survey of 1048 individuals with functional neurological disorderLower urinary tract dysfunction in patients with functional movement disordersAutonomic, endocrine, and inflammation profiles in functional neurological disorder: a systematic review and meta-analysisCentral control of micturition in women: brain-bladder pathways in continence and urgency urinary incontinencePsychological and psychiatric factors as predictors for success in sacral neuromodulation treatmentShould we routinely assess psychological morbidities in idiopathic lower urinary tract dysfunction: ICI-RS 2019?Psychological comorbidities and functional neurological disorders in women with idiopathic urinary retention: International Consultation on Incontinence Research Society (ICI-RS) 2019Urologic presentation and risk factors in pediatric functional neurological 1 symptom disorder: a case reportRecall bias: a proposal for assessment and control",
+  "pmcid": "12721647",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "n = 3",
+        "n = 62",
+        "n = 79",
+        "n = 4"
+      ],
+      "examples": [
+        {
+          "match": "n = 62",
+          "context": "ilometry (UPP) was performed (n = 62) as per the Brown-Wickham met"
+        },
+        {
+          "match": "n = 79",
+          "context": "hral sphincter was performed (n = 79; Sierra Summit EMG/EP, Medevo"
+        },
+        {
+          "match": "n = 4",
+          "context": "urinary incontinence.Normal (n = 4), inhibited void (n = 3), bla"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "descriptively using mean and standard deviation (SD) or median and range, dep"
+        },
+        {
+          "match": "standard deviation",
+          "context": "LUT, lower urinary tract; SD, standard deviation; UPP, urethral pressure profi"
+        },
+        {
+          "match": "SD",
+          "context": "mean and standard deviation (SD) or median and range, dependi"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "values and corresponding 95% confidence intervals (CIs) were derived using eit"
+        },
+        {
+          "match": "confidence interval",
+          "context": "pressure profile.P values and confidence intervals derived using independent t"
+        },
+        {
+          "match": "confidence interval",
+          "context": "e Status FOOTER: P values and confidence intervals derived using independent t"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "chi-square",
+        "fisher\u2019s exact"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "rome were performed using the chi-square test or Fisher\u2019s exact test w"
+        },
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "using the chi-square test or Fisher\u2019s exact test where appropriate, or in"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "proportions"
+      ],
+      "examples": [
+        {
+          "match": "Categorical",
+          "context": "ing on the data distribution. Categorical data were summarized using co"
+        },
+        {
+          "match": "categorical",
+          "context": "tcome variables (numerical or categorical). P values and corresponding"
+        },
+        {
+          "match": "continuous",
+          "context": "a fluid-filled catheter, with continuous perfusion at a rate of 5 mL/m"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "recall bias"
+      ],
+      "examples": [
+        {
+          "match": "Recall bias",
+          "context": "ymptom disorder: a case reportRecall bias: a proposal for assessment an"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "unstructured"
+      ],
+      "examples": [
+        {
+          "match": "unstructured",
+          "context": "c ovaries: a new syndrome?The unstructured clinical interviewThe clinica"
+        }
+      ]
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 8.5,
+    "rigor_rating": "High",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      }
+    ],
+    "strengths": [],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

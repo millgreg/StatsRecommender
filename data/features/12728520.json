@@ -1,0 +1,283 @@
+{
+  "title": "Identification and Verification of a Prognostic Risk Signature in Oral Squamous Cell CarcinomaOral squamous cell carcinomas: state of the field and emerging directions.Oral microbiome and mucosal trauma as risk factors for oral cancer: beyond alcohol and tobacco. A literature review.Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries.Staging and grading of oral squamous cell carcinoma: An update.A brief history of bioinformatics.Natural killer cell-related prognosis signature characterizes immune landscape and predicts prognosis of HNSCC.Identification of a six-gene signature predicting overall survival for hepatocellular carcinoma.Comprehensive analysis of N6-methylandenosine regulators and m6A-related RNAs as prognosis factors in colorectal cancer.Regulation and metabolic functions of mTORC1 and mTORC2.mTORC1 beyond anabolic metabolism: Regulation of cell death.Ribosome biogenesis in disease: new players and therapeutic targets.Targeting mTORC1 Activity to Improve Efficacy of Radioligand Therapy in Cancer.Insulin signaling and insulin resistance facilitate trained immunity in macrophages through metabolic and epigenetic changes.Overview of Research into mTOR Inhibitors.Comprehensive Characterization of Immune Landscape Based on Epithelial-Mesenchymal Transition Signature in OSCC: Implication for Prognosis and Immunotherapy.A Novel Immune-Associated Gene Signature for Overall Survival Prediction in Patients with Oral Squamous Cell Carcinoma.Prognostic Value of Necroptosis-Related Genes Signature in Oral Squamous Cell Carcinoma.Genetic changes driving immunosuppressive microenvironments in oral premalignancy.Prognostic value of tumor-infiltrating immune cells in clinical early-stage oral squamous cell carcinoma.PFDN1, an indicator for colorectal cancer prognosis, enhances tumor cell proliferation and motility through cytoskeletal reorganization.Prefoldin subunits (PFDN1-6) serve as poor prognostic markers in gastric cancer.Prefoldin 1 promotes EMT and lung cancer progression by suppressing cyclin A expression.Comprehensive analysis of the prognostic value and functions of prefoldins in hepatocellular carcinoma.Targeting mitochondrial tyrosyl-tRNA synthetase YARS2 suppresses colorectal cancer progression.A novel mitochondrial-related nuclear gene signature predicts overall survival of lung Adenocarcinoma Patients.Annexin A11 in disease.ALG2 regulates glioblastoma cell proliferation, migration and tumorigenicity.Identification of Hub Genes Associated With the Development of Stomach Adenocarcinoma by Integrated Bioinformatics Analysis.Identification of an Aging-Related Gene Signature in Predicting Prognosis and Indicating Tumor Immune Microenvironment in Breast Cancer.PCMT1 is an unfavorable predictor and functions as an oncogene in bladder cancer.PCMT1 is a potential target related to tumor progression and immune infiltration in liver cancer.",
+  "pmcid": "12728520",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "zard ratios (risk ratios) and confidence intervals, we determined the importanc"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "random forest"
+      ],
+      "examples": [
+        {
+          "match": "Random Forest",
+          "context": "and tumorous tissue samples. Random Forest algorithm was employed to eva"
+        },
+        {
+          "match": "Random Forest",
+          "context": "genes in predicting outcomes. Random Forest is a powerful machine learnin"
+        },
+        {
+          "match": "Random Forest",
+          "context": "importance of variables. The Random Forest algorithm assesses the signif"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "proportional hazards",
+          "context": "llmark using a univariate Cox proportional hazards (Cox-PH) regression model. Th"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "overall survival",
+        "os",
+        "kaplan-meier",
+        "log-rank",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "Kaplan-Meier",
+          "context": "groups. We then employed the Kaplan-Meier (K-M) method to compare the o"
+        },
+        {
+          "match": "Kaplan-Meier",
+          "context": "curves were plotted using the Kaplan-Meier method to compare differences"
+        },
+        {
+          "match": "log-rank",
+          "context": "h-risk and low-risk groups. A log-rank test allowed us to quantitati"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cox proportional"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "h Hallmark using a univariate Cox proportional hazards (Cox-PH) regression m"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "significance. By calculating hazard ratios (risk ratios) and confidence"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "roc",
+        "specificity",
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "ver operating characteristic (ROC) curves. ROC curves provide a"
+        },
+        {
+          "match": "ROC",
+          "context": "characteristic (ROC) curves. ROC curves provide a graphical re"
+        },
+        {
+          "match": "ROC",
+          "context": "r Operating Characteristic (t-ROC) analysis. The model's accura"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "title": "Emotion dysregulation in insomnia disorder: the possible role of psychiatric comorbidityEmotion-regulation strategies across psychopathology: a meta-analytic reviewSleep and emotions: a focus on insomniaValidation of the insomnia severity index as an outcome measure for insomnia researchImpact of comorbid anxiety and depressive disorders on treatment response to cognitive behavior therapy for insomniaRecharge: a preliminary evaluation of an emotion regulation enhanced CBT-i intervention for insomnia in early adolescenceInsomnia and emotion regulation. Recent findings and suggestions for treatmentDerivation of research diagnostic criteria for insomnia: report of an american academy of sleep medicine work groupSleep disturbance and emotion dysregulation as transdiagnostic processes in a comorbid sampleThe association between emotional dysregulation and REM sleep features in insomnia disorderTreating insomnia in patients with comorbid psychiatric disorders: a focused reviewMultidimensional assessment of emotion regulation and dysregulation: development, factor structure, and initial validation of the difficulties in emotion regulation scaleTransdiagnostic emotion regulation processes in bipolar disorder and insomniaA cognitive model of insomniaSleep and circadian functioning: Critical mechanisms in the mood disorders?Comparative efficacy of behavior therapy, cognitive therapy, and cognitive behavior therapy for chronic insomnia: a randomized controlled trialAn open trial of cognitive therapy for chronic insomniaPsychometric properties of an insomnia-specific measure of worry: The anxiety and preoccupation about sleep questionnaireEmotion regulation as a moderator between anxiety symptoms and insomnia symptom severityThe PHQ-9: validity of a brief depression severity measureThe measurement of observer agreement for categorical dataQuantitative criteria for insomniaValidation and standardization of the generalized anxiety disorder screener (GAD-7) in the general populationThe emotional component of insomnia disorder: a focus on emotion regulation and affect dynamics in relation to sleep quality and insomniaThe psychometric properties of the generalized anxiety disorder-7 scale in Hispanic Americans with English or Spanish language preferenceScale designed to be sensitive to changeA new depression scale designed to be sensitive to changeThe insomnia severity index: psychometric indicators to detect insomnia cases and evaluate treatment responseDysfunctional beliefs and attitudes about sleep (DBAS): validation of a brief version (DBAS-16)The structure of common emotion regulation strategies: a meta-analytic examinationWhy might poor sleep quality lead to depression? A role for emotion regulationA new scale for measuring insomnia: The Bergen Insomnia ScaleInvestigating safety behaviours in insomnia: the development of the sleep-related behaviours questionnaire (SRBQ)Insomnia disorder: State of the science and challenges for the futureMonitoring for sleep-related threat: a pilot study of the sleep associated monitoring index (SAMI)The mini-international neuropsychiatric interview (MINI): the development and validation of a structured diagnostic psychiatric interview for DSM-IV and ICD-10A brief measure for assessing generalized anxiety disorderInitial validation of the SLEEP-50 questionnaireComparing internet-delivered cognitive therapy and behavior therapy with telephone support for insomnia disorder: a randomized controlled trialCognitive factors and processes in models of insomnia: A systematic reviewCorrecting distorted perception of sleep in insomnia: A novel behavioural experiment?Sleep loss and affective functioning: more than just moodEmotional dysregulation, anxiety symptoms and insomnia in individuals with alcohol use disorder",
+  "pmcid": "12713947",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "n = 7",
+        "n = 21",
+        "n = 14",
+        "n = 31"
+      ],
+      "examples": [
+        {
+          "match": "n = 21",
+          "context": "d hypersomnia. In all, 11.9% (n = 21) of the 177 individuals at th"
+        },
+        {
+          "match": "n = 7",
+          "context": "due to other sleep disorders (n = 7), other mental disorders (n ="
+        },
+        {
+          "match": "n = 14",
+          "context": "= 7), other mental disorders (n = 14), or a combination of sleep a"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "erapy for chronic insomnia: a randomized controlled trialAn open trial of cognitive the"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "port for insomnia disorder: a randomized controlled trialCognitive factors and processe"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "insomnia severity index as an outcome measure for insomnia researchImpact o"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "bonferroni"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "s performed as post-hoc test, Bonferroni correction was carried out by"
+        },
+        {
+          "match": "Bonferroni",
+          "context": "regulation strategy (6). The Bonferroni corrected p-value used in thi"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "alpha",
+        "p-value",
+        "p < 0.01",
+        "p < 0.05",
+        "p < 0.0083"
+      ],
+      "examples": [
+        {
+          "match": "p < 0.0083",
+          "context": "e used in this study was thus p < 0.0083. Each significant group diffe"
+        },
+        {
+          "match": "p < 0.05",
+          "context": "ith psychiatric comorbidity. *p < 0.05, **p < 0.01. CAPTION: Generic"
+        },
+        {
+          "match": "p < 0.01",
+          "context": "ric comorbidity. *p < 0.05, **p < 0.01. CAPTION: Generic emotion dys"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "chi-square",
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "To control for the number of t-tests performed as post-hoc test,"
+        },
+        {
+          "match": "t-test",
+          "context": "05) by the number of possible t-tests per emotion regulation strat"
+        },
+        {
+          "match": "t-test",
+          "context": "y (0.05 divided by 6 post-hoc t-tests). Degrees of freedom for the"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "anova"
+      ],
+      "examples": [
+        {
+          "match": "ANOVA",
+          "context": "\u03b1 = 0.89. Chi-square test and ANOVA with post-hoc test were used"
+        },
+        {
+          "match": "ANOVA",
+          "context": "7. The main analyses employed ANOVA with post-hoc tests to examin"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "categorical"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "ent of observer agreement for categorical dataQuantitative criteria for"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "effect size",
+        "cohen's d"
+      ],
+      "examples": [
+        {
+          "match": "effect size",
+          "context": "ed a 3-fold classification of effect sizes: small (0.20\u20130.49), medium ("
+        },
+        {
+          "match": "Cohen's d",
+          "context": "e was followed by calculating Cohen's d to index the magnitude of the"
+        },
+        {
+          "match": "Cohen's d",
+          "context": "lsory school or high school. dCohen's d. Compared with born outside o"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "post-hoc"
+      ],
+      "examples": [
+        {
+          "match": "post-hoc",
+          "context": "hi-square test and ANOVA with post-hoc test were used to compare the"
+        },
+        {
+          "match": "post-hoc",
+          "context": "analyses employed ANOVA with post-hoc tests to examine group-wise d"
+        },
+        {
+          "match": "post-hoc",
+          "context": "umber of t-tests performed as post-hoc test, Bonferroni correction w"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "primary sleep disorders were excluded: sleep apnea, narcolepsy, res"
+        },
+        {
+          "match": "excluded",
+          "context": "iduals at the first step were excluded due to exceeding SLEEP-50 cut"
+        },
+        {
+          "match": "excluded",
+          "context": "None of the participants were excluded due to suicide risk, operatio"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "specificity",
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "SM-IV-TR sleep disorders. The sensitivity and specificity scores are ac"
+        },
+        {
+          "match": "sensitivity",
+          "context": "ficity scores are acceptable (sensitivity: 0.67\u20131.00; specificity: 0.69"
+        },
+        {
+          "match": "sensitivity",
+          "context": "HQ-9 score of \u226510 has shown a sensitivity and specificity of 88% for ca"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...To control for the number of t-tests performed as post-hoc test,..."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...e used in this study was thus p < 0.0083. Each significant group diffe..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...primary sleep disorders were excluded: sleep apnea, narcolepsy, res..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...s performed as post-hoc test, Bonferroni correction was carried out by..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...ed a 3-fold classification of effect sizes: small (0.20\u20130.49), medium (..."
+      },
+      {
+        "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
+        "evidence": "...hi-square test and ANOVA with post-hoc test were used to compare the..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...SM-IV-TR sleep disorders. The sensitivity and specificity scores are ac..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test, anova"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

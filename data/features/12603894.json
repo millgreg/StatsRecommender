@@ -1,0 +1,471 @@
+{
+  "title": "Vernakalant versus procainamide for rapid cardioversion of patients with acute atrial fibrillation (RAFF4): randomised clinical trial2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTSEmergency department management and 1-year outcomes of patients with atrial flutterThe epidemiology and management of recent-onset atrial fibrillation and flutter presenting to the emergency departmentDevelopment of a care pathway for atrial fibrillation patients in the emergency departmentCanadian Cardiovascular Society atrial fibrillation guidelines 2010: management of recent-onset atrial fibrillation and flutter in the emergency departmentOutcomes for emergency department patients with recent-onset atrial fibrillation and flutter treated in Canadian hospitalsEmergency department visits for atrial fibrillation in the United States: trends in admission rates and economic burden from 2007 to 20142025 Heart disease and stroke statistics: a report of US and global data from the American Heart AssociationVariation in management of recent-onset atrial fibrillation and flutter among academic hospital emergency departmentsEarly rhythm-control therapy in patients with atrial fibrillationBenefits of rhythm control and rate control in recent-onset atrial fibrillation: the HERMES-AF studyElectrical versus pharmacological cardioversion for emergency department patients with acute atrial fibrillation (RAFF2): a partial factorial randomised trialEarly or delayed cardioversion in recent-onset atrial fibrillationThe 2020 Canadian Cardiovascular Society/Canadian Heart Rhythm Society comprehensive guidelines for the management of atrial fibrillationAdverse events associated with electrical cardioversion in patients with acute atrial fibrillation and atrial flutter2021 CAEP acute atrial fibrillation/flutter best practices checklistAn international view of how recent-onset atrial fibrillation is treated in the emergency departmentVernakalant for cardioversion of recent-onset atrial fibrillation: a systematic review and meta-analysis2023 ACC/AHA/ACCP/HRS guideline for the diagnosis and management of atrial fibrillation: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice GuidelinesUse of ibutilide in cardioversion of patients with atrial fibrillation or atrial flutter treated with class IC agentsTorsade de pointes: the clinical considerationsComparison of intravenous flecainide, propafenone, and amiodarone for conversion of acute atrial fibrillation to sinus rhythmMyth: Intravenous amiodarone is safe in patients with atrial fibrillation and Wolff-Parkinson-White syndrome in the emergency departmentConversion of recent-onset atrial fibrillation with intravenous amiodarone: a meta-analysis of randomized controlled trialsAmiodarone versus placebo and class Ic drugs for cardioversion of recent-onset atrial fibrillation: a meta-analysisEffectiveness of amiodarone for conversion of atrial fibrillation to sinus rhythm: a meta-analysisEfficacy of agents for pharmacologic conversion of atrial fibrillation and subsequent maintenance of sinus rhythm: a meta-analysis of clinical trialsSingle oral loading dose of propafenone for pharmacological cardioversion of recent-onset atrial fibrillationOutpatient treatment of recent-onset atrial fibrillation with the \u201cpill-in-the-pocket\u201d approachComparison of intravenous vernakalant and electrical cardioversion in recent-onset atrial fibrillation: effect on time to restore sinus rhythm and length of hospital stayVernakalant for rapid cardioversion of recent-onset atrial fibrillation: results from the SPECTRUM studyPharmacologic cardioversion in patients with paroxysmal atrial fibrillation: a network meta-analysisSafety and effectiveness of antidysrhythmic drugs for pharmacologic cardioversion of recent-onset atrial fibrillation: a systematic review and Bayesian network meta-analysisRecommendations for patient engagement in patient-oriented emergency medicine research2016 Focused update of the Canadian Cardiovascular Society guidelines for the management of atrial fibrillationApplying the intention-to-treat principle in practice: guidance on handling randomisation errorsImproper analysis of trials randomised using stratified blocks or minimisationThe risks and rewards of covariate adjustment in randomized trials: an assessment of 12 outcomes from 8 studiesEmergency department use of intravenous procainamide for patients with acute atrial fibrillation or flutter2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)European Resuscitation Council Guidelines 2021: adult advanced life support",
+  "pmcid": "12603894",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "egistries when available. The sample size for this superiority trial wa"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 19,
+      "unique_matches": [
+        "randomisation",
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "atrial fibrillation (RAFF4): randomised clinical trial2016 ESC Guide"
+        },
+        {
+          "match": "randomise",
+          "context": "(RAFF2): a partial factorial randomised trialEarly or delayed cardio"
+        },
+        {
+          "match": "randomisation",
+          "context": "ractice: guidance on handling randomisation errorsImproper analysis of tr"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "masked"
+      ],
+      "examples": [
+        {
+          "match": "masked",
+          "context": "ogy cardiologist who was also masked to the allocation group and a"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "concealment"
+      ],
+      "examples": [
+        {
+          "match": "concealment",
+          "context": "capture system, which ensured concealment. To standardise management of"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "analysis controlling for the stratification variables (age, first or repe"
+        },
+        {
+          "match": "stratification",
+          "context": "ression analysis adjusted for stratification factors and prespecified prog"
+        },
+        {
+          "match": "stratification",
+          "context": "ression analysis adjusted for stratification factors and prespecified prog"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "rial fibrillationApplying the intention-to-treat principle in practice: guidan"
+        },
+        {
+          "match": "intention-to-treat",
+          "context": "s rhythm, was conducted on an intention-to-treat basis, in which all randomise"
+        },
+        {
+          "match": "Intention-to-treat",
+          "context": "listed in the table. CAPTION: Intention-to-treat analysis: outcomes and dispos"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat analysis"
+      ],
+      "examples": [
+        {
+          "match": "Intention-to-treat analysis",
+          "context": "listed in the table. CAPTION: Intention-to-treat analysis: outcomes and disposition for"
+        }
+      ]
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas",
+        "statistical analysis software"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "tatistical Analysis Software (SAS) version 9.4. We included a p"
+        },
+        {
+          "match": "Statistical Analysis Software",
+          "context": "conducted all analyses using Statistical Analysis Software (SAS) version 9.4. We include"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 13,
+      "unique_matches": [
+        "sd",
+        "standard deviation",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "orical variables and mean and standard deviation (or median and interquartile"
+        },
+        {
+          "match": "standard deviation",
+          "context": "; IQR=interquartile range; SD=standard deviation.CHADS2 is a clinical scoring"
+        },
+        {
+          "match": "standard deviation",
+          "context": "; IQR=interquartile range; SD=standard deviation.Comparison of vernakalant ver"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "skewness"
+      ],
+      "examples": [
+        {
+          "match": "skewness",
+          "context": "ransformations to account for skewness. Because we compared two stan"
+        }
+      ]
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "significance level",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "significance level",
+          "context": "rried out at the two sided 5% significance level. We also used a secondary per"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "m all analyses. The following secondary outcomes were assessed during the fir"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "cardioversion. The following secondary outcomes were assessed at 30 days: re"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "odds ratio, together with 95% confidence intervals. All tests were carried out"
+        },
+        {
+          "match": "confidence interval",
+          "context": "led in RAFF4 trial FOOTER: CI=confidence interval; IQR=interquartile range; SD="
+        },
+        {
+          "match": "confidence interval",
+          "context": "led in RAFF4 trial FOOTER: CI=confidence interval; IQR=interquartile range; SD="
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ed as absolute difference and odds ratio, together with 95% confidence"
+        },
+        {
+          "match": "Odds ratio",
+          "context": "rs (%).CI=confidence interval.Odds ratios obtained from random effects"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "bayesian"
+      ],
+      "examples": [
+        {
+          "match": "Bayesian",
+          "context": "tion: a systematic review and Bayesian network meta-analysisRecommen"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "proportional hazards",
+          "context": "n was also analysed using Cox proportional hazards regression; patients in whom"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "restricted mean survival",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "were compared using adjusted hazard ratio and difference in restricted"
+        },
+        {
+          "match": "restricted mean survival",
+          "context": "azard ratio and difference in restricted mean survival time (area under the survival"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "multivariable regression",
+        "cox proportional",
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "rsion was also analysed using Cox proportional hazards regression; patients"
+        },
+        {
+          "match": "logistic regression",
+          "context": "rimary analysis used multiple logistic regression analysis controlling for the"
+        },
+        {
+          "match": "logistic regression",
+          "context": "were analysed using multiple logistic regression with covariates as specified"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "binary"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "frequency and percentage for categorical variables and mean and standa"
+        },
+        {
+          "match": "continuous",
+          "context": "e procainamide arm received a continuous infusion of intravenous proca"
+        },
+        {
+          "match": "continuous",
+          "context": "quartile range if skewed) for continuous variables. The primary analys"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "odds ratio",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ed as absolute difference and odds ratio, together with 95% confidence"
+        },
+        {
+          "match": "Odds ratio",
+          "context": "rs (%).CI=confidence interval.Odds ratios obtained from random effects"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "were compared using adjusted hazard ratio and difference in restricted"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "post hoc"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "Patients who were determined post hoc not to be in atrial fibrillat"
+        },
+        {
+          "match": "post hoc",
+          "context": "nce was too low. We added the post hoc subgroup of sex (male or fema"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "ics were used to describe the baseline characteristics of patients randomised to ea"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "acute atrial fibrillation. We excluded patients for appropriateness"
+        },
+        {
+          "match": "excluded",
+          "context": "illation on presentation were excluded from all analyses. The follow"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "e survival curve). Additional sensitivity analyses of continuous outcom"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

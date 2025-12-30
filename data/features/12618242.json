@@ -1,0 +1,414 @@
+{
+  "title": "A multimodal whole-slide foundation model for pathologyArtificial intelligence for digital and computational pathologyFine-tuning and training of DenseNet for histopathology image representation using TCGA diagnostic slidesSelf supervised contrastive learning for digital histopathologyTransformer-based unsupervised contrastive learning for histopathological image classificationRetCCL: clustering-guided contrastive learning for whole-slide image retrievalA visual\u2013language foundation model for pathology image analysis using medical TwitterRobust and data-efficient generalization of self-supervised machine learning for diagnostic imagingTowards a general-purpose foundation model for computational pathologyA visual-language foundation model for computational pathologyA foundation model for clinical-grade computational pathology and rare cancers detectionArtificial intelligence in digital pathology\u2014new tools for diagnosis and precision oncologyDeep learning in cancer pathology: a new generation of clinical biomarkersArtificial intelligence in histopathology: enhancing cancer research and clinical oncologyA clinical benchmark of public self-supervised pathology foundation modelsPredicting non-small cell lung cancer prognosis by fully automated microscopic pathology image featuresDeep learning-enabled assessment of cardiac allograft rejection from endomyocardial biopsiesClassification and mutation prediction from non-small cell lung cancer histopathology images using deep learningClinical-grade computational pathology using weakly supervised deep learning on whole slide imagesDeep learning can predict microsatellite instability directly from histology in gastrointestinal cancerAI-based pathology predicts origins for cancers of unknown primaryPan-cancer computational histopathology reveals mutations, tumor composition and prognosisArtificial intelligence for diagnosis and Gleason grading of prostate cancer: the PANDA ChallengeA graph-transformer for whole slide image classificationDeep learning for prediction of colorectal cancer outcome: a discovery and validation studyDiagnostic assessment of deep learning algorithms for detection of lymph node metastases in women with breast cancerTransformer-based biomarker prediction from colorectal cancer histology: a large-scale multicentric studyMultistain deep learning for prediction of prognosis and therapy response in colorectal cancerDeep learning-based classification of mesothelioma improves prediction of patient outcomeDerivation of prognostic contextual histopathological features from whole-slide images of tumours via graph deep learningGeneralizable biomarker prediction from cancer pathology slides with self-supervised deep learning: a retrospective multi-centric studyArtificial intelligence in healthcareSelf-supervised learning in medicine and healthcareReal-world deployment of a fine-tuned pathology foundation model for lung cancer biomarker detectionDeep learning in histopathology: the path to the clinicBurden and centralised treatment in Europe of rare tumours: results of RARECAREnet\u2014a population-based studyContent-based multimedia information retrieval: State of the art and challengesVisual pattern mining in histology image collections using bag of featuresContent-based image retrieval of digitized histopathology in boosted spectrally embedded spacesYottixel\u2014an image search engine for large archives of histopathology whole slide imagesFast and scalable search of whole-slide images via self-supervised deep learningHistopathological whole slide image analysis using context-based CBIRHistopathology slide indexing and search\u2014are we there yet?Quilt-1m: one million image\u2013text pairs for histopathologyA whole-slide foundation model for digital pathology from real-world dataGenerating dermatopathology reports from gigapixel whole slide images with HistogptData-efficient and weakly supervised computational pathology on whole-slide imagesTransmil: transformer based correlated multiple instance learning for whole slide image classificationFoundation models for fast, label-free detection of glioma infiltrationA pathology foundation model for cancer diagnosis and prognosis predictionFoundation models for generalist medical artificial intelligenceA multimodal generative AI copilot for human pathologySynthetic data in machine learning for medicine and healthcareSynthetic data in medical researchGeneration of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion modelsThe Cancer Genome Atlas pan-cancer analysis projectAn integrated TCGA pan-cancer clinical data resource to drive high-quality survival outcome analyticsThe CPTAC data portal: a resource for cancer proteomics researchAbstract LB-242: proteomic data commons: a resource for proteogenomic analysisPathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networksDevelopment and evaluation of a deep neural network for histologic classification of renal cell carcinoma on biopsy and surgical resection slidesLeakage and the reproducibility crisis in machine-learning-based scienceOncotree: a cancer classification system for precision oncologyTCGA-Reports: a machine-readable pathology report resource for benchmarking text-based AI modelsMachine learning methods for histopathological image analysisSimilar image search for histopathology: SMILYPheochromocytoma and paragangliomaHest-1k: A dataset for spatial transcriptomics and histology image analysisImage analysis: understanding and mitigating batch effects in histopathologyDemographic bias in misdiagnosis by computational pathology modelsGenerative artificial intelligence in anatomic pathologyThe genotype-tissue expression (GTEx) projectIntegrating context for superior cancer prognosisBias in cross-entropy-based training of deep survival networksThe impact of site-specific digital histology signatures on deep learning model accuracy and biasPredicting axillary lymph node metastasis in early breast cancer using deep learning on primary tumor biopsy slidesBracs: a dataset for breast carcinoma subtyping in H&E histology imagesThe Digital Brain Tumour Atlas, an open histopathology resourceCAD systems for colorectal cancer from WSI are still not ready for clinical acceptanceiMIL4PATH: a semi-supervised interpretable approach for colorectal whole-slide imagesAn interpretable machine learning system for colorectal cancer diagnosis from pathology slidesClear cell renal cell carcinoma subtypes identified by BAP1 and PBRM1 expressionIntratumoral resolution of driver gene mutation heterogeneity in renal cancer using deep learningWeakly supervised joint whole-slide segmentation and classification in prostate cancerMultimodal integration of radiology, pathology and genomics for prediction of response to PD-(L) 1 blockade in patients with non-small cell lung cancer",
+  "pmcid": "12618242",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size",
+        "n\u2009=\u2009128"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "f Vienna143. Due to the small sample size, we exclude two classes and p"
+        },
+        {
+          "match": "n\u2009=\u2009128",
+          "context": "econd attentional pooler uses n\u2009=\u2009128 queries (reconstruction queri"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "masked"
+      ],
+      "examples": [
+        {
+          "match": "masked",
+          "context": "er knowledge distillation and masked image modeling86. As iBOT is"
+        },
+        {
+          "match": "masked",
+          "context": "ouse WSIs from Providence via masked autoencoder135. As a patch en"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "stratification",
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "ed a five-fold site-preserved stratification140. Due to the small cohort s"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "ution of driver gene mutation heterogeneity in renal cancer using deep le"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "multiple comparisons",
+        "tukey"
+      ],
+      "examples": [
+        {
+          "match": "multiple comparisons",
+          "context": "ection applied to control for multiple comparisons and ensure robust inference."
+        },
+        {
+          "match": "Tukey",
+          "context": "-sided Wald z tests, with the Tukey correction applied to control"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "alpha",
+          "context": ",\\text{logit}\\,({\\mu }_{ij})=\\alpha +{\\beta }_{j}+{b}_{i},$$\\end{"
+        },
+        {
+          "match": "alpha",
+          "context": "lowed by existing datasets in alphabetical order. To mitigate the"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "e split, we use nonparametric bootstrapping with 1,000 samples to calcula"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "glmm",
+        "cross-validation",
+        "bootstrapping",
+        "mixed-effects"
+      ],
+      "examples": [
+        {
+          "match": "GLMM",
+          "context": "d linear mixed-effects model (GLMM). A GLMM is a statistical mod"
+        },
+        {
+          "match": "GLMM",
+          "context": "mixed-effects model (GLMM). A GLMM is a statistical model that e"
+        },
+        {
+          "match": "GLMM",
+          "context": "effect. We use a hierarchical GLMM with a \u03b2 distribution and com"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "proportional hazards",
+          "context": "s, we employed the linear Cox proportional hazards model on the disease-specific"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "mixed-effect",
+        "cox proportional",
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "lysis, we employed the linear Cox proportional hazards model on the disease-"
+        },
+        {
+          "match": "logistic regression",
+          "context": "rameworks and perform linear (logistic regression) and k-NN probing. For linear"
+        },
+        {
+          "match": "logistic regression",
+          "context": "plementation of k-NN, and the logistic regression implementation and SimpleShot"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "prisma"
+      ],
+      "examples": [
+        {
+          "match": "PRISMA",
+          "context": "ained using SAKURA TISSUE-TEK PRISMA 6130 Slide Stainer, and scann"
+        }
+      ]
+    },
+    "data_types": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "binary",
+        "frequencies",
+        "ordinal"
+      ],
+      "examples": [
+        {
+          "match": "binary",
+          "context": "ng. Tissues were segmented by binary thresholding of the saturatio"
+        },
+        {
+          "match": "binary",
+          "context": "ratic-weighted Cohen\u2019s \u03ba. For binary classification tasks, we repo"
+        },
+        {
+          "match": "ordinal",
+          "context": "th more than two classes. For ordinal multiclass classification tas"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "cluster",
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "y sampled one patch from each cluster. The resulting 16 morphologic"
+        },
+        {
+          "match": "hierarchical",
+          "context": "different datasets, we used a hierarchical generalized linear mixed-effe"
+        },
+        {
+          "match": "hierarchical",
+          "context": "atasets (random effects). The hierarchical structure captures the fact t"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "multiple comparisons",
+        "tukey"
+      ],
+      "examples": [
+        {
+          "match": "multiple comparisons",
+          "context": "ection applied to control for multiple comparisons and ensure robust inference."
+        },
+        {
+          "match": "Tukey",
+          "context": "-sided Wald z tests, with the Tukey correction applied to control"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "can be found in Supplementary Table 1. For the internally-curated c"
+        },
+        {
+          "match": "Table 1",
+          "context": "are provided in Supplementary Table 103. For each WSI, we similarly"
+        },
+        {
+          "match": "Table 1",
+          "context": "site. Refer to Supplementary Table 11 for a detailed overview of a"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "excluded",
+        "excluding"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "as mentioned for TCGA-OT. We excluded all frozen tissue slides, sli"
+        },
+        {
+          "match": "excluding",
+          "context": "l, we follow prior work149 in excluding slides that were erroneously"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "roc"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "eport balanced accuracy and AUROC. For survival tasks, we repor"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "quantification",
+        "transcriptomics",
+        "staining"
+      ],
+      "examples": [
+        {
+          "match": "staining",
+          "context": "h slide exclusion due to poor staining, poor focus, lacking cancerou"
+        },
+        {
+          "match": "transcriptomics",
+          "context": "est-1k: A dataset for spatial transcriptomics and histology image analysisI"
+        },
+        {
+          "match": "quantification",
+          "context": "s contain annotations for IHC quantification in six expression levels of E"
+        }
+      ]
+    }
+  }
+}

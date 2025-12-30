@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFSR | Statistical Rigor Auditor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <main class="dashboard-container">
+        <header class="hero-section">
+            <h1 class="gradient-text">AFSR Auditor</h1>
+            <p class="subtitle">Automated Feedback on Statistical Reporting | Version 1.4 (Deterministic Depth)</p>
+        </header>
+
+        <section class="input-card glass">
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('text-input')">Paste Methods</button>
+                <button class="tab-btn" onclick="switchTab('file-input')">Upload XML/Text</button>
+            </div>
+
+            <div id="text-input" class="tab-content active">
+                <textarea id="methods-text" placeholder="Paste your Methods section here (e.g., 'We performed a randomized controlled trial...')" spellcheck="false"></textarea>
+                <button class="primary-btn" onclick="auditText()">Analyze Rigor</button>
+            </div>
+
+            <div id="file-input" class="tab-content">
+                <div class="drop-zone" id="drop-zone">
+                    <span class="drop-text">Drop XML or TXT file here</span>
+                    <input type="file" id="file-upload" accept=".xml,.txt" hidden>
+                    <button class="secondary-btn" onclick="document.getElementById('file-upload').click()">Browse Files</button>
+                </div>
+            </div>
+        </section>
+
+        <section id="loading" class="loading-container hidden">
+            <div class="spinner"></div>
+            <p>Auditing statistical reporting standards...</p>
+        </section>
+
+        <section id="results" class="results-section hidden">
+            <div class="results-grid">
+                <!-- Summary Card -->
+                <div class="result-card glass summary-card">
+                    <h3>Overall Rigor</h3>
+                    <div class="score-display">
+                        <span id="rigor-score">0.0</span><span class="max-score">/10</span>
+                    </div>
+                    <div id="rigor-rating" class="rating-badge">Low</div>
+                </div>
+
+                <!-- Strengths Card -->
+                <div class="result-card glass strengths-card">
+                    <h3><span class="icon">✅</span> Strengths</h3>
+                    <ul id="strengths-list"></ul>
+                </div>
+
+                <!-- Critical Gaps Card -->
+                <div class="result-card glass gaps-card">
+                    <h3><span class="icon">⚠️</span> Critical Gaps</h3>
+                    <ul id="gaps-list"></ul>
+                </div>
+            </div>
+
+            <!-- Recommendations Section -->
+            <div class="result-card glass recommendations-card">
+                <h3>Actionable Recommendations</h3>
+                <div id="recommendations-container" class="recommendations-list"></div>
+            </div>
+
+            <div id="file-snippet" class="result-card glass snippet-card hidden">
+                <h3>Extracted Text Snippet</h3>
+                <pre id="text-snippet"></pre>
+            </div>
+        </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body>
+</html>

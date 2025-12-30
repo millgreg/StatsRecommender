@@ -1,0 +1,235 @@
+{
+  "title": "Examining the Connectorship Scale: Factor Structure and Correlations With Self-Efficacy and ExtraversionSelf-efficacy: Toward a unifying theory of behavioral changeImproved leadership skills and aptitudes in an excellence EMBA program: Creating synergies with dialogic leadership to achieve social impactThe leader as effective communicatorThe influence of green innovation performance on corporate advantage in TaiwanDeveloping a measure for \u201cconnectorship\u201d as a component of engaged leadershipConnectorshipA meta-analytic examination of the effects of the agentic and affiliative aspects of extraversion on leadership outcomesWho emerges as a leader? Meta- analyses of individual differences as predictors of leadership emergenceAnalysis of social problem solving and social self-efficacy in prospective teachersCorrelates of networking behavior for managerial and professional employeesCutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternativesPersonality and leadership: A qualitative and quantitative reviewFacet level effects of extraversion on leadership behaviours rated by subordinatesIntegrating implicit leadership theories, leader-member exchange, self-efficacy, and attachment theory to predict job performanceLeadership versus management: What\u2019s the difference?Social connectedness, extraversion, and subjective well-being: Testing a mediation modelConnective leadership: Female leadership styles in the 21st- century workplacePower analysis and determination of sample size for covariance structure modelingThe role of self-efficacy beliefs in leader developmentInclined but less skilled? Disentangling extraversion, communication skill, and leadership emergenceThe role of self-efficacy, emotional intelligence and leadership style as attributes of leadership effectivenessConnecting leadership and learning: Do versatile learners make connective leaders?lavaan: An R package for structural equation modelingThe ineffective police leader: Acts of commission and omissionGeneralized self-efficacy scaleLeadership effectiveness and personality: A cross cultural evaluationEthical leadership and knowledge sharing: A social cognitive approach investigating the role of self-efficacy as a key mechanismHow does transformational leadership relieve teacher burnout: The role of self-efficacy and emotional intelligenceLinking ethical leadership to employee performance: The roles of leader\u2013member exchange, self-efficacy, and organizational identificationExtraversion",
+  "pmcid": "12717301",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "analysis and determination of sample size for covariance structure mode"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "covariance structure"
+      ],
+      "examples": [
+        {
+          "match": "covariance structure",
+          "context": "f criteria for fit indexes in covariance structure analysis: Conventional criter"
+        },
+        {
+          "match": "covariance structure",
+          "context": "ermination of sample size for covariance structure modelingThe role of self-effi"
+        }
+      ]
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 8.5,
+    "rigor_rating": "High",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      }
+    ],
+    "strengths": [],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "title": "Wearable Signals for Diagnosing Attention-Deficit/Hyperactivity Disorder in Adolescents: A Feasibility StudyKey findings from the second Australian Child and Adolescent Survey of Mental Health and WellbeingAttention deficit hyperactivity disorder and premature deathFailure of healthcare provision for attention-deficit/hyperactivity disorder in the United Kingdom: a consensus statementSpecial issues in the diagnosis and treatment of ADHD in adolescentsAssociation of antipsychotic use with breast cancer: a systematic review and meta-analysis of observational studies with over 2 million individualsXGBoost: a scalable tree boosting system. In: Association for Computing Machinery Special Interest Group on Management of Data, ACM Special Interest Group on Knowledge Discovery in DataFitbit\u00ae: an accurate and reliable device for wireless physical activity trackingAddressing the HIPAA-potamus sized gap in wearable technology regulationEarly sleep deprivation and attention-deficit/hyperactivity disorderSleep duration and school readiness of Chinese preschool childrenSocioeconomic gradients in school readiness of Chinese preschool children: The mediating role of family processes and kindergarten qualityValidation of the Chinese strengths and weaknesses of ADHD-symptoms and normal-behaviors questionnaire in Hong KongCenter for Epidemiologic Studies Depression Scale (CES-D) as a screening instrument for depression among community-residing older adultsPsychometric properties of the Teenage Executive Functioning Inventory (TEXI): a freely available questionnaire for assessing deficits in working memory and inhibition among adolescentsThe Affective Reactivity Index: a concise irritability scale for clinical and research settingsParent proxy-report of their children\u2019s health-related quality of life: an analysis of 13,878 parents\u2019 reliability and validity across age subgroups using the PedsQL\u2122 4.0 Generic Core ScalesXGBoost model for chronic kidney disease diagnosisIrritability in ADHD: associations with depression liabilitySex differences in ADHD symptom severityPhysical functioning, emotional, and behavioral problems in children with ADHD and comorbid ASD: a cross-sectional studyAssociation between ADHD and obesity: a systematic review and meta-analysisThe management of sleep disturbances in children with attention-deficit/hyperactivity disorder (ADHD): an update of the literatureUnderstanding the risk of using medications for attention deficit hyperactivity disorder with respect to physical growth and cardiovascular functionAdverse effects of stimulant interventions for attention deficit hyperactivity disorder (ADHD): a comprehensive systematic reviewChildhood attention-deficit/hyperactivity disorder symptoms are risk factors for obesity and physical inactivity in adolescenceADHD and emotion dysregulation among children and adolescentsSocial incompetence in children with ADHD: possible moderators and mediators in social-skills trainingHyperactivity and motoric activity in ADHD: characterization, assessment, and interventionThe use of actigraphy in the monitoring of methylphenidate versus placebo in ADHD: a meta-analysisLocomotor activity measures in the diagnosis of attention deficit hyperactivity disorder: meta-analyses and new findingsIs hyperactivity ubiquitous in ADHD or dependent on environmental demands? Evidence from meta-analysisPredicting ADHD symptoms and diagnosis at age 14 from objective activity levels at age 7 in a large UK cohortNonlinear analysis of actigraphic signals for the assessment of the attention-deficit/hyperactivity disorder (ADHD)Objective diagnosis of ADHD using IMUsMachine learning approach for classification of ADHD adultsClassification of ADHD patients on the basis of independent ERP components using a machine learning systemMachine learning classification of ADHD and HC by multimodal serotonergic dataCrowdsourced validation of a machine-learning classification system for autism and ADHDStimulant medications decrease energy expenditure and physical activity in children with attention-deficit/hyperactivity disorder",
+  "pmcid": "12684460",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "specificity, PPV, and NPV and bootstrapping on the cross-validation score"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "cross-validation",
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "specificity, PPV, and NPV and bootstrapping on the cross-validation score"
+        },
+        {
+          "match": "cross-validation",
+          "context": "ults are averaged over 5-fold cross-validation. CIs are estimated based on t"
+        },
+        {
+          "match": "cross-validation",
+          "context": "NPV and bootstrapping on the cross-validation scores for AUC. ADHD = attent"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "t/hyperactivity disorder  The baseline characteristics of participants were summari"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "sensitivity",
+        "npv",
+        "positive predictive value",
+        "ppv",
+        "specificity",
+        "auc = "
+      ],
+      "examples": [
+        {
+          "match": "AUC = ",
+          "context": "ficit/hyperactivity disorder; AUC = area under the receiver operat"
+        },
+        {
+          "match": "sensitivity",
+          "context": "score interval for accuracy, sensitivity, specificity, PPV, and NPV an"
+        },
+        {
+          "match": "specificity",
+          "context": "al for accuracy, sensitivity, specificity, PPV, and NPV and bootstrappi"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Diagnostic metrics reported without Confidence Intervals.",
+        "evidence": "...ficit/hyperactivity disorder; AUC = area under the receiver operat..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...ficit/hyperactivity disorder; AUC = area under the receiver operat..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

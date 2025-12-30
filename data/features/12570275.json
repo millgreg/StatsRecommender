@@ -1,0 +1,484 @@
+{
+  "title": "Prevention of acute myocardial infarction induced heart failure by intracoronary infusion of mesenchymal stem cells: phase 3 randomised clinical trial (PREVENT-TAHA8)EXPRESSION OF CONCERN: Prevention of acute myocardial infarction induced heart failure by intracoronary infusion of mesenchymal stem cells: phase 3 randomised clinical trialPost-myocardial infarction heart failureHeart failure after myocardial infarction: incidence and predictorsLong-term trends in the incidence of heart failure after myocardial infarctionThe effect of intracoronary infusion of bone marrow-derived mononuclear cells on all-cause mortality in acute myocardial infarction: the BAMI trialIntracoronary infusion of Wharton\u2019s jelly-derived mesenchymal stem cells in acute myocardial infarction: double-blind, randomized controlled trialMesenchymal stem cell transplantation after acute myocardial infarction: a meta-analysis of clinical trialsTransendocardial mesenchymal stem cells and mononuclear bone marrow cells for ischemic cardiomyopathy: the TAC-HFT randomized trialThe safety of MSC therapy over the past 15\u00a0years: a meta-analysisEffect of once versus twice intracoronary injection of allogeneic-derived mesenchymal stromal cells after acute myocardial infarction: BOOSTER-TAHA7 randomized clinical trialMinimal criteria for defining multipotent mesenchymal stromal cells. The International Society for Cellular Therapy position statementClinical and imaging outcomes after intrathecal injection of umbilical cord tissue mesenchymal stem cells in cerebral palsy: a randomized double-blind sham-controlled clinical trialHuman Mesenchymal Stromal Cell (MSC) Characteristics Vary Among Laboratories When Manufactured From the Same Source Material: A Report by the Cellular Therapy Team of the Biomedical Excellence for Safer Transfusion (BEST) CollaborativeDelphi-driven consensus definition for mesenchymal stromal cells and clinical reporting guidelines for mesenchymal stromal cell-based therapeuticsLong-term clinical outcome after intracoronary application of bone marrow-derived mononuclear cells for acute myocardial infarction: migratory capacity of administered cells determines event-free survivalImproved clinical outcome after intracoronary administration of bone-marrow-derived progenitor cells in acute myocardial infarction: final 1-year results of the REPAIR-AMI trialIntracoronary bone marrow-derived progenitor cells in acute myocardial infarctionMajor cardiovascular events after bone marrow mononuclear cell transplantation following acute myocardial infarction: an updated post-BAMI meta-analysis of randomized controlled trialsIntracoronary autologous bone-marrow cell transfer after myocardial infarction: the BOOST randomised controlled clinical trialIntracoronary autologous bone marrow cell transfer after myocardial infarction: the BOOST-2 randomised placebo-controlled clinical trialIntracoronary injection of mononuclear bone marrow cells in acute myocardial infarctionLong term outcome after mononuclear bone marrow or peripheral blood cells infusion after myocardial infarctionSustained quality of life improvement after intracoronary injection of autologous bone marrow cells in the setting of acute myocardial infarction: results from the BONAMI trialEffect of Bone Marrow-Derived Mononuclear Cell Treatment, Early or Late After Acute Myocardial Infarction: Twelve Months CMR and Long-Term Clinical ResultsIntracoronary infusion of bone marrow-derived selected CD34+CXCR4+ cells and non-selected mononuclear cells in patients with acute STEMI and reduced left ventricular ejection fraction: results of randomized, multicentre Myocardial Regeneration by Intracoronary Infusion of Selected Population of Stem Cells in Acute Myocardial Infarction (REGENT) TrialPredictors of hospital mortality in the global registry of acute coronary eventsSex Differences in Clinical Characteristics and Outcomes After Myocardial Infarction With Low Ejection Fraction: Insights From PARADISE-MISex Differences in Heart\u00a0Failure Following Acute Coronary SyndromesSex difference in the development and progression of heart failure after firsttime ST-elevation myocardial infarctionRandomized Trial of Targeted Transendocardial Mesenchymal Precursor\u00a0Cell Therapy in Patients With\u00a0Heart\u00a0FailureMesenchymal stem cell: present challenges and prospective cellular cardiomyoplasty approaches for myocardial regenerationConcise Review: Mesenchymal Stem Cells in Cardiovascular Regeneration: Emerging Research Directions and Clinical ApplicationsThe therapeutic potential of mesenchymal stem cells for cardiovascular diseasesCardiac Stem Cells for Myocardial Regeneration: They Are Not AloneFirst-in-human pilot trial of combined intracoronary and intravenous mesenchymal stem cell therapy in acute myocardial infarctionIs the measurement of left ventricular ejection fraction the proper end point for cell therapy trials? An analysis of the effect of bone marrow mononuclear stem cell administration on left ventricular ejection fraction after ST-segment elevation myocardial infarction when evaluated by cardiac magnetic resonance imagingStem cell therapy for acute myocardial infarction: Mesenchymal Stem Cells and induced Pluripotent Stem Cells",
+  "pmcid": "12570275",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": ". We initially calculated the sample size to include approximately 118"
+        },
+        {
+          "match": "sample size",
+          "context": "estimation, we increased the sample size to 390 participants. Addition"
+        },
+        {
+          "match": "sample size",
+          "context": "study. Additional details on sample size calculation, randomisation, a"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 19,
+      "unique_matches": [
+        "randomisation",
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "senchymal stem cells: phase 3 randomised clinical trial (PREVENT-TAHA"
+        },
+        {
+          "match": "randomise",
+          "context": "senchymal stem cells: phase 3 randomised clinical trialPost-myocardia"
+        },
+        {
+          "match": "randomise",
+          "context": "cardial infarction: the BOOST randomised controlled clinical trialInt"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "EVENT-TAHA8 trial is a single blinded, randomised, phase 3 superior"
+        },
+        {
+          "match": "blinded",
+          "context": "ted and patients could not be blinded to allocation. However, all r"
+        },
+        {
+          "match": "blinded",
+          "context": "n, and data analysis remained blinded. Participants were clearly in"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "myocardial infarction.9  The primary endpoint was the incidence of heart fa"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "at risk. Analyses followed an intention-to-treat approach, and we determined s"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat approach"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat approach",
+          "context": "at risk. Analyses followed an intention-to-treat approach, and we determined statistica"
+        }
+      ]
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stata version 18"
+      ],
+      "examples": [
+        {
+          "match": "Stata version 18",
+          "context": "ar ejection fraction. We used Stata version 18 for all statistical analysis."
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "inuous variables as means and standard deviations and categorical data as freq"
+        },
+        {
+          "match": "standard deviation",
+          "context": "ricular ejection fraction; SD=standard deviation; WJ-MSC=Wharton\u2019s jelly deriv"
+        },
+        {
+          "match": "SD",
+          "context": "entricular ejection fraction; SD=standard deviation; WJ-MSC=Wh"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "shapiro-wilk"
+      ],
+      "examples": [
+        {
+          "match": "Shapiro-Wilk",
+          "context": "e used the Kruskal-Wallis and Shapiro-Wilk normality tests to assess the"
+        }
+      ]
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "p<0.05",
+        "secondary endpoint",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "P<0.05",
+          "context": "P values with a threshold of P<0.05. We used Cox proportional haz"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "spital for heart failure as a secondary outcome, providing an objective measu"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "rdiovascular endpoints. Other secondary outcomes included all cause mortality"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "0 person years. We calculated confidence intervals for the incidence rate by us"
+        },
+        {
+          "match": "confidence interval",
+          "context": "revent-TAHA8 trial FOOTER: CI=confidence interval; HF=heart failure; MI=myocard"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "mann-whitney",
+        "wilcoxon",
+        "\u03c72",
+        "fisher\u2019s exact"
+      ],
+      "examples": [
+        {
+          "match": "\u03c72",
+          "context": "for continuous variables and \u03c72 and Fisher\u2019s exact tests for"
+        },
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "ntinuous variables and \u03c72 and Fisher\u2019s exact tests for categorical variabl"
+        },
+        {
+          "match": "Mann-Whitney",
+          "context": "t sample Student\u2019s t test and Mann-Whitney U test for continuous variabl"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "kruskal-wallis"
+      ],
+      "examples": [
+        {
+          "match": "Kruskal-Wallis",
+          "context": "orical variables. We used the Kruskal-Wallis and Shapiro-Wilk normality te"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "schoenfeld residuals",
+        "proportional hazards",
+        "proportional hazards assumption"
+      ],
+      "examples": [
+        {
+          "match": "Schoenfeld residuals",
+          "context": "l test on the basis of scaled Schoenfeld residuals, with results reported in the"
+        },
+        {
+          "match": "proportional hazards assumption",
+          "context": "Furthermore, we evaluated the proportional hazards assumption by using the global test on t"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "eshold of P<0.05. We used Cox proportional hazards regression models to compare"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "log-rank",
+        "kaplan-meier",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "Kaplan-Meier",
+          "context": "continuous variables. We used Kaplan-Meier curves and log-rank tests to"
+        },
+        {
+          "match": "Kaplan-Meier",
+          "context": "lative hazard ratios. We used Kaplan-Meier survival analysis to estimate"
+        },
+        {
+          "match": "log-rank",
+          "context": "used Kaplan-Meier curves and log-rank tests to analyse the time-to-"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cox proportional"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "threshold of P<0.05. We used Cox proportional hazards regression models to"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "consort"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "tandards of Reporting Trials (CONSORT) guidelines. The PREVENT-TAHA"
+        }
+      ]
+    },
+    "data_types": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "frequencies"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "action as both continuous and categorical variables, using cut-off valu"
+        },
+        {
+          "match": "categorical",
+          "context": "s and standard deviations and categorical data as frequencies and perce"
+        },
+        {
+          "match": "categorical",
+          "context": "and Fisher\u2019s exact tests for categorical variables. We used the Kruska"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "matched pairs"
+      ],
+      "examples": [
+        {
+          "match": "matched pairs",
+          "context": "infarction, we did a Wilcoxon matched pairs signed rank test to assess di"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "dropout"
+      ],
+      "examples": [
+        {
+          "match": "dropout",
+          "context": "lls, we anticipated a rate of dropout and consent withdrawal of 8-1"
+        },
+        {
+          "match": "dropout",
+          "context": "ompensate for these potential dropouts. Randomisation was done cent"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "Aalen estimates of cumulative hazard ratios. We used Kaplan-Meier surviv"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "percentages. We compared the baseline characteristics of the two study groups by u"
+        },
+        {
+          "match": "Baseline characteristic",
+          "context": "g in future studies. CAPTION: Baseline characteristics of patients in PREVENT-TAHA8"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "y, or autoimmune disease were excluded from the study. A negative pr"
+        },
+        {
+          "match": "excluded",
+          "context": "ality of each measurement and excluded any inadequate data, which we"
+        },
+        {
+          "match": "excluded",
+          "context": "ded in the final analysis. We excluded patients who withdrew consent"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "in vitro",
+        "flow cytometry"
+      ],
+      "examples": [
+        {
+          "match": "in vitro",
+          "context": "nd chondrocytes under defined in vitro conditions.12 13 The cells we"
+        },
+        {
+          "match": "flow cytometry",
+          "context": "ard culture conditions. Then, flow cytometry analysis showed the expressio"
+        }
+      ]
+    }
+  }
+}

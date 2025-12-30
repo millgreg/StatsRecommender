@@ -24,8 +24,6 @@ wheels/
 # Data (ignoring generated data)
 data/raw/
 data/processed/
-data/features/
-data/feedback/
 # But keep the ground truth
 !data/expert_audit.json
 

@@ -1,0 +1,351 @@
+{
+  "title": "Outcomes of remotely delivered behavioral insomnia interventions for children and adolescents: systematic review of randomized controlled trialsI sleep, because we sleep: a synthesis on the role of culture in sleep behavior researchCognitive and behavioral interventions to improve sleep in school-age children and adolescents: a systematic review and meta-analysisValidation of the Insomnia Severity Index as an outcome measure for insomnia researchSystematic review and meta-analysis of adolescent cognitive-behavioral sleep interventionsDevelopment of a short version of the dysfunctional beliefs about sleep questionnaire for use with children (DBAS-C10)Executive functions in preschool children with chronic insomniaThe pittsburgh sleep quality index: anew instrument for psychiatric practice and researchValidation of a brief insomnia severity measure in youth clinically referred for sleep evaluationEfficacy of digital CBT for insomnia to reduce depression across demographic groups: a randomized trialInsomnia in adolescents: prevalence, help-seeking behaviors, and types of interventionsInsomnia, health-related quality of life and health outcomes in children: a seven year longitudinal cohortBetter nights/better days-distance intervention for insomnia in school-aged children with/without ADHD: a radomized controlled trialEfficacy of internet and group-administered cognitive behavioral therapy for insomnia in adolescents: a pilot studyEfficacy of cognitive behavioral therapy for insomnia in adolescents: a randomized controlled trial with internet therapy, group therapy and a waiting list conditionDifferential effects of online insomnia treatment on executive functions in adolescentsImprovements of adolescent psychopathology after insomnia treatment: results from a randomized controlled trial over 1 year. J. Child PsycholThe pittsburgh sleep quality index: validity and factor structure in young people\u201cAmsterdam Neuropsychological Tasks: A computer-aided assessment program,\u201dMicrocomputer analyses of performance on a portable, simple visual RT task during sustained operationsInsomnia in AdolescenceExperimental restriction of sleep opportunity in children: effects on teacher ratingsNetwork meta-analysis comparing the effectiveness of a prescription digital therapeutic for chronic insomnia to medications and face-to-face cognitive behavioral therapy in adultsPacific families navigating responsiveness and children's sleep in Aotearoa New ZealandThe flinders fatigue scale: preliminary psychometric properties and clinical sensitivity of a new scale for measuring daytime fatigue associated with insomniaSleep problems in childhood: a longitudinal study of developmental change and association with behavioral problemsPediatric sleep problems and social-emotional problems. A population-based studyCognitive behavior therapy and pharmacotherapy for insomnia: a randomized controlled trial and direct comparisonValidation of the Epworth Sleepiness Scale for children and adolescents using rasch analysisThe patient health questionnaire for adolescents: validation of an instrument for the assessment of mental disorders among adolescent primary care patientsHolland sleep disorders questionnaire: a new sleep disorders questionnaire based on the international classification of sleep disorders-2A feasibility and acceptability study of cognitive behavioural treatment for insomnia in adolescents with traumatic brain injury: A-B with follow up design, randomized baseline, and replication across participantsDigital cognitive behavioral therapy for insomnia on depression and anxiety: a systematic review and meta-analysis\u201cInsomnia of childhood: assessment and treatment,\u201dThe associations of insomnia symptoms with daytime behavior and cognitive functioning in children with attention-deficit/hyperactivity disorderDigital cognitive behavioral therapy (dCBT) for insomnia: a state-of-the-science reviewEfficacy of cognitive behavioral therapy in children and adolescents with insomnia: a systematic review and meta-analysisBehavioral treatment of insomnia: a proposal for a stepped care approach to promote public healthSleep quality subtypes predict health-related quality of life in childrenAdverse associations of infant and child sleep problems and parent health: an Australian population studyEffect of telephone cognitive behavioral therapy for insomnia in older adults with osteoarthritis pain: a randomized clinical trial\u201cPediatric insomnia: etiology, impact, assessment, and treatment,\u201dChronic sleep reduction, functioning at school and school achievement in preadolescentsRelationship between child sleep disturbances and maternal sleep, mood, and parenting stress: a pilot studySystematic review and meta-analysis of behavioral interventions for pediatric insomniaPediatric sleep health: it matters, and so does how we define itPsychometric qualities of a brief self-rated fatigue measure: the fatigue assessment scaleEfficacy of an internet-based intervention for infant and toddler sleep disturbancesLong-term efficacy of an internet-based intervention for infant and toddler sleep disturbances: one year follow-upA nightly bedtime routine: impact on sleep in young children and maternal moodPreferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statementPractice parameters for behavioral treatment of bedtime problems and night wakings in infants and young childrenThe phenomenology of the pre-sleep state: the development of the pre-sleep arousal scaleClassification and epidemiology of childhood sleep disordersPediatric insomniaThe children's sleep habits questionnaire (CSHQ): psychometric properties of a survey instrument for school-aged childrenThe PRISMA 2020 statement: an updated guideline for reporting systematic reviewsA randomised controlled trial of cognitive-behaviour therapy for behavioural insomnia of childhood in school-aged childrenBehavioral interventions for sleep disturbances in children with neurological and neurodevelopmental disorders: a systematic review and meta-analysis of randomized controlled trialsDigital natives, digital immigrants part 1Digital natives, digital immigrants part 2: Do they really think differently?Management of chronic insomnia disorder in adults: a clinical practice guideline from the american college of physiciansAustralasian sleep association position statement regarding the use of psychological/behavioral treatments in the management of insomnia in adultsInvestigating safety behaviours in insomnia: the development of the sleep-related behaviours questionnaire (SRBQ)Comparative effectiveness and safety of pharmacological and non-pharmacological interventions for insomnia: an overview of reviewsComparison of online and face-to-face parent education for children with autism and sleep problemsA brief screening questionnaire for infant sleep problems: validation and findings for an Internet sampleA shortened version of the profile of mood statesThe epidemiology of insomnia and sleep duration across mental and physical health: the SHoT studyThe importance of sleep regularity: a consensus statement of the National Sleep Foundation sleep timing and variability panel assessing generalized anxiety disorder: the GAD-7RoB 2: a revised tool for assessing risk of bias in randomised trialsThe Warwick-Edinburgh mental well-being scale (WEMWBS): development and UK validationInternet-based cognitive behavioral therapy for insomnia: a health economic evaluationPsychometricproperties of the 7-item generalized anxiety disorder scale (GAD-7) in a large representative sample of Finnish adolescentsThe role of cognitive-behavioral therapy in behavioral childhood insomniaThe association of sleep quality and aggression: a systematic review and meta-analysis of observational studiesClinical management of behavioral insomnia of childhoodDigitally-delivered cognitive-behavioural therapy for youth insomnia: a systematic reviewChild sleep behaviors and sleep problems from infancy to school-ageThe World Health Organization quality of life assessment (WHOQOL): position paper from the World Health OrganizationA longitudinal study of insomnia, daytime sleepiness, and academic performance in chinese adolescents",
+  "pmcid": "12713916",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "reporting systematic reviewsA randomised controlled trial of cognitiv"
+        },
+        {
+          "match": "randomise",
+          "context": "for assessing risk of bias in randomised trialsThe Warwick-Edinburgh"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "escents: systematic review of randomized controlled trialsI sleep, because we sleep: a"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "Insomnia Severity Index as an outcome measure for insomnia researchSystemat"
+        },
+        {
+          "match": "outcome measure",
+          "context": "ervention characteristics and outcome measures. FOOTER: #Reported exclusive"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "orsening (W), and (ii) means, standard deviations, from pre- to post-intervent"
+        },
+        {
+          "match": "standard deviation",
+          "context": "indices; dfollow-up means and standard deviations were not reported. NR, not r"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "prisma"
+      ],
+      "examples": [
+        {
+          "match": "PRISMA",
+          "context": "and meta-analysis protocols (PRISMA-P) 2015 statementPractice par"
+        },
+        {
+          "match": "PRISMA",
+          "context": "t for school-aged childrenThe PRISMA 2020 statement: an updated gu"
+        },
+        {
+          "match": "PRISMA",
+          "context": "tic review and meta-analysis (PRISMA) protocols (Moher et al., 201"
+        }
+      ]
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "mes in children: a seven year longitudinal cohortBetter nights/better da"
+        },
+        {
+          "match": "longitudinal",
+          "context": "leep problems in childhood: a longitudinal study of developmental change"
+        },
+        {
+          "match": "longitudinal",
+          "context": "he World Health OrganizationA longitudinal study of insomnia, daytime sl"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "hr"
+      ],
+      "examples": [
+        {
+          "match": "HR",
+          "context": "6; Tiirikainen et al., 2019); HR-QoL, health-related quality o"
+        },
+        {
+          "match": "HR",
+          "context": "6; Tiirikainen et al., 2019); HR-QoL, health-related quality o"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "r et al., 2015; Supplementary Table 1, Prisma 2020 Checklist, Page"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "categorized"
+      ],
+      "examples": [
+        {
+          "match": "categorized",
+          "context": "ch study. The risk of bias is categorized as: low, high, or unclear. CA"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "etric properties and clinical sensitivity of a new scale for measuring"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...mes in children: a seven year longitudinal cohortBetter nights/better da..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...mes in children: a seven year longitudinal cohortBetter nights/better da..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...6; Tiirikainen et al., 2019); HR-QoL, health-related quality o..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...etric properties and clinical sensitivity of a new scale for measuring..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

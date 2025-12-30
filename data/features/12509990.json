@@ -1,0 +1,211 @@
+{
+  "title": "Designing clinical practice guidelines for equitable, inclusive, and contextualised careMedical journal editors must resist CDC order and anti-gender ideologyGuidelines International Network: toward international standards for clinical practice guidelinesA framework for sex, gender, and diversity analysis in researchSex and gender considerations in Canadian clinical practice guidelines: a systematic reviewUSPSTF Approach to Addressing Sex and Gender When Making Recommendations for Clinical Preventive ServicesConsideration of sex and gender: an analysis of Australian clinical guidelinesDifferentiating sex and gender in health research to achieve gender equitySex and gender bias in chronic coronary syndromes research: analysis of studies used to inform the 2019 European Society of Cardiology guidelinesConsideration of sex and gender in European clinical practice guidelines in internal medicine: a systematic review protocolUnderrepresentation of women in new drug trials2021 ESC Guidelines on cardiovascular disease prevention in clinical practiceCHA2DS2-VASc or a non-sex score (CHA2DS2-VA) for stroke risk prediction in atrial fibrillation: contemporary insights and clinical implications2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)One and a half million medical papers reveal a link between author gender and attention to gender and sex analysisIntersectional inequalities in scienceAGREE II: advancing guideline development, reporting and evaluation in health careGrading quality of evidence and strength of recommendationsApplicability of European Society of Cardiology guidelines according to gross national incomeGuideline adaptation: an approach to enhance efficiency in guideline development and improve utilisationStrengthening guideline contextualization in the WHO European RegionGRADE Evidence to Decision (EtD) frameworks for adoption, adaptation, and de novo development of trustworthy recommendations: GRADE-ADOLOPMENTOncology Guidelines Usage in a Low- and Middle-Income CountryGuideline developers in low- and middle-income countries want to develop and use living guidelines, but are currently limited by important barriers: findings from a qualitative studyGuidelines in lower-middle income countriesGuideline adaptation and implementation planning: a prospective observational studySex and Gender Equity in Research: rationale for the SAGER guidelines and recommended useSystematic Incorporation of Sex-Specific Information Into Clinical Practice Guidelines for the Management of ST -Segment-Elevation Myocardial Infarction: Feasibility and OutcomesThe injustice of unfit clinical practice guidelines in low-resource realitiesCan \u2018Cascades\u2019 make guidelines global?The WHO-INTEGRATE evidence to decision framework version 1.0: integrating WHO norms and values and a complexity perspectiveScaling up context-tailored clinical guidelines and training to improve childbirth care in urban, low-resource maternity units in Tanzania: A protocol for a stepped-wedged cluster randomized trial with embedded qualitative and economic analyses (The PartoMa Scale-Up Study)Value is Gendered: The Need for Sex and Gender Considerations in Health Economic EvaluationsArtificial intelligence and the future of global healthSex and gender differences and biases in artificial intelligence for biomedicine and healthcareLiving systematic reviews: 4. Living guideline recommendations",
+  "pmcid": "12509990",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "protocol for a stepped-wedged cluster randomized trial with embedde"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

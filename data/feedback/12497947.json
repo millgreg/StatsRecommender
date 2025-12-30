@@ -1,0 +1,381 @@
+{
+  "title": "Noninferiority Study of Purified Vero Rabies Vaccine\u2014Serum Free in 3-dose and 2-dose Preexposure Prophylaxis Regimens in Comparison With Licensed Rabies VaccinesRabies in the tropicsRabies vaccines: WHO position paper, April 2018\u2014recommendationsEstimating the global burden of endemic canine rabiesUse of a modified preexposure prophylaxis vaccination schedule to prevent human rabies: recommendations of the Advisory Committee on Immunization Practices\u2014United States, 2022RabiesPreventing rabies with the Verorab vaccine: 1985\u20132005 twenty years of clinical experienceRabies vaccinations save lives but where are the vaccines? Global vaccine inequity and escalating rabies-related mortality in low- and middle-income countriesA serum-free, purified Vero cell rabies vaccine is safe and as immunogenic as the reference vaccine Verorab for pre-exposure use in healthy adults: results from a randomized controlled phase-II trialSafety and immunogenicity of a serum-free purified Vero rabies vaccine in healthy adults: a randomised phase II pre-exposure prophylaxis studyA next-generation, serum-free, highly purified Vero cell rabies vaccine is safe and as immunogenic as the reference vaccine Verorab\u00ae when administered according to a post-exposure regimen in healthy children and adults in ChinaSafety and immunogenicity of three dose levels of an investigational, highly purified Vero cell rabies vaccine: a randomized, controlled, observer-blinded, phase II study with a simulated post-exposure regimen in healthy adultsSafety and immunogenicity of a serum-free purified Vero rabies vaccine in comparison with the rabies human diploid cell vaccine (HDCV; Imovax\u00ae rabies) administered in a simulated rabies post-exposure regimen in healthy adultsSerum-free purified Vero rabies vaccine is safe and immunogenic in children: results of a randomized phase II pre-exposure prophylaxis regimen studyImmunogenicity and safety of a purified Vero rabies vaccine-serum free, compared with 2 licensed vaccines, in a simulated rabies post-exposure regimen in healthy adults in France: a randomized, controlled, phase 3 trialG-protein based ELISA as a potency test for rabies vaccinesReplacement of in vivo human rabies vaccine potency testing by in vitro glycoprotein quantification using ELISA\u2014results of an international collaborative studyRapid fluorescent focus inhibition test optimization and validation: improved detection of neutralizing antibodies to rabies virusInterval estimation for the difference between independent proportions: comparison of eleven methodsAdvanced multiplicity adjustment methods in clinical trialsTwo-sided confidence intervals for the single proportion: comparison of seven methods",
+  "pmcid": "12497947",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size",
+        "power calculation"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "ctives. Additional details on sample size and statistical power calcula"
+        },
+        {
+          "match": "power calculation",
+          "context": "n sample size and statistical power calculations are included in the Suppleme"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "vaccine in healthy adults: a randomised phase II pre-exposure prophy"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "domized, controlled, observer-blinded, phase II study with a simula"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "per-protocol"
+      ],
+      "examples": [
+        {
+          "match": "per-protocol",
+          "context": "n series were analyzed in the per-protocol analysis set (PPAS), a subset"
+        },
+        {
+          "match": "per-protocol",
+          "context": "ipants in PPAS for D42; PPAS, per-protocol analysis set; PVRV, purified"
+        },
+        {
+          "match": "per-protocol",
+          "context": "ipants in PPAS for D28; PPAS, per-protocol analysis set; PVRV, purified"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas",
+        "sas, version 9.4"
+      ],
+      "examples": [
+        {
+          "match": "SAS, version 9.4",
+          "context": "analyses were performed using SAS, version 9.4 or later (SAS Institute, Cary"
+        },
+        {
+          "match": "SAS",
+          "context": "ng SAS, version 9.4 or later (SAS Institute, Cary, North Caroli"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "Vero cell rabies vaccine; SD, standard deviation. CAPTION: Noninferiority of t"
+        },
+        {
+          "match": "SD",
+          "context": "ied Vero cell rabies vaccine; SD, standard deviation. CAPTION:"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 26,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval",
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "trol vaccine, separately. The 95% CIs for differences were calcula"
+        },
+        {
+          "match": "95% CI",
+          "context": "ted if the lower limit of the 95% CI was >\u22125% for both comparisons"
+        },
+        {
+          "match": "95% CI",
+          "context": "99% with a lower limit of the 95% CI (using exact binomial distrib"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 15,
+      "unique_matches": [
+        "titer"
+      ],
+      "examples": [
+        {
+          "match": "titer",
+          "context": "s virus\u2013neutralizing antibody titer \u22650.5\u2005IU/mL at D42. Noninferio"
+        },
+        {
+          "match": "titer",
+          "context": "D0 and D28 in cohort 2. RVNA titers were measured using the rapi"
+        },
+        {
+          "match": "titer",
+          "context": "participants achieving a RVNA titer \u22650.5\u2005IU/mL at D42. Noninferio"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "linear model"
+      ],
+      "examples": [
+        {
+          "match": "linear model",
+          "context": "val; D, day; GLM, generalized linear model; HDCV, human diploid cell vac"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 12,
+      "unique_matches": [
+        "categorical",
+        "proportions"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "r repeated measured data with categorical response under binomial distr"
+        },
+        {
+          "match": "proportions",
+          "context": "ifference between independent proportions: comparison of eleven methods"
+        },
+        {
+          "match": "proportions",
+          "context": "val (CI) of the difference in proportions of participants with an RVNA"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "ary Methods and Supplementary Table 1. The full analysis set (FAS)"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "quantification",
+        "in vivo",
+        "in vitro"
+      ],
+      "examples": [
+        {
+          "match": "in vitro",
+          "context": "es vaccine potency testing by in vitro glycoprotein quantification u"
+        },
+        {
+          "match": "in vivo",
+          "context": "rabies vaccinesReplacement of in vivo human rabies vaccine potency"
+        },
+        {
+          "match": "quantification",
+          "context": "ting by in vitro glycoprotein quantification using ELISA\u2014results of an int"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...s virus\u2013neutralizing antibody titer \u22650.5\u2005IU/mL at D42. Noninferio..."
+      },
+      {
+        "message": "Categorical data mentioned, but no appropriate categorical tests found.",
+        "evidence": "...r repeated measured data with categorical response under binomial distr..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'quantification'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...analyses were performed using SAS, version 9.4 or later (SAS Institute, Cary..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: "
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

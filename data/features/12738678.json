@@ -1,0 +1,319 @@
+{
+  "title": "Circulating miR-122-5p, miR-151a-3p, miR-126-5p and miR-21-5p as potential predictive biomarkers for Metabolic Dysfunction-Associated Steatotic Liver Disease assessmentNon-invasive Scores and Serum Biomarkers for Fatty Liver in the Era of Metabolic Dysfunction-associated Steatotic Liver Disease (MASLD): A Comprehensive Review From NAFLD to MAFLD and MASLDMicroRNAs 33, 122, and 208: a potential novel targets in the treatment of obesity, diabetes, and heart-related diseasesMediterranean diet and nonalcoholic fatty liver diseaseAssociation of circulating miR-20a, miR-27a, and miR-126 with non-alcoholic fatty liver disease in general populationmiR-122\u2013a key factor and therapeutic target in liver diseaseThe Fatty Liver Index: a simple and accurate predictor of hepatic steatosis in the general populationHepatic expression of miR-122, miR-126, miR-136 and miR-181a and their correlation to histopathological and clinical characteristics of patients with hepatitis CCirculating microRNA Related to Cardiometabolic Risk Factors for Metabolic Syndrome: A Systematic ReviewUltrasound/Elastography techniques, lipidomic and blood markers compared to Magnetic Resonance Imaging in non-alcoholic fatty liver disease adultsHomeostasis of glucose and lipid in non-alcoholic fatty liver diseaseSerum outperforms plasma in small extracellular vesicle microRNA biomarker studies of adenocarcinoma of the esophagusMicroRNA deregu-lation in nonalcoholic steatohepatitis-associated liver carcinogenesisRelevance of SIRT1-NF-\u03baB Axis as Therapeutic Target to Ameliorate Inflammation in Liver DiseaseA new dietary strategy for long-term treatment of the metabolic syndrome is compared with the American Heart Association (AHA) guidelines: the MEtabolic Syndrome REduction in NAvarra (RESMENA) projectDysregulated lipid metabolism links NAFLD to cardiovascular diseaseClinical and molecular biomarkers for diagnosis and staging of NAFLDNeck Circumference for NAFLD Assessment during a 2-Year Nutritional Intervention: The FLiO StudyThe PI3K/AKT/mTOR interactive pathwayDifferential Associations of Circulating MicroRNAs With Pathogenic Factors in NAFLDRelative validity of a semi-quantitative food-frequency questionnaire in an elderly Mediterranean population of SpainAtherogenic index of plasma: novel predictive biomarker for cardiovascular illnessesAdipokines in non-alcoholic fatty liver disease: Are we on the road toward new biomarkers and therapeutic targets?Estimation of the concentration of low-density lipoprotein cholesterol in plasma, without use of the preparative ultracentrifugeLifestyle factors and visceral adipose tissue: Results from the PREDIMED-PLUS study2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol: Executive Summary: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines99% of patients with NAFLD meet MASLD criteria and natural history is therefore identicalMicroRNAs in non-alcoholic fatty liver disease: Progress and perspectivesIdentification of postoperative prognostic microRNA predictors in hepatocellular carcinomaRole of microRNA-21 in regulating 3T3-L1 adipocyte differentiation and adiponectin expressionAssessing the utility of acoustic radiation force impulse in the evaluation of non-alcoholic fatty liver disease with severe obesity or steatosisHepatic glucose utilization in hepatic steatosis and obesityCirculating miRNA is a useful diagnostic biomarker for nonalcoholic steatohepatitis in nonalcoholic fatty liver diseaseLECT2 functions as a hepatokine that links obesity to skeletal muscle insulin resistancePolyphenols synergistic drugs to ameliorate non-alcoholic fatty liver disease via signal pathway and gut microbiota: A reviewCirculating microRNAs 34a, 122, and 192 are linked to obesity-associated inflammation and metabolic disease in pediatric patientsmiRNAs in patients with non-alcoholic fatty liver disease: A systematic review and meta-analysisThe role of exosomal miRNA in nonalcoholic fatty liver diseaseEl Cuestionario Internacional de Actividad F\u00edsica. Un instrumento adecuado en el seguimiento de la actividad f\u00edsica poblacionalEffects of two personalized dietary strategies during a 2-year intervention in subjects with nonalcoholic fatty liver disease: A randomized trialCirculating MicroRNAs as a Tool for Diagnosis of Liver Disease Progression in People Living with HIV-1A Differential Signature of Circulating miRNAs and Cytokines Between COVID-19 and Community-Acquired Pneumonia Uncovers Novel Physiopathological Mechanisms of COVID-19From sugar to liver fat and public health: Systems biology driven studies in understanding non-alcoholic fatty liver disease pathogenesisRetinol-binding protein 4 in obesity and metabolic dysfunctionsMetabolic dysfunction-associated fatty liver disease: advances in genetic and epigenetic implicationsAdipokines in nonalcoholic fatty liver diseaseCirculating microRNA associated to different stages of liver steatosis in prader-willi syndrome and non-syndromic obesityA multisociety Delphi consensus statement on new fatty liver disease nomenclatureAssociation of circulating serum miR-34a and miR-122 with dyslipidemia among patients with non-alcoholic fatty liver diseaseValue of liver function tests in cirrhosisAstaxanthin attenuates hepatic steatosis in high-fat diet-fed rats by suppressing microRNA-21 via transactivation of nuclear factor erythroid 2-related factor 2Epigenetics in NAFLD/NASH: Targets and therapyA pilot study of serum microRNAs panel as potential biomarkers for diagnosis of nonalcoholic fatty liver diseaseMultipanel approach including mirnas, inflammatory markers, and depressive symptoms for metabolic dysfunction-associated steatotic liver disease diagnosis during 2-year nutritional interventionCell-free circulating nucleic acids as early biomarkers for NAFLD and NAFLD-associated disordersTowards a new standardized method for circulating miRNAs profiling in clinical studies: Interest of the exogenous normalization to improve miRNA signature accuracyMicroRNAs as regulators, biomarkers and therapeutic targets in liver diseasesEfficacy of serum miRNA test as a non-invasive method to diagnose nonalcoholic steatohepatitis: A systematic review and meta-analysisGlobal Perspectives on Nonalcoholic Fatty Liver Disease and Nonalcoholic SteatohepatitisThe global epidemiology of nonalcoholic fatty liver disease (NAFLD) and nonalcoholic steatohepatitis (NASH): A systematic reviewNEAT1 accelerates the progression of liver fibrosis via regulation of microRNA-122 and Kruppel-like factor 6Lifestyle and metabolic factors for nonalcoholic fatty liver disease: Mendelian randomization studyNAFLD and vitamin D: Evidence for intersection of microRNA-regulated pathways",
+  "pmcid": "12738678",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "rasonography) obtained from a randomized controlled trial, the FLiO (Fatty liver in obe"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "stata version 15",
+        "stata"
+      ],
+      "examples": [
+        {
+          "match": "Stata version 15",
+          "context": "with the statistical program Stata version 15.0 (StataCorp 2011, College St"
+        },
+        {
+          "match": "Stata",
+          "context": "l program Stata version 15.0 (StataCorp 2011, College Station, TX"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sd",
+        "standard deviation",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "ended on distribution (mean\u2009\u00b1\u2009standard deviation (SD) or median\u2009\u00b1\u2009interquartil"
+        },
+        {
+          "match": "interquartile range",
+          "context": "rd deviation (SD) or median\u2009\u00b1\u2009interquartile range (IQR)). Differences between g"
+        },
+        {
+          "match": "SD",
+          "context": "n (mean\u2009\u00b1\u2009standard deviation (SD) or median\u2009\u00b1\u2009interquartile ra"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "p\u2009<\u20090.05",
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "p\u2009<\u20090.05",
+          "context": "tatistically significant when p\u2009<\u20090.05. During the preparation of th"
+        },
+        {
+          "match": "P-value",
+          "context": "timism corrected AUROC value. P-value for the miRNAs in the logisti"
+        },
+        {
+          "match": "P-value",
+          "context": "timism corrected AUROC value. P-value for the miRNAs in the logisti"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "bootstrap"
+      ],
+      "examples": [
+        {
+          "match": "bootstrap",
+          "context": "ing the Tibshirani\u00b4s enhanced bootstrap method described previously ["
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": ". Univariate and multivariate logistic regressions analyses were performed with"
+        },
+        {
+          "match": "Logistic regression",
+          "context": "inol Binding Protein CAPTION: Logistic regressions analyses between liver stiff"
+        },
+        {
+          "match": "logistic regression",
+          "context": "P-value for the miRNAs in the logistic regression model. Models are adjusted. M"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "consort"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "of Helsinki and following the CONSORT 2010 guidelines. Anthropometr"
+        }
+      ]
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "categorical"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "r the Mann\u2013Whitney U test and categorical variables with X2 test. Diffe"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "categorized",
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "categorized",
+          "context": "nalyses, steatosis degree was categorized into two groups (without stea"
+        },
+        {
+          "match": "compliance",
+          "context": "procedures were performed in compliance with significant national reg"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "roc"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "haracteristic Curve Analyses (ROC) and the areas under the ROC"
+        },
+        {
+          "match": "ROC",
+          "context": "(ROC) and the areas under the ROC curve (AUROC) were calculated"
+        },
+        {
+          "match": "ROC",
+          "context": "areas under the ROC curve (AUROC) were calculated to assess th"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

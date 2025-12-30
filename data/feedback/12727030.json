@@ -1,0 +1,363 @@
+{
+  "title": "Evaluation of the Association between Genetic Polymorphism of Interleukin-1 Beta (\u2013511C/T and +3953C/T) and Cervical Cancer SusceptibilityGlobal cancer statistics 2020: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countriesEpidemiologic classification of human papillomavirus types associated with cervical cancerDetection and quantitation of high risk human papillomavirus, HRHPV 16 and 18 in tissue of Indian women with cervical cancer: a case control studyMolecular biology of human papillomavirus, cervical carcinoma and its managementCancer facts and figuresEnvironmental co-factors in HPV carcinogenesisCervical carcinogenesis and immune response gene polymorphisms: a reviewThe IL-1 family: regulators of immunityInterleukin-1 receptor antagonist: role in biologyInterleukin-1 and cancer progression: the emerging role of interleukin-1 receptor antagonist as a novel therapeutic agent in cancer treatmentInterleukin-1 beta polymorphisms are associated with lymph node metastasis in Korean patients with papillary thyroid carcinomaGenetic polymorphism of interleukin-1A (IL-1A), IL-1B, and IL-1 receptor antagonist (IL-1RN) and prostate cancer riskGenetic association of interleukin-1beta (-511C/T) and interleukin-1 receptor antagonist (86\u2009bp repeat) polymorphisms with Type 2 diabetes mellitus in North IndiansAllelic polymorphism in IL-1 beta and IL-1 receptor antagonist (IL-1Ra) genes in inflammatory bowel diseaseA review of the use of human papilloma virus (HPV) in cervical screeningBurning wood in the kitchen increases the risk of cervical neoplasia in HPV-infected women in HondurasInflammasomes and cancer: the dynamic role of the inflammasome in tumor developmentInterleukin 1\u03b2-A potential salivary biomarker for cancer progression?TNF-alpha promoter polymorphisms and susceptibility to human papillomavirus 16-associated cervical cancerDegradation of p53 by human Alphapapillomavirus E6 proteins shows a stronger correlation with phylogeny than oncogenicityInflammatory cytokines induce DNA damage and inhibit DNA repair in cholangiocarcinoma cells by a nitric oxide-dependent mechanismInterleukin-1 beta-511 polymorphism and risk of cervical cancerGenetic variants of interleukin-1RN and interleukin-1beta genes and risk of cervical cancerNovel interleukin 1beta polymorphism increased the risk of gastric cancer in a Korean populationInterleukin-1beta gene polymorphism associated with hepatocellular carcinoma in hepatitis B virus infectionFunctional variants in the promoter of interleukin-1beta are associated with an increased risk of breast cancer: a case-control analysis in a Chinese populationPolymorphisms of the interleukin-1 beta gene are associated with increased risk of non-small cell lung cancerInterleukin-1 polymorphisms associated with increased risk of gastric cancerInterleukin 1\u03b2 and interleukin 1 receptor antagonist gene polymorphisms and cervical cancer: a meta-analysisInterleukin-1 gene cluster polymorphisms and its haplotypes may predict the risk to develop cervical cancer in TunisiaAssociation between circulating interleukin-1 beta (IL-1\u03b2) levels and IL-1\u03b2 C-511T polymorphism with cervical cancer risk in Egyptian women",
+  "pmcid": "12727030",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "spss"
+      ],
+      "examples": [
+        {
+          "match": "SPSS",
+          "context": "l (Cat. No.850.006.096).  The SPSS v. 21.0 tool (SPSS Inc., Chic"
+        },
+        {
+          "match": "SPSS",
+          "context": "096).  The SPSS v. 21.0 tool (SPSS Inc., Chicago, Illinois, Unit"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "alpha",
+          "context": "er for cancer progression?TNF-alpha promoter polymorphisms and su"
+        },
+        {
+          "match": "Alpha",
+          "context": "erDegradation of p53 by human Alphapapillomavirus E6 proteins sho"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "odds ratio (OR) and their 95% confidence interval (CI) from multivariate logist"
+        },
+        {
+          "match": "confidence interval",
+          "context": ":  FOOTER: Abbreviations: CI, confidence interval; IL, interleukin; OR, odds ra"
+        },
+        {
+          "match": "confidence interval",
+          "context": ":  FOOTER: Abbreviations: CI, confidence interval; IL, interleukin; OR, odds ra"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "chi-square",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "Chi-square",
+          "context": "or categorical variables, the Chi-square (v2) test was utilized. Using"
+        },
+        {
+          "match": "odds ratio",
+          "context": "ted genotype frequencies. The odds ratio (OR) and their 95% confidence"
+        },
+        {
+          "match": "odds ratio",
+          "context": "nterval; IL, interleukin; OR, odds ratio. CAPTION:  FOOTER: Abbreviati"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "terval (CI) from multivariate logistic regression analysis were used to determi"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "frequencies"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "t -test was employed, and for categorical variables, the Chi-square (v2"
+        },
+        {
+          "match": "continuous",
+          "context": "used to analyze the data. For continuous variables, the two-tailed t -"
+        },
+        {
+          "match": "frequencies",
+          "context": "rved and anticipated genotype frequencies. The odds ratio (OR) and thei"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "ta-analysisInterleukin-1 gene cluster polymorphisms and its haploty"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "or",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ted genotype frequencies. The odds ratio (OR) and their 95% confidence"
+        },
+        {
+          "match": "odds ratio",
+          "context": "nterval; IL, interleukin; OR, odds ratio. CAPTION:  FOOTER: Abbreviati"
+        },
+        {
+          "match": "odds ratio",
+          "context": "nterval; IL, interleukin; OR, odds ratio. CAPTION:  FOOTER: Abbreviati"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "otherapy or chemotherapy were excluded. Controls were recruited from"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...l (Cat. No.850.006.096).  The SPSS v. 21.0 tool (SPSS Inc., Chic..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...er for cancer progression?TNF-alpha promoter polymorphisms and su..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...otherapy or chemotherapy were excluded. Controls were recruited from..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...ted genotype frequencies. The odds ratio (OR) and their 95% confidence..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'cluster' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

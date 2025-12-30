@@ -1,0 +1,449 @@
+{
+  "title": "Heterologous two-dose Ebola vaccine regimen in pregnant women in Rwanda: a randomized controlled phase 3 trialProtected to death: systematic exclusion of pregnant women from Ebola virus disease trialsSafety and immunogenicity of 2-dose heterologous Ad26.ZEBOV, MVA-BN-Filo Ebola vaccination in healthy and HIV-infected adults: a randomised, placebo-controlled phase II clinical trial in AfricaSafety and immunogenicity of 2-dose heterologous Ad26.ZEBOV, MVA-BN-Filo Ebola vaccination in children and adolescents in Africa: a randomised, placebo-controlled, multicentre phase II clinical trialSafety and immunogenicity of the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen in children in Sierra Leone: a randomised, double-blind, controlled trialSafety and long-term immunogenicity of the two-dose heterologous Ad26.ZEBOV and MVA-BN-Filo Ebola vaccine regimen in adults in Sierra Leone: a combined open-label, non-randomised stage 1, and a randomised, double-blind, controlled stage 2 trialNonhuman primate to human immunobridging to infer the protective effect of an Ebola virus vaccine candidateMonitoring of adverse events in recipients of the 2-dose Ebola vaccine regimen of Ad26.ZEBOV followed by MVA-BN-Filo in the UMURINZI Ebola vaccination campaignSmall babies, big risks: global estimates of prevalence and mortality for vulnerable newborns to accelerate change and improve countingNational and regional estimates of term and preterm babies born small for gestational age in 138 low-income and middle-income countries in 2010Vaccination during pregnancy: current and possible future recommendationsImmunogenicity of trivalent inactivated influenza vaccination received during pregnancy or postpartumPlacental transfer of antibody and its relationship to vaccination in pregnancySafety, reactogenicity, and immunogenicity of a 2-dose Ebola vaccine regimen of Ad26.ZEBOV followed by MVA-BN-Filo in healthy adult pregnant women: study protocol for a phase 3 open-label randomized controlled trialLeapfrogging with technology: introduction of a monitoring platform to support a large-scale Ebola vaccination program in RwandaMaternal death: case definition and guidelines for data collection, analysis, and presentation of immunization safety dataSpontaneous abortion and ectopic pregnancy: case definition & guidelines for data collection, analysis, and presentation of maternal immunization safety dataStillbirth: case definition and guidelines for data collection, analysis, and presentation of maternal immunization safety dataPathways to preterm birth: case definition and guidelines for data collection, analysis, and presentation of immunization safety dataHypertensive disorders of pregnancy: case definitions & guidelines for data collection, analysis, and presentation of immunization safety dataAntenatal bleeding: case definition and guidelines for data collection, analysis, and presentation of immunization safety dataPostpartum haemorrhage: case definition and guidelines for data collection, analysis, and presentation of immunization safety dataCongenital anomalies: case definition and guidelines for data collection, analysis, and presentation of immunization safety dataSmall for gestational age: case definition & guidelines for data collection, analysis, and presentation of maternal immunisation safety dataLow birth weight: case definition & guidelines for data collection, analysis, and presentation of maternal immunization safety dataPreterm birth: case definition & guidelines for data collection, analysis, and presentation of immunisation safety dataNeonatal death: case definition & guidelines for data collection, analysis, and presentation of immunization safety dataFailure to thrive: case definition & guidelines for data collection, analysis, and presentation of maternal immunisation safety data",
+  "pmcid": "12618248",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sample size",
+        "n\u2009=\u20095"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "hypothesis testing. A target sample size of 1,000 participants in grou"
+        },
+        {
+          "match": "sample size",
+          "context": "ey pregnancy outcomes. With a sample size of 1,000, the probability of"
+        },
+        {
+          "match": "n\u2009=\u20095",
+          "context": "outcomes. Data from group C (n\u2009=\u20095) were analyzed separately and"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 11,
+      "unique_matches": [
+        "randomly assigned",
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "hy and HIV-infected adults: a randomised, placebo-controlled phase II"
+        },
+        {
+          "match": "randomise",
+          "context": "and adolescents in Africa: a randomised, placebo-controlled, multice"
+        },
+        {
+          "match": "randomise",
+          "context": "n children in Sierra Leone: a randomised, double-blind, controlled tr"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "masking"
+      ],
+      "examples": [
+        {
+          "match": "masking",
+          "context": "cine allocation. There was no masking in this study. An open-label"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "opaque envelopes"
+      ],
+      "examples": [
+        {
+          "match": "opaque envelopes",
+          "context": "ator function. Security-type, opaque envelopes containing the randomization"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "around the estimates, CIs for primary endpoint estimates and the risk differ"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "al validation performed using SAS v9.4. Immunogenicity samples"
+        },
+        {
+          "match": "SAS",
+          "context": "005. Data were analyzed using SAS v9.4. No formal statistical h"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "no formal statistical hypothesis testing"
+      ],
+      "examples": [
+        {
+          "match": "No formal statistical hypothesis testing",
+          "context": "were analyzed using SAS v9.4. No formal statistical hypothesis testing was planned. To aid understan"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 11,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval",
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "e was \u22640.3%. The width of the 95% CI for observing an AE at a rate"
+        },
+        {
+          "match": "95% CI",
+          "context": "renrollment, the width of the 95% CI for observing an AE at a rate"
+        },
+        {
+          "match": "95% CI",
+          "context": "de 3. GMCs with corresponding 95% CIs were calculated for the cont"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "% CIs were calculated for the continuous immunological parameter of an"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "not imputed",
+        "missing data",
+        "missing information"
+      ],
+      "examples": [
+        {
+          "match": "Missing data",
+          "context": "s they experienced the event. Missing data were not imputed. Participant"
+        },
+        {
+          "match": "missing information",
+          "context": "nalyses because of completely missing information on the pregnancy outcome. Eff"
+        },
+        {
+          "match": "not imputed",
+          "context": "the event. Missing data were not imputed. Participants who discontinue"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "or"
+      ],
+      "examples": [
+        {
+          "match": "OR",
+          "context": "9) infection (positive test), OR (2) suspected SARS-CoV-2 infe"
+        },
+        {
+          "match": "OR",
+          "context": "out documented test results), OR (3) close contact with a pers"
+        },
+        {
+          "match": "OR",
+          "context": "9) infection (positive test), OR (2) suspected SARS-CoV-2 infe"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "post hoc"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "groups A and B were computed post hoc. The CI of the risk differenc"
+        },
+        {
+          "match": "post hoc",
+          "context": "infants at 14\u2009weeks of age, a post hoc correlation analysis was perf"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "baseline demographic",
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline demographic",
+          "context": "primary analysis dataset for baseline demographic characteristics and safety da"
+        },
+        {
+          "match": "baseline demographic",
+          "context": "primary analysis dataset for baseline demographic characteristics and safety da"
+        },
+        {
+          "match": "Baseline demographic",
+          "context": "ions were described by group. Baseline demographic characteristics were describe"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "excluded",
+        "categorized",
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "ure \u226538.0\u2009\u00b0C on day 1 will be excluded from enrollment at that time"
+        },
+        {
+          "match": "excluded",
+          "context": "ure \u226538.0\u2009\u00b0C on day 1 will be excluded from enrollment at that time"
+        },
+        {
+          "match": "excluded",
+          "context": "maternal/fetal outcomes were excluded from the analysis. Additional"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "quantification",
+        "cell line",
+        "microscopy"
+      ],
+      "examples": [
+        {
+          "match": "cell line",
+          "context": "cine is produced in the human cell line PER.C6. A 0.5-ml intramuscula"
+        },
+        {
+          "match": "microscopy",
+          "context": "ut evidence of bacteriuria on microscopy.5.Confirmed singleton pregnan"
+        },
+        {
+          "match": "microscopy",
+          "context": "ut evidence of bacteriuria on microscopy. Hemoglobin \u22657.0\u2009g\u2009dl\u22121. Whit"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Explicitly stated that no multiplicity correction or formal hypothesis testing was performed.",
+        "evidence": "...were analyzed using SAS v9.4. No formal statistical hypothesis testing was planned. To aid understan..."
+      },
+      {
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...s they experienced the event. Missing data were not imputed. Participant..."
+      },
+      {
+        "message": "Includes exploratory/post hoc analyses without clear multiplicity correction.",
+        "evidence": "...groups A and B were computed post hoc. The CI of the risk differenc..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...ure \u226538.0\u2009\u00b0C on day 1 will be excluded from enrollment at that time..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'quantification'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...al validation performed using SAS v9.4. Immunogenicity samples..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...9) infection (positive test), OR (2) suspected SARS-CoV-2 infe..."
+      },
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...ure \u226538.0\u2009\u00b0C on day 1 will be excluded from enrollment at that time..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Multiplicity",
+        "issue": "Lack of correction increases Type I error.",
+        "recommendation": "Use Bonferroni or FDR, or label as exploratory.",
+        "source_text": "no formal statistical hypothesis testing"
+      },
+      {
+        "item": "Deductive Rigor",
+        "issue": "Post hoc findings are hypothesis-generating.",
+        "recommendation": "Distinguish between pre-specified endpoints and exploratory analyses.",
+        "source_text": "Found term 'post hoc' without rigorous correction."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

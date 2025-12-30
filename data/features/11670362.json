@@ -1,0 +1,257 @@
+{
+  "title": "Impact of retraining and data partitions on the generalizability of a deep learning model in the task of COVID-19 classification on chest radiographsCommon pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scansHundreds of AI tools have been built to catch COVID. None of them helpedPrediction models for diagnosis and prognosis of COVID-19: systematic review and critical appraisalRapid response to COVID-19 pandemicAI in medical imaging grand challenges: translation from competition to research benefit and patient careMachine learning generalizability across healthcare settings: insights from multi-site COVID-19 screeningReproducibility in machine learning for health research: still a ways to goGeneralizability of machine learning models: quantitative evaluation of three methodological pitfallsThe importance of generalizability in machine learning for systemsGeneralized out-of-distribution detection: a surveyRole of standard and soft tissue chest radiography images in deep-learning-based early diagnosis of COVID-19Assessment of a deep learning model for COVID-19 classification on chest radiographs: a comparison across image acquisition techniques and clinical factorsRANDGAN: randomized generative adversarial network for detection of COVID-19 in chest X-rayTwo public chest x-ray datasets for computer-aided screening of pulmonary diseasesCOVID-net: a tailored deep convolutional neural network design for detection of COVID-19 cases from chest X-ray imagesDensely connected convolutional networksCheXNet: radiologist-level pneumonia detection on chest X-rays with deep learningDeep learning for chest radiograph diagnosis: a retrospective comparison of the CheXNeXt algorithm to practicing radiologistsCurriculum learningImageNet: a large-scale hierarchical image databaseChestX-ray8: hospital-scale chest x-ray database and benchmarks on weakly-supervised classification and localization of common thorax diseasesRSNA pneumonia detection challengeComparing the areas under two or more correlated receiver operating characteristic curves: a nonparametric approachImageNet classification with deep convolutional neural networksRecent advances and applications of deep learning methods in materials scienceTent: fully test-time adaptation by entropy minimizationOptimal ratio for data splittingData splittingOptimality of training/test size and resampling effectiveness in cross-validationInfluence of data splitting on performance of machine learning models in prediction of shear strength of soilRole of sureness in evaluating AI/CADx: lesion-based repeatability of machine learning classification performance on breast MRI",
+  "pmcid": "11670362",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "p<0.001"
+      ],
+      "examples": [
+        {
+          "match": "p<0.001",
+          "context": "er than the results of Set A (p<0.001) as determined by the DeLong"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "samples to construct the 95% confidence intervals) on Set Ate in the task of d"
+        },
+        {
+          "match": "confidence interval",
+          "context": "o calculate the two-sided 95% confidence interval) of Set Atr, and each of the"
+        },
+        {
+          "match": "95% confidence",
+          "context": "pped samples to construct the 95% confidence intervals) on Set Ate in the"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "bootstrap",
+        "cross-validation"
+      ],
+      "examples": [
+        {
+          "match": "bootstrap",
+          "context": "ue of 0.76 [0.73, 0.79] (2000 bootstrapped samples to construct the 9"
+        },
+        {
+          "match": "bootstrap",
+          "context": "0] (also calculated from 2000 bootstrapped samples), which was signif"
+        },
+        {
+          "match": "cross-validation",
+          "context": "d resampling effectiveness in cross-validationInfluence of data splitting on"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "hierarchical",
+          "context": "arningImageNet: a large-scale hierarchical image databaseChestX-ray8: ho"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "roc"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "st comparing the uncorrelated ROC curves (Fig.\u00a01).23 To investi"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

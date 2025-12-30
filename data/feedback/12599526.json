@@ -1,0 +1,228 @@
+{
+  "title": "Policies to promote affordability and access across the life cycle of costly new drugsScientific advancements in gene therapies: opportunities for global regulatory convergenceTowards access for all: 1st Working Group Report for the Global Gene Therapy Initiative (GGTI)PB2215: global epidemiology of sickle cell disease: a systematic literature reviewContribution of NIH funding to new drug approvals 2010-2016Using Bayh-Dole Act march-in rights to lower US drug pricesThe Lancet Commission on lessons for the future from the COVID-19 pandemicUS public investment in development of mRNA covid-19 vaccines: retrospective cohort studyWhich roads lead to access? A global landscape of six COVID-19 vaccine innovation modelsDeveloping globally-accessible medicines for pandemic preparedness: An analysis of three alternative innovation modelsDrug regulation and pricing\u2014Can regulators influence affordability?Navigating facilitated regulatory pathways during a disease X pandemicRegulatory pathways supporting expedited drug development and approval in ICH member countriesReliance is key to effective access and oversight of medical products in case of public health emergenciesGlobal regulatory progress in delivering on the promise of gene therapies for unmet medical needsChallenges and strategies for improving access to cancer drugs in Malaysia: summary of opinions expressed at the 2nd MACR International Scientific Conference 2022Political economy of vaccine diplomacy: explaining varying strategies of China, India, and Russia\u2019s COVID-19 vaccine diplomacyRe-envisioning pharmaceutical manufacturing: increasing agility for global patient accessBarriers to Treg therapy in Europe: from production to regulationDecentralized manufacturing of anti CD19 CAR-T cells using CliniMACS Prodigy\u00ae: real-world experience and cost analysis in IndiaCost of decentralized CAR T-cell production in an academic nonprofit settingPathways to ensure universal and affordable access to hepatitis C treatmentInternational collaboration to improve assessment of drug value to include stakeholder perspectives and better managed entry agreementsCollective international action to increase access to costly drugs: pooled procurement and equity based tiered pricingWhere national medicines policies have taken us with patient involvement and health technology assessment in AfricaEuropean Medicines Agency-Health Technology Assessment Parallel Consultation Platform: An industry perspective",
+  "pmcid": "12599526",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      }
+    ],
+    "strengths": [],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

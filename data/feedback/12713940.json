@@ -1,0 +1,404 @@
+{
+  "title": "Cardiopulmonary coupling-calculated sleep stability and nocturnal heart rate kinetics as a potential indicator for cardiovascular health: a relationship with blood pressure dippingAutomated apnea-hypopnea index from oximetry and spectral analysis of cardiopulmonary couplingCardiopulmonary sleep spectrograms open a novel window into sleep biology\u2014implications for health and diseaseWhat did we learn from the international databases on ambulatory and home blood pressure in relation to cardiovascular outcome?Validation of the Insomnia Severity Index as an outcome measure for insomnia researchEstimation of the global prevalence and burden of obstructive sleep apnoea: a literature-based analysisTechnical advances in the characterization of the complexity of sleep and sleep disordersScaling up scientific discovery in sleep medicine: the national sleep research resourceNocturnal nondipping of heart rate predicts cardiovascular events in hypertensive patientsMasked hypertension: understanding its complexityCPAP versus oxygen in obstructive sleep apneaObjective sleep quality and metabolic risk in healthy weight children results from the randomized Childhood Adenotonsillectomy Trial (CHAT)Baroreflex buffering of sympathetic activation during sleep: evidence from autonomic assessment of sleep macroarchitecture and microarchitectureSleep, slow-wave sleep, and blood pressureThe link between cardiac autonomic activity and sleep delta power is altered in men with sleep apnea-hypopnea syndromeThe effect of pulse rate and blood pressure dipping status on the risk of stroke and cardiovascular disease in Japanese hypertensive patientsCardiopulmonary coupling analysis: changes before and after treatment with a mandibular advancement deviceCardiopulmonary coupling-derived sleep quality is associated with improvements in blood pressure in patients with obstructive sleep apnea at high-cardiovascular riskCan improvements in sleep quality positively affect serum adiponectin-levels in patients with obstructive sleep apnea?Sleep quality, sleep apnea, and metabolic health in children treated with adenotonsillectomyAssociation between treated and untreated obstructive sleep apnea and risk of hypertensionThe global epidemiology of hypertensionData lake-driven analytics identify nocturnal non-dipping of heart rate as predictor of unfavorable stroke outcome at dischargeUsing the Berlin Questionnaire to identify patients at risk for the sleep apnea syndromeEuropean Society of Hypertension position paper on ambulatory blood pressure monitoringDippers and non-dippersPrognostic significance of the nocturnal decline in blood pressure in individuals with and without high 24-h blood pressure: the Ohasama studySleep loss and hypertension: a systematic reviewMasked hypertensionAmbulatory blood-pressure monitoringPrognostic value of white-coat and masked hypertension diagnosed by ambulatory monitoring in initially untreated subjects: an updated meta analysisElectrocardiogram-based sleep spectrogram measures of sleep stability and glucose disposal in sleep disordered breathingNight-time blood pressure patterns and target organ damage: a reviewprognostic effect of the nocturnal blood pressure fall in hypertensive patients: the ambulatory blood pressure collaboration in patients with hypertension (ABC-H) meta-analysisThe epidemiology of sleep disordered breathing and hypertension in various populationsPrevalence of obstructive sleep apnea in the general population: a systematic reviewRelationship between clinic and ambulatory blood pressure and mortality: an observational cohort study in 59 124 patientsHeart rate variability, sleep and sleep disorders2021 European Society of Hypertension practice guidelines for office and out-of-office blood pressure measurementCo-morbid insomnia and sleep apnea (COMISA): prevalence, consequences, methodological considerations, and recent randomized controlled trialsHeart rate as a predictor of cardiovascular riskDifferentiating obstructive from central and complex sleep apnea using an automated electrocardiogram-based methodAn electrocardiogram-based technique to assess cardiopulmonary coupling during sleepImpaired sleep quality in fibromyalgia: detection and quantification with ECG-based cardiopulmonary coupling spectrogramsRelationship between delta power and the electrocardiogram-derived cardiopulmonary spectrogram: possible implications for assessing the effectiveness of sleepPrevalent hypertension and stroke in the Sleep Heart Health Study: association with an ECG-derived spectrographic marker of cardiopulmonary coupling2018 ESC/ESH Guidelines for the management of arterial hypertensionMulticomponent analysis of sleep using electrocortical, respiratory, autonomic and hemodynamic signals reveals distinct features of stable and unstable NREM and REM sleepSleep state instabilities in major depressive disorder: detection and quantification with electrocardiogram-based cardiopulmonary coupling analysisEnhancement of sleep stability with Tai Chi exercise in chronic heart failure: preliminary findings using an ECG-based spectrogram methodNew insights and potential clinical implications of the odds ratio productOdds ratio product of sleep EEG as a continuous measure of sleep state",
+  "pmcid": "12713940",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "randomly assigned",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "al considerations, and recent randomized controlled trialsHeart rate as a predictor of"
+        },
+        {
+          "match": "randomly assigned",
+          "context": "s in the HeartBEAT study were randomly assigned to one of three groups: conti"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "masked"
+      ],
+      "examples": [
+        {
+          "match": "Masked",
+          "context": "vents in hypertensive patientsMasked hypertension: understanding i"
+        },
+        {
+          "match": "Masked",
+          "context": "ertension: a systematic reviewMasked hypertensionAmbulatory blood-"
+        },
+        {
+          "match": "masked",
+          "context": "ostic value of white-coat and masked hypertension diagnosed by amb"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "outcome measure",
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "Insomnia Severity Index as an outcome measure for insomnia researchEstimati"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "\u226510% from wake to sleep. The primary endpoint was to evaluate (a) the relat"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "p for further evaluation. The primary endpoint, questioning if the HR module"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stata version 15"
+      ],
+      "examples": [
+        {
+          "match": "Stata version 15",
+          "context": "analysis was performed using Stata version 15.1. The HeartBEAT study measur"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "standard deviation",
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "per minute.aValues are mean \u00b1 standard deviation.bDifference between groups (p"
+        },
+        {
+          "match": "standard deviation",
+          "context": "or blocker.aValues are mean \u00b1 standard deviation for continuous variables and"
+        },
+        {
+          "match": "standard deviation",
+          "context": "or blocker.aValues are mean \u00b1 standard deviation for continuous variables and"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "p-value",
+          "context": "e coefficient, the associated p-value, and an R2 for model fit. Whi"
+        },
+        {
+          "match": "p-value",
+          "context": "are presented, along with the p-values for pairwise comparison betw"
+        },
+        {
+          "match": "p-value",
+          "context": "e coefficient, the associated p-value, and an R2 for model fit. Whi"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "clinical implications of the odds ratio productOdds ratio product of"
+        },
+        {
+          "match": "Odds ratio",
+          "context": "ions of the odds ratio productOdds ratio product of sleep EEG as a con"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "sleep, was evaluated using a logistic regression, regressing HR parameters fro"
+        },
+        {
+          "match": "Logistic regression",
+          "context": "en groups (p-value). CAPTION: Logistic regression models regressing the HR para"
+        },
+        {
+          "match": "logistic regression",
+          "context": "rial pressure.aValues are the logistic regression coefficients with p-values in"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "variables and percentages for categorical variables.bDifference between"
+        },
+        {
+          "match": "categorical",
+          "context": "variables and percentages for categorical variables.bDifference between"
+        },
+        {
+          "match": "categorical",
+          "context": "variables and percentages for categorical variables.bP-values based on"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 25,
+      "unique_matches": [
+        "hr",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "clinical implications of the odds ratio productOdds ratio product of"
+        },
+        {
+          "match": "Odds ratio",
+          "context": "ions of the odds ratio productOdds ratio product of sleep EEG as a con"
+        },
+        {
+          "match": "HR",
+          "context": "gorithms. A software module (\u201cHR module\u201d) was developed for ev"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "Baseline characteristic",
+          "context": "lues in parenthesis. CAPTION: Baseline characteristics: heart rate dippers vs. non-"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "splines",
+        "excluded",
+        "cubic spline"
+      ],
+      "examples": [
+        {
+          "match": "cubic spline",
+          "context": "nals are then resampled using cubic splines at 2 Hz. The fast Fourier tr"
+        },
+        {
+          "match": "cubic spline",
+          "context": "nals are then resampled using cubic splines at 2 Hz. The fast Fourier tr"
+        },
+        {
+          "match": "splines",
+          "context": "re then resampled using cubic splines at 2 Hz. The fast Fourier tra"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "quantification"
+      ],
+      "examples": [
+        {
+          "match": "quantification",
+          "context": "n fibromyalgia: detection and quantification with ECG-based cardiopulmonar"
+        },
+        {
+          "match": "quantification",
+          "context": "ssive disorder: detection and quantification with electrocardiogram-based"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 8.5,
+    "rigor_rating": "High",
+    "critical_gaps": [
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...nals are then resampled using cubic splines at 2 Hz. The fast Fourier tr..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'quantification'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...analysis was performed using Stata version 15.1. The HeartBEAT study measur..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...clinical implications of the odds ratio productOdds ratio product of..."
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

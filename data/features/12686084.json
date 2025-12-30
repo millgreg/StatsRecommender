@@ -1,0 +1,253 @@
+{
+  "title": "Effects of subject-specific professional knowledge and skills of physical education teachers on students\u2019 learning progressDas Kompetenzmodell von COACTIVTeachers\u2019 mathematical knowledge, cognitive activation in the classroom, and student progress\u201e\u2026\u00a0Kompetenz ohne Performanz ist leer! Performanz ohne Kompetenz blind\u00a0\u2026!\u201d Zu einem integrativen Kompetenzstrukturmodell von Sportlehrkr\u00e4ftenBeyond dichotomies. Competence viewed as a\u00a0continuumWie situationsbezogen ist die Kompetenz von Lehrkr\u00e4ften? Zur Generalisierbarkeit der Ergebnisse von videobasierten PerformanztestsOpening up the black box: Teacher competence, instructional quality, and students\u2019 learning progressVom Theorie-Praxis-Problem zur Verwendungsforschung und wieder zur\u00fcckLehrerexpertiseProfessionswissen von Sportlehrpersonen und Zusammenh\u00e4nge mit motivationalen Orientierungen und \u00dcberzeugungen zum Lehren und Lernen im SportStatistical power analysisPedagogical content knowledge. A\u00a0systematic review of the way in which the concept has pervaded mathematics educational researchBegle revisited: teacher knowledge and student achievement in algebraFactors influencing behavior and behavior changeKompetenzorientierter Sportunterricht 2030 \u2013 Grundlagen f\u00fcr eine vernunftgetragene Selbstgestaltung des lebenslangen SporttreibensAnswering the call for a\u00a0standard reliability measure for coding dataFachdidaktisches Wissen von angehenden Sportlehrkr\u00e4ften messenBasic motor competencies of preschoolers: Construct, assessment and determinantsEffects of improved content knowledge on pedagogical content knowledge and student performance in physical educationAbout the complexities of video-based assessments: theoretical and methodological approaches to overcoming shortcomings of research on teachers\u2019 competenceProfessional competencies of (prospective) mathematics teachers\u2014cognitive versus situated approachesKontextualisierte Erfassung von Lehrerkompetenzen. Einf\u00fchrung in den ThementeilPedagogical content knowledge and content knowledge of secondary mathematics teachersCompetence as a\u00a0continuum in the COACTIV study: the \u201ccascade model\u201dProfessional competence of teachers: effects on instructional quality and student developmentZur Bedeutung von Biografie, Erfahrung und Narration f\u00fcr die Fallarbeit in der Sportlehrer/innenausbildungA\u00a0rasch model for partial credit scoringTeachers\u2019 professional vision, pedagogical content knowledge and beliefs: on its relation and differences between pre-service and in-service teachersWhat is the subject matter of physical education?Wissen und K\u00f6nnen bei Lehrpersonen und Lernenden im Sportunterricht. Zum Design und zur Modellierung von Sch\u00fcler*innen und Lehrer*innenkompetenzenDas Wissen der Wissensvermittler. Problemstellungen, Befunde und Perspektiven der Forschung zum LehrerwissenThe game performance assessment instrument (GPAI): Development and preliminary validationWhat do new views of knowledge and thinking have to say about research on teacher learning?The Role of Perception, Interpretation, and Decision Making in the Development of Beginning Teachers\u2019 CompetenceThose who understand: knowledge growth in teachingKnowledge and teaching: Foundations of the new reformEntwicklung eines Testverfahrens zur Analyse fachdidaktischen WissensLehrerberuf und Professionalit\u00e4t. Gewandeltes Begriffsverst\u00e4ndnis \u2013 neue HerausforderungenDas fachdidaktische Wissen und K\u00f6nnen von Sportlehrpersonen (PCK-Sport)Drei Zug\u00e4nge zur Modellierung fachdidaktischen Wissens von SportlehrpersonenThe role of content knowledge in conceptions of teaching effectiveness in physical educationFachwissen und K\u00f6nnen von Sportlehrpersonen: Konstruktion eines Tests entlang des KompetenzkontinuumsFachspezifisches professionelles Wissen und K\u00f6nnen von SportlehrpersonenThe impact of mathematics teachers\u2019 professional competence on instructional quality and students\u2019 mathematics learning outcomes",
+  "pmcid": "12686084",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "ctical competencies FOOTER: N\u00a0sample size, M\u00a0mean, SD\u00a0standard deviatio"
+        },
+        {
+          "match": "sample size",
+          "context": "esthetical competence area, N\u00a0sample size, M\u00a0mean, SD\u00a0standard deviatio"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "sd",
+        "standard deviation",
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "ER: N\u00a0sample size, M\u00a0mean, SD\u00a0standard deviation, t1/t2\u00a0measurement timepoints"
+        },
+        {
+          "match": "standard deviation",
+          "context": "ea, N\u00a0sample size, M\u00a0mean, SD\u00a0standard deviation, t\u00a0t-value, d\u00a0Cohen\u02bcs\u00a0d effec"
+        },
+        {
+          "match": "standard error",
+          "context": "l; standardized coefficients, standard errors) FOOTER: CK\u2011N\u00a0content knowle"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "alpha",
+          "context": "nal consistencies (Cronbach\u2019s alpha) of students\u2019 recorded sports"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "e area CAPTION: Paired-sample t-test comparing the performance of"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "effect size"
+      ],
+      "examples": [
+        {
+          "match": "effect size",
+          "context": "ation, t\u00a0t-value, d\u00a0Cohen\u02bcs\u00a0d effect sizes*p\u202f\u2264\u20090.05; **p\u202f\u2264\u20090.01; ***p\u202f\u2264"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

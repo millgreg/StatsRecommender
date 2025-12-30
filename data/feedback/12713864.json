@@ -1,0 +1,362 @@
+{
+  "title": "Objective and subjective sleep characteristics in hospitalized older adults and their associations to hospital outcomesDefining existing practices to support the sleep of hospitalized patients: a mixed-methods study of top-ranked hospitalsThe role of actigraphy in the study of sleep and circadian rhythmsThe influence of environmental factors on sleep quality in hospitalized medical patientsValidation of the Pittsburgh Sleep Quality Index and the Epworth Sleepiness Scale in older black and white womenAssociation of sleep characteristics and cognition in older community-dwelling men: the MrOS sleep studyPoor sleep is associated with impaired cognitive function in older women: the study of osteoporotic fracturesAssociations of objectively and subjectively measured sleep quality with subsequent cognitive decline in older community-dwelling men: the MrOS sleep studyMelatonin therapy to improve nocturnal sleep in critically ill patients: encouraging results from a small randomised controlled trialThe Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and researchCharacteristics of self-reported sleep and the risk of falls and fractures: the women's health initiative (WHI)The effectiveness of valerian acupressure on the sleep of ICU patients: a randomized clinical trialMeasures of sleep-wake patterns and risk of mild cognitive impairment or dementia in older womenSleep and pathological wakefulness at the time of liberation from mechanical ventilation (SLEEWE). A prospective multicenter physiological studyThe association of sleep and pain: an update and a path forwardThe supplement on aging to the 1984 National Health Interview SurveyAbnormal sleep/wake cycles and the effect of environmental noise on sleep disruption in the intensive care unitMeasures of adult pain: Visual Analog Scale for Pain (VAS Pain), Numeric Rating Scale for Pain (NRS Pain), McGill Pain Questionnaire (MPQ), Short-Form McGill Pain Questionnaire (SF-MPQ), Chronic Pain Grade Scale (CPGS), Short Form-36 Bodily Pain Scale (SF-36 BPS), and Measure of Intermittent and Constant Osteoarthritis Pain (ICOAP)Sleep assessment of hospitalised patients: a literature reviewSleep disruption in hospitalized adultsThe Hospital Elder Life Program: a model of care to prevent cognitive and functional decline in older hospitalized patients. Hospital Elder Life ProgramA new method for measuring daytime sleepiness: the Epworth sleepiness scaleReliability and factor analysis of the Epworth Sleepiness ScaleFeasibility of continuous actigraphy in patients in a medical intensive care unitPerceptions and practices regarding sleep in the intensive care unit. A survey of 1,223 critical care providersPromoting sleep to improve delirium in the ICUDeveloping, implementing, and evaluating a multifaceted quality improvement intervention to promote sleep in an ICUCauses, consequences, and treatments of sleep and circadian disruption in the ICU: an official American Thoracic Society research statementChanges in montreal cognitive assessment scores over time\u2018Appears to have slept well': assessing sleep in an acute care settingComparison of actigraphic, polysomnographic, and subjective assessment of sleep parameters in sleep-disordered patientsDelirium assessment tools among hospitalized older adults: a systematic review and metaanalysis of diagnostic accuracySleep fragmentation delays wound healing in a mouse model of type 2 diabetesSleep in hospitalized elders: a pilot studyActigraphic monitoring in critically ill patients: preliminary results toward an \u201cobservation-guided sedation\u201dThe Montreal Cognitive Assessment, MoCA: a brief screening tool for mild cognitive impairmentAssessment of patient satisfaction in activities of daily living using a modified Stanford Health Assessment QuestionnaireSleep in the intensive care unitMeasurement of sleep in critically ill patientsActigraphy to evaluate sleep in the intensive care unit. A systematic reviewEffect of obstructive sleep apnea on neurocognitive performanceEffect of melatonin on sleep quality of COPD intensive care patients: a pilot studySleep in hospitalized older adultsLet's not sleep on it: hospital sleep is a health issue tooActigraphy-measured sleep characteristics and risk of falls in older womenSleep disturbances and risk of falls in older community-dwelling men: the outcomes of Sleep Disorders in Older Men (MrOS Sleep) StudyInfluence of bright light therapy on postoperative patients: a pilot studyThe sleep experience of medical and surgical patientsRelationship between the Montreal Cognitive Assessment and Mini-mental State Examination for assessment of mild cognitive impairment in older adultsAtypical sleep in ventilated patients: empirical electroencephalography findings and the path toward revised ICU sleep scoring criteriaBench-to-bedside review: delirium in ICU patients - importance of sleep deprivationConnections between sleep and cognition in older adultsObjective and subjective characteristics of sleep after coronary artery bypass graft surgery in the early period: a prospective study with healthy subjectsSleep quality of hospitalized patients in surgical units",
+  "pmcid": "12713864",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "n = 112"
+      ],
+      "examples": [
+        {
+          "match": "n = 112",
+          "context": "rgical units  Older patients (n = 112) at Sutter Tracy Community Ho"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "ouraging results from a small randomised controlled trialThe Pittsbur"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas",
+        "sas version 9.4"
+      ],
+      "examples": [
+        {
+          "match": "SAS version 9.4",
+          "context": "analyses were conducted using SAS version 9.4 (SAS Institute Inc., Cary, NC"
+        },
+        {
+          "match": "SAS",
+          "context": "ducted using SAS version 9.4 (SAS Institute Inc., Cary, NC). CA"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "were summarized as means and standard deviations for continuous parameters, c"
+        },
+        {
+          "match": "standard deviation",
+          "context": "eal Cognitive Assessment; SD, standard deviation; PSQI, Pittsburgh Sleep Quali"
+        },
+        {
+          "match": "Standard deviation",
+          "context": "ody mass index.**p < 0.05.SD, Standard deviation; PSQI, Pittsburgh Sleep Quali"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "p < 0.01",
+        "significance level",
+        "p < 0.05"
+      ],
+      "examples": [
+        {
+          "match": "p < 0.05",
+          "context": "race, sex, body mass index.**p < 0.05, ***p < 0.01.MoCA, Montreal C"
+        },
+        {
+          "match": "p < 0.01",
+          "context": "ody mass index.**p < 0.05, ***p < 0.01.MoCA, Montreal Cognitive Asse"
+        },
+        {
+          "match": "p < 0.05",
+          "context": "race, sex, body mass index.**p < 0.05.SD, Standard deviation; PSQI,"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval",
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "95% confidence intervals (OR, 95% CI). The associations of the sle"
+        },
+        {
+          "match": "95% CI",
+          "context": "nted as beta coefficients and 95% CIs. All models were adjusted fo"
+        },
+        {
+          "match": "confidence interval",
+          "context": "sented as odds ratios and 95% confidence intervals (OR, 95% CI). The associatio"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ion. Results are presented as odds ratios and 95% confidence intervals"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "nrollment were assessed using logistic regression. Results are presented as odd"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "categorical",
+        "continuous",
+        "binary"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "s, counts and percentages for categorical data. The associations of the"
+        },
+        {
+          "match": "continuous",
+          "context": "leepiness ScaleFeasibility of continuous actigraphy in patients in a m"
+        },
+        {
+          "match": "continuous",
+          "context": "ata on participants, gathered continuously from enrollment to discharg"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "or",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "ion. Results are presented as odds ratios and 95% confidence intervals"
+        },
+        {
+          "match": "OR",
+          "context": "and 95% confidence intervals (OR, 95% CI). The associations of"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "electric accelerometer with a sensitivity of 0.025 G and a sampling rat"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "mouse model"
+      ],
+      "examples": [
+        {
+          "match": "mouse model",
+          "context": "ion delays wound healing in a mouse model of type 2 diabetesSleep in ho"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 10.0,
+    "rigor_rating": "High",
+    "critical_gaps": [],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'mouse model'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...analyses were conducted using SAS version 9.4 (SAS Institute Inc., Cary, NC..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...ion. Results are presented as odds ratios and 95% confidence intervals..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...electric accelerometer with a sensitivity of 0.025 G and a sampling rat..."
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

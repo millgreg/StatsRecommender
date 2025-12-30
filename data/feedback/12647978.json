@@ -1,0 +1,382 @@
+{
+  "title": "Text messages to improve young child diets: Results from a\u00a0cluster\u2010randomized controlled trial in Kanchanpur,\u00a0NepalText messages to improve young child diets: Results from a\u00a0cluster\u2010randomized controlled trial in Kanchanpur,\u00a0NepalConstraints on food choices of women in the UK with lower educational attainmentNutrition in Nepal: Three decades of commitment to children and womenText messages to improve child diets: Formative research findings and protocol of a randomised controlled trial in NepalDo changes in women's household status in Nepal improve access to food and nutrition?Eggs: The uncracked potential for improving maternal and young child nutrition among the world's poorEggs in early complementary feeding and child growth: A randomized controlled trialEffect of short message service on infant feeding practice: Findings from a community\u2010based study in Shanghai, ChinaEffectiveness of the eggs make kids demand\u2010creation campaign at improving household availability of eggs and egg consumption by young children in Nigeria: A quasi experimental studyMobile phones improve antenatal care attendance in Zanzibar: A cluster randomized controlled trialLactation advice through texting can help: An analysis of intensity of engagement via two\u2010way text messagingDo low\u2010income lone mothers compromise their nutrition to feed their children?Eggs: Healthy or risky? A review of evidence from high quality studies on hen's eggsEgg consumption of children under two years of age through a child\u2010owned poultry and nutrition intervention in rural Ethiopia: A community based randomized controlled trialPromotion of egg and eggshell powder consumption on the nutritional status of young children in EthiopiaThe golden egg: Nutritional value, bioactivities, and emerging benefits for human healthUse of mobile phones for infant and young child feeding counseling in Sri Lankan tea estates: A formative studyThe effects on inappropriate weight for gestational age of an SMS based educational intervention for pregnant women in Xi'an China: A quasi\u2010randomized controlled trial",
+  "pmcid": "12647978",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sample size",
+        "n\u2009=\u200953",
+        "n\u2009=\u200950"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "itoring surveys, the required sample size was calculated for the primar"
+        },
+        {
+          "match": "sample size",
+          "context": "nts per cluster, the required sample size was calculated at 3350. The c"
+        },
+        {
+          "match": "n\u2009=\u200950",
+          "context": "y split between intervention (n\u2009=\u200950) and control (n\u2009=\u200953) arms (F"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "ch findings and protocol of a randomised controlled trial in NepalDo"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "diets: Results from a\u00a0cluster\u2010randomized controlled trial in Kanchanpur,\u00a0NepalText mess"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "diets: Results from a\u00a0cluster\u2010randomized controlled trial in Kanchanpur,\u00a0NepalConstrain"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "iday and non\u2010rainy seasons. A blinded co\u2010author randomized clusters"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "itt"
+      ],
+      "examples": [
+        {
+          "match": "ITT",
+          "context": "intervention\u2014intent\u2010to\u2010treat (ITT) analyses\u2014were done for all p"
+        },
+        {
+          "match": "ITT",
+          "context": "y and secondary outcomes. The ITT effect was calculated using a"
+        },
+        {
+          "match": "ITT",
+          "context": "tudy arm and study visit. The ITT models were unadjusted since"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stata"
+      ],
+      "examples": [
+        {
+          "match": "Stata",
+          "context": "ther variables in the models. Stata/SE 14.2 was used for all anal"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "summarized using the mean and standard deviation. Study population.  Note: Equ"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "significance level",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "significance level",
+          "context": "an ICC of 0.04, power at 90%, significance level of 0.05, a roughly equal numb"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "age. The nine, pre\u2010specified, secondary outcomes, assessed after endline,\u00a0wer"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "were done for all primary and secondary outcomes. The ITT effect was calculat"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "multivariable regression"
+      ],
+      "examples": [
+        {
+          "match": "multivariable regression",
+          "context": "ho received the intervention, multivariable regression models were used comparing th"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "Categorical",
+          "context": "rding to study arm (Table\u00a01). Categorical variables were summarized usi"
+        },
+        {
+          "match": "continuous",
+          "context": "roportion of participants and continuous variables were summarized usi"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 17,
+      "unique_matches": [
+        "icc",
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "g child diets: Results from a\u00a0cluster\u2010randomized controlled trial i"
+        },
+        {
+          "match": "cluster",
+          "context": "g child diets: Results from a\u00a0cluster\u2010randomized controlled trial i"
+        },
+        {
+          "match": "cluster",
+          "context": "are attendance in Zanzibar: A cluster randomized controlled trialLa"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Blinding present but allocation concealment details missing.",
+        "evidence": "...iday and non\u2010rainy seasons. A blinded co\u2010author randomized clusters..."
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...ther variables in the models. Stata/SE 14.2 was used for all anal..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...an ICC of 0.04, power at 90%, significance level of 0.05, a roughly equal numb..."
+      },
+      {
+        "message": "Categorical data mentioned, but no appropriate categorical tests found.",
+        "evidence": "...rding to study arm (Table\u00a01). Categorical variables were summarized usi..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...an ICC of 0.04, power at 90%, significance level of 0.05, a roughly equal numb..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Blinding of participants/assessors documented.",
+        "evidence": "...iday and non\u2010rainy seasons. A blinded co\u2010author randomized clusters..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Allocation Concealment",
+        "issue": "Method of concealment (e.g. opaque envelopes) not described.",
+        "recommendation": "Specify how randomization sequence was concealed.",
+        "source_text": "Blinding found but no 'concealment' terms."
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'significance level' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'cluster' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

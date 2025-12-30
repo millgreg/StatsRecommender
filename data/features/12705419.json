@@ -1,0 +1,347 @@
+{
+  "title": "Domvanalimab and zimberelimab in advanced gastric, gastroesophageal junction or esophageal cancer: a phase 2 trialFirst-line nivolumab plus chemotherapy versus chemotherapy alone for advanced gastric, gastro-oesophageal junction, and oesophageal adenocarcinoma (CheckMate 649): a randomised, open-label, phase 3 trialPembrolizumab plus chemotherapy versus chemotherapy alone for first-line treatment of advanced oesophageal cancer (KEYNOTE-590): a randomised, placebo-controlled, phase 3 studyTislelizumab plus chemotherapy versus placebo plus chemotherapy as first line treatment for advanced gastric or gastro-oesophageal junction adenocarcinoma: RATIONALE-305 randomised, double blind, phase 3 trialPembrolizumab plus chemotherapy versus placebo plus chemotherapy for HER2-negative advanced gastric cancer (KEYNOTE-859): a multicentre, randomised, double-blind, phase 3 trialSintilimab plus chemotherapy for unresectable gastric or gastroesophageal junction cancer: the ORIENT-16 randomized clinical trialGEMSTONE-303: prespecified progression-free survival (PFS) and overall survival (OS) final analyses of a phase III study of sugemalimab plus chemotherapy vs placebo plus chemotherapy in treatment-naive advanced gastric or gastroesophageal junction (G/GEJ) adenocarcinoma (LBA79)First-line nivolumab plus chemotherapy for advanced gastric, gastroesophageal junction, and esophageal adenocarcinoma: 3-year follow-up of the phase III CheckMate 649 trialPrimary analysis of a randomized, double-blind, phase II study of the anti-TIGIT antibody tiragolumab (tira) plus atezolizumab (atezo) versus placebo plus atezo as first-line (1L) treatment in patients with PD-L1-selected NSCLC (CITYSCAPE)The interaction of TIGIT with PVR and PVRL2 inhibits human NK cell cytotoxicityPhase Ib study of the anti-TIGIT antibody tiragolumab in combination with atezolizumab in patients with metastatic esophageal cancer (LBA-5)Mechanistic convergence of the TIGIT and PD-1 inhibitory pathways necessitates co-blockade to optimize anti-tumor CD8 T cell responsesEfficacy and safety of rilvegostomig, an anti-PD-1/TIGIT bispecific, for CPI-naive metastatic NSCLC with PD-L1 1\u201349% or \u226550% (OA11.03)ARC-7: randomized phase 2 study of domvanalimab + zimberelimab \u00b1 etrumadenant versus zimberelimab in first-line, metastatic, PD-L1-high non-small cell lung cancer (NSCLC)Fc-silent anti-TIGIT antibodies potentiate antitumor immunity without depleting regulatory T cellsPreclinical characterization of GLS-010 (zimberelimab), a novel fully human anti-PD-1 therapeutic monoclonal antibody for cancerEfficacy and safety of GLS-010 (zimberelimab) in patients with relapsed or refractory classical Hodgkin lymphoma: a multicenter, single-arm, phase II studyEfficacy and safety of zimberelimab (GLS-010) monotherapy in patients with recurrent or metastatic cervical cancer: a multicenter, single-arm, phase II studyChemotherapy reinforces anti-tumor immune response and enhances clinical efficacy of immune checkpoint inhibitorsPhase 2 randomized study of domvanalimab combined with zimberelimab in front-line, PD-(L)1 high, locally advanced or metastatic non-small cell lung cancer (NSCLC): results from ARC-10 part 1STAR-221: a randomized, open-label, multicenter, phase 3 trial of domvanalimab, zimberelimab, and chemotherapy versus nivolumab and chemotherapy in previously untreated, locally advanced, unresectable or metastatic gastric, gastroesophageal junction, and esophageal adenocarcinomaAnti-TIGIT therapies: a review of preclinical and clinical efficacy and mechanismsRegulatory T cells in immune checkpoint blockade antitumor therapyFirst-line rilvegostomig (rilve) + chemotherapy (CTx) in patients (pts) with HER2-negative (HER2\u2212) locally advanced unresectable or metastatic gastric cancers: first report of GEMINI-Gastric sub study 2 (1422P)PD-L1 immunohistochemistry in gastric cancer: comparison of combined positive score and Tumor Area Positivity across 28-8, 22C3, and SP263 assaysTumor area positivity (TAP) score of programmed death-ligand 1 (PD-L1): a novel visual estimation method for combined tumor cell and immune cell scoringConcordance between PD-L1 assays 28-8 and SP263 and their respective scoring algorithms in procured upper gastrointestinal adenocarcinoma samplesHigh interobserver variability among pathologists using combined positive score to evaluate PD-L1 expression in gastric, gastroesophageal junction, and esophageal adenocarcinomaConcordance between the PD-L1 Tumor Area Positivity score and Combined Positive Score for gastric or esophageal cancers treated with tislelizumab",
+  "pmcid": "12705419",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "ve PD-L1 high expression. The sample size justification was based on an"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "allocation",
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "ocarcinoma (CheckMate 649): a randomised, open-label, phase 3 trialPe"
+        },
+        {
+          "match": "randomise",
+          "context": "ageal cancer (KEYNOTE-590): a randomised, placebo-controlled, phase 3"
+        },
+        {
+          "match": "randomise",
+          "context": "adenocarcinoma: RATIONALE-305 randomised, double blind, phase 3 trial"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "el, so investigators were not blinded to the allocation of enrolled"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "heterogeneity",
+          "context": "minimize effects from tissue heterogeneity. The dual primary endpoints o"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "issue heterogeneity. The dual primary endpoints of safety and investigator-a"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "analyses were performed using SAS software, version 9.4. Furthe"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "secondary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "Secondary endpoint",
+          "context": "ere considered nonresponders. Secondary endpoints were OS, PFS, DCR and DOR ov"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "overall survival",
+        "os"
+      ],
+      "examples": [
+        {
+          "match": "overall survival",
+          "context": "ssion-free survival (PFS) and overall survival (OS) final analyses of a phas"
+        },
+        {
+          "match": "OS",
+          "context": "l (PFS) and overall survival (OS) final analyses of a phase II"
+        },
+        {
+          "match": "OS",
+          "context": "ers. Secondary endpoints were OS, PFS, DCR and DOR overall and"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "binary",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "2,400\u2009mg\u2009m\u22122 on days 1 and 2 (continuous 46\u201348-h infusion)) once every"
+        },
+        {
+          "match": "binary",
+          "context": "able 3. Sex was recorded as a binary variable based on self-report"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "loss to follow-up",
+        "dropout"
+      ],
+      "examples": [
+        {
+          "match": "dropout",
+          "context": "date, regardless of events or dropout. Statistical analyses were pe"
+        },
+        {
+          "match": "loss to follow-up",
+          "context": "ubsequent anticancer therapy, loss to follow-up, withdrawal of consent, study"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline demographic"
+      ],
+      "examples": [
+        {
+          "match": "Baseline demographic",
+          "context": "ked to this article. CAPTION: Baseline demographics and clinical characteristics"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "system brain metastases were excluded. Complete eligibility criteri"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "in, abdominal pain, drug hypersensitivity, anaphylactic reaction, hyper"
+        },
+        {
+          "match": "sensitivity",
+          "context": ", anaphylactic reaction, hypersensitivity, type 1 hypersensitivity, pru"
+        },
+        {
+          "match": "sensitivity",
+          "context": "hypersensitivity, type 1 hypersensitivity, pruritus or rash). Immune-re"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "staining",
+        "immunohistochemistry"
+      ],
+      "examples": [
+        {
+          "match": "immunohistochemistry",
+          "context": "tric sub study 2 (1422P)PD-L1 immunohistochemistry in gastric cancer: comparison"
+        },
+        {
+          "match": "staining",
+          "context": "r cells with membranous PD-L1 staining at any intensity and tumor-as"
+        },
+        {
+          "match": "staining",
+          "context": "iated immune cells with PD-L1 staining at any intensity, according t"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "title": "Impact of population based breast density notification: multisite parallel arm randomised controlled trial in BreastScreenMammographic density and the risk and detection of breast cancerMammographic density change in a cohort of premenopausal women receiving tamoxifen for breast cancer prevention over 5 yearsPriorities for the primary prevention of breast cancerIdentifying women with dense breasts at high risk for interval cancer: a cohort studyPrevalence of mammographically dense breasts in the United StatesDecade of \u2018normal\u2019 mammography reports--the happygramUS women must be told breast density after mammogram, says FDAShould we share breast density information during breast cancer screening in the United Kingdom? an integrative reviewBreast density notification: evidence on whether benefit outweighs harm is required to inform future screening practiceThe Impact of Breast Density Information or Notification on Women\u2019s Cognitive, Psychological, and Behavioral Outcomes: A Systematic ReviewClinical guidelines for the management of mammographic density: a systematic review of breast screening guidelines worldwideSupplemental Screening for Breast Cancer in Women With Dense Breasts: A Systematic Review for the U.S. Preventive Services Task ForceSupplemental MRI Screening for Women with Extremely Dense Breast TissueComparison of supplemental breast cancer imaging techniques-interim results from the BRAID randomised controlled trialBreast cancer screening at a crossroads: supplemental imaging for dense breastsDetecting Breast Cancer in Women with Dense BreastsEnsuring Clarity and Understandability of the FDA\u2019s Breast Density NotificationsPsychosocial outcomes and health service use after notifying women participating in population breast screening when they have dense breasts: a BreastScreen Queensland randomised controlled trialGeneral practitioners\u2019 (GPs) understanding and views on breast density in Australia: a qualitative interview study\u201cIt\u2019s about our bodies\u2026 we have the right to know this stuff\u201d: A qualitative focus group study on Australian women\u2019s perspectives on breast densityAustralian Women\u2019s Intentions and Psychological Outcomes Related to Breast Density Notification and Information: A Randomized Clinical TrialBreast Density Awareness, Knowledge, and Attitudes Among US Women: National Survey Results Across 5 YearsProspective study of predictors of attendance for breast screening in inner LondonRelationships among breast cancer perceived absolute risk, comparative risk, and worriesDifferences in Breast Density Awareness, Knowledge, and Plans Based on State Legislation Status and Sociodemographic CharacteristicsWomen\u2019s Understandings and Misunderstandings of Breast Density and Related Concepts: A Mixed Methods StudyDevelopment of a theory-informed questionnaire to assess the acceptability of healthcare interventionsPrior breast density awareness, knowledge, and communication in a health system-embedded behavioral intervention trialThe MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selectionThe Single Item Literacy Screener: evaluation of a brief instrument to identify limited reading abilityEliciting Medical Maximizing-Minimizing Preferences with a Single Question: Development and Validation of the MM1Do People Have Insight Into Their Abilities? A MetasynthesisBreast Density Notification: A Systematic Review of the Impact on Primary Care PractitionersEngaging Women with Limited Health Literacy in Mammography Decision-Making: Perspectives of Patients and Primary Care ProvidersSociodemographic Variations in Women\u2019s Reports of Discussions With Clinicians About Breast DensityWomen\u2019s responses to information on mammographic breast densityRandomized Trial of Personalized Breast Density and Breast Cancer Risk NotificationEffect of a Randomized Trial of a Web-Based Intervention on Patient-Provider Communication About Breast DensityEffectiveness of Breast Density Educational Interventions on Mammography Screening Adherence Among Underserved Latinas: A Randomized Controlled TrialA randomized trial to evaluate the impact of breast density notification on anxiety, breast cancer worry, and perceived risk among Latinas at a federally qualified health center : Breast density notification and anxiety, breast cancer worry, and perceived risk among LatinasSupplemental breast cancer screening after negative mammography in US women with dense breastsThe impact of mandatory mammographic breast density notification on supplemental screening practice in the United States: a systematic reviewBreast density implications and supplemental screeningCost-Effectiveness of Magnetic Resonance Imaging Screening for Women With Extremely Dense Breast Tissue",
+  "pmcid": "12673659",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "n=1119",
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "further details.21  We based sample size calculations on estimates fro"
+        },
+        {
+          "match": "sample size",
+          "context": "4-27 months), we inflated the sample size assuming retention of 80% at"
+        },
+        {
+          "match": "sample size",
+          "context": "herefore, to maintain a total sample size of 1119 by 24-27 months, we n"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 13,
+      "unique_matches": [
+        "randomisation",
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "ation: multisite parallel arm randomised controlled trial in BreastSc"
+        },
+        {
+          "match": "randomise",
+          "context": "nterim results from the BRAID randomised controlled trialBreast cance"
+        },
+        {
+          "match": "randomise",
+          "context": "ts: a BreastScreen Queensland randomised controlled trialGeneral prac"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "m) at eight weeks. Women were blinded to the trial arm to which the"
+        },
+        {
+          "match": "blinded",
+          "context": "tification of breast density) blinded to their breast density statu"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "concealment"
+      ],
+      "examples": [
+        {
+          "match": "concealment",
+          "context": "ard care. Ensuring allocation concealment, we managed a simple randomis"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "months. Primary and secondary outcome measures were self-reported and colle"
+        },
+        {
+          "match": "outcome measure",
+          "context": "rs, and primary and secondary outcome measures included a combination of va"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "tegorical variables; mean and standard deviation for continuous variables) to"
+        },
+        {
+          "match": "standard deviation",
+          "context": "=statistical area level 2; SD=standard deviation; WHO=World Health Organizatio"
+        },
+        {
+          "match": "standard deviation",
+          "context": "; GP=general practitioner; SD=standard deviation.Analysed using multinomial lo"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "bonferroni",
+        "nominal"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "ortions as small as 10% (at a Bonferroni adjusted \u03b1 level of 0.017 to"
+        },
+        {
+          "match": "Bonferroni",
+          "context": "values, interpreted using the Bonferroni adjusted significance thresho"
+        },
+        {
+          "match": "nominal",
+          "context": "emental screening, treated as nominal categorical variables) assess"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "secondary outcome",
+          "context": "and 24-27 months. Primary and secondary outcome measures were self-reported a"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "descriptors, and primary and secondary outcome measures included a combinati"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "mary outcomes; we interpreted secondary outcomes by using a conventional thre"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "s stated otherwise FOOTER: CI=confidence interval; GP=general practitioner.Anal"
+        },
+        {
+          "match": "confidence interval",
+          "context": "s stated otherwise FOOTER: CI=confidence interval; GP=general practitioner; SD="
+        },
+        {
+          "match": "confidence interval",
+          "context": "s stated otherwise FOOTER: CI=confidence interval.Analysed using ordinal logist"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "relative risk",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "as appropriate, presented as odds ratios or relative risk ratios, res"
+        },
+        {
+          "match": "odds ratio",
+          "context": "ct estimates are presented as odds ratio of being in higher (ordinal)"
+        },
+        {
+          "match": "odds ratio",
+          "context": "ct estimates are presented as odds ratio of being in higher (ordinal)"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "multiple imputation"
+      ],
+      "examples": [
+        {
+          "match": "multiple imputation",
+          "context": "mes for non-starters by using multiple imputation using chained equations (supp"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "linear model",
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "odels (ordinal or multinomial logistic regression, as appropriate, presented as"
+        },
+        {
+          "match": "logistic regression",
+          "context": "l odds assumption for ordinal logistic regression by using a Brant-Wald test. W"
+        },
+        {
+          "match": "logistic regression",
+          "context": "tioner.Analysed using ordinal logistic regression. Assumption of proportional o"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 18,
+      "unique_matches": [
+        "proportions",
+        "ordinal",
+        "frequencies",
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "nformed,25 treated as ordinal categorical variables) and health service"
+        },
+        {
+          "match": "categorical",
+          "context": "screening, treated as nominal categorical variables) assessed at eight"
+        },
+        {
+          "match": "categorical",
+          "context": "cy and relative frequency for categorical variables; mean and standard"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "Longitudinal",
+          "context": "questionnaire over two weeks. Longitudinal data will also be collected f"
+        },
+        {
+          "match": "longitudinal",
+          "context": "er analyses will also be done longitudinally (12 and 24-27 months), we i"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "imputation",
+        "complete case"
+      ],
+      "examples": [
+        {
+          "match": "imputation",
+          "context": "on-starters by using multiple imputation using chained equations (supp"
+        },
+        {
+          "match": "complete case",
+          "context": "ome data across study arms as complete case analyses. We included no addi"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "relative risk",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "as appropriate, presented as odds ratios or relative risk ratios, res"
+        },
+        {
+          "match": "odds ratio",
+          "context": "ct estimates are presented as odds ratio of being in higher (ordinal)"
+        },
+        {
+          "match": "odds ratio",
+          "context": "ct estimates are presented as odds ratio of being in higher (ordinal)"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "ed and randomised. Women were excluded if they did not have dense br"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "ing a Brant-Wald test. We did sensitivity analyses imputing primary out"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

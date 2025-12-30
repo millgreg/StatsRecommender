@@ -1,0 +1,359 @@
+{
+  "title": "IDEAL\u2013compliant implementation of the Dexter surgical robot in cholecystectomy: a comprehensive framework and clinical outcomesRobotic surgery: a comprehensive review of the literature and current trendsEvolution of the digital operating room: the place of video technology in surgeryA review of robotic thoracic surgery adoption and future innovationsInnovations in minimally invasive surgery: the rise of smart flexible surgical robotsClinical applications of robotic surgery platforms: a comprehensive reviewThe IDEAL framework for surgical robotics: development, comparative evaluation and long-term monitoringFrom Leonardo to da Vinci: the history of robot\u2010assisted surgery in urologyThe diffusion of robotic surgery: examining technology use in the English NHSRobotic revolution in surgery: diverse applications across specialties and future prospects review articleEmerging robotic platforms for minimally invasive surgeryArtificial intelligence: revolutionizing robotic surgery: reviewNo surgical innovation without evaluation: the IDEAL recommendationsQuality of reporting of robot-assisted cholecystectomy in relation to the IDEAL recommendations: systematic reviewRobotic cholecystectomy: training of residents in use of the robotic platformCholecystectomy by using a surgical robotic systemRobot-assisted radical prostatectomy with the dexter robotic system: initial experience and insights into on-demand roboticsThe first robotic-assisted hysterectomy below the bikini line with the Dexter robotic system\u2122Expanding robotic-assisted surgery in gynecology using the potential of an advanced robotic systemFeasibility of on-demand robotics in colorectal surgery: first casesFirst ever radical prostatectomy performed with\u00a0the new dexter robotic system\u2122On-demand robotics\u2013the best of both worlds for robotic-assisted laparoscopic surgeryThe combination of laparoscopic and robotic surgery: first experience with the dexter robotic System\u2122 in visceral surgeryEffect of a surgical training programme on outcome of rectal cancer in the County of StockholmSurgical simulation: the value of individualizationIntegration of robotic surgery into routine practice and impacts on communication, collaboration, and decision making: a realist process evaluation protocolThe introduction of an emergency safety protocol coupled with simulation training in robotic surgery, has enabled a more cohesive and efficient response to emergenciesDoes operative time affect complication rate in laparoscopic cholecystectomyImplementation of the dexter robot system in daily practice - first experiences in gall bladder and hernia surgeryRobotic surgery in comparison to the open and laparoscopic approaches in the field of urology: a systematic reviewResearch quality and transparency, outcome measurement and evidence for safety and effectiveness in robot-assisted surgery: systematic reviewOutcomes of robot-assisted surgery in rectal cancer compared with open and laparoscopic surgery[After inconspicuous elective laparoscopic cholecystectomy patients can be discharged without control of laboratory parameters]National analysis of cost disparities in robotic-assisted versus laparoscopic abdominal operationsDo the costs of robotic surgery present an insurmountable obstacle? A narrative reviewRobotic-assisted versus laparoscopic proctectomy with ileal pouch-anal anastomosis for ulcerative colitis: an analysis of clinical and financial outcomes from a tertiary referral centerCarbon footprint of robotically-assisted laparoscopy, laparoscopy and laparotomy: a comparisonNew robotic platforms in general surgery: what\u2019s the current clinical scenario?",
+  "pmcid": "12724488",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "rch quality and transparency, outcome measurement and evidence for safety a"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "spss",
+        "spss version 29"
+      ],
+      "examples": [
+        {
+          "match": "SPSS version 29",
+          "context": "analyses were performed using SPSS version 29 (IBM SPSS, Chicago, IL, USA)"
+        },
+        {
+          "match": "SPSS",
+          "context": "ed using SPSS version 29 (IBM SPSS, Chicago, IL, USA) and Micros"
+        },
+        {
+          "match": "SPSS version 29",
+          "context": "analyses were performed using SPSS version 29 (IBM SPSS, Chicago, IL, USA)"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "les were summarized as mean\u00a0\u00b1\u00a0standard deviation (SD). The unpaired t-test was"
+        },
+        {
+          "match": "standard deviation",
+          "context": "les were summarized as mean\u00a0\u00b1\u00a0standard deviation (SD). The unpaired t-test was"
+        },
+        {
+          "match": "SD",
+          "context": "as mean\u00a0\u00b1\u00a0standard deviation (SD). The unpaired t-test was uti"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "deviation (SD). The unpaired t-test was utilized to compare the m"
+        },
+        {
+          "match": "t-test",
+          "context": "deviation (SD). The unpaired t-test was utilized to compare the m"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "Continuous",
+          "context": "uring this phase (Figure\u00a02).\u2013 Continuous Monitoring: A robust monitori"
+        },
+        {
+          "match": "Continuous",
+          "context": "uring this phase (Figure\u00a02).\u2013 Continuous Monitoring: A robust monitori"
+        },
+        {
+          "match": "Continuous",
+          "context": "uring this phase (Figure\u00a02).  Continuous Monitoring: A robust monitori"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "paired t-test"
+      ],
+      "examples": [
+        {
+          "match": "paired t-test",
+          "context": "tandard deviation (SD). The unpaired t-test was utilized to compare the m"
+        },
+        {
+          "match": "paired t-test",
+          "context": "tandard deviation (SD). The unpaired t-test was utilized to compare the m"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "or"
+      ],
+      "examples": [
+        {
+          "match": "OR",
+          "context": "rics, including nursing staff OR setup, robotic arm draping, o"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "excluded",
+        "categorized",
+        "compliance"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "morbid obesity (BMI>40), were excluded from the study. Additionally,"
+        },
+        {
+          "match": "excluded",
+          "context": "unclear situations, were also excluded. Other common contraindicatio"
+        },
+        {
+          "match": "categorized",
+          "context": "ain). Satisfaction scores are categorized as follows: 1 for very satisf"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 2.5,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...deviation (SD). The unpaired t-test was utilized to compare the m..."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...tandard deviation (SD). The unpaired t-test was utilized to compare the m..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...morbid obesity (BMI>40), were excluded from the study. Additionally,..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...analyses were performed using SPSS version 29 (IBM SPSS, Chicago, IL, USA)..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...rics, including nursing staff OR setup, robotic arm draping, o..."
+      },
+      {
+        "message": "Documented participant compliance or attrition.",
+        "evidence": "...morbid obesity (BMI>40), were excluded from the study. Additionally,..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test"
+      },
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

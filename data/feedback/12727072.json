@@ -1,0 +1,440 @@
+{
+  "title": "Profile for Brain Disease Research Infrastructure for Data Gathering and Exploration (BRIDGE) PlatformThe Brain Health Registry: An internet-based platform for recruitment, assessment, and longitudinal monitoring of participants for neuroscience studiesRegistries for evaluating patient outcomes: a user\u2019s guideThe Impact of Disease Registries on Advancing Knowledge and Understanding of Dementia GloballyThe FAIR Guiding Principles for scientific data management and stewardshipFrom data sharing to data publishing [version 2; peer review: 2 approved, 1 approved with reservations]Cohort Profile: The National Health Insurance Service-National Sample Cohort (NHIS-NSC), South KoreaThe Dementias Platform UK (DPUK) Data PortalThe Association between Tau Protein Level in Cerebrospinal Fluid and Cognitive Status: A Large-Scale Analysis of GAAIN DatabaseThe pursuit of approaches to federate data to accelerate Alzheimer's disease and related dementia research: GAAIN, DPUK, and ADDIComparing measures of decline to dementia in amnestic MCI subjects in the National Alzheimer's Coordinating Center (NACC) Uniform Data SetThe Alzheimer's disease neuroimaging initiative: progress report and future plansThe protocol of a clinical quality registry for dementia and mild cognitive impairment (MCI): the Australian dementia network (ADNeT) RegistryOrganisational aspects and assessment practices of Australian memory clinics: an Australian Dementia Network (ADNeT) SurveyAlzheimer's Association launches ALZ-NET: A long-term data collection and sharing network for new treatmentsQuality of Life Assessment in Older Adults with Dementia: A Systematic ReviewQuality of life in Parkinson's disease: A systematic review and meta-analysis of comparative studiesThe Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and researchThe reliability and validity of the Korean version of the Pittsburgh Sleep Quality IndexThe REM Sleep Behavior Disorder Screening Questionnaire: Validation Study of the Korean Version (RBDQ-KR)The utility of a Korean version of the REM sleep behavior disorder screening questionnaire in patients with obstructive sleep apneaThe reliability and validity of the Korean version of the Epworth sleepiness scaleSubtypes of Sleep Disturbance in Parkinson's Disease Based on the Cross-Culturally Validated Korean Version of Parkinson's Disease Sleep Scale-2The Mini Nutritional Assessment (MNA) and its use in grading the nutritional state of elderly patientsDevelopment of NQ-E, Nutrition Quotient for Korean elderly: item selection and validation of factor structure*Assessment of older people: self-maintaining and instrumental activities of daily livingRe-standardization of the Korean-Instrumental Activities of Daily Living (K-IADL): Clinical Usefulness for Various Neurodegenerative DiseasesThe Barthel ADL Index: a reliability studyValidation of the korean-version of the nonmotor symptoms scale for Parkinson's diseaseRevision of the self-monitoring scaleDevelopment of the Perceived Stress Inventory: A New Questionnaire for Korean Population SurveysAn inventory for measuring clinical anxiety: psychometric propertiesValidity and reliability of the Korean version of the AD8 informant interview (K-AD8) in dementiaThe AD8: a brief informant interview to detect dementiaDevelopment and validation of the Geriatric Anxiety InventoryDevelopment of the Korean version of the Geriatric Depression Scale and its short form among elderly psychiatric patientsDevelopment and validation of a geriatric depression screening scale: a preliminary reportStandardization of the korean version of the geriatric depression scale: reliability, validity, and factor structureMini-Mental State Examination (MMSE)Clinical dementia rating training and reliability in multicenter studies: the Alzheimer's Disease Cooperative Study experienceSeoul Neuropsychological Screening Battery-dementia version (SNSB-D): a useful tool for assessing and monitoring cognitive impairments in dementia patientsValidation of the Korean-Everyday Cognition (K-ECog)The measurement of everyday cognition (ECog): scale development and psychometric propertiesDevelopment of methodology for conducting clinical trials in frontotemporal lobar degenerationClinical and Neuropsychological Characteristics of a Nationwide Hospital-Based Registry of Frontotemporal Dementia Patients in Korea: A CREDOS-FTD StudyNormative data on the Korean version of the Western Aphasia BatteryDonepezil treatment of patients with MCI: a 48-week randomized, placebo-controlled trialComparison of Montreal Cognitive Assessment in Korean Version for Predicting Mild Cognitive Assessment in 65-Year and Over IndividualsDevelopment of the Subjective Memory Complaints QuestionnaireTranslation and validation of the korean version of the 39-item Parkinson's disease questionnaireValidation Study of the Official Korean Version of the Movement Disorder Society-Unified Parkinson's Disease Rating ScaleValidity and reliability of the Zarit Burden Interview in assessing caregiving burdenValidating the SF-36 health survey questionnaire: new outcome measure for primary careReliability and validity of the Korean version of the Caregiver Burden InventoryCaregiver-Administered Neuropsychiatric Inventory (CGA-NPI)",
+  "pmcid": "12727072",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "lth survey questionnaire: new outcome measure for primary careReliability a"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sas",
+        "r 4.1.2"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "yses were conducted using the SAS Enterprise Guide (version 7.1"
+        },
+        {
+          "match": "SAS",
+          "context": "nterprise Guide (version 7.1; SAS Institute Inc., Cary, NC, USA"
+        },
+        {
+          "match": "R 4.1.2",
+          "context": "tute Inc., Cary, NC, USA) and R 4.1.2 (R Foundation for Statistical"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sd",
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "interquartile range",
+          "context": "d n (%), mean (SD) or median (interquartile range) CAPTION: Characteristics of"
+        },
+        {
+          "match": "interquartile range",
+          "context": "d n (%), mean (SD) or median (interquartile range)"
+        },
+        {
+          "match": "SD",
+          "context": "s were presented n (%), mean (SD) or median (interquartile ran"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "p-value",
+          "context": "ienna, Austria). A two-tailed p-value<0.05 was considered statistic"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "\u03c72"
+      ],
+      "examples": [
+        {
+          "match": "\u03c72",
+          "context": "for continuous variables and \u03c72 tests for categorical variabl"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "kruskal-wallis"
+      ],
+      "examples": [
+        {
+          "match": "Kruskal-Wallis",
+          "context": "not normally distributed, the Kruskal-Wallis test was used. To assess diff"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "rfs"
+      ],
+      "examples": [
+        {
+          "match": "RFs",
+          "context": "ectronic case report forms (eCRFs) input system for LEAF, LLOD,"
+        },
+        {
+          "match": "RFs",
+          "context": "ectronic case report forms (eCRFs) input system for LEAF, LLOD,"
+        },
+        {
+          "match": "RFs",
+          "context": "ectronic case report forms (eCRFs) for the platform. We integra"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "anova"
+      ],
+      "examples": [
+        {
+          "match": "ANOVA",
+          "context": "r cohorts were compared using ANOVA for continuous variables and"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "spirit"
+      ],
+      "examples": [
+        {
+          "match": "Spirit",
+          "context": "Korean Versions of the Daily Spiritual Experience Scale; KDSQ, Ko"
+        },
+        {
+          "match": "Spirit",
+          "context": "Korean Versions of the Daily Spiritual Experience Scale; KDSQ, Ko"
+        }
+      ]
+    },
+    "data_types": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "us variables and \u03c72 tests for categorical variables. If the continuous"
+        },
+        {
+          "match": "continuous",
+          "context": "hat should be managed through continuous quality checks to minimize da"
+        },
+        {
+          "match": "continuous",
+          "context": "were compared using ANOVA for continuous variables and \u03c72 tests for ca"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "recruitment, assessment, and longitudinal monitoring of participants fo"
+        },
+        {
+          "match": "Longitudinal",
+          "context": "rs. The four cohorts are: the Longitudinal Study of Early onset dementia"
+        },
+        {
+          "match": "Longitudinal",
+          "context": "ly members (LEAF) cohort, the Longitudinal/cohort Study of Patients with"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "population using a multistage cluster sampling design. We did not p"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "e of the study (Supplementary Table 1). All centers participating i"
+        },
+        {
+          "match": "Table 1",
+          "context": "brain diseases (Supplementary Table 1). We then used the Delphi met"
+        },
+        {
+          "match": "Table 1",
+          "context": "nationally accepted measures (Table 1) that are validated and relia"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "linguistic accuracy, cultural sensitivity, and relevance, especially wh"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...for continuous variables and \u03c72 tests for categorical variabl..."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...ienna, Austria). A two-tailed p-value<0.05 was considered statistic..."
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...recruitment, assessment, and longitudinal monitoring of participants fo..."
+      },
+      {
+        "message": "Categorical data mentioned, but no appropriate categorical tests found.",
+        "evidence": "...us variables and \u03c72 tests for categorical variables. If the continuous..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...recruitment, assessment, and longitudinal monitoring of participants fo..."
+      },
+      {
+        "message": "ANOVA mentioned without specifying post-hoc tests.",
+        "evidence": "...for continuous variables and \u03c72 tests for categorical variabl..."
+      },
+      {
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...ectronic case report forms (eCRFs) input system for LEAF, LLOD,..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...ienna, Austria). A two-tailed p-value<0.05 was considered statistic..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...yses were conducted using the SAS Enterprise Guide (version 7.1..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...linguistic accuracy, cultural sensitivity, and relevance, especially wh..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: anova"
+      },
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'p-value' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "title": "Spatiotemporal proteomics reveals the biosynthetic lysosomal membrane protein interactome in neuronsThe lysosome as a regulatory hubLysosomes as dynamic regulators of cell and organismal homeostasisLysosomes as coordinators of cellular catabolism, metabolic signalling and organ physiologySorting of lysosomal proteinsIsolation and characterization of human lysosomal membrane glycoproteins, h-lamp-1 and h-lamp-2. Major sialoglycoproteins carrying polylactosaminoglycanAsparagine-linked oligosaccharides protect Lamp-1 and Lamp-2 from intracellular proteolysisLAMP proteins are required for fusion of lysosomes with phagosomeshVPS41 and VAMP7 function in direct TGN to late endosome transport of lysosomal membrane proteinsLysosome biogenesis and lysosomal membrane proteins: trafficking meets functionBORC/kinesin-1 ensemble drives polarized transport of lysosomes into the axonNeuronal soma-derived degradative lysosomes are continuously delivered to distal axons to maintain local degradation capacityLysosomal dysfunction at the centre of Parkinson\u2019s disease and frontotemporal dementia/amyotrophic lateral sclerosisSynchronization of secretory protein traffic in populations of cellszapERtrap: a light-regulated ER release system reveals unexpected neuronal trafficking pathwaysSegregation in the Golgi complex precedes export of endolysosomal proteins in distinct transport carriersSpatially resolved proteomic mapping in living cells with the engineered peroxidase APEX2ARF family G proteins and their regulators: roles in membrane transport, development and diseaseCargo recognition in clathrin-mediated endocytosisRab6 regulates transport and targeting of exocytotic carriersTBC1D23 is a bridging factor for endosomal vesicle capture by golgins at the trans-GolgiA Rab11/Rip11 protein complex regulates apical membrane trafficking via recycling endosomesRab4b is a small GTPase involved in the control of the glucose transporter GLUT4 localization in adipocyteEARP is a multisubunit tethering complex involved in endocytic recyclingSpatial snapshots of amyloid precursor protein intramembrane processing via early endosome proteomicsCLN3 is required for the clearance of glycerophosphodiesters from lysosomesLysosomal GPCR-like protein LYCHOS signals cholesterol sufficiency to mTORC1RNA granules hitchhike on lysosomes for long-distance transport, using annexin A11 as a molecular tetherA lysosome membrane regeneration pathway depends on TBC1D15 and autophagic lysosomal reformation proteinsA phosphoinositide signalling pathway mediates rapid lysosomal repairDevelopment and comparative evaluation of endolysosomal proximity labeling-based proteomic methods in human IPSC-derived neuronsNon-canonical mTORC1 signaling at the lysosomeThe molecular basis of nutrient sensing and signalling by mTORC1 in metabolism regulation and diseaseArl8 and SKIP act together to link lysosomes to kinesin-1BORC, a multisubunit complex that regulates lysosome positioningBORC functions upstream of kinesins 1 and 3 to coordinate regional movement of lysosomes along different microtubule tracksTFEB regulates lysosomal positioning by modulating TMEM55B expression and JIP4 recruitment to lysosomesTRAK/Milton motor-adaptor proteins steer mitochondrial trafficking to axons and dendritesFeedback-driven mechanisms between microtubules and the endoplasmic reticulum instruct neuronal polarityPhosphatidylinositol 3,5-bisphosphate facilitates axonal vesicle transport and presynapse assemblySorting of lysosomal membrane glycoproteins lamp-1 and lamp-2 into vesicles distinct from mannose 6-phosphate receptor/\u03b3-adaptin vesicles at the trans-Golgi networkVAMP4 regulates insulin levels by targeting secretory granules to lysosomesVAMP4 directs synaptic vesicles to a pool that selectively maintains asynchronous neurotransmissionMolecular control of local translation in axon development and maintenanceLocal translation in neurons: visualization and functionLate endosomes act as mRNA translation platforms and sustain mitochondria in axonsStructural basis for the coevolution of a viral RNA\u2013protein complexDynamic mapping of proteome trafficking within and between living cells by TransitIDCharacterization of LAMP1-labeled nondegradative lysosomal and endocytic compartments in neuronsRouting of the RAB6 secretory pathway towards the lysosome related organelle of melanocytesCombined kinesin-1 and kinesin-3 activity drives axonal trafficking of TrkB receptors in Rab6 carriersPresynaptic biogenesis requires axonal transport of lysosome-related vesiclesControl of synaptic vesicle release probability via VAMP4 targeting to endolysosomesMessenger RNA transport on lysosomal vesicles maintains axonal mitochondrial homeostasis and prevents axonal degenerationGermline transmission and tissue-specific expression of transgenes delivered by lentiviral vectorsLentivirus-delivered stable gene silencing by RNAi in primary cellsmScarlet: a bright monomeric red fluorescent protein for cellular imagingKi-67 acts as a biological surfactant to disperse mitotic chromosomesVisualization of retroviral replication in living cells reveals budding into multivesicular bodiesEarly/recycling endosomes-to-TGN transport involves two SNARE complexes and a Rab6 isoformDirected evolution of APEX2 for electron microscopy and proximity labelingMental illnesses-associated Fxr1 and its negative regulator Gsk3\u03b2 are modulators of anxiety and glutamatergic neurotransmissionNeuron specific Rab4 effector GRASP-1 coordinates membrane specialization and maturation of recycling endosomesSpecific KIF1A\u2013adaptor interactions control selective cargo recognitionImaging the polarized sorting of proteins from the golgi complex in live neuronsMaxQuant enables high peptide identification rates, individualized ppb-range mass accuracies and proteome-wide protein quantificationThe Perseus computational platform for comprehensive analysis of (prote) omics dataVolcaNoseR is a web app for creating, exploring, labeling and sharing volcano plotsA new phase of networking: the molecular composition and regulatory dynamics of mammalian stress granulesContext-dependent and disease-specific diversity in protein interactions within stress granulesSaturated fatty acids entrap PDX1 in stress granules and impede islet beta cell functionA guided tour into subcellular colocalization analysis in light microscopy",
+  "pmcid": "11868546",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "thod was used to predetermine sample size, and no data were excluded fr"
+        },
+        {
+          "match": "sample size",
+          "context": "thod was used to predetermine sample size, and no data were excluded fr"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "allocation"
+      ],
+      "examples": [
+        {
+          "match": "allocation",
+          "context": "stigators were not blinded to allocation during experiments and outcom"
+        },
+        {
+          "match": "allocation",
+          "context": "stigators were not blinded to allocation during experiments and outcom"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "ed and investigators were not blinded to allocation during experime"
+        },
+        {
+          "match": "blinded",
+          "context": "ed and investigators were not blinded to allocation during experime"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "tegy for randomization and/or stratification was employed. Data was analyz"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "graphpad prism"
+      ],
+      "examples": [
+        {
+          "match": "GraphPad Prism",
+          "context": "formed using Microsoft Excel, GraphPad Prism (version 9.5.1), MaxQuant (Ve"
+        },
+        {
+          "match": "GraphPad Prism",
+          "context": "formed using Microsoft Excel, GraphPad Prism (version 9.5.1), MaxQuant (Ve"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "tukey"
+      ],
+      "examples": [
+        {
+          "match": "Tukey",
+          "context": "e-way ANOVA tests followed by Tukey\u2019s multiple comparison test we"
+        },
+        {
+          "match": "Tukey",
+          "context": "e-way ANOVA tests followed by Tukey\u2019s multiple comparison test we"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "p\u2009<\u20090.01",
+        "p\u2009<\u20090.05",
+        "p\u2009<\u20090.001",
+        "p\u2009<\u20090.0001"
+      ],
+      "examples": [
+        {
+          "match": "p\u2009<\u20090.05",
+          "context": "Map 4\u2009h (276 proteins, D\u2009\u2265\u20091, p\u2009<\u20090.05) and selected lysosome proteo"
+        },
+        {
+          "match": "p\u2009<\u20090.05",
+          "context": "lowing: ns- not significant, *p\u2009<\u20090.05, **p\u2009<\u20090.01, ***p\u2009<\u20090.001, an"
+        },
+        {
+          "match": "p\u2009<\u20090.01",
+          "context": "not significant, *p\u2009<\u20090.05, **p\u2009<\u20090.01, ***p\u2009<\u20090.001, and ****p\u2009<\u20090."
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "mann-whitney",
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "ted using unpaired two sample t-test (p value\u2009<\u20090.05, log2 fold ch"
+        },
+        {
+          "match": "t-test",
+          "context": "h) using unpaired two sample t-test (p value\u2009<\u20090.05, log2 fold ch"
+        },
+        {
+          "match": "t-test",
+          "context": "(version 1.6.15.0). Unpaired t-tests, Mann-Whitney tests, Kruskal"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "kruskal-wallis"
+      ],
+      "examples": [
+        {
+          "match": "Kruskal-Wallis",
+          "context": "t-tests, Mann-Whitney tests, Kruskal-Wallis test followed by Dunn\u2019s multi"
+        },
+        {
+          "match": "Kruskal-Wallis",
+          "context": "t-tests, Mann-Whitney tests, Kruskal-Wallis test followed by Dunn\u2019s multi"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "anova"
+      ],
+      "examples": [
+        {
+          "match": "ANOVA",
+          "context": "arison test, ordinary one-way ANOVA tests followed by Tukey\u2019s mul"
+        },
+        {
+          "match": "ANOVA",
+          "context": "arison test, ordinary one-way ANOVA tests followed by Tukey\u2019s mul"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "ved degradative lysosomes are continuously delivered to distal axons t"
+        },
+        {
+          "match": "continuous",
+          "context": "iments, only cells displaying continuous labeling of the cytosolic flu"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "paired t-test"
+      ],
+      "examples": [
+        {
+          "match": "paired t-test",
+          "context": "Perseus (version 1.6.15.0). Unpaired t-tests, Mann-Whitney tests, Kruskal"
+        },
+        {
+          "match": "paired t-test",
+          "context": "Perseus (version 1.6.15.0). Unpaired t-tests, Mann-Whitney tests, Kruskal"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "imputation"
+      ],
+      "examples": [
+        {
+          "match": "imputation",
+          "context": "aining hits were subjected to imputation from normal distribution set"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "dunn",
+        "tukey"
+      ],
+      "examples": [
+        {
+          "match": "Tukey",
+          "context": "e-way ANOVA tests followed by Tukey\u2019s multiple comparison test we"
+        },
+        {
+          "match": "Tukey",
+          "context": "e-way ANOVA tests followed by Tukey\u2019s multiple comparison test we"
+        },
+        {
+          "match": "Dunn",
+          "context": "uskal-Wallis test followed by Dunn\u2019s multiple comparison test, o"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "excluded",
+        "categorized"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "unique peptide count <2 were excluded. Each condition was then sepa"
+        },
+        {
+          "match": "excluded",
+          "context": "s than 1 valid value would be excluded, while experimental group (wi"
+        },
+        {
+          "match": "excluded",
+          "context": "than 3 valid values would be excluded. The remaining hits were subj"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "dic"
+      ],
+      "examples": [
+        {
+          "match": "DIC",
+          "context": "an-Apochromat \u00d763 NA 1.40 oil DIC objective. For knockdown expe"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "000), whereas MS2 was in high-sensitivity mode (R\u2009>\u200915,000) and 28% nor"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 14,
+      "unique_matches": [
+        "quantification",
+        "confocal",
+        "fluorescence",
+        "microscopy"
+      ],
+      "examples": [
+        {
+          "match": "confocal",
+          "context": "ogawa CSU-X1-A1 spinning disk confocal unit (Roper Scientific), a Ph"
+        },
+        {
+          "match": "confocal",
+          "context": "c). Cells were imaged using a confocal laser-scanning microscope (LS"
+        },
+        {
+          "match": "microscopy",
+          "context": "olution of APEX2 for electron microscopy and proximity labelingMental"
+        }
+      ]
+    }
+  }
+}

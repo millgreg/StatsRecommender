@@ -1,0 +1,285 @@
+{
+  "title": "Cancer Unveiling: A Profile of Incidence and Trends in Bam City, Southeast IranGlobal, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016Global Status Report on Noncommunicable Diseases 2010Cancer incidence and mortality worldwide: sources, methods and major patterns in GLOBOCAN 2012Death Report from 10 Provinces in Iran.Review of cancer registration and cancer data in Iran, a historical prospectCancer incidence and trend analysis in Shahroud, Iran, 2000 - 2010Incidence of cancers in Kuzestan Province of Iran: trend from 2004 to 2008Epidemiology and trend of cancer in Yazd, a central province of Iran, 2005-2009Time trend analysis of stomach cancer incidence in the west of IranCancer incidence in southern Iran, 1998-2002: results of population-based cancer registryCancer in AfghanistanIran Cancer Statistics in 2012 and projection of cancer incidence by 2035Epidemiology of cancer in Mazandaran Province 2006Cancer incidence in Golestan Province: report of an ongoing population-based cancer registry in Iran between 2004 and 2008Time trend analysis of stomach cancer incidence in the west of IranWorld Cancer Report 2008Epidemiology and trend of cancers in the province of Kerman: southeast of IranEpidemiology and prognosis of breast cancer in young womenEstablished breast cancer risk factors and risk of intrinsic tumor subtypesPrognostic factors of breast cancer survival in the Islamic Republic of Iran: an additive empirical Bayesian approachA comparison of breast cancer survival among young, middle-aged, and elderly patients in southern Iran using Cox and empirical Bayesian additive hazard modelsEpidemiology of bladder cancers in Fars Province, Southern Iran (2003\u20132008)An epidemiological review of common cancers in Iran; a review articleThe epidemiological landscape of multiple myeloma: a global cancer registry estimate of disease burden, risk factors, and temporal trendsEnvironmental and occupational causes of cancer: new evidence 2005-2007Cancer control in low-and middle-income countries: is it time to consider screening?Correlation between nitrogen dioxide as an air pollution indicator and breast cancer: a systematic review and meta-analysisRisk factors for lung cancer worldwideEsophageal cancer: risk factors, screening and endoscopic treatment in Western and Eastern countriesThe prevalence of smoking and related factors in Kerman high school studentsIncidence trend and epidemiology of common cancers in the center of IranCancer surveillance series: recent trends in childhood cancer incidence and mortality in the United StatesTrends and age-period-cohort effects on mortality of the three major gynecologic cancers in China from 1990 to 2019: cervical, ovarian and uterine cancer",
+  "pmcid": "12727007",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "heterogeneity",
+          "context": "pulation structure exhibits a heterogeneity.   Population pyramid of Bam"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "spss",
+        "graphpad prism"
+      ],
+      "examples": [
+        {
+          "match": "GraphPad Prism",
+          "context": "d using SPSS (version 22) and GraphPad Prism (version 9). This cross-secti"
+        },
+        {
+          "match": "GraphPad Prism",
+          "context": "d using SPSS (version 22) and GraphPad Prism (version 9). The determinatio"
+        },
+        {
+          "match": "SPSS",
+          "context": "analysis was performed using SPSS (version 22) and GraphPad Pri"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "N:  FOOTER: Abbreviation: CI, confidence interval."
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "bayesian"
+      ],
+      "examples": [
+        {
+          "match": "Bayesian",
+          "context": "f Iran: an additive empirical Bayesian approachA comparison of breas"
+        },
+        {
+          "match": "Bayesian",
+          "context": "Iran using Cox and empirical Bayesian additive hazard modelsEpidemi"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "s, duplicated information was excluded. The database contains inform"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...s, duplicated information was excluded. The database contains inform..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...d using SPSS (version 22) and GraphPad Prism (version 9). This cross-secti..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

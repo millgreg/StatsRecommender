@@ -1,0 +1,303 @@
+{
+  "title": "A single-arm pilot study of a brief cognitive-behavioral therapy for insomnia intervention among Japanese occupational therapy and physical therapy university students with sleep disturbancesA randomized controlled trial of cognitive behavioral therapy for insomnia: an effective treatment for comorbid insomnia and depressionDoes cognitive behaviour therapy for insomnia reduce repetitive negative thinking and sleep-related worry beliefs? A systematic review and meta-analysisSleep in a large, multi-university sample of college students: sleep problem prevalence, sex differences, and mental health correlatesThe two-process model of sleep regulation: a reappraisalSleep quality and perceived stress among health science students during online education-a single institution studySleep health: can we define it? Does it matter?Efficacy of brief behavioral treatment for chronic insomnia in older adultsThe consensus sleep diary: standardizing prospective sleep self-monitoringIdentifying critical beliefs about sleep in primary insomniaInsufficient sleep syndrome: is it time to classify it as a major noncommunicable disease?Longitudinal relationships among problematic mobile phone use, bedtime procrastination, sleep quality and depressive symptoms in chinese college students: a cross-lagged panel analysisQuality of sleep and depression in college students: a systematic reviewPsychometric assessment of subjective sleep quality using the japanese version of the pittsburgh sleep quality index (PSQL-J) in psychiatric disordered and control subjectsRestoring effective sleep tranquility (rest): a feasibility and pilot studyFollow-up analyses from a wait-list controlled trial of occupational therapist\u2013delivered cognitive\u2013behavioral therapy for insomnia among veterans with chronic insomniaMeasuring subjective sleep quality: a reviewSleep and occupational performance are inseparable: why occupational therapy practice and research should consider sleep and circadian rhythmValidation of the Japanese version of the sleep hygiene practice scaleThe efficacy of a pennebaker-like writing intervention for poor sleepersValidity of the Japanese version of the morningness-eveningness questionnaireA systematic review of studies on the prevalence of insomnia in university studentsThe Relationship between a night usage of mobile phone and sleep habit and the circadian typology of Japanese students aged 18 - 30 yrsDevelopment of the Japanese version of the engagement in meaningful activities surveyImpact of sleep problems on daytime function in school life: a cross-sectional study involving Japanese University studentsGuided online or face-to-face cognitive behavioral treatment for insomnia: a randomized wait-list controlled trialPrevalence and correlates of insufficient sleep syndrome in Japanese young adults: a web-based cross-sectional studyWe know CBT-I works, now what?Development of the Japanese version of the insomnia severity index (ISI-J)Development of the Japanese version of dysfunctional beliefs and attitudes about sleep scale (DBAS-J)Patient Health Questionnaire (PHQ-9, PHQ-15) nihongoban oyobi Generalized Anxiety Disorder\u22127 nihongoban-up to date-[An up-to-date letter in the Japanese version of PHQ-9, PHQ-15, GAD-7]Validation and utility of a Japanese version of the GAD-7The relationships between life satisfaction and sleep quality, sleep duration and variability of sleep in university studentsManagement of chronic insomnia disorder in adults: a clinical practice guideline from the American College of PhysiciansAtarasii yokuutusei jiko hyouka syakudo ni tuite [A new self-report depression scale]Effects of interventions on insomnia symptoms in university students using a systematic review and meta\u2013analysisDevelopment of a Japanese version of the epworth sleepiness scale (JESS) based on item response theoryEffects of brief cognitive behavioral therapy for insomnia on improving depression among community-dwelling older adults: a randomized controlled comparative studyEpidemiology of insomnia in college students: relationship with mental health, quality of life, and substance use difficultiesA pilot randomized controlled trial of the effects of cognitive-behavioral therapy for insomnia on sleep and daytime functioning in college studentsSleep as an occupational needA multiple health behavior change, self-monitoring mobile app for adolescents: development and usability study of the health4life appAn E-mail delivered CBT for sleep-health program for college students: effects on sleep quality and depression symptomsClinical management of insomnia with brief behavioral treatment (BBTI)How does E-mail-delivered cognitive behavioral therapy work for Young adults (18\u201328 years) with insomnia? Mediators of changes in insomnia, depression, anxiety, and stressInsomnia, sleep duration and academic performance: a national survey of Norwegian college and university students",
+  "pmcid": "12713863",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "ents with sleep disturbancesA randomized controlled trial of cognitive behavioral thera"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "tance use difficultiesA pilot randomized controlled trial of the effects of cognitive-b"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "sd",
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "Standard Deviation",
+          "context": "line to posttest. FOOTER: SD, Standard Deviation. \u2020Wilcoxon rank sum test, \u2021de"
+        },
+        {
+          "match": "Standard Deviation",
+          "context": "ingful Activities Survey; SD, Standard Deviation. \u2020Wilcoxon rank sum test, \u2021De"
+        },
+        {
+          "match": "Standard Deviation",
+          "context": "o 3-mo follow-up. FOOTER: SD, Standard Deviation. \u2020Wilcoxon rank sum test, \u2021De"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "wilcoxon",
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "xon rank sum test, \u2021dependent t-test. CAPTION: Change in outcomes"
+        },
+        {
+          "match": "t-test",
+          "context": "xon rank sum test, \u2021Dependent t-test. CAPTION: Sleep hygiene pract"
+        },
+        {
+          "match": "t-test",
+          "context": "xon rank sum test, \u2021Dependent t-test."
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "Longitudinal",
+          "context": "major noncommunicable disease?Longitudinal relationships among problemat"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...xon rank sum test, \u2021dependent t-test. CAPTION: Change in outcomes..."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...major noncommunicable disease?Longitudinal relationships among problemat..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Appropriately used paired tests for dependent data.",
+        "evidence": "...major noncommunicable disease?Longitudinal relationships among problemat..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test"
+      },
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

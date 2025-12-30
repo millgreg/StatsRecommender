@@ -1,0 +1,275 @@
+{
+  "title": "Polysomnographically mediated cognitive improvements in individuals with insomnia symptoms following continuous theta-burst stimulation of the default mode networkHomeostatic sleep regulation in habitual short sleepers and long sleepersValidation of the Insomnia Severity Index as an outcome measure for insomnia researchFitting linear mixed-effects models using lme4Pregabalin increases slow-wave sleep and may improve attention in patients with partial epilepsy and insomniaAASM scoring manual updates for 2017 (version 2.4)The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and researchTiming of REM sleep is coupled to the circadian rhythm of body temperature in manSTOP-Bang questionnaire: a practical approach to screen for obstructive sleep apneaSlow-wave sleep and waking cognitive performance among older adults with and without insomnia complaintsAcoustic enhancement of slow wave sleep on consecutive nights improves alertness and attention in chronically short sleepersSensitivity and specificity of polysomnographic criteria for defining insomniaEffects of sleep loss on delta (0.3\u20133 Hz) EEG and eye movement density: new observations and hypothesesSelective slow-wave sleep deprivation and time-of-night effects on cognitive performance upon awakeningAn increase in sleep slow waves predicts better working memory performance in healthy individualsRapid eye movement sleep deprivation selectively impairs recall of fear extinction in hippocampus-independent tasks in ratsSleep characteristics and cognitive impairment in the general population: the HypnoLaus studykenward-roger approximation and parametric bootstrap methods for tests in linear mixed models\u2013the R package pbkrtestTranscranial magnetic stimulation cortical oscillations and improve cognition in obstructive sleep apnea patientsAU-Night sleep polygraphic recordings of healthy aged persons: REM and slow-wave sleepTranscranial magnetic stimulation of the default mode network to improve sleep in individuals with insomnia symptoms: protocol for a double-blind randomized controlled trialRepetitive transcranial magnetic stimulation of the right parietal cortex for comorbid generalized anxiety disorder and insomnia: a randomized, double-blind, sham-controlled pilot studyLayers of human brain activity: a functional model based on the default mode network and slow oscillationsEfficacy and placebo response of multimodal treatments for primary insomnia: a network meta-analysisEfficacy and placebo response of repetitive transcranial magnetic stimulation for primary insomnianew method for measuring daytime sleepiness: The Epworth Sleepiness ScaleHyperarousal and beyond: new insights to the pathophysiology of insomnia disorder through functional neuroimaging studiesSmall sample inference for fixed effects from restricted maximum likelihoodFunctional connectivity of the default mode network predicts subsequent polysomnographically measured sleep in people with symptoms of insomniaThe effect of alpha rhythm sleep on EEG activity and individuals' attentionWhen thinking impairs sleep: trait, daytime and nighttime repetitive thinking in insomniaDeficits in attention performance are associated with insufficiency of slow-wave sleep in insomniaOvernight delta dynamics associated with daytime psychomotor performance in adults with insomnia and healthy controlsThe default mode network in healthy individuals: a systematic review and meta-analysisInsomnia disorder and brain's default-mode networkEffects of sleep stage and sleep episode length on the alerting, orienting, and conflict components of attentionPoor sleep quality impairs cognitive performance in older adultsProlonged sleep latency and reduced REM latency are associated with depressive symptoms in a Japanese working populationTranscranial magnetic stimulation therapeutic applications on sleep and insomnia: a reviewSleep promotes generalization of extinction of conditioned fearAberrant functional connectivity architecture in participants with chronic insomnia disorder accompanying cognitive dysfunction: a whole-brain, data-driven analysisThe Repeatable Battery for the Assessment of Neuropsychological Status (RBANS): preliminary clinical validityA systematic review and meta-analysis on placebo response to repetitive transcranial magnetic stimulation for depression trialsInsomnia and comorbid psychiatric disordersHome is where sleep is: an ecological approach to test the validity of actigraphy for the assessment of insomniaREM sleep deprivation affects extinction of cued but not contextual fear conditioningEffects of REM deprivation and an NMDA agonist on the extinction of conditioned fearSleep deprivation disrupts recall of conditioned fear extinctionREM sleep and safety signal learning in posttraumatic stress disorder: a preliminary study in military veteransThe effect of repetitive transcranial magnetic stimulation for insomnia: a systematic review and meta-analysisSlow brain oscillations of sleep, resting state, and vigilanceModels for predicting sleep latency and sleep durationSleep-dependent learning and memory consolidationOvernight therapy? The role of sleep in emotional brain processingInsomnia and cognitive performance: a systematic review and meta-analysisAstroglial mechanisms underlying chronic insomnia disorder: a Clinical StudyFocus: attention science: can slow-wave sleep enhancement improve memory? A review of current approaches and cognitive outcomes",
+  "pmcid": "12713820",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": ": protocol for a double-blind randomized controlled trialRepetitive transcranial magnet"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "Insomnia Severity Index as an outcome measure for insomnia researchFitting"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": ". FOOTER:  CAPTION: Means and standard deviations of cognitive change scores a"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "alpha",
+          "context": "toms of insomniaThe effect of alpha rhythm sleep on EEG activity"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "mixed-effects",
+        "bootstrap",
+        "linear mixed model"
+      ],
+      "examples": [
+        {
+          "match": "linear mixed model",
+          "context": "ootstrap methods for tests in linear mixed models\u2013the R package pbkrtestTransc"
+        },
+        {
+          "match": "mixed-effects",
+          "context": "somnia researchFitting linear mixed-effects models using lme4Pregabalin i"
+        },
+        {
+          "match": "bootstrap",
+          "context": "approximation and parametric bootstrap methods for tests in linear m"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "mixed-effect"
+      ],
+      "examples": [
+        {
+          "match": "mixed-effect",
+          "context": "somnia researchFitting linear mixed-effects models using lme4Pregabalin"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "h insomnia symptoms following continuous theta-burst stimulation of th"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "specificity",
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "Sensitivity",
+          "context": "in chronically short sleepersSensitivity and specificity of polysomnog"
+        },
+        {
+          "match": "specificity",
+          "context": "short sleepersSensitivity and specificity of polysomnographic criteria"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

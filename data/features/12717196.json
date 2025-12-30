@@ -1,0 +1,392 @@
+{
+  "title": "Efficacy and Safety of Non-Vitamin K Antagonist Oral Anticoagulants Compared with Vitamin K Antagonists in Patients with Atrial Fibrillation and Type 2 Valvular Heart Disease: A Systematic Review and Meta-AnalysisValvular heart disease: new concepts in pathophysiology and therapeutic approachesAtrial fibrillation: pathogenesis, predisposing factors, and genetics2022 AHA/ACC/HFSA guideline for the management of heart failure: executive summary: a report of the American College of Cardiology/American Heart Association joint committee on clinical practice guidelinesImpact of valvular heart disease on mortality, thromboembolic and cardiac events in japanese patients with atrial fibrillation - the Fushimi AF RegistryThromboembolic risk in nonanticoagulated patients with atrial fibrillation and valvular heart diseaseAntithrombotic therapy in atrial fibrillation associated with valvular heart disease: a joint consensus document from the European Heart Rhythm Association (EHRA) and European Society of Cardiology working group on thrombosis, endorsed by the ESC working group on valvular heart disease, Cardiac Arrhythmia Society of Southern Africa (CASSA), Heart Rhythm Society (HRS), Asia Pacific Heart Rhythm Society (APHRS), South African Heart (SA Heart) Association and Sociedad Latinoamericana de Estimulaci\u00f3n Card\u00edaca y Electrofisiolog\u00eda (SOLEACE)Warfarin for prevention of thromboembolism in atrial fibrillation: comparison of patient characteristics and outcomes of the \u201creal-world\u201d Michigan anticoagulation quality improvement initiative (MAQI(2)) registry to the RE-LY, ROCKET-AF, and ARISTOTLE trialsEstimation of the impact of warfarin\u2019s time-in-therapeutic range on stroke and major bleeding rates and its influence on the medical cost avoidance associated with novel oral anticoagulant use-learnings from ARISTOTLE, ROCKET-AF, and RE-LY trials2023 ACC/AHA/ACCP/HRS Guideline for the diagnosis and management of atrial fibrillation: a report of the American College of Cardiology/American Heart Association joint committee on clinical practice guidelinesMitral valve disease, systemic embolism and anticoagulantsDabigatran versus warfarin in patients with mechanical heart valvesRivaroxaban in rheumatic heart disease-associated atrial fibrillationApixaban or warfarin in patients with an on-x mechanical aortic valveType 2 valvular heart disease affects decision making for anticoagulation in patients with atrial fibrillation: the UMBRIA-fibrillazione atriale prospective studyThe PRISMA extension statement for reporting of systematic reviews incorporating network meta-analyses of health care interventions: checklist and explanationsDefinition of major bleeding in clinical investigations of antihemostatic medicinal products in non-surgical patientsEdoxaban versus vitamin K antagonist for atrial fibrillation after TAVRRivaroxaban in patients with atrial fibrillation and a bioprosthetic mitral valveValvular heart disease patients on edoxaban or warfarin in the ENGAGE AF-TIMI 48 TrialComparison of dabigatran and warfarin in patients with atrial fibrillation and valvular heart disease: the RE-LY trial (randomized evaluation of long-term anticoagulant therapy)Dabigatran versus warfarin after bioprosthesis valve replacement for the management of atrial fibrillation postoperatively: DAWA pilot studyApixaban in comparison with warfarin in patients with atrial fibrillation and valvular heart disease: findings from the apixaban for reduction in stroke and other thromboembolic events in atrial fibrillation (ARISTOTLE) trialClinical characteristics and outcomes with rivaroxaban vs. warfarin in patients with non-valvular atrial fibrillation but underlying native mitral and aortic valve disease participating in the ROCKET AF trialEfficacy and safety of apixaban vs warfarin in patients with atrial fibrillation and prior bioprosthetic valve replacement or valve repair: insights from the ARISTOTLE trialEdoxaban for the prevention of thromboembolism in patients with atrial fibrillation and bioprosthetic valvesAtrial fibrillation management: a prospective survey in ESC member countries: the Euro heart survey on atrial fibrillationNon-vitamin K antagonist oral anticoagulants in patients with atrial fibrillation and valvular heart diseaseWhat is \u2018valvular\u2019 atrial fibrillation?Prescription patterns of non-vitamin K oral anticoagulants across indications and factors associated with their increased prescribing in atrial fibrillation between 2012\u20132015: a study from the Norwegian prescription databaseTrends in the prescription of novel oral anticoagulants in UK primary careCost-effectiveness analysis of direct oral anticoagulants vs vitamin K antagonists in the elderly with atrial fibrillation: insights from the evidence in a real-world setting",
+  "pmcid": "12717196",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "we interpreted it through the sample size or by exceeding the monitorin"
+        },
+        {
+          "match": "sample size",
+          "context": "we interpreted it through the sample size or by exceeding the monitorin"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "allocation",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomized controlled trial",
+          "context": "EDLINE databases to retrieve, randomized controlled trials (RCTs) comparing NOACs and V"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "ary Information). We included randomized controlled trials (RCTs) that compared NOACs\u2014i"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "l, observational studies, non-randomized controlled trials, animal studies, reviews, an"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "d controlled trial, DB double-blinded, VHD valvular heart disease,"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "heterogeneity",
+          "context": "mployed to assess statistical heterogeneity. P\u2009>\u20090.1 and I2\u2009<\u200950% indicat"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "50% indicated no statistical heterogeneity and a fixed-effects model was"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "sis. If there was statistical heterogeneity (P\u2009<\u20090.1, I2\u2009\u2265\u200950%), the hete"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "porting identical trials. Our primary endpoint for evaluation was treatment"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "p\u2009>\u20090.1",
+        "secondary outcome",
+        "p\u2009<\u20090.1",
+        "alpha",
+        "p\u2009<\u20090.05"
+      ],
+      "examples": [
+        {
+          "match": "P\u2009>\u20090.1",
+          "context": "ss statistical heterogeneity. P\u2009>\u20090.1 and I2\u2009<\u200950% indicated no sta"
+        },
+        {
+          "match": "P\u2009<\u20090.1",
+          "context": "as statistical heterogeneity (P\u2009<\u20090.1, I2\u2009\u2265\u200950%), the heterogeneity"
+        },
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "elative risk (RR) and 95% CI. P\u2009<\u20090.05 was considered statistically"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval",
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "ted as relative risk (RR) and 95% CI. P\u2009<\u20090.05 was considered stat"
+        },
+        {
+          "match": "95% CI",
+          "context": "ted as relative risk (RR) and 95% CI. P\u2009<\u20090.05 was considered stat"
+        },
+        {
+          "match": "confidence interval",
+          "context": "ed as mean difference and 95% confidence interval (CI). Count data are presente"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "chi-square",
+        "relative risk"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "he studies were examined. The chi-square test was employed to assess s"
+        },
+        {
+          "match": "chi-square",
+          "context": "he studies were examined. The chi-square test was employed to assess s"
+        },
+        {
+          "match": "relative risk",
+          "context": ". Count data are presented as relative risk (RR) and 95% CI. P\u2009<\u20090.05 was"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity analysis"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity analysis",
+          "context": "ects model then was used or a sensitivity analysis was performed; If the data pr"
+        },
+        {
+          "match": "sensitivity analysis",
+          "context": "ects model then was used or a sensitivity analysis was performed; If the data pr"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "prisma"
+      ],
+      "examples": [
+        {
+          "match": "PRISMA",
+          "context": "atriale prospective studyThe PRISMA extension statement for repor"
+        }
+      ]
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 21,
+      "unique_matches": [
+        "mean difference",
+        "relative risk",
+        "rr",
+        "or"
+      ],
+      "examples": [
+        {
+          "match": "OR",
+          "context": "AND (\u201cvalvular heart disease\u201d OR \u201cheart valve prosthesis\u201d OR \u201c"
+        },
+        {
+          "match": "OR",
+          "context": "\u201d OR \u201cheart valve prosthesis\u201d OR \u201cheart valve prosthesis impla"
+        },
+        {
+          "match": "OR",
+          "context": "mplantation\u201d) AND (\u201cwarfarin\u201d OR \u201ccoumadin\u201d OR \u201cvitamin K anta"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "ic mitral valves CAPTION: The baseline characteristics in the included studies FOOT"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "excluding"
+      ],
+      "examples": [
+        {
+          "match": "excluding",
+          "context": "ients with AF and type 2 VHD, excluding mitral stenosis (moderate to"
+        },
+        {
+          "match": "excluding",
+          "context": "bstracts independently. After excluding studies that did not meet the"
+        },
+        {
+          "match": "excluding",
+          "context": "bstracts independently. After excluding studies that did not meet the"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "i2\u2009<\u2009"
+      ],
+      "examples": [
+        {
+          "match": "I2\u2009<\u2009",
+          "context": "al heterogeneity. P\u2009>\u20090.1 and I2\u2009<\u200950% indicated no statistical h"
+        },
+        {
+          "match": "I2\u2009<\u2009",
+          "context": "al heterogeneity. P\u2009>\u20090.1 and I2\u2009<\u200950% indicated no statistical h"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "ects model then was used or a sensitivity analysis was performed; If th"
+        },
+        {
+          "match": "sensitivity",
+          "context": "ects model then was used or a sensitivity analysis was performed; If th"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

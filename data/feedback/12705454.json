@@ -1,0 +1,532 @@
+{
+  "title": "A consensus blood transcriptomic framework for sepsisGlobal, regional, and national sepsis incidence and mortality, 1990\u20132017: analysis for the Global Burden of Disease StudySepsis and septic shockEnhancing recovery from sepsis: a reviewWhy have clinical trials in sepsis failed?Sepsis therapies: learning from 30 years of failure of translational research to propose new leadsThe immunology of sepsisThe immunopathology of sepsis and potential therapeutic targetsGenomic landscape of the individual host response and outcomes in sepsis: a prospective cohort studyClassification of patients with sepsis according to blood genomic endotype: a prospective cohort studyShared and distinct aspects of the sepsis transcriptomic response to fecal peritonitis and pneumoniaUnsupervised analysis of transcriptomics in bacterial sepsis across multiple datasets reveals three robust clustersPrognostic and predictive enrichment in sepsisTranscriptomic signatures in sepsis and a differential response to steroids. From the VANISH randomized trialInterleukin-6 receptor antagonists in critically Ill patients with Covid-19Early treatment of COVID-19 with anakinra guided by soluble urokinase plasminogen receptor plasma levels: a double-blind, randomized controlled phase 3 trialTocilizumab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trialRisk stratification and prognosis in sepsis: What have we learned from microarrays?Profiling the dysregulated immune response in sepsis: overcoming challenges to achieve the goal of precision medicineAn immune dysfunction score for stratification of patients with acute infection based on whole-blood gene expressionThe leukocyte non-coding RNA landscape in critically ill patients with sepsiseQTLs identify regulatory networks and drivers of variation in the individual response to sepsisSilhouettes: a graphical aid to the interpretation and validation of cluster analysisControlling the false discovery rate: a practical and powerful approach to multiple testing.Multidimensional analysis of the host response reveals prognostic and pathogen-driven immune subtypes among adults with sepsis in UgandaEffect of early vasopressin vs norepinephrine on kidney failure in patients with septic shock: the VANISH randomized clinical trialNeutrophils and emergency granulopoiesis drive immune suppression and an extreme response endotype during sepsisSCENIC: single-cell regulatory network inference and clusteringSepsis subclasses: a framework for development and interpretationReframing sepsis immunobiology for translation: towards informative subtyping and targeted immunomodulatory therapiesUncovering heterogeneity in sepsis: a comparative analysis of subphenotypesDiscovering transcriptional signatures of disease for diagnosis versus mechanismBroad defects in the energy metabolism of leukocytes underlie immunoparalysis in sepsisMolecular biomarker to assist in diagnosing abdominal sepsis upon ICU admissionA molecular biomarker to diagnose community-acquired pneumonia on intensive care unit admissionA generalizable 29-mRNA neural-network classifier for acute bacterial and viral infectionsAssociation of dendritic cell signatures with autoimmune inflammation revealed by single\u2010cell profiling.A CD8 T cell transcription signature predicts prognosis in autoimmune disease.Comparison of two rapid host-response tests for distinguishing bacterial and viral infection in adults with acute respiratory infectionA rapid host response blood test for bacterial/viral infection discrimination using a portable molecular diagnostic platformParadoxical roles of the neutrophil in sepsis: protective and deleteriousPAD4-deficiency does not affect bacteremia in polymicrobial sepsis and ameliorates endotoxemic shockNETosis: how vital is it?The role of platelets in sepsisThe role of eosinophils in sepsis and acute respiratory distress syndrome: a scoping reviewThe pro-inflammatory phenotype of the human non-classical monocyte subset is attributed to senescenceHeme-derived metabolic signals dictate immune responsesCritical illness-related corticosteroid insufficiency: latest pathophysiology and management guidelinesIdentification of key immune-related genes in the progression of septic shockDexamethasone enhances agonist induction of tissue factor in monocytes but not in endothelial cellsPrednisolone dose-dependently influences inflammation and coagulation during human endotoxemiaaffy\u2014analysis of Affymetrix GeneChip data at the probe levelThe sva package for removing batch effects and other unwanted variation in high-throughput experimentsA framework for oligonucleotide microarray preprocessingfeatureCounts: an efficient general purpose program for assigning sequence reads to genomic featuresFast gapped-read alignment with Bowtie 2Leukocyte transcriptional signatures dependent on LPS dosage in human endotoxemiaMapping identifiers for the integration of genomic datasets with the R/Bioconductor package biomaRtIdentifying functional modules in interaction networks through overlapping Markov clusteringCMA: a comprehensive Bioconductor package for supervised classification with high dimensional dataConsensusClusterPlus: a class discovery tool with confidence assessments and item trackingGene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profilesBiomarkers of sepsis: time for a reappraisalUnderstanding, assessing and treating immune, endothelial and haemostasis dysfunctions in bacterial sepsis",
+  "pmcid": "12705454",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sample size",
+        "n\u2009=\u2009156"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "thod was used to predetermine sample size. All data from the MARS, VANI"
+        },
+        {
+          "match": "sample size",
+          "context": "thod was used to predetermine sample size. All data from the MARS, VANI"
+        },
+        {
+          "match": "n\u2009=\u2009156",
+          "context": "atients from the MARS cohort (n\u2009=\u2009156), cDNA was hybridized to Affy"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "randomise"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "l with COVID-19 (RECOVERY): a randomised, controlled, open-label, pla"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "andomized. Investigators were blinded to sample identifiers while c"
+        },
+        {
+          "match": "blinded",
+          "context": "andomized. Investigators were blinded to sample identifiers while c"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "stratification",
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "pen-label, platform trialRisk stratification and prognosis in sepsis: What"
+        },
+        {
+          "match": "stratification",
+          "context": "immune dysfunction score for stratification of patients with acute infect"
+        },
+        {
+          "match": "heterogeneity",
+          "context": "odulatory therapiesUncovering heterogeneity in sepsis: a comparative anal"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "bioconductor"
+      ],
+      "examples": [
+        {
+          "match": "Bioconductor",
+          "context": "f genomic datasets with the R/Bioconductor package biomaRtIdentifying fu"
+        },
+        {
+          "match": "Bioconductor",
+          "context": "lusteringCMA: a comprehensive Bioconductor package for supervised classi"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "multiple testing",
+        "bonferroni",
+        "false discovery rate"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "OVA). bChi-squared test after Bonferroni correction. cOther sites of i"
+        },
+        {
+          "match": "Bonferroni",
+          "context": "NOVA. bChi-squared test after Bonferroni correction. cKruksal\u2013Wallis t"
+        },
+        {
+          "match": "false discovery rate",
+          "context": "uster analysisControlling the false discovery rate: a practical and powerful app"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "p\u2009<\u20090.05"
+      ],
+      "examples": [
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "all analyses. An FDR-adjusted P\u2009<\u20090.05 defined significant overrepre"
+        },
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "28-day mortality. Throughout, P\u2009<\u20090.05 demarcated significance unles"
+        },
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "28-day mortality. Throughout, P\u2009<\u20090.05 demarcated significance unles"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "chi-square"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "al data were compared using a chi-squared test and post hoc tests. Kap"
+        },
+        {
+          "match": "chi-square",
+          "context": "al data were compared using a chi-squared test and post hoc tests. Kap"
+        },
+        {
+          "match": "Chi-square",
+          "context": "nalysis of variance (ANOVA). bChi-squared test after Bonferroni correc"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 18,
+      "unique_matches": [
+        "bayesian",
+        "random forest",
+        "propensity score",
+        "bootstrap",
+        "cross-validation"
+      ],
+      "examples": [
+        {
+          "match": "Bayesian",
+          "context": "h effects using the empirical Bayesian method ComBat available in th"
+        },
+        {
+          "match": "propensity score",
+          "context": "tients assigned to CTSs using propensity score matching using the MatchIt v."
+        },
+        {
+          "match": "Propensity score",
+          "context": "ection, septic shock and age. Propensity scores were estimated using a logis"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "log-rank"
+      ],
+      "examples": [
+        {
+          "match": "log-rank",
+          "context": "tests. Kaplan\u2013Meier plots and log-rank tests were done using the sur"
+        },
+        {
+          "match": "log-rank",
+          "context": "tests. Kaplan\u2013Meier plots and log-rank tests were done using the sur"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "anova",
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "scores were estimated using a logistic regression model. Nearest-neighbor match"
+        },
+        {
+          "match": "logistic regression",
+          "context": "t on 28-day mortality through logistic regression. The VANISH trial data (E-MTA"
+        },
+        {
+          "match": "logistic regression",
+          "context": "E-MTAB-7581)13 were used in a logistic regression model evaluating the interact"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "hes), with batches treated as categorical covariates. A vector indicati"
+        },
+        {
+          "match": "categorical",
+          "context": "ed by a Dunn\u2019s post hoc test; categorical data were compared using a ch"
+        },
+        {
+          "match": "categorical",
+          "context": "ed by a Dunn\u2019s post hoc test; categorical data were compared using a ch"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "cluster",
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "te widths using the R package cluster. Importantly, network granula"
+        },
+        {
+          "match": "cluster",
+          "context": "pling, 1,000 iterations and a cluster range of k\u2009=\u20092\u201310. To estimat"
+        },
+        {
+          "match": "cluster",
+          "context": "uette widths available in the cluster package and cophenetic distan"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "post hoc",
+        "dunn"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "is test, followed by a Dunn\u2019s post hoc test; categorical data were c"
+        },
+        {
+          "match": "post hoc",
+          "context": "using a chi-squared test and post hoc tests. Kaplan\u2013Meier plots and"
+        },
+        {
+          "match": "post hoc",
+          "context": "is test, followed by a Dunn\u2019s post hoc test; categorical data were c"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "n their original studies were excluded. The experiments were not ran"
+        },
+        {
+          "match": "excluded",
+          "context": "n their original studies were excluded. The experiments were not ran"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "i-squared"
+      ],
+      "examples": [
+        {
+          "match": "i-squared",
+          "context": "data were compared using a chi-squared test and post hoc tests. Kapl"
+        },
+        {
+          "match": "i-squared",
+          "context": "data were compared using a chi-squared test and post hoc tests. Kapl"
+        },
+        {
+          "match": "i-squared",
+          "context": "lysis of variance (ANOVA). bChi-squared test after Bonferroni correct"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "roc"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "unless stated otherwise. The ROC AUC analysis was performed us"
+        },
+        {
+          "match": "ROC",
+          "context": "ysis was performed using the pROC method in R. NRI was calculat"
+        },
+        {
+          "match": "ROC",
+          "context": "unless stated otherwise. The ROC AUC analysis was performed us"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "transcriptomics",
+        "transcriptome"
+      ],
+      "examples": [
+        {
+          "match": "transcriptomics",
+          "context": "moniaUnsupervised analysis of transcriptomics in bacterial sepsis across mu"
+        },
+        {
+          "match": "Transcriptome",
+          "context": "ybridized to Affymetrix Human Transcriptome Array 2.0 (Thermo Fisher Scie"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...al data were compared using a chi-squared test and post hoc tests. Kap..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...all analyses. An FDR-adjusted P\u2009<\u20090.05 defined significant overrepre..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...tests. Kaplan\u2013Meier plots and log-rank tests were done using the sur..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...n their original studies were excluded. The experiments were not ran..."
+      },
+      {
+        "message": "Diagnostic metrics reported without Confidence Intervals.",
+        "evidence": "...unless stated otherwise. The ROC AUC analysis was performed us..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'transcriptomics'"
+      },
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...OVA). bChi-squared test after Bonferroni correction. cOther sites of i..."
+      },
+      {
+        "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
+        "evidence": "...is test, followed by a Dunn\u2019s post hoc test; categorical data were c..."
+      },
+      {
+        "message": "Detailed reporting of network/meta-analysis metrics.",
+        "evidence": "...data were compared using a chi-squared test and post hoc tests. Kapl..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...unless stated otherwise. The ROC AUC analysis was performed us..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: anova"
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'P\u2009<\u20090.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'cluster' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

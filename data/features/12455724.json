@@ -1,0 +1,388 @@
+{
+  "title": "Neural assemblies coordinated by cortical waves are associated with waking and hallucinatory brain states\nNeural assemblies coordinated by cortical waves are associated with waking and hallucinatory brain states\nIncreased synchronization of neuromagnetic responses during conscious perceptionPerception\u2019s shadow: long-distance synchronization of human brain activitySynchronization of neural activity across cortical areas correlates with conscious perceptionConsciousness and neuronal synchronizationOscillatory neuronal synchronization in primary visual cortex as a correlate of stimulus selectionInvestigating neural correlates of conscious perception by frequency-tagged neuromagnetic responsesCortical travelling waves: Mechanisms and computational principlesTraveling electrical waves in cortex: Insights from phase dynamics and speculation on a computational roleHorizontal propagation of visual activity in the synaptic integration field of area 17 neuronsThe stimulus-evoked population response in visual cortex of awake monkey is a propagating waveVisual evoked feedforward\u2013feedback traveling waves organize neural activity across the cortical hierarchy in miceCompression and Reflection of Visually Evoked Cortical WavesEffects of barbiturates and ether on spontaneous electrical activity of dog brainVisual stimuli induce waves of electrical activity in turtle cortexTraveling waves of activity in primary visual cortex during binocular rivalryPerceptual echoes at 10 Hz in the human brainWaves traveling over a map of visual space can ignite short-term predictions of sensory inputAlpha oscillations and traveling waves: Signatures of predictive coding?Complexity of cortical wave patterns of the wake mouse cortexRotating waves during human sleep spindles organize global patterns of activity that repeat precisely through the nightThe Sleep Slow Oscillation as a Traveling WaveCortical point-spread function and long-range lateral interactions revealed by real-time optical imaging of macaque monkey primary visual cortexSpontaneous travelling cortical waves gate perception in behaving primatesSpontaneously emerging cortical representations of visual attributesThe ability of bispectral index to detect intra-operative wakefulness during isoflurane/air anaesthesia, compared with the isolated forearm techniqueElectroencephalogram signatures of ketamine anesthesia-induced unconsciousnessKetamine triggers a switch in excitatory neuronal activity across neocortexKetamine effects on somatosensory cortical single neurons and on behavior in ratsQuantifying cortical EEG responses to TMS in (Un)consciousnessConsciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamineKetamine and the conscious mindOn anesthesia using ketamine (CI-581): Report o 1st experience in 500 casesIntravenous nonbarbiturate, nonnarcotic analgesics: preliminary studies. I. cyclohexylaminesDissociative anesthesia: further pharmacologic studies and first clinical experience with the phencyclidine derivative Cl-581Taming the ketamine tigerKetamine anesthesiaDeep posteromedial cortical rhythm in dissociationCharacterizing brain dynamics during ketamine-induced dissociation and subsequent interactions with propofol using human intracranial neurophysiologyGeneral anaesthesia: From molecular targets to neuronal pathways of sleep and arousalUnconsciousness with an Active Cortex: Ketamine Anesthesia and Rapid Eye Movement SleepWhat is it like to be a bat?Coherence of visual-evoked gamma oscillations is disrupted by propofol but preserved under equipotent doses of isofluraneVisually evoked 3-5 Hz membrane potential oscillations reduce the responsiveness of visual cortex neurons in awake behaving miceLayer-Specific Physiological Features and Interlaminar Interactions in the Primary Visual Cortex of the MouseStimulus dependence of directed information exchange between cortical layers in macaque V1Alpha and gamma oscillations characterize feedback and feedforward processing in monkey visual cortexThe origin of extracellular fields and currents \u2014 EEG, ECoG, LFP and spikesMouse color and wavelength-specific luminance contrast sensitivity are non-uniform across visual spacePsychophysical measurement of contrast sensitivity in the behaving mouseEvoked potentials during isoflurane anaesthesiaBrief latency click-evoked potentials during waking and sleep in manHuman auditory evoked potentials during natural sleep: the early componentsAwake perception is associated with dedicated neuronal assemblies in the cerebral cortexArchitecture and organization of mouse posterior parietal cortex relative to extrastriate areasGateways of ventral and dorsal streams in mouse visual cortexThe mouse posterior parietal cortex: Anatomy and functionsDynamical representation of odors by oscillating and evolving neural assembliesNeuronal oscillations in cortical networksDiverse Phase Relations among Neuronal Rhythms and Their Potential FunctionSynchronous oscillatory neural ensembles for rules in the prefrontal cortexHippocampal theta oscillations are travelling wavesRapid feature selective neuronal synchronization through correlated latency shiftingWhat does gamma coherence tell us about inter-regional neural communication?Dynamics of Ongoing Activity : Explanation of the Large Variability in Evoked Cortical ResponsesA Sensorimotor Role for Traveling Waves in Primate Visual CortexSpontaneous traveling waves naturally emerge from horizontal fiber time delays and travel through locally asynchronous-irregular statesActivated cortical states: experiments, analyses and modelsNMDA receptor hypofunction produces opposite effects on prefrontal cortex interneurons and pyramidal neuronsKetamine activated glutamatergic neurotransmission by GABAergic disinhibition in the medial prefrontal cortexPreferential effect of isoflurane on top-down vs . bottom-up pathways in sensory cortexExcitatory synaptic transmission mediated by NMDA receptors is more sensitive to isoflurane than are non-NMDA receptor-mediated responsesNeural Correlates of Unconsciousness in Large-Scale Brain NetworksDevelopment of a large-scale functional brain network during human non-rapid eye movement sleepDisruption of Frontal\u2013Parietal Communication by Ketamine, Propofol, and SevofluraneEEG entropy measures indicate decrease of cortical information processing in Disorders of ConsciousnessNeuroscience: Breakdown of cortical effective connectivity during sleepPreserved Feedforward But Impaired Top-Down Processes in the Vegetative StateA Theoretically Based Index of Consciousness Independent of Sensory Processing and BehaviorBreakdown in cortical effective connectivity during midazolam-induced loss of consciousnessKetamine alters rat flash evoked potentialsMesoscale cortical dynamics reflect the interaction of sensory evidence and temporal expectation during perceptual decision-makingDistributed coding of choice, action and engagement across the mouse brainSensory coding and the causal impact of mouse cortex in a visual decisionIsolated correlates of somatosensory perception in the mouse posterior cortexHierarchical models of object recognition in cortexReceptive fields, binocular interaction and functional architecture in the cat\u2019s visual cortexPrimary visual cortex and visual awarenessThe anatomy of conscious vision: an fMRI study of visual hallucinationsCerebral cortex lesions: The dream process and sleep spindlesDreaming and the brain: from phenomenology to neurophysiologyWhat geometric visual hallucinations tell us about the visual cortexDynamic stimulation of visual cortex produces form vision in sighted and blind humansScalp block\u2019 during craniotomy: A classic technique revisitedExperimental Optimization of Current Source-Density Technique for Anuran CerebellumA method for calculating current source density (CSD) analysis without resorting to recording sites outside the sampling volumeA Practical Guide to Wavelet AnalysisFast and accurate spike sorting of high-channel count probes with KiloSortMeasuring phase-amplitude coupling between neuronal oscillations of different frequencies",
+  "pmcid": "12455724",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "n = 7",
+        "n = 100"
+      ],
+      "examples": [
+        {
+          "match": "n = 7",
+          "context": "ls receiving only isoflurane (n = 7) were performed as described"
+        },
+        {
+          "match": "n = 100",
+          "context": "d to time shifted surrogates (n = 100 sets, 100 trials per set), us"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "matlab"
+      ],
+      "examples": [
+        {
+          "match": "MATLAB",
+          "context": "m and filtfilt.m functions in MATLAB, to minimize phase distortion"
+        },
+        {
+          "match": "MATLAB",
+          "context": "e conducted using custom-made MATLAB code unless otherwise specifi"
+        },
+        {
+          "match": "MATLAB",
+          "context": "each pair of trials using the MATLAB function emd.m. This was done"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "timulus activity exceeds five standard deviations of pre-stimulus activity and"
+        },
+        {
+          "match": "standard deviation",
+          "context": "imulus average LFP exceeded 3 standard deviations above the pre-stimulus basel"
+        },
+        {
+          "match": "standard deviation",
+          "context": "normalized to their mean and standard deviation over 400 ms of pre-stimulus a"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "multiple comparisons",
+        "tukey",
+        "sidak",
+        "bonferroni"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "ultiple comparisons using the Bonferroni method (64 ECoG channels with"
+        },
+        {
+          "match": "multiple comparisons",
+          "context": "analysis, thus correcting for multiple comparisons. To determine if the proporti"
+        },
+        {
+          "match": "multiple comparisons",
+          "context": "portions, thus correcting for multiple comparisons. To assess the significance o"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "significance level",
+        "p < 0.05",
+        "p-value",
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "p < 0.05",
+          "context": "tical significance was set at p < 0.05 unless otherwise stated. To d"
+        },
+        {
+          "match": "p-value",
+          "context": "above for experimental data. p-value was then computed empirically"
+        },
+        {
+          "match": "Significance level",
+          "context": "stribution of the surrogates. Significance level was set at 0.05. All neurons"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "Distance was calculated. 95% confidence intervals obtained through bootstrappi"
+        },
+        {
+          "match": "95% confidence",
+          "context": "vers Distance was calculated. 95% confidence intervals obtained through bo"
+        },
+        {
+          "match": "95% confidence",
+          "context": "orm distribution. To estimate 95% confidence bounds on \u2223r\u2223 we generated 10"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "ce intervals obtained through bootstrapping. To determine the similarity"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "bootstrap",
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "ce intervals obtained through bootstrapping. To determine the similarity"
+        },
+        {
+          "match": "bootstrap",
+          "context": "imated empirically from these bootstrap samples. This procedure was i"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "continuous",
+        "proportions",
+        "frequencies"
+      ],
+      "examples": [
+        {
+          "match": "Continuous",
+          "context": "s manner (11 out of 14 mice). Continuous wavelet transform with Morlet"
+        },
+        {
+          "match": "continuous",
+          "context": "ency band was extracted using continuous wavelet transform. The ITPC w"
+        },
+        {
+          "match": "Proportions",
+          "context": "ficant Differences Test among Proportions, thus correcting for multiple"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "Hierarchical",
+          "context": "in the mouse posterior cortexHierarchical models of object recognition"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "tukey",
+        "post hoc",
+        "sidak",
+        "multiple comparisons",
+        "dunn"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "were tested using Dunn-Sidak post hoc analysis, thus correcting for"
+        },
+        {
+          "match": "post hoc",
+          "context": "otheses were tested using the post hoc Tukey\u2019s Honest Significant Di"
+        },
+        {
+          "match": "multiple comparisons",
+          "context": "analysis, thus correcting for multiple comparisons. To determine if the proporti"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "h-specific luminance contrast sensitivity are non-uniform across visual"
+        },
+        {
+          "match": "sensitivity",
+          "context": "sical measurement of contrast sensitivity in the behaving mouseEvoked p"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 30,
+      "unique_matches": [
+        "fluorescence",
+        "mice",
+        "microscopy"
+      ],
+      "examples": [
+        {
+          "match": "mice",
+          "context": "oss the cortical hierarchy in miceCompression and Reflection of"
+        },
+        {
+          "match": "mice",
+          "context": "tex neurons in awake behaving miceLayer-Specific Physiological F"
+        },
+        {
+          "match": "mice",
+          "context": "1 male and 11 female) C57BL/6 mice (Jackson Laboratories). Mice"
+        }
+      ]
+    }
+  }
+}

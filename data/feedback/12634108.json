@@ -1,0 +1,374 @@
+{
+  "title": "Ambient temperature and deaths from homicide in Brazil from 2010-2019: a nationwide space-time\u2013stratified case-crossover studyThe 2020 report of the lancet countdown on health and climate change: responding to converging crisesHot and bothered? Associations between temperature and crime in AustraliaAggression and heat: the influence of ambient temperature, negative affect, and a cooling drink on physical aggressionGlobal warming and U.S. crime rates: an application of routine activity theoryImpact of climate variability and change on crime rates in TangshanSpatiotemporal association between temperature and assaults: a generalized linear mixed-model approachThe relationship between temperature and crime on the cape flats of South AfricaThe association between weather and the number of daily shootings in Chicago (2012\u20132016)Short-term association between ambient temperature and homicide in South Africa: a case-crossover studyAmbient temperature and intentional homicide: a multi-city case-crossover study in the USAssociation between ambient temperature and intentional injuries: a case-crossover analysis using ambulance transport records in JapanOverlap bias in the case-crossover design, with application to air pollution exposuresCase\u2013crossover analyses of air pollution exposure data: referent selection strategies and their implications for biasHot under the collar: a 14-year association between temperature and violent behavior across 436 U.S. countiesHourly associations between heat and ambulance callsShort-term exposure to ambient fine particulate matter and out-of-hospital cardiac arrest: a nationwide case-crossover study in JapanAssociation between heat exposure and hospitalization for diabetes in Brazil during 2000\u20132015: a Nationwide case-crossover studyThe association between heat exposure and hospitalization for undernutrition in Brazil during 2000\u22122015: a nationwide case-crossover studyAssociation between ambient temperature and hospitalization for renal diseases in Brazil during 2000\u20132015: a nationwide case-crossover studyAn evaluation of the Brazilian mortality information systemThe ERA5 global reanalysisHumidity: calculate water vapor measures from temperature and dew pointAssociation between ambient temperature and sex offense: a case-crossover study in seven large US cities, 2007\u20132017Space-time-stratified case-crossover Design in Environmental Epidemiology StudyDistributed lag linear and non-linear models in R: the package dlnmMultivariate meta-analysis for non-linear and other multi-parameter associationsUrban income segregation and homicides: an analysis using Brazilian cities selected by the Salurbal projectCrime and violence in Brazil: systematic review of time trends, prevalence rates and risk factorsCrimes of opportunity or crimes of emotion? Testing two explanations of seasonal change in crimeAssociations of weather conditions with adolescents\u2019 daily physical activity, sedentary time, and sleep durationWeather and crimeHow to deal with sleep problems during heatwaves: practical recommendations from the European insomnia networkFunctional connectivity changes in insomnia disorder: a systematic reviewEyes wide open: a systematic review of the association between insomnia and aggression in forensic contextsObservational and experimental studies on sleep duration and aggression: a systematic review and meta-analysisImpairments to thermoregulation in the elderly during heat exposure eventsHuman temperature regulation under heat stress in health, disease, and injuryTemperature-related mortality: a systematic review and investigation of effect modifiersThe influence of weather conditions on outdoor physical activity among older people with and without osteoarthritis in 6 European countriesWeather impacts on leisure activities in Halifax, Nova ScotiaCriminal behaviour among the elderly: a look into what people think about this emerging topicExplanatory theories of intimate partner homicide perpetration: a systematic reviewHomicide in Sao Paulo, Brazil: assessing spatial-temporal and weather variationsSocioeconomic inequality in vulnerability to all-cause and cause-specific hospitalisation associated with temperature variability: a time-series study in 1814 Brazilian citiesGrowth of lethal violence in Brazil 2000\u20132017: a space-temporal analysis of homicidesTemperature and humidity based projections of a rapid rise in global heat stress exposure during the 21st centuryPopulation attributable fraction in textbooks: time to reviseA history of the population attributable fraction and related measures",
+  "pmcid": "12634108",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "subgroup analysis"
+      ],
+      "examples": [
+        {
+          "match": "subgroup analysis",
+          "context": "assault into 7 categories for subgroup analysis. For example, from X93 to X95"
+        },
+        {
+          "match": "Subgroup analysis",
+          "context": "calculated for each subgroup. Subgroup analysis included age group (0-19, 20-"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "del, we calculated the OR and 95% CI to estimate the association o"
+        },
+        {
+          "match": "95% CI",
+          "context": "vant subgroup, and the OR and 95% CI were calculated for each subg"
+        },
+        {
+          "match": "95% CI",
+          "context": "temperature increase and its 95% CI were calculated using followi"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "s used to derive the national odds ratio (OR) using whole Brazilian da"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sensitivity analysis",
+        "bayesian"
+      ],
+      "examples": [
+        {
+          "match": "Bayesian",
+          "context": "e and humidity, respectively. Bayesian Information Criterion (BIC) v"
+        },
+        {
+          "match": "Sensitivity analysis",
+          "context": "the stratified analyses.20,21 Sensitivity analysis was performed to assess the r"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "linear model",
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "e week).15,16 The conditional logistic regression model was used to fit the rel"
+        },
+        {
+          "match": "logistic regression",
+          "context": "ian data.28 Using conditional logistic regression model, we calculated the OR a"
+        },
+        {
+          "match": "logistic regression",
+          "context": "s-basis function, conditional logistic regression, and meta-regression, respect"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "binary"
+      ],
+      "examples": [
+        {
+          "match": "binary",
+          "context": "model, dependent variable is binary, indicating the observation s"
+        },
+        {
+          "match": "binary",
+          "context": "ay effect was controlled as a binary variable, indicating whether"
+        },
+        {
+          "match": "binary",
+          "context": ". Holiday was controlled as a binary variable indicating whether t"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "unit of analysis"
+      ],
+      "examples": [
+        {
+          "match": "Unit of analysis",
+          "context": "nsion (df\u00a0=\u00a03, 0-8 lag days). Unit of analysis is the immediate-region day."
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "or",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "s used to derive the national odds ratio (OR) using whole Brazilian da"
+        },
+        {
+          "match": "OR",
+          "context": "rive the national odds ratio (OR) using whole Brazilian data.2"
+        },
+        {
+          "match": "OR",
+          "context": "sion model, we calculated the OR and 95% CI to estimate the as"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 19,
+      "unique_matches": [
+        "excluded",
+        "crossover",
+        "cubic spline"
+      ],
+      "examples": [
+        {
+          "match": "cubic spline",
+          "context": "ction) and nonlinear (natural cubic spline with degrees of freedom [df]"
+        },
+        {
+          "match": "cubic spline",
+          "context": "ponse dimension and a natural cubic spline with 3 df for the lag-respons"
+        },
+        {
+          "match": "excluded",
+          "context": "with missing age and sex were excluded in the age- and sex-stratifie"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "Sensitivity",
+          "context": "the stratified analyses.20,21 Sensitivity analysis was performed to ass"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...s used to derive the national odds ratio (OR) using whole Brazilian da..."
+      },
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...ction) and nonlinear (natural cubic spline with degrees of freedom [df]..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...s used to derive the national odds ratio (OR) using whole Brazilian da..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...the stratified analyses.20,21 Sensitivity analysis was performed to ass..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: "
+      },
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "title": "Transformer technology in molecular scienceMachine learning and the physical sciencesOpportunities and obstacles for deep learning in biology and medicineDeep learning-based feature engineering methods for improved building energy predictionDeep learning\u2014a technology with the potential to transform health careTransformer architecture and attention mechanisms in genome data analysis: a comprehensive reviewProbabilistic generative transformer language models for generative design of moleculesMachine learning methods for small data challenges in molecular scienceScientific discovery in the age of artificial intelligenceTransformer-based deep learning for predicting protein properties in the life sciencesABT-MPNN: an atom-bond transformer-based message-passing neural network for molecular property predictionClassification of highly divergent viruses from DNA/RNA sequence using transformer-based modelsLarge language model for molecular chemistryLocal self-attention in transformer for visual question answeringA systematic study of key elements underlying molecular property predictionFsmddtr: end-to-end feedback strategy for multi-objective de novo drug design using transformersMultiscale topology-enabled structure-to-sequence transformer for protein\u2013ligand interaction predictionsExploring the applicability of transfer learning and feature engineering in epilepsy prediction using hybrid transformer modelAlgebraic graph-assisted bidirectional transformers for molecular property predictionRobustness verification for transformersUnderstanding the robustness in vision transformersMultiscale modeling at the interface of molecular mechanics and natural language through attention neural networksDeeptrasynergy: drug combinations using multimodal deep learning with transformersConsidering the possibilities and pitfalls of generative pretrained transformer 3 (GPT-3) in healthcare deliveryChat generative pre-trained transformer (ChatGPT) usage in healthcareCompressing large-scale transformer-based models: a case study on BERTPseudocode generation from source code using the BART modelTB-BCG: topic-based BART counterfeit generator for fake news detectionGraph transformer for graph-to-sequence learningHierarchical graph transformer with adaptive node samplingTransformer-XL with graph neural network for source code summarizationExploring the limits of transfer learning with a unified text-to-text transformerEnd-to-end generation of multiple choice questions using text-to-text transfer transformer modelsMultiscale vision transformersVision transformers for dense predictionYou only look at one sequence: rethinking transformer in vision through object detectionConformer: local features coupling global representations for visual recognitionContrastive language-image pre-training with knowledge graphsNon-contrastive learning meets language-image pre-trainingO (n) connections are expressive enough: universal approximability of sparse transformersEDGEVITS: competing light-weight cnns on mobile devices with vision transformersAttention is all you needA review on the attention mechanism of deep learningGet the point of my utterance! Learning towards effective responses with multi-head attention mechanismAnalyzing multi-head self-attention: specialized heads do the heavy lifting, the rest can be prunedUnderstanding convolutional neural networks for text classificationHardware accelerator for multi-head attention and position-wise feed-forward in the transformerApplications of transformer-based language models in bioinformatics: a surveyChangemask: deep multi-task encoder-transformer-decoder architecture for semantic change detectionMore than encoder: introducing transformer decoder to upsampleImproving language understanding by generative pre-trainingGpttoo: a language-model-first approach for AMR-to-text generationA text generation and prediction system: pretraining on new corpora using BERT and GPT-2Translating radiology reports into plain language using ChatGPT and GPT-4 with prompt learning: results, limitations, and potentialSentence augmentation for language translation using GPT-2The effectiveness of T5, GPT-2, and BERT on text-to-image generation taskRevolutionizing radiology with gpt-based models: current applications, future possibilities and limitations of ChatGPTMolgpt: molecular generation using a transformer-decoder modelEmpowering molecule discovery for molecule-caption translation with large language models: a ChatGPT perspectiveAutomatic generation of SBML kinetic models from natural language texts using GPTChatGPT in drug discovery: a case study on anticocaine addiction drug development with chatbotscmolgpt: a conditional generative pre-trained transformer for target-specific de novo molecular generationEfficient and enhanced sampling of drug-like chemical space for virtual screening and molecular design using modern machine learning methodsGenerative pre-trained transformer (GPT) based model with relative attention for de novo drug designPetrans: de novo drug design with protein-specific encoding based on transfer learningLearning to read and write in the language of proteinsEvaluation of GPT and BERT-based models on identifying protein\u2013protein interactions in biomedical textGptransformer: a transformer-based deep learning method for predicting fusarium related traits in barleyAb-gen: antibody library design with generative pre-trained transformer and deep reinforcement learningChatGPT for computational topologyBERT: pre-training of deep bidirectional transformers for language understandingSPU-BERT: faster human multi-trajectory prediction from socio-physical understanding of BERTKnowledge-enabled BERT for aspect-based sentiment analysisMultimodal prediction of social responsiveness score with BERT-based text featuresBERT post-training for review reading comprehension and aspect-based sentiment analysisMulti-passage BERT: a globally normalized BERT model for open-domain question answeringBertscore: evaluating text generation with BERTPersistent spectral theory-guided protein engineeringA perspective on multi-target drug discovery and design for complex diseasesSelf-supervised learning with chemistry-aware fragmentation for effective molecular property predictionA fingerprints based molecular property prediction method using the BERT modelSurfomics: shaving live organisms for a fast proteomic identification of surface proteinsGraph-BERT and language model-based framework for protein\u2013protein interaction identificationSmiles-BERT: large scale unsupervised pretraining for molecular property predictionMOL-BERT: an effective molecular representation with BERT for molecular property predictionEpibertope: a sequence-based pre-trained BERT model improves linear and structural epitope prediction by learning long-distance protein interactions effectivelyPETRIBERT: augmenting BERT with tridimensional encoding for inverse protein folding and designExtracting predictive representations from hundreds of millions of moleculesSVSBI: sequence-based virtual screening of biomolecular interactionsKnowledge-based BERT: a method to extract molecular features like computational chemistsBART: denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehensionMultilingual denoising pre-training for neural machine translationLongformer: the long-document transformerBART-IT: an efficient sequence-to-sequence model for Italian text summarizationBART-based contrastive and retrospective network for aspect-category-opinion-sentiment quadruple extractionDifficulty in learning chirality for transformer fed with smilesSynergistic fusion of graph and transformer features for enhanced molecular property predictionMaterial transformers: deep learning language models for generative materials designDRUGEX V3: scaffold constrained drug design with graph transformer-based reinforcement learningChemformer: a pre-trained transformer for computational chemistryMs2mol: a transformer model for illuminating dark chemical space from mass spectraMolBART: generative masked language models for molecular representationsExplainability techniques for chemical language modelsThe important role of non-covalent drug\u2013protein interactions in drug hypersensitivity reactionsEffective interactions in soft condensed matter physicsMultiscale weighted colored graphs for protein flexibility and rigidity analysisOn neighborhood inverse sum indeg index of molecular graphs with chemical significanceAgformer: efficient graph representation with anchor-graph transformerA survey on protein\u2013DNA-binding sites in computational biologyAlphafold2-aware protein\u2013DNA binding site prediction using graph transformerKPGT: knowledge-guided pre-training of graph transformer for molecular property predictionPath-augmented graph transformer networkHI-MGT: a hybrid molecule graph transformer for toxicity identificationEgtsyn: edge-based graph transformer for anti-cancer drug combination synergy predictionMolfpg: multi-level fingerprint based graph transformer for accurate and robust drug toxicity predictionTransformer-XL: attentive language models beyond a fixed-length contextLegal language modeling with transformersRetrieval-augmented transformer-XL for close domain dialog generationCombination of GRU and CNN deep learning models for sentiment analysis on French customer reviews using xlnet modelBetter document level machine translation with Bayes\u2019 ruleTransformer-XL based music generation with multiple sequences of time-valued notesTransfer learning for small molecule retention predictionsSmiles transformer: pre-trained molecular fingerprint for low data drug discoveryDe novo drug design using self attention mechanismTransformer based molecule encoding for property predictionFrom theory to experiment: transformer-based generation enables rapid discovery of novel reactionsChatbot interaction with artificial intelligence: human data augmentation with T5 and language transformer ensemble for text classificationMT6: multilingual pretrained text-to-text transformer with translation pairsTask-aware representation of sentences for generic text classificationIndt5: a text-to-text transformer for 10 indigenous languagesDeep query likelihood model for information retrievalTransfer learning in proteins: evaluating novel protein learned representations for bioinformatics tasksT5-long-extract at FNS-2021 shared taskUnified deep learning model for multitask reaction predictions with explanationC5T5: controllable generation of organic molecules with transformersWrite and paint: generative vision-language models are unified modal learnersTraining a T5 using lab-sized resourcesStudying the usage of text-to-text transfer transformer to support code-related tasksAn image is worth 16\u00d716 words: Transformers for image recognition at scaleAn empirical study of training end-to-end vision-and-language transformersExtended vision transformer (exvit) for land use and land cover classification: a multimodal deep learning frameworkDeep learning-assisted surface enhanced Raman scattering for rapid bacterial identificationSelf-supervised vision transformers accurately decode cellular state heterogeneityVisual transformers: token-based image representation and processing for computer visionTransg-net: transformer and graph neural network based multi-modal data fusion network for molecular properties predictionEnd-to-end object detection with transformers. European conference on computer visionMeta-DETR: image-level few-shot detection with inter-class correlation exploitationTowards complete tree crown delineation by instance segmentation with mask R-CNN and DETR using UAV-based multispectral imagery and lidar dataDynamic focus-aware positional queries for semantic segmentationChallenges and opportunities in cryo-EM single-particle analysisTranspicker: a transformer-based framework for particle picking in cryoEM micrographsImg2smi: translating molecular structure images to simplified molecular input line-entry systemDeep learning approaches to biomedical image segmentationAttention-based transformers for instance segmentation of cells in microstructuresEfficient DETR: improving end-to-end object detector with dense priorDeformable DETR: deformable transformers for end-to-end object detectionSparse DETR: efficient end-to-end object detection with learnable sparsityUP-DETR: unsupervised pre-training for object detection with transformersConformer: convolution-augmented transformer for speech recognitionAudio-visual efficient conformer for robust speech recognitionEAD-conformer: a conformer-based encoder-attention-decoder-network for multitask audio source separationSpoken language translation using conformer modelA Korean menu-ordering sentence text-to-speech system using conformer-based fastspeech2Text to image generation with conformer-GANRobust multi-read reconstruction from contaminated clusters using deep neural network for DNA storageNG-DTA: drug-target affinity prediction with N-gram molecular graphsLearning transferable visual models from natural language supervisionSelf-supervised learning in medicine and healthcareA review of the application of multi-modal deep learning in medicine: bibliometrics and future directionsCurrent development of bicyclic peptidesDesign of peptide-based protein degraders via contrastive deep learningpathclip: detection of genes and gene relations from biological pathway figures through image-text contrastive learningCloome: contrastive learning unlocks bioimaging databases for queries with chemical structuresGenerating long sequences with sparse transformersSwitch transformers: scaling to trillion parameter models with simple and efficient sparsityA survey of transformersSstnet: saliency sparse transformers network with tokenized dilation for salient object detectionTransmask: a compact and fast speech separation model based on transformerCombiner: full attention transformer with sparse computation costMachine learning study of the extended drug\u2013target interaction network informed by pain related voltage gated sodium channelsAn interpretable framework for drug-target interaction with gated cross attentionAn algorithm\u2013hardware co-optimized framework for accelerating N: M sparse transformersTinybert: distilling BERT for natural language understandingMobilebert: a compact task-agnostic BERT for resource-limited devicesAutotinybert: automatic hyperparameter optimization for efficient pre-trained language modelsMDF-SA-DDI: predicting drug\u2013drug interaction events based on multi-source drug fusion, multi-source feature fusion and transformer self-attention mechanismLearning multi-types of neighbor node attributes and semantics by heterogeneous graph transformer and multi-view attention for drug-related side-effect predictionMolormer: a lightweight self-attention-based method focused on spatial structure of molecular graph for drug\u2013drug interactions predictionDiscovering misannotated LNCRNAS using deep learning training dynamicsIntegrating convolution and self-attention improves language model of human genome for interpreting noncoding regions at base-resolutionExplainability in transformer models for functional genomicsMetatransformer: deep metagenomic sequencing read classification using self-attention modelsMobile accelerator exploiting sparsity of multi-heads, lines, and blocks in transformers in computer visionA multi-head attention-based transformer model for traffic flow forecasting with a comparative analysis to recurrent neural networks",
+  "pmcid": "12735360",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "masked"
+      ],
+      "examples": [
+        {
+          "match": "masked",
+          "context": "ss spectraMolBART: generative masked language models for molecular"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "heterogeneity"
+      ],
+      "examples": [
+        {
+          "match": "heterogeneity",
+          "context": "urately decode cellular state heterogeneityVisual transformers: token-bas"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "Alpha",
+          "context": "sites in computational biologyAlphafold2-aware protein\u2013DNA bindin"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "hierarchical"
+      ],
+      "examples": [
+        {
+          "match": "Hierarchical",
+          "context": "for graph-to-sequence learningHierarchical graph transformer with adapti"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "ein interactions in drug hypersensitivity reactionsEffective interactio"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

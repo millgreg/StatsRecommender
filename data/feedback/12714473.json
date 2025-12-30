@@ -1,0 +1,420 @@
+{
+  "title": "Induction versus Adjuvant Chemotherapy Combined with Concurrent Chemoradiation: What Is Beneficial in Locally Advanced Nasopharyngeal Carcinoma\u2014A 5-Year Comparative Study at a Tertiary Care Center in North IndiaNasopharyngeal carcinomaNasopharyngeal cancer incidence and mortality in 185 countries in 2020 and the projected burden in 2040: population-based global epidemiological profilingRe-evaluation of 6th edition of AJCC staging system for nasopharyngeal carcinoma and proposed improvement based on magnetic resonance imagingNasopharyngeal cancer: EHNS-ESMO-ESTRO Clinical Practice Guidelines for diagnosis, treatment and follow-upA multicenter, phase 3, randomized trial of concurrent chemoradiotherapy plus adjuvant chemotherapy versus radiotherapy alone in patients with regionally advanced nasopharyngeal carcinoma: 10-year outcomes for efficacy and toxicitySignificant survival benefit of adjuvant chemotherapy after concurrent chemoradiotherapy in locally advanced high-risk nasopharyngeal carcinomaThe current role of adjuvant chemotherapy in locally advanced nasopharyngeal carcinomaNasopharyngeal carcinomaInduction chemotherapy plus concurrent chemoradiotherapy versus concurrent chemoradiotherapy alone in locoregionally advanced nasopharyngeal carcinoma: a phase 3, multicentre, randomised controlled trialConcurrent chemoradiotherapy with/without induction chemotherapy in locoregionally advanced nasopharyngeal carcinoma: long-term results of phase 3 randomized controlled trialEffect of induction chemotherapy in nasopharyngeal carcinoma: an updated meta-analysisCisplatin and fluorouracil alone or with docetaxel in head and neck cancerInduction chemotherapy plus concurrent chemoradiotherapy in endemic nasopharyngeal carcinoma: individual patient data pooled analysis of four randomized trialsRandomized phase II trial of concurrent cisplatin-radiotherapy with or without neoadjuvant docetaxel and cisplatin in advanced nasopharyngeal carcinomaGemcitabine and cisplatin induction chemotherapy in nasopharyngeal carcinomaInduction chemotherapy followed by concurrent chemoradiotherapy versus concurrent chemoradiotherapy alone in locoregionally advanced nasopharyngeal carcinoma: long-term results of a phase III multicentre randomised controlled trialInduction chemotherapy for locally advanced nasopharyngeal carcinoma treated with concurrent chemoradiation: a systematic review and meta-analysisConcurrent chemoradiotherapy plus adjuvant chemotherapy versus concurrent chemoradiotherapy alone in patients with locoregionally advanced nasopharyngeal carcinoma: a phase 3 multicentre randomised controlled trialNasopharyngeal carcinomaConcurrent chemoradiotherapy with/without induction chemotherapy in locoregionally advanced nasopharyngeal carcinoma: long-term results of phase 3 randomized controlled trialPreliminary results of trial NPC-0501 evaluating the therapeutic gain by changing from concurrent-adjuvant to induction-concurrent chemoradiotherapy, changing from fluorouracil to capecitabine, and changing from conventional to accelerated radiotherapy fractionation in patients with locoregionally advanced nasopharyngeal carcinomaInduction chemotherapy plus concurrent chemoradiotherapy in endemic nasopharyngeal carcinoma: individual patient data pooled analysis of four randomized trialsThe efficacy and toxicity of induction chemotherapy plus concurrent chemoradiotherapy in locoregionally advanced nasopharyngeal carcinoma: a meta-analysis of randomized controlled trialsWhat is the best treatment of locally advanced nasopharyngeal carcinoma? An individual patient data network meta-analysisThe evaluation of adding induction chemotherapy to concurrent chemoradiotherapy for locally advanced nasopharyngeal carcinoma: a meta-analysisNPC-0501 trial on the value of changing chemoradiotherapy sequence, replacing 5-fluorouracil with capecitabine, and altering fractionation for patients with advanced nasopharyngeal carcinomaChemotherapy in combination with radiotherapy for definitive-intent treatment of stage II-IVA nasopharyngeal carcinoma: CSCO and ASCO GuidelineHow does intensity-modulated radiotherapy versus conventional two-dimensional radiotherapy influence the treatment results in nasopharyngeal carcinoma patients?Concurrent chemoradiotherapy plus adjuvant chemotherapy versus concurrent chemoradiotherapy alone in patients with locoregionally advanced nasopharyngeal carcinoma: a phase 3 multicentre randomised controlled trialThe changing therapeutic role of chemo-radiotherapy for loco-regionally advanced nasopharyngeal carcinoma from two/three-dimensional radiotherapy to intensity-modulated radiotherapy: a network meta-analysis",
+  "pmcid": "12714473",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "noma: a phase 3, multicentre, randomised controlled trialConcurrent c"
+        },
+        {
+          "match": "randomise",
+          "context": "ts of a phase III multicentre randomised controlled trialInduction ch"
+        },
+        {
+          "match": "randomise",
+          "context": "cinoma: a phase 3 multicentre randomised controlled trialNasopharynge"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "spss",
+        "spss version 23"
+      ],
+      "examples": [
+        {
+          "match": "SPSS version 23",
+          "context": "on of figures were done using SPSS version 23.0 (SPSS Inc., Chicago, Illino"
+        },
+        {
+          "match": "SPSS",
+          "context": "done using SPSS version 23.0 (SPSS Inc., Chicago, Illinois, Unit"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "interquartile range",
+          "context": "orical variables according to interquartile range (IQR; age at diagnosis), clin"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "secondary end point",
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "P-value",
+          "context": "HO, World Health Organization.P-value\u2009<\u20090.05 in Cox regression anal"
+        },
+        {
+          "match": "Secondary end point",
+          "context": "imary end point of our study. Secondary end points were failure-free survival ("
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "95% confidence",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "e hazard ratios (HRs) and 95% confidence intervals (CIs). Other analyses and th"
+        },
+        {
+          "match": "confidence interval",
+          "context": "umin LDH\u2009=\u2009serum lactate; CI, confidence interval; FFS, failure-free survival;"
+        },
+        {
+          "match": "confidence interval",
+          "context": "by adjuvant chemotherapy; CI, confidence interval; DMFS, distant metastasis fre"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "chi-square"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "y Cancer Center (SYSUCC). The chi-squared test was used to contrast th"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "propensity score"
+      ],
+      "examples": [
+        {
+          "match": "propensity score",
+          "context": "etwork meta-analysis  In this propensity score\u2013matched retrospective cohort"
+        },
+        {
+          "match": "propensity score",
+          "context": "es were evenly distributed by propensity score matching. Independent prognos"
+        },
+        {
+          "match": "propensity score",
+          "context": "s. Without using replacement, propensity score matching (PSM) was calculated"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "proportional hazards",
+          "context": "ng the log-rank test. The Cox proportional hazards model was used to estimate th"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 19,
+      "unique_matches": [
+        "overall survival",
+        "os",
+        "log-rank",
+        "rfs",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "log-rank",
+          "context": "hnique and compared using the log-rank test. The Cox proportional ha"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "odel was used to estimate the hazard ratios (HRs) and 95% confidence int"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "RADE 2), 3 (WHO GRADE 3); HR, hazard ratio; LDH, serum lactate dehydroge"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cox proportional"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "using the log-rank test. The Cox proportional hazards model was used to est"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "variables were converted into categorical variables according to interq"
+        },
+        {
+          "match": "categorical",
+          "context": "test was used to contrast the categorical variables between CCRT\u2009+\u2009AC a"
+        },
+        {
+          "match": "continuous",
+          "context": "n 5-fluorouracil 1,000\u2009mg/m 2 continuous infusion for 4 days) 12 ; doc"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "hr",
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "odel was used to estimate the hazard ratios (HRs) and 95% confidence int"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "RADE 2), 3 (WHO GRADE 3); HR, hazard ratio; LDH, serum lactate dehydroge"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "S, failure-free survival; HR, hazard ratio; IC\u2009+\u2009CCRT, induction chemoth"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "ints are shown in the table ( Table 1 ).  Abbreviations: PRV, plann"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "lated radiotherapy (IMRT). We excluded patients with (1) stage I and"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "i-squared"
+      ],
+      "examples": [
+        {
+          "match": "i-squared",
+          "context": "Cancer Center (SYSUCC). The chi-squared test was used to contrast the"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...HO, World Health Organization.P-value\u2009<\u20090.05 in Cox regression anal..."
+      },
+      {
+        "message": "Data exclusion criteria should be explicitly detailed.",
+        "evidence": "...lated radiotherapy (IMRT). We excluded patients with (1) stage I and..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...on of figures were done using SPSS version 23.0 (SPSS Inc., Chicago, Illino..."
+      },
+      {
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...odel was used to estimate the hazard ratios (HRs) and 95% confidence int..."
+      },
+      {
+        "message": "Verified proportional hazards assumption.",
+        "evidence": "...ng the log-rank test. The Cox proportional hazards model was used to estimate th..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

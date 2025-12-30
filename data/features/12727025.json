@@ -1,0 +1,305 @@
+{
+  "title": "Intensive Oral Hygiene Interventions during Therapy of Acute Leukemia May Result in Detrimental Outcomes: A Randomized Clinical TrialTwo-drug versus three-drug induction chemotherapy in pediatric acute myeloid leukemia: a randomized controlled trialAcute lymphoblastic leukemia in India: an analysis of prognostic factors using a single treatment regimenTreatment of children with acute lymphoblastic leukemia in India using a BFM protocolAcute lymphoblastic leukemia in young adults treated with intensive \u201cpediatric\u201d type protocolAssessment of oral health status of children with leukemia: a cross-sectional studyContribution of the oral and gastrointestinal microbiomes to bloodstream infections in leukemia patientsPreventive protocols and oral management in childhood leukemia: the pediatric specialist's roleDental considerations for leukemic pediatric patients: an updated review for general dental practitionerDental treatment considerations in the chemotherapy patientThe effect of an oral care protocol and honey mouthwash on mucositis in acute myeloid leukemia patients undergoing chemotherapy: a single-blind clinical trialOral manifestations and complications in childhood acute myeloid leukemiaOral manifestations in pediatric patients receiving chemotherapy for acute lymphoblastic leukemiaDysbiosis from a microbial and host perspective relative to oral health and diseasePrevention of oral mucositis in patients treated with high-dose chemotherapy and bone marrow transplantation: a randomised controlled trial comparing two protocols of dental careOral complications and management strategies for patients undergoing cancer therapyOral complications associated with cancer therapy. An M. D. Anderson Cancer Center experienceAssociation between periodontal pathogens and systemic disease",
+  "pmcid": "12727025",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "sample size",
+        "n\n\u2009=\u200992",
+        "n\n\u2009=\u200991"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "at the end of induction.  The sample size was based on the expected dif"
+        },
+        {
+          "match": "n\n\u2009=\u200992",
+          "context": "al hygiene protocol (group A, n \u2009=\u200992) or comprehensive oral hygien"
+        },
+        {
+          "match": "n\n\u2009=\u200991",
+          "context": "al hygiene protocol (group B, n \u2009=\u200991). In group A, the oral hygien"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "randomly assigned",
+        "allocation",
+        "randomise",
+        "randomized controlled trial"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "one marrow transplantation: a randomised controlled trial comparing t"
+        },
+        {
+          "match": "randomized controlled trial",
+          "context": "ric acute myeloid leukemia: a randomized controlled trialAcute lymphoblastic leukemia i"
+        },
+        {
+          "match": "randomly assigned",
+          "context": "formed consent. Patients were randomly assigned to a 1:1 ratio to receive sta"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sequentially numbered",
+        "concealment"
+      ],
+      "examples": [
+        {
+          "match": "concealment",
+          "context": "hygiene protocol. Allocation concealment was done using sequentially n"
+        },
+        {
+          "match": "sequentially numbered",
+          "context": "on concealment was done using sequentially numbered, opaque sealed envelopes. The"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "grade was noted. The primary outcome measure was the frequency of all-grad"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "significance level",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "significance level",
+          "context": "yses were carried out at a 5% significance level, and p -value less than 0.05"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "(WHO score) in each arm. The secondary outcomes were infection rates (local,"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "chi-square",
+        "fisher's exact"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "ups was carried out using the chi-squared test or Fisher's exact test"
+        },
+        {
+          "match": "Fisher's exact",
+          "context": "using the chi-squared test or Fisher's exact test for the categorical data"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "0% power. The distribution of categorical data was expressed as frequen"
+        },
+        {
+          "match": "categorical",
+          "context": "r Fisher's exact test for the categorical data. All statistical analyse"
+        },
+        {
+          "match": "continuous",
+          "context": "jection cytarabine 100\u2009mg/m 2 continuous infusion (CI) from D1 to D7 c"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "i-squared"
+      ],
+      "examples": [
+        {
+          "match": "i-squared",
+          "context": "s was carried out using the chi-squared test or Fisher's exact test f"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "title": "A transcription network underlies the dual genomic coordination of mitochondrial biogenesisA transcription network underlies the dual genomic coordination of mitochondrial biogenesisXBP1 controls diverse cell type- and condition-specific transcriptional regulatory networksHuman mitochondrial DNA is packaged with TFAMUnderstanding gene regulatory mechanisms by integrating ChIP-seq and RNA-seq data: statistical solutions to biological problemsThe mechanisms of action of PPARsThe SANT domain: a unique histone-tail-binding module?Genetic mosaic analysis of a deleterious mitochondrial DNA mutation in  reveals novel aspects of mitochondrial regulation and functionHuman mitochondrial DNA diseases and  modelsMitochondrial DNA segregation and replication restrict the transmission of detrimental mutationSynchronized mitochondrial and cytosolic translation programsFunctional and physiological genomics of estrogen-related receptors (ERRs) in health and diseaseSTAR: ultrafast universal RNA-seq alignerCluster analysis and display of genome-wide expression patternsMitochondrial transcription factors B1 and B2 activate transcription of human mtDNAC2H2 zinc finger proteins: the largest but poorly explored family of higher eukaryotic transcription factorsTissue-specific differences in mitochondrial activity and biogenesisPeroxisome proliferator-activated receptor gamma coactivator-1 (PGC-1) regulatory cascade in cardiac physiology and diseaseMitochondrial diseasesSelective propagation of functional mitochondrial DNA during oogenesis restricts the transmission of a deleterious mitochondrial variantTranscriptional control of mitochondrial biogenesis and functionIntegrating ChIP-seq with other functional genomics dataGenomic analysis reveals a tight link between transcription factor dynamics and regulatory network architectureHighly accurate protein structure prediction with AlphaFoldThe ModERN Resource: Genome-wide binding profiles for hundreds of  and  transcription factorsOrigin and evolution of the mitochondrial proteomeGenetic mosaic analysis of stem cell lineages in the  OvaryFast and accurate short read alignment with Burrows-Wheeler transformThe sequence alignment/map format and samtoolsStructural basis of H2A.Z recognition by SRCAP chromatin-remodeling subunit YL1An efficient genetic screen in  to identify nuclear-encoded genes with mitochondrial functionThe PPR domain of mitochondrial RNA polymerase is an exoribonuclease required for mtDNA replication in Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2Homeostatic control of nuclear-encoded mitochondrial gene expression by the histone variant H2A.Z is essential for neuronal survivalRecurrent positive selection of the  hybrid incompatibility gene HmrMitochondrial regulation of cell cycle progression during development as revealed by the tenured mutation in Distinct mitochondrial retrograde signals control the G1-S cell cycle checkpointChIP-seq: advantages and challenges of a maturing technologyBorn to bind: the BTB protein-protein interaction domainA systematic survey of the Cys2His2 zinc finger DNA-binding landscapeRas1 promotes cellular growth in the  wingAnalysing high-throughput sequencing data in Python with HTSeq 2.0MitoCarta3.0: an updated mitochondrial proteome now with sub-organelle localization and pathway annotationsA new gene encoding A putative transcription factor regulated by the  circadian clockTranscriptional paradigms in mammalian mitochondrial biogenesis and functionTranscriptional integration of mitochondrial biogenesispiggyBac-based mosaic screen identifies a postmitotic function for cohesin in regulating developmental axon pruningSMART: a web-based tool for the study of genetically mobile domainsMitochondria as cellular and organismal signaling hubsKRAB-ZFP transcriptional regulators acting as oncogenes and tumor suppressors: an overviewThe multifaceted contributions of mitochondria to cellular metabolismMitochondrial DNA mutations in human diseaseA complete workflow for the analysis of full-size ChIP-seq (and similar) data sets using peak-motifsThe Why of YY1: Mechanisms of transcriptional regulation by yin yang 1Electron transport chain biogenesis activated by a JNK-insulin-Myc relay primes mitochondrial inheritance in Mechanical stimulation from the surrounding tissue activates mitochondrial energy metabolism in  differentiating germ cellsMitochondrial machineries for protein import and assemblyDNA recognition by Cys2His2 zinc finger proteinsA PHD finger of NURF couples histone H3 lysine 4 trimethylation with chromatin remodellingManipulating the metazoan mitochondrial genome with targeted restriction enzymesThe SRCAP chromatin remodeling complex promotes oxidative metabolism during prenatal heart developmentclusterProfiler: an R package for comparing biological themes among gene clustersChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparison and visualizationModel-based analysis of chip-seq (MACS)The cAMP phosphodiesterase Prune localizes to the mitochondrial matrix and promotes mtDNA replication by stabilizing TFAMThe mitochondrial outer membrane protein MDI promotes local protein synthesis and mtDNA replicationPINK1 inhibits local protein synthesis to limit transmission of deleterious mitochondrial DNA mutationsMitochondria regulate intestinal stem cell proliferation and epithelial homeostasis through FOXOComputational prediction of the global functional genomic landscape: applications, methods, and challengeseLife AssessmentReviewer #1 (Public review):Reviewer #2 (Public review):Author response",
+  "pmcid": "11677238",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "imagej",
+        "bioconductor"
+      ],
+      "examples": [
+        {
+          "match": "ImageJ",
+          "context": "tensity statistics), and Fiji/ImageJ software (NIH, https://fiji.s"
+        },
+        {
+          "match": "ImageJ",
+          "context": "ges were generated using Fiji/ImageJ software (NIH). Mitochondrial"
+        },
+        {
+          "match": "Bioconductor",
+          "context": "gene clustersChIPseeker: an R/Bioconductor package for ChIP peak annotat"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "sd"
+      ],
+      "examples": [
+        {
+          "match": "SD",
+          "context": "lts are represented as mean \u00b1 SD of the number of determinatio"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "alpha",
+        "p<0.05"
+      ],
+      "examples": [
+        {
+          "match": "p<0.05",
+          "context": "tatistically significant when p<0.05. Results are represented as m"
+        },
+        {
+          "match": "Alpha",
+          "context": "ein structure prediction with AlphaFoldThe ModERN Resource: Genom"
+        },
+        {
+          "match": "Alpha",
+          "context": "3D structure was predicted by AlphaFold (Jumper et al., 2021). Tw"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "t-test"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": ", 2021). Two-tailed Student\u2019s t-test was used for statistical anal"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 10,
+      "unique_matches": [
+        "western blot",
+        "quantification",
+        "staining",
+        "cell line",
+        "confocal",
+        "fluorescence"
+      ],
+      "examples": [
+        {
+          "match": "cell line",
+          "context": "netic mosaic analysis of stem cell lineages in the  OvaryFast and acc"
+        },
+        {
+          "match": "Western blot",
+          "context": "1mM Na3VO4 (MilliporeSigma). Western blot was performed using a XCell S"
+        },
+        {
+          "match": "staining",
+          "context": "her direct imaging or further staining and fixation. For live imagin"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "..., 2021). Two-tailed Student\u2019s t-test was used for statistical anal..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...tatistically significant when p<0.05. Results are represented as m..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'western blot'"
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test"
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'p<0.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

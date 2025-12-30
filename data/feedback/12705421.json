@@ -1,0 +1,434 @@
+{
+  "title": "Clinical validation of an AI-based blood testing device for diagnosis and prognosis of acute infection and sepsisThe Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3)Sepsis and septic shockTime to treatment and mortality during mandated emergency care for sepsisED door-to-antibiotic time and long-term mortality in sepsisImproving sepsis treatment by embracing diagnostic uncertaintyAssociation of appropriate empirical antimicrobial therapy with in-hospital mortality in patients with bloodstream infections in the USSurvival of critically ill patients hospitalized in and out of intensive careImpact of a deep learning sepsis prediction model on quality of care and survivalPredicting patient decompensation from continuous physiologic monitoring in the emergency departmentRobust classification of bacterial and viral infections via integrated host gene expression diagnosticsA comprehensive time-course-based multicohort analysis of sepsis and sterile inflammation reveals a robust diagnostic gene setA community approach to mortality prediction in sepsis via gene expression analysisA novel 29-messenger RNA host-response assay from whole blood accurately identifies bacterial and viral infections in patients presenting to the emergency department with suspected infections: a prospective observational studyA 29-mRNA host response test from blood accurately distinguishes bacterial and viral infections among emergency department patientsA 29-mRNA host response whole-blood signature improves prediction of 28-day mortality and 7-day intensive care unit care in adults presenting to the emergency department with suspected acute infection and/or sepsisA standardized protocol using clinical adjudication to define true infection status in patients presenting to the emergency department with suspected infections and/or sepsisA quantitative study of decision thresholds for initiation of antibiotics in suspected sepsisEarly administration of antibiotics for suspected sepsis.Antimicrobial stewardship in the emergency departmentAssociation of adverse events with antibiotic use in hospitalized patientsTarget product profile for a diagnostic assay to differentiate between bacterial and non-bacterial infections and reduce antimicrobial overuse in resource-limited settings: an expert consensusDiagnostic accuracy of a bacterial and viral biomarker point-of-care test in the outpatient settingMeMed BV testing in emergency department patients presenting with febrile illness concerning for respiratory tract infectionUsing a 29-mRNA host response classifier to detect bacterial coinfections and predict outcomes in COVID-19 patients presenting to the emergency departmentDetection of viral infection and bacterial coinfection and superinfection in coronavirus disease 2019 patients presenting to the emergency department using the 29-mRNA host response classifier IMX-BVN-3: a multicenter studyThe role for policy in AI-assisted medical diagnosisImpact of the Centers for Medicare and Medicaid Services sepsis core measure on antibiotic usePrognostic accuracy of Sepsis-3 criteria for in-hospital mortality among patients with suspected infection presenting to the emergency departmentMitigating structural racism to reduce inequities in sepsis outcomes: a mixed methods, longitudinal intervention studyA host-protein based assay to differentiate between bacterial and viral infections in preschool children (OPPORTUNITY): a double-blind, multicentre, validation studyHost test based on tumor necrosis factor-related apoptosis-inducing ligand, interferon gamma-induced protein-10 and C-reactive protein for differentiating bacterial and viral respiratory tract infections in adults: diagnostic accuracy studyA rapid host\u2013protein test for differentiating bacterial from viral infection: Apollo diagnostic accuracy studyDevelopment of machine learning classifiers for blood-based diagnosis and prognosis of suspected acute infections and sepsisA generalizable 29-mRNA neural-network classifier for acute bacterial and viral infectionsA transcriptomic severity metric that predicts clinical outcomes in critically ill surgical sepsis patientsEvaluation of a multivalent transcriptomic metric for diagnosing surgical sepsis and estimating mortality among critically ill patientsDiagnostic host gene expression analysis by quantitative reverse transcription loop-mediated isothermal amplification to discriminate between bacterial and viral infections",
+  "pmcid": "12705421",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "n\u2009=\u20091"
+      ],
+      "examples": [
+        {
+          "match": "n\u2009=\u20091",
+          "context": "or the prognostic population (n\u2009=\u20091,120). 2 Defned as the need fo"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "atorians22. Adjudicators were blinded to the TriVerity results at a"
+        },
+        {
+          "match": "blinded",
+          "context": "judication protocol) who were blinded to the initial reviewer resul"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "secure database (Medrio). The primary endpoints for bacterial and viral etio"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "included patients who met the primary endpoint and/or 28-day mortality. TriV"
+        },
+        {
+          "match": "primary endpoint",
+          "context": "included patients who met the primary endpoint and/or 28-day mortality. TriV"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "al analyses were performed in SAS software version 9.4 or R sof"
+        },
+        {
+          "match": "SAS",
+          "context": "al analyses were performed in SAS software version 9.4 or R sof"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "mbers of observations, means, standard deviations, medians and ranges and 80%"
+        },
+        {
+          "match": "standard deviation",
+          "context": "mbers of observations, means, standard deviations, medians and ranges and 80%"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "p\u2009<\u20090.05"
+      ],
+      "examples": [
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "infections are significantly (P\u2009<\u20090.05) higher than the overall bact"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "t-test",
+        "fisher\u2019s exact"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "ity and predictive values (post-test probabilities) dependent on t"
+        },
+        {
+          "match": "t-test",
+          "context": "ity and predictive values (post-test probabilities) dependent on t"
+        },
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "rh_docs/reviews/K210254.pdf). Fisher\u2019s exact test determined significance"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "atients were calculated using bootstrapping. Statistical analyses were pe"
+        },
+        {
+          "match": "bootstrapping",
+          "context": "atients were calculated using bootstrapping. Statistical analyses were pe"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "cross-validation",
+        "bootstrapping"
+      ],
+      "examples": [
+        {
+          "match": "bootstrapping",
+          "context": "atients were calculated using bootstrapping. Statistical analyses were pe"
+        },
+        {
+          "match": "bootstrapping",
+          "context": "atients were calculated using bootstrapping. Statistical analyses were pe"
+        },
+        {
+          "match": "cross-validation",
+          "context": "eter optimization and grouped cross-validation approaches, which was found t"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "amplification47. We apply two logistic regression classifiers to the mRNA expre"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "continuous",
+          "context": "g patient decompensation from continuous physiologic monitoring in the"
+        },
+        {
+          "match": "continuous",
+          "context": "being a false negative). For continuous variables (for example, age a"
+        },
+        {
+          "match": "continuous",
+          "context": "being a false negative). For continuous variables (for example, age a"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "is outcomes: a mixed methods, longitudinal intervention studyA host-prot"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Table 1",
+          "context": "nts (Fig. 1 and Supplementary Table 1). Emergency departments of co"
+        },
+        {
+          "match": "Table 1",
+          "context": "site in Europe (Supplementary Table 1). During the \u2018FROZEN\u2019 phase o"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "roc",
+        "specificity",
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "pplicable FOOTER:  CAPTION: AUROC of the TriVerity Bacterial sc"
+        },
+        {
+          "match": "ROC",
+          "context": "sed biomarkers. (a) Overall AUROC and 80% CI of the TriVerity B"
+        },
+        {
+          "match": "ROC",
+          "context": "ll count. (b) Comparison of AUROC of TriVerity Bacterial score"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "transcriptome"
+      ],
+      "examples": [
+        {
+          "match": "transcriptome",
+          "context": "nalyses of thousands of blood transcriptome profiles across tens of indep"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 2.5,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...ity and predictive values (post-test probabilities) dependent on t..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...infections are significantly (P\u2009<\u20090.05) higher than the overall bact..."
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...is outcomes: a mixed methods, longitudinal intervention studyA host-prot..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...is outcomes: a mixed methods, longitudinal intervention studyA host-prot..."
+      },
+      {
+        "message": "Diagnostic metrics reported without Confidence Intervals.",
+        "evidence": "...pplicable FOOTER:  CAPTION: AUROC of the TriVerity Bacterial sc..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'transcriptome'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...al analyses were performed in SAS software version 9.4 or R sof..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...pplicable FOOTER:  CAPTION: AUROC of the TriVerity Bacterial sc..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test"
+      },
+      {
+        "item": "Effect Sizes",
+        "issue": "Significance reported without magnitude.",
+        "recommendation": "Report Effect Sizes with CIs.",
+        "source_text": "Detected 'P\u2009<\u20090.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'longitudinal' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}
