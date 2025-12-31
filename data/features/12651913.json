@@ -1,0 +1,431 @@
+{
+  "title": "Tai chi or cognitive behavioural therapy for treating insomnia in middle aged and older adults: randomised non-inferiority trialInsomnia disorderPrevalence of insomnia among Chinese adults in Hong Kong: a population-based studyWho reports insufficient and disturbed sleep? Results from a representative population-based health survey in Hong KongThe nature of stable insomnia phenotypesChronic insomniaSocietal costs of insomniaBehavioral and psychological treatments for chronic insomnia disorder in adults: an American Academy of Sleep Medicine clinical practice guidelineIntegrating technology to increase the reach of CBT-I: state of the science and challenges aheadVeterans affairs primary care provider perceptions of insomnia treatmentReferral practices for cognitive behavioral therapy for insomnia: a survey studyThe European Academy for Cognitive Behavioural Therapy for Insomnia: an initiative of the European Insomnia Network to promote implementation and dissemination of treatmentTai Chi for health and well-being: a bibliometric analysis of published clinical studies between 2010 and 2020The science of Tai Chi and  as whole person health-part I: rationale and state of the scienceTrends and characteristics of Tai Chi and Qi Gong use among U.S. adults: results from the 2007-2017 National Health Interview SurveyEffects of Tai Chi or exercise on sleep in older adults with insomnia: a randomized clinical trialEffects of Tai Chi or conventional exercise on central obesity in middle-aged and older adults: a three-group randomized controlled trialComparative efficacy of exercise regimens on sleep quality in older adults: a systematic review and network meta-analysisReporting of noninferiority and equivalence randomized trials: extension of the CONSORT 2010 statementEffects of Tai Chi and cognitive behavioral therapy for insomnia on improving sleep in older adults: Study protocol for a non-inferiority trialEvidence base of clinical studies on Tai Chi: a bibliometric analysisTai Chi Chih compared with cognitive behavioral therapy for the treatment of insomnia in survivors of breast cancer: a randomized, partially blinded, noninferiority trialValidation of the Insomnia Severity Index as an outcome measure for insomnia researchThe Insomnia Severity Index: psychometric indicators to detect insomnia cases and evaluate treatment responseInsomnia Severity Index: psychometric properties with Chinese community-dwelling older peopleMindfulness-based stress reduction compared with cognitive behavioral therapy for the treatment of insomnia comorbid with cancer: a randomized, partially blinded, noninferiority trialNon-inferiority trials: design concepts and issues\u2014the encounters of academic consultants in statisticsInsomnia and its treatment in women with breast cancerComparative effects of pharmacological interventions for the acute and long-term management of insomnia disorder in adults: a systematic review and network meta-analysisThe neurobiology, investigation, and treatment of chronic insomniaIncidence, persistence, and remission rates of insomnia over 5 yearsThe natural history of insomnia: a population-based 3-year longitudinal studyTai Chi compared with cognitive behavioral therapy and the reversal of systemic, cellular and genomic markers of inflammation in breast cancer survivors with insomnia: a randomized clinical trialTai Chi Chuan and Baduanjin practice modulates functional connectivity of the cognitive control network in older adultsDifferent modulation effects of Tai Chi Chuan and Baduanjin on resting-state functional connectivity of the default mode network in older adultsIncreased hippocampus\u2013medial prefrontal cortex resting-state functional connectivity and memory function after Tai Chi Chuan practice in elder adultsTai Chi Chuan and Baduanjin mind-body training changes resting-state low-frequency fluctuations in the frontal lobe of older adults: a resting-state fMRI studyNeuroimaging correlates of cognitive behavioral therapy for insomnia (CBT-I): a systematic literature reviewChanges in subcortical resting-state functional connectivity in patients with psychophysiological insomnia after cognitive-behavioral therapy: changes in resting-state FC after CBT for insomnia patientsMechanisms of cognitive behavioural therapy for insomniaEffects of mind\u2013body exercises (Tai Chi/Yoga) on heart rate variability parameters and perceived stress: a systematic review with meta-analysis of randomized controlled trialsThe comparative effects of Tai chi versus non-mindful exercise on measures of anxiety, depression and general mental health: a systematic review and meta-analysisRepetitive transcranial magnetic stimulation and tai chi chuan for older adults with sleep disorders and mild cognitive impairment: a randomized clinical trialTrends in yoga, Tai Chi, and Qigong use among US adults, 2002-2017",
+  "pmcid": "12651913",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "sample size",
+        "n=100",
+        "total of 70 participants",
+        "total of 200 participants"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "day food diary. We conducted sample size estimation for a two sample t"
+        },
+        {
+          "match": "sample size",
+          "context": "cademics (SAS Institute). The sample size estimation was based on a pri"
+        },
+        {
+          "match": "sample size",
+          "context": "to 3 months and 15 months.The sample size for all secondary outcomes wa"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 12,
+      "unique_matches": [
+        "randomisation",
+        "randomly assigned",
+        "randomise",
+        "allocation"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "This randomised, assessor blinded, non-infer"
+        },
+        {
+          "match": "Randomisation",
+          "context": "ention groups in a 1:1 ratio. Randomisation was conducted using an online"
+        },
+        {
+          "match": "randomise",
+          "context": "o six. The computer generated randomised allocation sequence was secu"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "This randomised, assessor blinded, non-inferiority trial adhere"
+        },
+        {
+          "match": "blinded",
+          "context": "rvention instructors were not blinded to the group allocation becau"
+        },
+        {
+          "match": "blinded",
+          "context": "tions. Outcome assessors were blinded to the group allocation and p"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "opaque envelopes"
+      ],
+      "examples": [
+        {
+          "match": "opaque envelopes",
+          "context": "was securely placed in sealed opaque envelopes and kept by an independent re"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "outcome measure"
+      ],
+      "examples": [
+        {
+          "match": "outcome measure",
+          "context": "research question, selecting outcome measures, or creating recruitment and"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "treatment response rate. The intention-to-treat principle was adopted in the"
+        },
+        {
+          "match": "intention-to-treat",
+          "context": "r two approaches followed the intention-to-treat principle by replacing missin"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "on-inferiority using POWER in SAS OnDemand for Academics (SAS I"
+        },
+        {
+          "match": "SAS",
+          "context": "n SAS OnDemand for Academics (SAS Institute). The sample size e"
+        },
+        {
+          "match": "SAS",
+          "context": "analyses were performed using SAS OnDemand for Academics (SAS I"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "standard deviation"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "r improvement in the ISI with standard deviation conservatively taken as 6.5,1"
+        },
+        {
+          "match": "standard deviation",
+          "context": ". Data are presented as mean (standard deviation) unless specified otherwise.P"
+        },
+        {
+          "match": "standard deviation",
+          "context": "presented as estimated mean (standard deviation), baseline covaried. CBT-I=co"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "secondary outcome",
+        "alpha"
+      ],
+      "examples": [
+        {
+          "match": "alpha",
+          "context": "onsistency, with a Cronbach\u2019s alpha of 0.81.26  Secondary outcome"
+        },
+        {
+          "match": "Secondary outcome",
+          "context": "Cronbach\u2019s alpha of 0.81.26  Secondary outcomes included insomnia remission"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "t effects on the quantitative secondary outcomes, adjusting for baseline valu"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "confidence interval",
+        "95% confidence"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "ences in mean changes and 95% confidence intervals were presented for each subg"
+        },
+        {
+          "match": "95% confidence",
+          "context": "fferences in mean changes and 95% confidence intervals were presented for"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "sensitivity analysis",
+        "multiple imputation"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity analysis",
+          "context": "a P value <0.05. We performed sensitivity analysis using three approaches to ass"
+        },
+        {
+          "match": "multiple imputation",
+          "context": "servation carried forward and multiple imputation methods, respectively. In the"
+        },
+        {
+          "match": "multiple imputation",
+          "context": "the same participant. In the multiple imputation approach, a total of 20 imput"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "logistic regression",
+          "context": "inear contrasts. We conducted logistic regression to analyse insomnia remission"
+        },
+        {
+          "match": "logistic regression",
+          "context": "atment response rates because logistic regression cannot account for missing da"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "consort"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "tandards of Reporting Trials (CONSORT) extension for non-inferiorit"
+        }
+      ]
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "missing data",
+        "dropout",
+        "missing values",
+        "imputation"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": "regression cannot account for missing data. All statistical analyses wer"
+        },
+        {
+          "match": "missing values",
+          "context": "-treat principle by replacing missing values using the last observation ca"
+        },
+        {
+          "match": "missing values",
+          "context": "ion carried forward approach, missing values were replaced by the last obs"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "effect size"
+      ],
+      "examples": [
+        {
+          "match": "Effect size",
+          "context": "mnia.Statistical significance.Effect size: change from baseline to 3 mo"
+        },
+        {
+          "match": "Effect size",
+          "context": "on 2.Statistical significance.Effect size: change from baseline to 3 mo"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "Baseline characteristic",
+          "context": "ccessful completion. CAPTION: Baseline characteristics of participants FOOTER: \u00a31.0"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "e or psychotic symptoms, were excluded. Eligible participants were r"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "specificity",
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "sensitivity",
+          "context": "important difference with 60% sensitivity and 70% specificity to detect"
+        },
+        {
+          "match": "sensitivity",
+          "context": "a P value <0.05. We performed sensitivity analysis using three approach"
+        },
+        {
+          "match": "sensitivity",
+          "context": "s. Additionally, we conducted sensitivity analyses on the primary outco"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

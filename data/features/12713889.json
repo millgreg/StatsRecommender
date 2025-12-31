@@ -6,9 +6,9 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "n = 7",
+        "n = 6",
         "n= 43",
-        "n = 6"
+        "n = 7"
       ],
       "examples": [
         {
@@ -27,24 +27,22 @@
     },
     "randomization": {
       "present": true,
-      "count": 6,
+      "count": 4,
       "unique_matches": [
-        "randomly assigned",
-        "randomise",
-        "randomized controlled trial"
+        "randomly assigned"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "e, pragmatic, observer-blind, randomised controlled trialSleep proble"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "for anxious children: a pilot randomized controlled trialLongitudinal patterns of anxie"
+          "match": "randomly assigned",
+          "context": "ple 1 and sample 2. Data were randomly assigned to sample 1 or sample 2. Scor"
         },
         {
           "match": "randomly assigned",
-          "context": "ple 1 and sample 2. Data were randomly assigned to sample 1 or sample 2. Scor"
+          "context": "p \u2264 0.5, *p \u2264 0.01. Data were randomly assigned to Sample 1 (below diagonal)"
+        },
+        {
+          "match": "randomly assigned",
+          "context": "d sample 2. FOOTER: Data were randomly assigned to sample 1 or sample 2.Score"
         }
       ]
     },
@@ -152,17 +150,10 @@
       "examples": []
     },
     "p_values": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "secondary outcome"
-      ],
-      "examples": [
-        {
-          "match": "secondary outcome",
-          "context": "erventions: effects on sleep, secondary outcomes, and populations with co-occ"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "confidence_intervals": {
       "present": false,
@@ -212,17 +203,10 @@
       "examples": []
     },
     "regression_and_models": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "linear model"
-      ],
-      "examples": [
-        {
-          "match": "linear model",
-          "context": "of centering in hierarchical linear modelsA hierarchical causal taxonom"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "reporting_guidelines": {
       "present": false,
@@ -252,44 +236,29 @@
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 5,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "Longitudinal",
-          "context": "g and externalizing symptoms,\u201dLongitudinal study of sleep and internaliz"
-        },
-        {
-          "match": "Longitudinal",
-          "context": "ot randomized controlled trialLongitudinal patterns of anxiety from chil"
-        },
-        {
-          "match": "longitudinal",
-          "context": "leep problems in childhood: A longitudinal study of developmental change"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
-      "count": 7,
+      "count": 4,
       "unique_matches": [
         "hierarchical"
       ],
       "examples": [
         {
-          "match": "hierarchical",
-          "context": "ity: Toward a dimensional and hierarchical approach to understanding psy"
+          "match": "Hierarchical",
+          "context": "(S1 n = 6,773, S2 n = 6,699). Hierarchical regressions examined the effe"
         },
         {
           "match": "hierarchical",
-          "context": "fferent forms of centering in hierarchical linear modelsA hierarchical c"
+          "context": "Sample 2 (S2; n = 6,699). Two hierarchical regression analyses were cond"
         },
         {
-          "match": "hierarchical",
-          "context": "n hierarchical linear modelsA hierarchical causal taxonomy of psychopath"
+          "match": "Hierarchical",
+          "context": "n ages 12 and older. CAPTION: Hierarchical multiple regression: internal"
         }
       ]
     },
@@ -297,10 +266,10 @@
       "present": true,
       "count": 12,
       "unique_matches": [
-        "missing values",
         "missing data",
         "imputation",
-        "missing information"
+        "missing information",
+        "missing values"
       ],
       "examples": [
         {
@@ -371,15 +340,11 @@
     },
     "diagnostic_metrics": {
       "present": true,
-      "count": 9,
+      "count": 8,
       "unique_matches": [
         "sensitivity"
       ],
       "examples": [
-        {
-          "match": "sensitivity",
-          "context": "defiant disorderSensory hypersensitivity as a contributing factor in t"
-        },
         {
           "match": "sensitivity",
           "context": "ild- (i.e., age, sex, sensory sensitivity, pain) and family-level varia"
@@ -387,6 +352,10 @@
         {
           "match": "Sensitivity",
           "context": "higher pain severity. Sensory Sensitivity was measured by three items o"
+        },
+        {
+          "match": "sensitivity",
+          "context": "es indicating greater sensory sensitivity. Caregiver Distress (CD) cons"
         }
       ]
     },

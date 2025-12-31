@@ -27,17 +27,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "Heterogeneity",
-          "context": "ldhood Health OutcomesSpatial Heterogeneity of Gut Microbial Composition"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -211,17 +204,10 @@
       ]
     },
     "missing_data": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "dropout"
-      ],
-      "examples": [
-        {
-          "match": "dropout",
-          "context": "ammalian Gut MicrobiomeStrain dropouts reveal interactions that gov"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "effect_size": {
       "present": false,
@@ -267,27 +253,24 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 28,
+      "count": 15,
       "unique_matches": [
-        "in vitro",
+        "mice",
         "quantification",
-        "transcriptomics",
-        "in vivo",
-        "mouse model",
-        "mice"
+        "transcriptomics"
       ],
       "examples": [
         {
-          "match": "Mice",
-          "context": "Natural Populations of House MiceThe regional diversity of gut"
+          "match": "mice",
+          "context": "rimental procedures involving mice were conducted in accordance"
         },
         {
           "match": "mice",
-          "context": "the GI tract of male C57BL/6 miceRegional Diversity of the Gast"
+          "context": "Five-week-old female C57BL/6J mice were purchased from the Jacks"
         },
         {
           "match": "mice",
-          "context": "erations in high-fat-diet-fed mice are associated with antibioti"
+          "context": "wn University. As only female mice were included, the findings i"
         }
       ]
     }

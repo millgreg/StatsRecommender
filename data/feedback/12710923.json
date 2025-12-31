@@ -27,17 +27,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "heterogeneity",
-          "context": "uces intracellular mutational heterogeneity in colon cancer cellsPrimary,"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -142,30 +135,18 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "matched case-control"
-      ],
-      "examples": [
-        {
-          "match": "matched case-control",
-          "context": "ng gastric cancer patients: a matched case-control studyNoncoding RNAs in cancer"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "icc",
-        "hierarchical"
+        "icc"
       ],
       "examples": [
-        {
-          "match": "hierarchical",
-          "context": "ng sites on circRNAs based on hierarchical feature expansion and fusionS"
-        },
         {
           "match": "ICC",
           "context": "CC, hepatocellular carcinoma; ICC, intrahepatic cholangiocarcin"
@@ -209,25 +190,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "ected by HuR and confers chemosensitivity through regulation of P-glyco"
-        },
-        {
-          "match": "sensitivity",
-          "context": "F1 in gastric tumors restores sensitivity to antitumor immunity by recr"
-        },
-        {
-          "match": "sensitivity",
-          "context": "n of Lin28 decreases the chemosensitivity of gastric cancer cells to ox"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -236,44 +202,34 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "transcriptome",
-        "mice"
-      ],
-      "examples": [
-        {
-          "match": "mice",
-          "context": "n progenitor cell survival in miceDrug delivery approaches for H"
-        },
-        {
-          "match": "Transcriptome",
-          "context": "n emerging tumor immunotherapyTranscriptome-wide identification of rna-bi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   },
   "feedback": {
-    "overall_score": 8.5,
-    "rigor_rating": "High",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
       {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...ng gastric cancer patients: a matched case-control studyNoncoding RNAs in cancer..."
-      }
-    ],
-    "strengths": [
-      {
-        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'transcriptome'"
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
       },
       {
-        "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...ected by HuR and confers chemosensitivity through regulation of P-glyco..."
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
       }
     ],
-    "actionable_recommendations": [],
+    "strengths": [],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
     "deterministic_audit": true
   }
 }

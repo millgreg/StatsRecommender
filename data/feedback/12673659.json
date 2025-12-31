@@ -26,25 +26,24 @@
     },
     "randomization": {
       "present": true,
-      "count": 13,
+      "count": 9,
       "unique_matches": [
         "randomisation",
-        "allocation",
         "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "ation: multisite parallel arm randomised controlled trial in BreastSc"
+          "context": "as a multisite, parallel arm, randomised controlled trial conducted a"
         },
         {
           "match": "randomise",
-          "context": "nterim results from the BRAID randomised controlled trialBreast cance"
+          "context": "g mammogram were included and randomised. Women were excluded if they"
         },
         {
           "match": "randomise",
-          "context": "ts: a BreastScreen Queensland randomised controlled trialGeneral prac"
+          "context": "needed a sample of 373 women randomised to each arm (total n=1119)."
         }
       ]
     },
@@ -145,8 +144,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "bonferroni",
-        "nominal"
+        "nominal",
+        "bonferroni"
       ],
       "examples": [
         {
@@ -215,8 +214,8 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "relative risk",
-        "odds ratio"
+        "odds ratio",
+        "relative risk"
       ],
       "examples": [
         {
@@ -268,8 +267,8 @@
       "present": true,
       "count": 8,
       "unique_matches": [
-        "linear model",
-        "logistic regression"
+        "logistic regression",
+        "linear model"
       ],
       "examples": [
         {
@@ -296,10 +295,10 @@
       "present": true,
       "count": 18,
       "unique_matches": [
-        "proportions",
-        "ordinal",
         "frequencies",
         "categorical",
+        "ordinal",
+        "proportions",
         "continuous"
       ],
       "examples": [
@@ -362,8 +361,8 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "relative risk",
-        "odds ratio"
+        "odds ratio",
+        "relative risk"
       ],
       "examples": [
         {
@@ -450,6 +449,10 @@
         "evidence": "...as appropriate, presented as odds ratios or relative risk ratios, res..."
       },
       {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...and 24-27 months. Primary and secondary outcome measures were self-reported a..."
+      },
+      {
         "message": "Paired data mentioned but no paired statistical tests found.",
         "evidence": "...questionnaire over two weeks. Longitudinal data will also be collected f..."
       },
@@ -460,10 +463,6 @@
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...and 24-27 months. Primary and secondary outcome measures were self-reported a..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ed and randomised. Women were excluded if they did not have dense br..."
       }
     ],
     "strengths": [
@@ -476,8 +475,8 @@
         "evidence": "...m) at eight weeks. Women were blinded to the trial arm to which the..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...as appropriate, presented as odds ratios or relative risk ratios, res..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ed and randomised. Women were excluded if they did not have dense br..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
@@ -489,7 +488,7 @@
         "item": "Multiplicity",
         "issue": "Lack of correction increases Type I error.",
         "recommendation": "Use Bonferroni or FDR, or label as exploratory.",
-        "source_text": "bonferroni nominal"
+        "source_text": "nominal bonferroni"
       },
       {
         "item": "Assumptions",

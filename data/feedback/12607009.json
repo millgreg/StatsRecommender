@@ -16,26 +16,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "randomise",
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "randomized controlled trialsA randomised controlled trial of extended"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "and network meta-analysis of randomized controlled trialsA randomised controlled trial"
-        },
-        {
-          "match": "Randomized Controlled Trial",
-          "context": "Data Analyses Substitute for Randomized Controlled Trials?Methodological consideration"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -158,8 +142,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -197,37 +181,32 @@
     },
     "advanced_modeling": {
       "present": true,
-      "count": 10,
+      "count": 5,
       "unique_matches": [
-        "sensitivity analysis",
         "propensity score"
       ],
       "examples": [
         {
           "match": "propensity score",
-          "context": "meta-analysisHigh-dimensional propensity score adjustment in studies of trea"
+          "context": "rence was <0.1.24 We used 1:1 propensity score matching to adjust for confou"
         },
         {
           "match": "propensity score",
-          "context": "mensional versus conventional propensity scores in a comparative effectivene"
+          "context": "o adjust for confounding. The propensity score was estimated using a logisti"
         },
         {
           "match": "propensity score",
-          "context": "mance of the high-dimensional propensity score algorithm: an empirical examp"
+          "context": "covariates. We conducted the propensity score estimation and matching withi"
         }
       ]
     },
     "assumption_checks": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "proportional hazards"
       ],
       "examples": [
-        {
-          "match": "Proportional Hazards",
-          "context": "in a Nordic Healthcare ModelA Proportional Hazards Model for the Subdistribution"
-        },
         {
           "match": "proportional hazards",
           "context": "nce intervals (CIs) using Cox proportional hazards models. The proportionality a"
@@ -256,9 +235,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "linear model",
+        "logistic regression",
         "cox proportional",
-        "logistic regression"
+        "linear model"
       ],
       "examples": [
         {
@@ -381,15 +360,11 @@
     },
     "diagnostic_metrics": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "sensitivity"
       ],
       "examples": [
-        {
-          "match": "Sensitivity",
-          "context": "stribution of a Competing RiskSensitivity Analysis in Observational Res"
-        },
         {
           "match": "sensitivity",
           "context": "oups.27  We conducted several sensitivity analyses. First, we extended"
@@ -418,12 +393,16 @@
         "evidence": "...c kidney disease. We used the \u03c72 statistic from the Cochran\u2019s..."
       },
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...aseline assessment period; or missing information on age or sex (see supplement..."
       },
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...definition and performance). Secondary outcomes included all cause mortality..."
       },
       {
         "message": "Paired data mentioned but no paired statistical tests found.",
@@ -436,10 +415,6 @@
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...definition and performance). Secondary outcomes included all cause mortality..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...including) the index date. We excluded those with multiple OACs on t..."
       }
     ],
     "strengths": [
@@ -448,16 +423,16 @@
         "evidence": "...utations were conducted using R version 4.3.1. Our study was based on an an..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...matched cohort, we estimated hazard ratios and the corresponding 95% co..."
+        "message": "Verified proportional hazards assumption.",
+        "evidence": "...nce intervals (CIs) using Cox proportional hazards models. The proportionality a..."
       },
       {
-        "message": "Verified proportional hazards assumption.",
-        "evidence": "...in a Nordic Healthcare ModelA Proportional Hazards Model for the Subdistribution..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...including) the index date. We excluded those with multiple OACs on t..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...stribution of a Competing RiskSensitivity Analysis in Observational Res..."
+        "evidence": "...oups.27  We conducted several sensitivity analyses. First, we extended..."
       }
     ],
     "actionable_recommendations": [

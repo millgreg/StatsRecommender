@@ -242,37 +242,30 @@
     },
     "data_types": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
         "continuous"
       ],
       "examples": [
         {
           "match": "continuous",
-          "context": "g patient decompensation from continuous physiologic monitoring in the"
-        },
-        {
-          "match": "continuous",
           "context": "being a false negative). For continuous variables (for example, age a"
         },
         {
           "match": "continuous",
           "context": "being a false negative). For continuous variables (for example, age a"
+        },
+        {
+          "match": "continuous",
+          "context": "Telemetry: patients requiring continuous cardiac monitoring. Observati"
         }
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "longitudinal",
-          "context": "is outcomes: a mixed methods, longitudinal intervention studyA host-prot"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -331,8 +324,8 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "roc",
         "specificity",
+        "roc",
         "sensitivity"
       ],
       "examples": [

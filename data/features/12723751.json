@@ -4,16 +4,12 @@
   "features": {
     "sample_size": {
       "present": true,
-      "count": 5,
+      "count": 4,
       "unique_matches": [
         "sample size",
         "n=450"
       ],
       "examples": [
-        {
-          "match": "Sample Size",
-          "context": "dyMultiplicity Adjustment and Sample Size Calculation in Clinical Trial"
-        },
         {
           "match": "sample size",
           "context": "ransfer. We determined that a sample size of 436 women (218 per group)"
@@ -21,29 +17,33 @@
         {
           "match": "sample size",
           "context": "y protocol, and evaluated the sample size (n=450) for power because of"
+        },
+        {
+          "match": "sample size",
+          "context": "between the two outcomes, the sample size of 450 (225 per group) provid"
         }
       ]
     },
     "randomization": {
       "present": true,
-      "count": 20,
+      "count": 16,
       "unique_matches": [
         "randomisation",
-        "allocation",
-        "randomise"
+        "randomise",
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "ity: multicentre, open label, randomised controlled trialTo test or n"
+          "context": "this multicentre, open label randomised controlled trial at four rep"
         },
         {
           "match": "randomise",
-          "context": "r: a multicentre, open-label, randomised controlled trialPreimplantat"
+          "context": "the use of ICSI. Before this randomised controlled trial, nearly 300"
         },
         {
-          "match": "randomise",
-          "context": "y: protocol for a multicenter randomised controlled trialAntisperm An"
+          "match": "randomisation",
+          "context": "he first screening and before randomisation. After we obtained written in"
         }
       ]
     },
@@ -133,9 +133,9 @@
       "present": true,
       "count": 10,
       "unique_matches": [
-        "sd",
+        "interquartile range",
         "standard deviation",
-        "interquartile range"
+        "sd"
       ],
       "examples": [
         {
@@ -168,8 +168,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "alpha",
-        "secondary outcome"
+        "secondary outcome",
+        "alpha"
       ],
       "examples": [
         {
@@ -191,8 +191,8 @@
       "count": 4,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -213,8 +213,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "wilcoxon",
         "\u03c72",
+        "wilcoxon",
         "odds ratio"
       ],
       "examples": [
@@ -298,9 +298,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
+        "frequencies",
         "categorical",
-        "continuous",
-        "frequencies"
+        "continuous"
       ],
       "examples": [
         {
@@ -318,17 +318,10 @@
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "longitudinal",
-          "context": "ploidy testing: observational longitudinal cohort study of 1,219 consecu"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -341,8 +334,8 @@
       "count": 4,
       "unique_matches": [
         "missing data",
-        "imputation",
-        "dropout"
+        "dropout",
+        "imputation"
       ],
       "examples": [
         {
@@ -363,8 +356,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "odds ratio",
-        "hazard ratio"
+        "hazard ratio",
+        "odds ratio"
       ],
       "examples": [
         {
@@ -436,15 +429,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "in vitro"
       ],
       "examples": [
-        {
-          "match": "in vitro",
-          "context": "ters affecting outcome in two in vitro fertilization programsFrozen"
-        },
         {
           "match": "in vitro",
           "context": "m PGT-A. The annual number of in vitro fertilisation cycles in the f"

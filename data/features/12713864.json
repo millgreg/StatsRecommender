@@ -11,22 +11,15 @@
       "examples": [
         {
           "match": "n = 112",
-          "context": "rgical units  Older patients (n = 112) at Sutter Tracy Community Ho"
+          "context": "Older patients (n = 112) at Sutter Tracy Community Ho"
         }
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "ouraging results from a small randomised controlled trialThe Pittsbur"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -120,9 +113,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "p < 0.01",
         "significance level",
-        "p < 0.05"
+        "p < 0.05",
+        "p < 0.01"
       ],
       "examples": [
         {
@@ -144,8 +137,8 @@
       "count": 4,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -220,11 +213,11 @@
     },
     "data_types": {
       "present": true,
-      "count": 7,
+      "count": 6,
       "unique_matches": [
+        "binary",
         "categorical",
-        "continuous",
-        "binary"
+        "continuous"
       ],
       "examples": [
         {
@@ -233,11 +226,11 @@
         },
         {
           "match": "continuous",
-          "context": "leepiness ScaleFeasibility of continuous actigraphy in patients in a m"
+          "context": "ata on participants, gathered continuously from enrollment to discharg"
         },
         {
           "match": "continuous",
-          "context": "ata on participants, gathered continuously from enrollment to discharg"
+          "context": "Participants wore the device continuously from enrollment until disch"
         }
       ]
     },
@@ -321,17 +314,10 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "mouse model"
-      ],
-      "examples": [
-        {
-          "match": "mouse model",
-          "context": "ion delays wound healing in a mouse model of type 2 diabetesSleep in ho"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   }
 }

@@ -75,17 +75,10 @@
       "examples": []
     },
     "p_values": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "alpha"
-      ],
-      "examples": [
-        {
-          "match": "alpha",
-          "context": "c strip test for serum asialo alpha1-acid glycoprotein in patient"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "confidence_intervals": {
       "present": false,
@@ -209,8 +202,8 @@
     }
   },
   "feedback": {
-    "overall_score": 4.0,
-    "rigor_rating": "Low",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
       {
         "message": "Sample size justification lacks explicit power calculation details.",
@@ -219,14 +212,6 @@
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
-      },
-      {
-        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
-        "evidence": "...c strip test for serum asialo alpha1-acid glycoprotein in patient..."
-      },
-      {
-        "message": "P-values reported only as thresholds (e.g., P<0.05).",
-        "evidence": "...c strip test for serum asialo alpha1-acid glycoprotein in patient..."
       }
     ],
     "strengths": [],
@@ -236,12 +221,6 @@
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'alpha' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       }
     ],
     "deterministic_audit": true

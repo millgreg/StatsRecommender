@@ -34,21 +34,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "stratification"
-      ],
-      "examples": [
-        {
-          "match": "stratification",
-          "context": "2021 scoring models and risk stratification tables to predict outcomes in"
-        },
-        {
-          "match": "stratification",
-          "context": "of EORTC, CUETO, and EAU risk stratification in prediction of recurrence,"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -84,8 +73,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "no adjustment",
-        "adjustment for multiplicity"
+        "adjustment for multiplicity",
+        "no adjustment"
       ],
       "examples": [
         {
@@ -127,8 +116,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "wilcoxon",
-        "\u03c72"
+        "\u03c72",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -186,12 +175,11 @@
     },
     "survival_analysis": {
       "present": true,
-      "count": 9,
+      "count": 8,
       "unique_matches": [
-        "log-rank",
+        "kaplan-meier",
         "rfs",
-        "overall survival",
-        "kaplan-meier"
+        "log-rank"
       ],
       "examples": [
         {
@@ -232,8 +220,8 @@
       "count": 6,
       "unique_matches": [
         "binary",
-        "continuous",
-        "proportions"
+        "proportions",
+        "continuous"
       ],
       "examples": [
         {
@@ -327,17 +315,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "nomogram"
-      ],
-      "examples": [
-        {
-          "match": "nomogram",
-          "context": "U NMIBC guidelines panelEORTC nomograms and risk groups for predicti"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -360,16 +341,20 @@
     }
   },
   "feedback": {
-    "overall_score": 5.5,
-    "rigor_rating": "Medium",
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
     "critical_gaps": [
       {
         "message": "Explicitly stated that no multiplicity correction or formal hypothesis testing was performed.",
         "evidence": "...EAU 2021 risk models.15,16 No adjustment for multiplicity of testing the recurrence-fre..."
       },
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...spectively. In the EV cohort, missing data were imputed to allow for app..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...uscle invasion (\u2265T2 stage).13 Secondary end points were cystectomy-free surviva..."
       },
       {
         "message": "Categorical data mentioned, but no appropriate categorical tests found.",
@@ -382,16 +367,8 @@
         "evidence": "Detected term: 'immunohistochemistry'"
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...er) with primary or recurrent HR-NMIBC per AUA criteria diagno..."
-      },
-      {
         "message": "Verified proportional hazards assumption.",
         "evidence": "...ictive model development. Cox proportional hazards (CPH) regression was used to..."
-      },
-      {
-        "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...U NMIBC guidelines panelEORTC nomograms and risk groups for predicti..."
       }
     ],
     "actionable_recommendations": [
@@ -399,7 +376,7 @@
         "item": "Multiplicity",
         "issue": "Lack of correction increases Type I error.",
         "recommendation": "Use Bonferroni or FDR, or label as exploratory.",
-        "source_text": "no adjustment adjustment for multiplicity"
+        "source_text": "adjustment for multiplicity no adjustment"
       }
     ],
     "deterministic_audit": true

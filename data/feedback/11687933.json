@@ -6,11 +6,11 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "n=1",
         "n=60",
+        "n=1",
+        "n=6",
         "n=3",
-        "n=120",
-        "n=6"
+        "n=120"
       ],
       "examples": [
         {
@@ -28,17 +28,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "ontrolled, withdrawal phase 3 randomised trialAssessment and diagnosi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -94,10 +87,9 @@
     },
     "software": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "matlab",
-        "bioconductor"
+        "matlab"
       ],
       "examples": [
         {
@@ -107,10 +99,6 @@
         {
           "match": "Matlab",
           "context": "were demultiplexed using the Matlab-based Single Cell Debarcoder"
-        },
-        {
-          "match": "bioconductor",
-          "context": "erferon inhibitionFlowcore: a bioconductor package for high throughput f"
         }
       ]
     },
@@ -118,8 +106,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "standard deviation",
-        "interquartile range"
+        "interquartile range",
+        "standard deviation"
       ],
       "examples": [
         {
@@ -140,10 +128,10 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "multiple comparisons",
+        "false discovery rate",
         "benjamini-hochberg",
         "multiple testing",
-        "false discovery rate"
+        "multiple comparisons"
       ],
       "examples": [
         {
@@ -170,9 +158,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "alpha",
+        "secondary outcome",
         "secondary endpoint",
-        "secondary outcome"
+        "alpha"
       ],
       "examples": [
         {
@@ -199,8 +187,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "fold-change",
-        "fisher\u2019s exact"
+        "fisher\u2019s exact",
+        "fold-change"
       ],
       "examples": [
         {
@@ -276,24 +264,17 @@
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "longitudinal",
-          "context": "transcription factorsTen-year longitudinal study of thyroid function in"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
       "count": 9,
       "unique_matches": [
-        "nested",
-        "cluster"
+        "cluster",
+        "nested"
       ],
       "examples": [
         {
@@ -359,8 +340,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "excluded",
-        "excluding"
+        "excluding",
+        "excluded"
       ],
       "examples": [
         {
@@ -384,21 +365,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "ion blocks lethal immune hypersensitivity in a mouse model of down synd"
-        },
-        {
-          "match": "sensitivity",
-          "context": "eling with multi-lineage hypersensitivity to type i interferon in down"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -408,30 +378,25 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 25,
+      "count": 16,
       "unique_matches": [
-        "knockout",
-        "in vivo",
-        "mouse model",
-        "flow cytometry",
-        "cell line",
         "transcriptome",
         "fluorescence",
         "staining",
-        "mice"
+        "flow cytometry"
       ],
       "examples": [
         {
-          "match": "mice",
-          "context": "ntholysis in vivo in neonatal miceMAIT cells in barrier tissues:"
+          "match": "Staining",
+          "context": "ockland), resuspended in Cell Staining Buffer (Fluidigm) and stored"
         },
         {
-          "match": "mouse model",
-          "context": "s1Cje, Ts65Dn and Dp(16)1/Yey mouse models of Down syndromePersonalized"
+          "match": "staining",
+          "context": "tored at \u221280 \u00b0C. For antibody staining, samples were thawed at room"
         },
         {
-          "match": "mouse model",
-          "context": "immune hypersensitivity in a mouse model of down syndromeFlowSOM: usin"
+          "match": "Staining",
+          "context": "m temperature, washed in Cell Staining Buffer, barcoded using a Cell"
         }
       ]
     }
@@ -441,42 +406,38 @@
     "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...ge flagged. For each analyte, missing values were replaced with either the..."
       },
       {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...transcription factorsTen-year longitudinal study of thyroid function in..."
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...reviously described using the Matlab-based Normalizer tool (Finck..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...in DS: Tumor Necrosis Factor Alpha (TNF-\u03b1), interleukin 6 (IL-6)..."
       },
       {
         "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...transcription factorsTen-year longitudinal study of thyroid function in..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ed using Fisher\u2019s exact test, excluding antigens detected in <18 samp..."
+        "evidence": "No direct quote found."
       }
     ],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'knockout'"
+        "evidence": "Detected term: 'transcriptome'"
       },
       {
         "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
         "evidence": "...sting was performed using the Benjamini-Hochberg approach and significance def..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...mini-Hochberg (FDR) approach. Effect sizes (as fold-change in T21 vs. e..."
-      },
-      {
         "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
         "evidence": "...sion analysis. Correction for multiple comparisons was performed using the Benja..."
       },
       {
-        "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...ion blocks lethal immune hypersensitivity in a mouse model of down synd..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ed using Fisher\u2019s exact test, excluding antigens detected in <18 samp..."
       }
     ],
     "actionable_recommendations": [
@@ -484,7 +445,7 @@
         "item": "Statistical Architecture",
         "issue": "Clustered/repeated data requires hierarchical models.",
         "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'longitudinal' but no mixed-effects models."
+        "source_text": "Found 'cluster' but no mixed-effects models."
       }
     ],
     "deterministic_audit": true

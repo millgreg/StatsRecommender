@@ -10,24 +10,19 @@
     },
     "randomization": {
       "present": true,
-      "count": 15,
+      "count": 2,
       "unique_matches": [
-        "allocation",
-        "randomise",
-        "randomized controlled trial"
+        "randomized controlled trial",
+        "allocation"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "odes (the GoodNight Study): a randomised controlled trialSTOP-Bang qu"
+          "match": "randomized controlled trial",
+          "context": "control group of the original randomized controlled trial were collapsed and anchored t"
         },
         {
-          "match": "randomise",
-          "context": "insomnia: a meta-analysis of randomised controlled trialsTreatment o"
-        },
-        {
-          "match": "randomise",
-          "context": "duces sleep apnea severity: a randomised controlled trialBi-direction"
+          "match": "allocation",
+          "context": "f study recruitment and group allocation. Inclusion criteria were age"
         }
       ]
     },
@@ -57,17 +52,10 @@
       ]
     },
     "variable_definitions": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "outcome measure"
-      ],
-      "examples": [
-        {
-          "match": "outcome measure",
-          "context": "insomnia severity index as an outcome measure for insomnia researchThe subj"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "analysis_principles": {
       "present": false,
@@ -152,8 +140,8 @@
       "count": 3,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -232,11 +220,11 @@
     },
     "data_types": {
       "present": true,
-      "count": 6,
+      "count": 4,
       "unique_matches": [
+        "proportions",
         "categorical",
-        "continuous",
-        "proportions"
+        "continuous"
       ],
       "examples": [
         {
@@ -245,11 +233,11 @@
         },
         {
           "match": "continuous",
-          "context": "insomnia increases the use of continuous positive airway pressure ther"
+          "context": "gram includes algorithms that continuously assess for symptoms of slee"
         },
         {
           "match": "continuous",
-          "context": "ctive sleep apneaAdherence to continuous positive airway pressure ther"
+          "context": "/95% confidence intervals for continuous data, and count and proportio"
         }
       ]
     },
@@ -316,8 +304,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "excluded",
-        "categorized"
+        "categorized",
+        "excluded"
       ],
       "examples": [
         {
@@ -337,17 +325,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "etric properties and clinical sensitivity of a new scale for measuring"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -367,10 +348,6 @@
     "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
-        "evidence": "...dized measure of effect size. Complete case Chi2 analyses were used to an..."
-      },
-      {
         "message": "Sample size justification lacks explicit power calculation details.",
         "evidence": "No direct quote found."
       },
@@ -379,30 +356,34 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
-        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...d at each follow-up occasion. SPSS (IBM Statistics, version 28)..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...ortions for categorical data. Alpha levels of <0.05 were used to..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...doctor diagnosis of OSA were excluded from this study which intende..."
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...ortions for categorical data. Alpha levels of <0.05 were used to..."
       }
     ],
     "strengths": [
+      {
+        "message": "Analysis context identifies clinical research (Clinical trial requirements apply).",
+        "evidence": "Detected term: 'randomized'"
+      },
       {
         "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
         "evidence": "...required before investigating Bonferroni-corrected pairwise comparison..."
       },
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...d at each follow-up occasion. SPSS (IBM Statistics, version 28)..."
+        "message": "Used Mixed Models (MMRM/GLMM) which can handle missing data under MAR.",
+        "evidence": "...groups were investigated with linear mixed models. Overall interaction effects..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...as a standardized measure of effect size. Complete case Chi2 analyses..."
-      },
-      {
-        "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...etric properties and clinical sensitivity of a new scale for measuring..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...doctor diagnosis of OSA were excluded from this study which intende..."
       }
     ],
     "actionable_recommendations": [

@@ -17,18 +17,14 @@
     },
     "randomization": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "randomized controlled trial"
       ],
       "examples": [
         {
-          "match": "Randomized Controlled Trial",
-          "context": "e Chronic Myeloid Leukemia: A Randomized Controlled TrialWHO 2016 definition of chronic"
-        },
-        {
           "match": "randomized controlled trial",
-          "context": "ML study group  An open-label randomized controlled trial was conducted at a tertiary c"
+          "context": "An open-label randomized controlled trial was conducted at a tertiary c"
         }
       ]
     },
@@ -130,9 +126,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "chi-square",
+        "fisher's exact",
         "wilcoxon",
-        "fisher's exact"
+        "chi-square"
       ],
       "examples": [
         {
@@ -285,7 +281,12 @@
         "evidence": "...analysis was performed using STATA version-12 (StataCorp, United..."
       }
     ],
-    "strengths": [],
+    "strengths": [
+      {
+        "message": "Analysis context identifies clinical research (Clinical trial requirements apply).",
+        "evidence": "Detected term: 'randomized'"
+      }
+    ],
     "actionable_recommendations": [],
     "deterministic_audit": true
   }

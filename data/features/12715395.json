@@ -202,26 +202,10 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 5,
-      "unique_matches": [
-        "transcriptome",
-        "mice"
-      ],
-      "examples": [
-        {
-          "match": "mice",
-          "context": "pyroptosis pathway in C57BL/6 mice and human kidney 2 cells.Effe"
-        },
-        {
-          "match": "mice",
-          "context": "g phthalate-induced asthma in mice.Exploring the molecular mecha"
-        },
-        {
-          "match": "mice",
-          "context": "osphorylation in high-fat-fed mice.Creatinine: From physiology t"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   }
 }

@@ -279,12 +279,6 @@
         "issue": "Method of concealment (e.g. opaque envelopes) not described.",
         "recommendation": "Specify how randomization sequence was concealed.",
         "source_text": "Blinding found but no 'concealment' terms."
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'Alpha' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       }
     ],
     "deterministic_audit": true

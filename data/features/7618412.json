@@ -6,12 +6,12 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "n = 29",
-        "n = 24",
         "sample size",
+        "n = 42",
+        "n = 24",
         "n = 159",
-        "n = 3",
-        "n = 42"
+        "n = 29",
+        "n = 3"
       ],
       "examples": [
         {
@@ -30,25 +30,24 @@
     },
     "randomization": {
       "present": true,
-      "count": 15,
+      "count": 5,
       "unique_matches": [
         "randomisation",
-        "allocation",
         "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "tally sustainable products: A randomised controlled trial in an onlin"
+          "context": "his study was a 2x2 factorial randomised controlled trial. The study"
+        },
+        {
+          "match": "randomisation",
+          "context": "ted diets could unbalance the randomisation. Participants provided online"
         },
         {
           "match": "randomise",
-          "context": "r grocery purchases online: A randomised controlled trial and lessons"
-        },
-        {
-          "match": "randomise",
-          "context": "ic versus alcoholic drinks: A randomised controlled trialFood systems"
+          "context": "line consent and were equally randomised to one of the four trial arm"
         }
       ]
     },
@@ -257,17 +256,10 @@
       "examples": []
     },
     "clustering": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "cluster"
-      ],
-      "examples": [
-        {
-          "match": "cluster",
-          "context": "fruit and vegetable snacks? A cluster randomized trial within an on"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": true,

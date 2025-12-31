@@ -242,37 +242,30 @@
     },
     "data_types": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
         "continuous"
       ],
       "examples": [
         {
           "match": "continuous",
-          "context": "g patient decompensation from continuous physiologic monitoring in the"
-        },
-        {
-          "match": "continuous",
           "context": "being a false negative). For continuous variables (for example, age a"
         },
         {
           "match": "continuous",
           "context": "being a false negative). For continuous variables (for example, age a"
+        },
+        {
+          "match": "continuous",
+          "context": "Telemetry: patients requiring continuous cardiac monitoring. Observati"
         }
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "longitudinal",
-          "context": "is outcomes: a mixed methods, longitudinal intervention studyA host-prot"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -331,8 +324,8 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "roc",
         "specificity",
+        "roc",
         "sensitivity"
       ],
       "examples": [
@@ -371,7 +364,7 @@
     }
   },
   "feedback": {
-    "overall_score": 2.5,
+    "overall_score": 4.0,
     "rigor_rating": "Low",
     "critical_gaps": [
       {
@@ -379,16 +372,12 @@
         "evidence": "...ity and predictive values (post-test probabilities) dependent on t..."
       },
       {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...al analyses were performed in SAS software version 9.4 or R sof..."
+      },
+      {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...infections are significantly (P\u2009<\u20090.05) higher than the overall bact..."
-      },
-      {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...is outcomes: a mixed methods, longitudinal intervention studyA host-prot..."
-      },
-      {
-        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...is outcomes: a mixed methods, longitudinal intervention studyA host-prot..."
       },
       {
         "message": "Diagnostic metrics reported without Confidence Intervals.",
@@ -401,10 +390,6 @@
         "evidence": "Detected term: 'transcriptome'"
       },
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...al analyses were performed in SAS software version 9.4 or R sof..."
-      },
-      {
         "message": "Reported diagnostic metrics (AUC/ROC).",
         "evidence": "...pplicable FOOTER:  CAPTION: AUROC of the TriVerity Bacterial sc..."
       }
@@ -415,18 +400,6 @@
         "issue": "Parametric tests assume normality.",
         "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
         "source_text": "Found parametric tests: t-test"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'P\u2009<\u20090.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      },
-      {
-        "item": "Statistical Architecture",
-        "issue": "Clustered/repeated data requires hierarchical models.",
-        "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'longitudinal' but no mixed-effects models."
       }
     ],
     "deterministic_audit": true

@@ -6,8 +6,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "sample size",
         "n=56",
+        "sample size",
         "n=79",
         "n=47"
       ],
@@ -28,25 +28,25 @@
     },
     "randomization": {
       "present": true,
-      "count": 29,
+      "count": 18,
       "unique_matches": [
         "randomisation",
         "randomly assigned",
-        "allocation",
-        "randomise"
+        "randomise",
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "year follow-up of the FIMPACT randomised, placebo surgery controlled"
+          "context": "oscopy Trial), a multicentre, randomised, placebo surgery controlled,"
+        },
+        {
+          "match": "randomisation",
+          "context": "s. We used twofold sequential randomisation, with participants first rand"
         },
         {
           "match": "randomise",
-          "context": "opy for shoulder impingement: randomised, placebo surgery controlled"
-        },
-        {
-          "match": "randomise",
-          "context": "cebo-controlled, three-group, randomised surgical trialSubacromial de"
+          "context": "tion, with participants first randomised to surgery or exercise thera"
         }
       ]
     },
@@ -60,9 +60,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sequentially numbered",
+        "concealment",
         "opaque envelopes",
-        "concealment"
+        "sequentially numbered"
       ],
       "examples": [
         {
@@ -127,8 +127,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "intention-to-treat population",
-        "intention-to-treat approach"
+        "intention-to-treat approach",
+        "intention-to-treat population"
       ],
       "examples": [
         {
@@ -145,8 +145,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "stata version 18",
-        "stata"
+        "stata",
+        "stata version 18"
       ],
       "examples": [
         {
@@ -178,16 +178,11 @@
     },
     "multiplicity_correction": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "multiple comparisons",
-        "bonferroni"
+        "multiple comparisons"
       ],
       "examples": [
-        {
-          "match": "Bonferroni",
-          "context": "diseaseMultiple P-values and Bonferroni correctionArthroscopic decomp"
-        },
         {
           "match": "multiple comparisons",
           "context": "hod for adjustment of CIs for multiple comparisons of secondary outcomes. These"
@@ -202,16 +197,11 @@
     },
     "p_values": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
-        "p-value",
         "secondary outcome"
       ],
       "examples": [
-        {
-          "match": "P-value",
-          "context": "rotator cuff diseaseMultiple P-values and Bonferroni correctionArt"
-        },
         {
           "match": "Secondary outcome",
           "context": "MID) was set at 15 points.21  Secondary outcomes included functional assessme"
@@ -219,6 +209,10 @@
         {
           "match": "secondary outcome",
           "context": "s for multiple comparisons of secondary outcomes. These results are presented"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "health. CAPTION: Primary and secondary outcomes of the trial at 10 year foll"
         }
       ]
     },
@@ -226,8 +220,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -304,8 +298,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "categorical",
-        "proportions"
+        "proportions",
+        "categorical"
       ],
       "examples": [
         {
@@ -320,19 +314,14 @@
     },
     "dependency": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "repeated measures",
-        "longitudinal"
+        "repeated measures"
       ],
       "examples": [
         {
           "match": "repeated measures",
           "context": "ic regression, accounting for repeated measures. These variables included pat"
-        },
-        {
-          "match": "Longitudinal",
-          "context": "acebo surgery controlled trialLongitudinal study of use and cost of suba"
         }
       ]
     },
@@ -353,9 +342,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "missing values",
         "imputation",
-        "loss to follow-up"
+        "loss to follow-up",
+        "missing values"
       ],
       "examples": [
         {
@@ -408,8 +397,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "excluded",
-        "crossover"
+        "crossover",
+        "excluded"
       ],
       "examples": [
         {

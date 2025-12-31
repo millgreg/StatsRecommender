@@ -1,0 +1,459 @@
+{
+  "title": "Risk of infection and wound dehiscence after use of prophylactic antibiotics in episiotomy or second degree tear (REPAIR study): single centre, double blind, placebo controlled randomised trial The incidence of wound infection and dehiscence following childbirth-related perineal trauma: A systematic review of the evidenceAntibiotic prophylaxis for third- and fourth-degree perineal tear during vaginal birthAntibiotic prophylaxis for prevention of postpartum perineal wound complications: a randomized controlled trialAntibiotic prophylaxis for episiotomy repair following vaginal birthClinical evaluation of the chloramphenicol use as a prophylactic antibiotic in the vaginal delivery with episiotomy [Avaliacao clinica do emprego do cloranfenicol como antibiotico profilatico no parto normal com episiotomiaA Randomized, Open-labelled, Interventional Study to Evaluate the Incidence of Infection with or Without Use of Prophylactic Antibiotics in Patients of Episiotomy in a Normal Vaginal DeliveryProphylactic antibiotics in patients with episiotomy following normal vaginal delivery: a randomised clinical trialCould subcutaneous rifampicin administration be an effective approach for reducing episiotomy infections?Prophylactic antibiotics in the prevention of infection after operative vaginal delivery (ANODE): a multicentre randomised controlled trialStill No Substantial Evidence to Use Prophylactic Antibiotic at Operative Vaginal Delivery: Systematic Review and Meta-AnalysisThe REPAIR study: oral antibiotics to prevent infection and wound dehiscence after obstetric perineal tear-a double-blinded placebo controlled randomized trialPostpartum perineal repair performed by midwives: a randomised trial comparing two suture techniques leaving the skin unsuturedObstetric perineal tears: risk factors, wound infection and dehiscence: a prospective cohort studyFactors associated with wound complications in women with obstetric anal sphincter injuries (OASIS)Breakdown of Perineal Laceration Repair After Vaginal Delivery: A Case-Control StudyLactogenesis: The transition from pregnancy to lactation: Breastfeeding 2001, Part I: The evidence for breastfeedingInfection and wound breakdown in spontaneous second-degree perineal tears: An exploratory mixed methods studyFactors associated with infection after operative vaginal birth-a secondary analysis of a randomized controlled trial of prophylactic antibiotics for the prevention of infection following operative vaginal birthLong term impact of prophylactic antibiotic use before incision versus after cord clamping on children born by caesarean section: longitudinal study of UK electronic health records",
+  "pmcid": "12570273",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "sample size",
+        "n=433",
+        "power calculation"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "ful and achievable target for sample size estimation.9 Accounting for a"
+        },
+        {
+          "match": "sample size",
+          "context": "rate of 15% or more, but the sample size would be recalculated and the"
+        },
+        {
+          "match": "power calculation",
+          "context": "15%. We performed a post hoc power calculation based on the results for the"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "randomisation",
+        "randomise",
+        "allocation"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "parallel, placebo controlled randomised trial investigating the effe"
+        },
+        {
+          "match": "randomisation",
+          "context": "tal Region Pharmacy conducted randomisation using a computer generated ra"
+        },
+        {
+          "match": "Randomisation",
+          "context": "thout revealing its contents. Randomisation therefore occurred before enr"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "blinded",
+        "unblinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "before enrolment and remained blinded to the staff (except repackin"
+        },
+        {
+          "match": "blinded",
+          "context": "24. The study was partially unblinded, with the pharmacy disclosing"
+        },
+        {
+          "match": "unblinded",
+          "context": "2024. The study was partially unblinded, with the pharmacy disclosing"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "subgroup analysis"
+      ],
+      "examples": [
+        {
+          "match": "subgroup analysis",
+          "context": "did. We conducted a post hoc subgroup analysis to assess whether the overall"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "(CIs). Analysis followed the intention-to-treat principle, with participants"
+        },
+        {
+          "match": "intention-to-treat",
+          "context": "assess the robustness of the intention-to-treat results in the women lost to"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "interquartile range",
+        "standard deviation",
+        "sd"
+      ],
+      "examples": [
+        {
+          "match": "standard deviation",
+          "context": "re summarised using means and standard deviations (SDs). Non-normally distribu"
+        },
+        {
+          "match": "standard deviation",
+          "context": ". IQR=interquartile range; SD=standard deviation.For some variables, it was no"
+        },
+        {
+          "match": "interquartile range",
+          "context": "ere presented as medians with interquartile ranges. We used Fisher\u2019s exact test"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "significance level",
+        "p<0.05",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "P<0.05",
+          "context": "hen not normally distributed. P<0.05 was considered significant. W"
+        },
+        {
+          "match": "significance level",
+          "context": "pated drop-out rate of 10%, a significance level of 0.05, and a power of 80%,"
+        },
+        {
+          "match": "secondary outcome",
+          "context": "Consequently, we introduced a secondary outcome\u2014clinically relevant wound deh"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "confidence interval",
+        "95% confidence"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "mber needed to treat with 95% confidence intervals (CIs). Analysis followed the"
+        },
+        {
+          "match": "confidence interval",
+          "context": "n unless stated otherwise. CI=confidence interval; IQR=interquartile range; VAS"
+        },
+        {
+          "match": "95% confidence",
+          "context": "d number needed to treat with 95% confidence intervals (CIs). Analysis fol"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "mann-whitney",
+        "fisher\u2019s exact",
+        "relative risk"
+      ],
+      "examples": [
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "interquartile ranges. We used Fisher\u2019s exact test for categorical variable"
+        },
+        {
+          "match": "Mann-Whitney",
+          "context": "lly distributed and using the Mann-Whitney U test when not normally dist"
+        },
+        {
+          "match": "relative risk",
+          "context": "lculated the risk difference, relative risk, and number needed to treat w"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "consort"
+      ],
+      "examples": [
+        {
+          "match": "CONSORT",
+          "context": "present study adheres to the CONSORT 2010 guidelines.13  Participa"
+        }
+      ]
+    },
+    "data_types": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "proportions",
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "percentages were provided for categorical data, while continuous data w"
+        },
+        {
+          "match": "categorical",
+          "context": "used Fisher\u2019s exact test for categorical variables while continuous va"
+        },
+        {
+          "match": "continuous",
+          "context": "d for categorical data, while continuous data were evaluated for norma"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "relative risk"
+      ],
+      "examples": [
+        {
+          "match": "relative risk",
+          "context": "lculated the risk difference, relative risk, and number needed to treat w"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "post hoc"
+      ],
+      "examples": [
+        {
+          "match": "post hoc",
+          "context": "ower than 15%. We performed a post hoc power calculation based on th"
+        },
+        {
+          "match": "post hoc",
+          "context": "st to follow-up, we performed post hoc analysis in two extreme case"
+        },
+        {
+          "match": "post hoc",
+          "context": "that none did. We conducted a post hoc subgroup analysis to assess w"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "baseline data",
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline data",
+          "context": "m statistical analyses.17 For baseline data, amount and percentages were"
+        },
+        {
+          "match": "Baseline characteristic",
+          "context": "he patients until unblinding. Baseline characteristics and delivery related paramet"
+        },
+        {
+          "match": "Baseline characteristic",
+          "context": "process acceptable. CAPTION: Baseline characteristics of women in the REPAIR study"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "ion to the anal sphincter was excluded) and were sutured at our inst"
+        },
+        {
+          "match": "excluded",
+          "context": "utured at our institution. We excluded women with treatment allergy"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Blinding present but allocation concealment details missing.",
+        "evidence": "...before enrolment and remained blinded to the staff (except repackin..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...hen not normally distributed. P<0.05 was considered significant. W..."
+      },
+      {
+        "message": "Includes exploratory/post hoc analyses without clear multiplicity correction.",
+        "evidence": "...ower than 15%. We performed a post hoc power calculation based on th..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...hen not normally distributed. P<0.05 was considered significant. W..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Blinding of participants/assessors documented.",
+        "evidence": "...before enrolment and remained blinded to the staff (except repackin..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ion to the anal sphincter was excluded) and were sutured at our inst..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Allocation Concealment",
+        "issue": "Method of concealment (e.g. opaque envelopes) not described.",
+        "recommendation": "Specify how randomization sequence was concealed.",
+        "source_text": "Blinding found but no 'concealment' terms."
+      },
+      {
+        "item": "Deductive Rigor",
+        "issue": "Post hoc findings are hypothesis-generating.",
+        "recommendation": "Distinguish between pre-specified endpoints and exploratory analyses.",
+        "source_text": "Found term 'post hoc' without rigorous correction."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

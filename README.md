@@ -32,16 +32,30 @@ python src/audit_paper.py --file my_manuscript.txt
 python src/audit_paper.py --text "We performed a t-test with n=10..."
 ```
 
-### 2. Batch Processing from PMC
+### 2. Full Audit Pipeline (Recommended)
 
-The core pipeline can process papers directly from PubMed Central using their PMCIDs.
+The easiest way to run the full audit (ingesting local PDFs + PMC XMLs + generating dashboard) is via the batch script:
 
-1. **Fetch and Process**: Run the fetcher scripts in `src/`.
-2. **Generate Dashboard**: 
-   ```bash
-   python src/generate_dashboard.py
-   ```
-   This creates a visual summary of the audits in `reports/`.
+**Windows:**
+Double-click `run_audit.bat` or run in terminal:
+```cmd
+run_audit.bat
+```
+
+**Manual:**
+```bash
+python src/run_pipeline.py
+```
+This script automates:
+1. **PDF Ingestion**: Converts PDFs in `data/pdf_input/` to JSON.
+2. **XML Parsing**: Processes PMC XMLs in `data/raw/`.
+3. **Feature Extraction**: Extracts statistical features.
+4. **Feedback Generation**: Audits papers and updates the Dashboard.
+
+### 3. Folder Structure
+- **`data/pdf_input/`**: Drop your PDF files here.
+- **`data/raw/`**: PMC XML files go here.
+- **`reports/rigor_dashboard.html`**: The final interactive report.
 
 ## Statistical Rigor Standards
 

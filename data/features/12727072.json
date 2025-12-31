@@ -33,17 +33,10 @@
       "examples": []
     },
     "variable_definitions": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "outcome measure"
-      ],
-      "examples": [
-        {
-          "match": "outcome measure",
-          "context": "lth survey questionnaire: new outcome measure for primary careReliability a"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "analysis_principles": {
       "present": false,
@@ -61,8 +54,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sas",
-        "r 4.1.2"
+        "r 4.1.2",
+        "sas"
       ],
       "examples": [
         {
@@ -83,8 +76,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "sd",
-        "interquartile range"
+        "interquartile range",
+        "sd"
       ],
       "examples": [
         {
@@ -245,15 +238,11 @@
     },
     "dependency": {
       "present": true,
-      "count": 10,
+      "count": 9,
       "unique_matches": [
         "longitudinal"
       ],
       "examples": [
-        {
-          "match": "longitudinal",
-          "context": "recruitment, assessment, and longitudinal monitoring of participants fo"
-        },
         {
           "match": "Longitudinal",
           "context": "rs. The four cohorts are: the Longitudinal Study of Early onset dementia"
@@ -261,6 +250,10 @@
         {
           "match": "Longitudinal",
           "context": "ly members (LEAF) cohort, the Longitudinal/cohort Study of Patients with"
+        },
+        {
+          "match": "Longitudinal",
+          "context": "mentia (COHD) cohort, and the Longitudinal Study of Patients with Parkin"
         }
       ]
     },

@@ -74,8 +74,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sd",
-        "interquartile range"
+        "interquartile range",
+        "sd"
       ],
       "examples": [
         {
@@ -221,8 +221,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "not imputed",
-        "missing data"
+        "missing data",
+        "not imputed"
       ],
       "examples": [
         {
@@ -293,26 +293,10 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "in vivo",
-        "in vitro"
-      ],
-      "examples": [
-        {
-          "match": "in vitro",
-          "context": "tion in single and multilayer in vitro cell modelsDetermining the si"
-        },
-        {
-          "match": "in vivo",
-          "context": "cer diagnosisPeptide mediated in vivo tumor targeting of nanopartic"
-        },
-        {
-          "match": "in vivo",
-          "context": "effects of gold nanoparticles in vivo by different administration r"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   }
 }

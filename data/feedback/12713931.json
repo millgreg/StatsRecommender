@@ -104,8 +104,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "chi-square",
-        "t-test"
+        "t-test",
+        "chi-square"
       ],
       "examples": [
         {
@@ -156,22 +156,14 @@
     },
     "data_types": {
       "present": true,
-      "count": 6,
+      "count": 1,
       "unique_matches": [
         "continuous"
       ],
       "examples": [
         {
           "match": "continuous",
-          "context": "rve stimulatorsTreatment with continuous positive airway pressure is n"
-        },
-        {
-          "match": "continuous",
-          "context": "standard follow-up to improve continuous positive airway pressure comp"
-        },
-        {
-          "match": "continuous",
-          "context": "portance of mask selection on continuous positive airway pressure outc"
+          "context": "ed tests were utilized for discontinuous variables. Statistical analys"
         }
       ]
     },
@@ -220,22 +212,22 @@
     },
     "advanced_modeling_extra": {
       "present": true,
-      "count": 8,
+      "count": 4,
       "unique_matches": [
         "compliance"
       ],
       "examples": [
         {
-          "match": "Compliance",
-          "context": "a randomized, controlled trialCompliance after switching from CPAP to"
+          "match": "compliance",
+          "context": "otal usage hours, and patient compliance, calculated as total CPAP usa"
         },
         {
           "match": "compliance",
-          "context": "uous positive airway pressure complianceDifferences between the real a"
+          "context": "December 2023 and the average compliance over 365 days. The data were"
         },
         {
           "match": "Compliance",
-          "context": "ed research findings are falseCompliance with positive airway pressure"
+          "context": "ays the CPAP device was used; Compliance, adherence to CPAP treatment,"
         }
       ]
     },
@@ -299,7 +291,7 @@
     "strengths": [
       {
         "message": "Documented participant compliance or attrition.",
-        "evidence": "...a randomized, controlled trialCompliance after switching from CPAP to..."
+        "evidence": "...otal usage hours, and patient compliance, calculated as total CPAP usa..."
       }
     ],
     "actionable_recommendations": [

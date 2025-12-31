@@ -39,7 +39,7 @@ def save_raw_xml(pmcid, xml_data, folder="data/raw"):
 
 if __name__ == "__main__":
     journals = ["Nature Medicine", "The Lancet", "NEJM", "BMJ", "JAMA"]
-    trials_per_journal = 15
+    trials_per_journal = 20
     
     for journal in journals:
         print(f"\n--- Processing Journal: {journal} ---")

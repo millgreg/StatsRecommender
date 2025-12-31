@@ -165,29 +165,18 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "paired design"
-      ],
-      "examples": [
-        {
-          "match": "paired design",
-          "context": "etwork analysis for data from paired designWGCNA: an R package for weight"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "hierarchical"
       ],
       "examples": [
-        {
-          "match": "hierarchical",
-          "context": "y studiesMerging K-means with hierarchical clustering for identifying ge"
-        },
         {
           "match": "hierarchical",
           "context": "Subsequently, bi-directional hierarchical clustering [10, 11] was perfo"
@@ -222,8 +211,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "excluded",
-        "categorized"
+        "categorized",
+        "excluded"
       ],
       "examples": [
         {
@@ -269,8 +258,8 @@
     }
   },
   "feedback": {
-    "overall_score": 2.5,
-    "rigor_rating": "Low",
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
     "critical_gaps": [
       {
         "message": "Reporting of blinding or masking procedure is missing.",
@@ -281,32 +270,21 @@
         "evidence": ".... A significance threshold of p < 0.05 was applied to select the enr..."
       },
       {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...etwork analysis for data from paired designWGCNA: an R package for weight..."
-      },
-      {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": ".... A significance threshold of p < 0.05 was applied to select the enr..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...nsistency in our analysis, we excluded gene expression profiling dat..."
       }
     ],
     "strengths": [
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...nsistency in our analysis, we excluded gene expression profiling dat..."
+      },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
         "evidence": "...comes, and clinical treatment sensitivity. Intricate and significant in..."
       }
     ],
-    "actionable_recommendations": [
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'p < 0.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      }
-    ],
+    "actionable_recommendations": [],
     "deterministic_audit": true
   }
 }

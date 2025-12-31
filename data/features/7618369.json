@@ -196,11 +196,10 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 5,
+      "count": 3,
       "unique_matches": [
-        "transcriptome",
-        "in vivo",
-        "mice"
+        "mice",
+        "in vivo"
       ],
       "examples": [
         {
@@ -213,7 +212,7 @@
         },
         {
           "match": "in vivo",
-          "context": "domonas aeruginosa infections in vivoGuidelines on the recognition"
+          "context": "For all in vivo experiments, 6\u20138-week-old fem"
         }
       ]
     }

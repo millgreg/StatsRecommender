@@ -16,17 +16,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "ibitors: systematic review of randomised controlled trialsConsidering"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -179,8 +172,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "wilcoxon",
-        "fisher\u2019s exact"
+        "fisher\u2019s exact",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -270,8 +263,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "not imputed",
-        "missing data"
+        "missing data",
+        "not imputed"
       ],
       "examples": [
         {
@@ -331,8 +324,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "excluded",
-        "compliance"
+        "compliance",
+        "excluded"
       ],
       "examples": [
         {
@@ -379,12 +372,16 @@
     "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...ariance) model; there were no missing data in the PPS, and in the supple..."
       },
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...303 and placebo, at a 2-sided significance level of 5%. Given that \u223c10% of pat..."
       },
       {
         "message": "Includes exploratory/post hoc analyses without clear multiplicity correction.",
@@ -393,10 +390,6 @@
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...303 and placebo, at a 2-sided significance level of 5%. Given that \u223c10% of pat..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...hat \u223c10% of patients would be excluded due to premature discontinuat..."
       }
     ],
     "strengths": [
@@ -405,8 +398,8 @@
         "evidence": "...analyses were performed using SAS, version 9.4. CAPTION: Baseline Characteri..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...sen. The pooled t test on the mean difference (assuming equal variances) wa..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...hat \u223c10% of patients would be excluded due to premature discontinuat..."
       },
       {
         "message": "Documented participant compliance or attrition.",

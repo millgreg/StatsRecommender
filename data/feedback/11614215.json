@@ -163,15 +163,11 @@
     },
     "clustering": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
         "cluster"
       ],
       "examples": [
-        {
-          "match": "cluster",
-          "context": "the patulin biosynthetic gene cluster from Penicillium expansumMult"
-        },
         {
           "match": "cluster",
           "context": "eted regions of citrinin gene cluster (C7_116, C7_118, and C7_120;"
@@ -179,6 +175,10 @@
         {
           "match": "cluster",
           "context": "23025) on the NIH HPC Biowulf cluster (http://hpc.nih.gov) with min"
+        },
+        {
+          "match": "Cluster",
+          "context": "1.1\u20133 to control the colors. Cluster networks were performed using"
         }
       ]
     },
@@ -226,25 +226,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "ng Mycobacterium tuberculosis sensitivity to thiol stress at acidic pH"
-        },
-        {
-          "match": "Sensitivity",
-          "context": "ng Mycobacterium tuberculosis Sensitivity to Thiol Stress at Acidic pH"
-        },
-        {
-          "match": "Sensitivity",
-          "context": "ng Mycobacterium tuberculosis Sensitivity to Thiol Stress at Acidic pH"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -254,35 +239,35 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 9,
+      "count": 4,
       "unique_matches": [
-        "in vitro",
-        "quantification",
-        "in vivo",
-        "transcriptome",
         "fluorescence",
-        "mice"
+        "quantification"
       ],
       "examples": [
         {
-          "match": "mice",
-          "context": "tion by foot pad technique in mice.The Sphagnum microbiome: new"
+          "match": "fluorescence",
+          "context": "r bottom at 37\u00b0C. Ratiometric fluorescence at emission 510 nm (Ex: 405 n"
         },
         {
-          "match": "In vitro",
-          "context": "Shorten Tuberculosis TreatmentIn vitro drug discovery models for Myc"
+          "match": "fluorescence",
+          "context": "l harvesting and the relative fluorescence was normalized to measure the"
         },
         {
-          "match": "In Vivo",
-          "context": "ular Drug Candidate Effective In Vivo with the Potential To Shorten"
+          "match": "fluorescence",
+          "context": "24 h). The ratio of Red/Green fluorescence was used as a measure to dete"
         }
       ]
     }
   },
   "feedback": {
-    "overall_score": 7.0,
+    "overall_score": 5.5,
     "rigor_rating": "Medium",
     "critical_gaps": [
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...using DESeq2 v1.28.0 (https://bioconductor.org/packages/DESeq2/) [32]. G..."
+      },
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...embly were transformed into 5-alpha competent E. coli cells (NEB)..."
@@ -295,24 +280,10 @@
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'in vitro'"
-      },
-      {
-        "message": "Detailed software versions provided.",
-        "evidence": "...using DESeq2 v1.28.0 (https://bioconductor.org/packages/DESeq2/) [32]. G..."
-      },
-      {
-        "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...ng Mycobacterium tuberculosis sensitivity to thiol stress at acidic pH..."
+        "evidence": "Detected term: 'fluorescence'"
       }
     ],
     "actionable_recommendations": [
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'alpha' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      },
       {
         "item": "Statistical Architecture",
         "issue": "Clustered/repeated data requires hierarchical models.",

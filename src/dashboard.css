@@ -80,7 +80,7 @@ header p {
   border: 1px solid rgba(248, 113, 113, 0.2);
   border-radius: 1rem;
   padding: 2rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .problem-section h2 {
@@ -108,6 +108,64 @@ header p {
   color: var(--text-main);
   display: block;
   margin-bottom: 0.25rem;
+}
+
+/* Common Strengths Section */
+.strength-section {
+  background: rgba(74, 222, 128, 0.1);
+  border: 1px solid rgba(74, 222, 128, 0.2);
+  border-radius: 1rem;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+
+.strength-section h2 {
+  color: var(--accent-success);
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.strength-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+.strength-item {
+  background: rgba(15, 23, 42, 0.5);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border-left: 4px solid var(--accent-success);
+}
+
+.strength-item b {
+  color: var(--text-main);
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+/* Score Bar */
+.score-container {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.score-bar-bg {
+    flex-grow: 1;
+    height: 8px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 4px;
+    overflow: hidden;
+    max-width: 100px;
+}
+
+.score-bar-fill {
+    height: 100%;
+    background: var(--accent-primary);
+    border-radius: 4px;
 }
 
 /* Table Section */

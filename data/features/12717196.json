@@ -23,8 +23,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "allocation",
-        "randomized controlled trial"
+        "randomized controlled trial",
+        "allocation"
       ],
       "examples": [
         {
@@ -135,9 +135,9 @@
       "count": 9,
       "unique_matches": [
         "p\u2009>\u20090.1",
-        "secondary outcome",
         "p\u2009<\u20090.1",
         "alpha",
+        "secondary outcome",
         "p\u2009<\u20090.05"
       ],
       "examples": [
@@ -160,8 +160,8 @@
       "count": 6,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -242,17 +242,10 @@
       "examples": []
     },
     "reporting_guidelines": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "prisma"
-      ],
-      "examples": [
-        {
-          "match": "PRISMA",
-          "context": "atriale prospective studyThe PRISMA extension statement for repor"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "data_types": {
       "present": false,
@@ -283,9 +276,9 @@
       "count": 21,
       "unique_matches": [
         "mean difference",
-        "relative risk",
+        "or",
         "rr",
-        "or"
+        "relative risk"
       ],
       "examples": [
         {

@@ -16,17 +16,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "ibitors: systematic review of randomised controlled trialsConsidering"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -179,8 +172,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "wilcoxon",
-        "fisher\u2019s exact"
+        "fisher\u2019s exact",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -270,8 +263,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "not imputed",
-        "missing data"
+        "missing data",
+        "not imputed"
       ],
       "examples": [
         {
@@ -331,8 +324,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "excluded",
-        "compliance"
+        "compliance",
+        "excluded"
       ],
       "examples": [
         {

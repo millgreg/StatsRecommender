@@ -106,8 +106,8 @@
       "count": 5,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -196,19 +196,14 @@
     },
     "dependency": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "repeated measures",
-        "longitudinal"
+        "repeated measures"
       ],
       "examples": [
         {
           "match": "repeated measures",
           "context": "both the non-independence of repeated measures within patients and the clust"
-        },
-        {
-          "match": "longitudinal",
-          "context": "K general practice: a 10-year longitudinal cohort studyRisk-reducing mas"
         }
       ]
     },

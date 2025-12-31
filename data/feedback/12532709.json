@@ -1,0 +1,468 @@
+{
+  "title": "Pembrolizumab plus axitinib versus sunitinib for advanced clear cell renal cell carcinoma: 5-year survival and biomarker analyses of the phase 3 KEYNOTE-426 trialPembrolizumab plus axitinib versus sunitinib for advanced renal-cell carcinomaNCCN Guidelines\u00ae Insights: Kidney Cancer, Version 2.2024Renal cell carcinoma: ESMO clinical practice guideline for diagnosis, treatment and follow-upPredictive biomarkers of response to immunotherapy in metastatic renal cell cancerManagement of renal cell carcinoma: promising biomarkers and the challenges to reach the clinicMolecular subsets in renal cancer determine outcome to checkpoint and angiogenesis blockadeAvelumab plus axitinib versus sunitinib in advanced renal cell carcinoma: biomarker analysis of the phase 3 JAVELIN Renal 101 trialFinal overall survival and molecular analysis in IMmotion151, a phase 3 trial comparing atezolizumab plus bevacizumab vs sunitinib in patients with previously untreated metastatic renal cell carcinomaImpact of renal cell carcinoma molecular subtypes on immunotherapy and targeted therapy outcomesRenal cell carcinoma in the era of precision medicine: from molecular pathology to tissue-based biomarkersA pan-cancer analysis of PBAF complex mutations and their association with immunotherapy responseTranscriptomic profiling of the tumor microenvironment reveals distinct subgroups of clear cell renal cell cancer: data from a randomized phase III trialClinical activity and molecular correlates of response to atezolizumab alone or in combination with bevacizumab versus sunitinib in renal cell carcinomaGenomic correlates of response to immune checkpoint therapies in clear cell renal cell carcinoma and  cooperate to define high-angiogenesis tumors and increased antiangiogenic response in renal cancerClinical validation of  alterations as a marker of immune checkpoint inhibitor response in renal cell carcinomaBiomarker analysis from the phase 3 CheckMate 9ER trial of nivolumab + cabozantinib v sunitinib for advanced renal cell carcinoma (aRCC)1694MO Novel serum glycoproteomic biomarkers predict response to nivolumab plus cabozantinib (NIVO+CABO) versus sunitinib (SUN) in advanced RCC (aRCC): analysis from CheckMate 9ERKIM-1 as a circulating biomarker in metastatic RCC: post-hoc analysis of JAVELIN Renal 101Evaluation of circulating kidney injury marker-1 (KIM-1) as a prognostic and predictive biomarker in advanced renal cell carcinoma (aRCC): post-hoc analysis of CheckMate 214Pan-tumor genomic biomarkers for PD-1 checkpoint blockade-based immunotherapyTranscriptomic determinants of response to pembrolizumab monotherapy across solid tumor typesPutative biomarkers of clinical benefit with pembrolizumab in advanced urothelial cancer: results from the KEYNOTE-045 and KEYNOTE-052 landmark trialsT-cell-inflamed gene-expression profile, programmed death ligand 1 expression, and tumor mutational burden predict efficacy in patients treated with pembrolizumab across 20 cancers: KEYNOTE-028Association between gene expression signatures and clinical outcomes of pembrolizumab versus paclitaxel in advanced gastric cancer: exploratory analysis from the randomized, controlled, phase III KEYNOTE-061 trialAssociation of gene expression with clinical outcomes in patients with renal cell carcinoma treated with pembrolizumab in KEYNOTE-427IFN-\u03b3-related mRNA profile predicts clinical response to PD-1 blockadeUpdate on biomarkers in renal cell carcinomaPembrolizumab plus axitinib versus sunitinib monotherapy as first-line treatment of advanced renal cell carcinoma (KEYNOTE-426): extended follow-up from a randomised, open-label, phase 3 trialPembrolizumab plus axitinib versus sunitinib as first-line treatment of advanced renal cell carcinoma: 43-month follow-up of the phase 3 KEYNOTE-426 studyBiomarker analyses from the phase III randomized CLEAR trial: lenvatinib plus pembrolizumab versus sunitinib in advanced renal cell carcinomaUnderstanding the dynamics of TKI-induced changes in the tumor immune microenvironment for improved therapeutic effectImmunomodulatory effects of tyrosine kinase inhibitors (TKIs) in renal cell carcinoma (RCC) patientsTyrosine kinase inhibitors reprogramming immunity in renal cell carcinoma: rethinking cancer immunotherapyLenvatinib plus pembrolizumab versus sunitinib in first-line treatment of advanced renal cell carcinoma: final prespecified overall survival analysis of CLEAR, a phase III studyNivolumab plus ipilimumab versus sunitinib for first-line treatment of advanced renal cell carcinoma: extended 8-year follow-up results of efficacy and safety from the phase 3 CheckMate 214 trialNivolumab plus cabozantinib (N+C) vs sunitinib (S) for previously untreated advanced renal cell carcinoma (aRCC): final follow-up results from the CheckMate 9ER trialBiomarker-driven prospective clinical trial in renal cell carcinoma: developing machine learning models to allocate patients to treatment arms using RNA sequencingSAMETA: a phase III study of savolitinib + durvalumab vs sunitinib and durvalumab monotherapy in patients with MET-driven, unresectable, locally advanced/metastatic papillary renal cell carcinomaThe tumor immune microenvironment in clear cell renal cell carcinomaOSA: a fast and accurate alignment tool for RNAseqRSEM: accurate transcript quantification from RNA-seq data with or without a reference genomeTumor mutational burden predicts the efficacy of pembrolizumab monotherapy: a pan-tumor retrospective analysis of participants with advanced solid tumorsSensitive detection of somatic point mutations in impure and heterogeneous cancer samplesThe COSMIC (Catalogue of Somatic Mutations in Cancer) database and websiteMolecular profiling of cohorts of tumor samples to guide clinical development of pembrolizumab as monotherapy",
+  "pmcid": "12532709",
+  "features": {
+    "sample_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "randomization": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "randomly assigned"
+      ],
+      "examples": [
+        {
+          "match": "randomly assigned",
+          "context": "elf-report. Participants were randomly assigned in a 1:1 ratio to receive pem"
+        },
+        {
+          "match": "randomly assigned",
+          "context": "opulation, which included all randomly assigned participants, and followed gu"
+        }
+      ]
+    },
+    "blinding": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "blinded"
+      ],
+      "examples": [
+        {
+          "match": "blinded",
+          "context": "OS and PFS per RECIST v1.1 by blinded independent central review (B"
+        }
+      ]
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "stratification"
+      ],
+      "examples": [
+        {
+          "match": "stratification",
+          "context": "method for handling ties. The stratification factors used for randomizatio"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "could be continued. The dual primary endpoints of OS and PFS per RECIST v1."
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": ". We assessed efficacy in the intention-to-treat population, which included al"
+        },
+        {
+          "match": "intention-to-treat",
+          "context": "seline characteristics in the intention-to-treat population FOOTER: Data are n"
+        },
+        {
+          "match": "intention-to-treat",
+          "context": "er RECIST v1.1 by BICR in the intention-to-treat population FOOTER: Percentage"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "intention-to-treat population"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat population",
+          "context": ". We assessed efficacy in the intention-to-treat population, which included all randomly"
+        },
+        {
+          "match": "intention-to-treat population",
+          "context": "seline characteristics in the intention-to-treat population FOOTER: Data are n (%) unless"
+        },
+        {
+          "match": "intention-to-treat population",
+          "context": "er RECIST v1.1 by BICR in the intention-to-treat population FOOTER: Percentages may not t"
+        }
+      ]
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "r version 4.2.1",
+        "sas version 9.4"
+      ],
+      "examples": [
+        {
+          "match": "SAS version 9.4",
+          "context": "al analyses were performed in SAS version 9.4 and R version 4.2.1 software."
+        },
+        {
+          "match": "R version 4.2.1",
+          "context": "formed in SAS version 9.4 and R version 4.2.1 software. The data cutoff for"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "no formal hypothesis testing",
+        "nominal"
+      ],
+      "examples": [
+        {
+          "match": "nominal",
+          "context": "nature and PD-L1 CPS indicate nominal statistical significance (\u03b1\u2009<"
+        },
+        {
+          "match": "nominal",
+          "context": "ly. aBolded P values indicate nominal statistical significance (\u03b1\u2009<"
+        },
+        {
+          "match": "nominal",
+          "context": "EP. bBolded P values indicate nominal statistical significance (\u03b1\u2009<"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "secondary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "secondary endpoint",
+          "context": "central review (BICR) and key secondary endpoint of ORR per RECIST v1.1 by BIC"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "confidence interval",
+        "95% confidence"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "treatment arms. For ORR, 95% confidence intervals were based on the binomial e"
+        },
+        {
+          "match": "confidence interval",
+          "context": "e based on the binomial exact confidence interval method for binomial data. Add"
+        },
+        {
+          "match": "95% confidence",
+          "context": "the treatment arms. For ORR, 95% confidence intervals were based on the b"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "proportional hazards"
+      ],
+      "examples": [
+        {
+          "match": "proportional hazards",
+          "context": "rms, we used a stratified Cox proportional hazards model with the Efron method f"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "c regression for ORR or a Cox proportional hazards regression model for OS and P"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "ression model (ORR) and a Cox proportional hazards regression model (PFS and OS)"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 14,
+      "unique_matches": [
+        "hazard ratio",
+        "os"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "nib. Estimation of PFS and OS hazard ratios for pembrolizumab plus axiti"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "reatment difference (that is, hazard ratio) between the treatment arms,"
+        },
+        {
+          "match": "OS",
+          "context": "The dual primary endpoints of OS and PFS per RECIST v1.1 by bl"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 9,
+      "unique_matches": [
+        "logistic regression",
+        "cox proportional"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "nt arms, we used a stratified Cox proportional hazards model with the Efron"
+        },
+        {
+          "match": "Cox proportional",
+          "context": "istic regression for ORR or a Cox proportional hazards regression model for"
+        },
+        {
+          "match": "Cox proportional",
+          "context": "regression model (ORR) and a Cox proportional hazards regression model (PFS"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "binary",
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "ecified molecular subtypes as categorical variables are separately asso"
+        },
+        {
+          "match": "categorical",
+          "context": "ecified molecular subtypes as categorical variables are separately asso"
+        },
+        {
+          "match": "continuous",
+          "context": "nib 5\u2009mg by mouth twice daily continuously or sunitinib 50\u2009mg by mouth"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "nib. Estimation of PFS and OS hazard ratios for pembrolizumab plus axiti"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "reatment difference (that is, hazard ratio) between the treatment arms,"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "post hoc"
+      ],
+      "examples": [
+        {
+          "match": "Post hoc",
+          "context": "sk category and PD-L1 status. Post hoc analysis of efficacy was also"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "groups based on participants\u02bc baseline characteristics, including IMDC risk categor"
+        },
+        {
+          "match": "Baseline characteristic",
+          "context": "ked to this article. CAPTION: Baseline characteristics in the intention-to-treat po"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "staining"
+      ],
+      "examples": [
+        {
+          "match": "staining",
+          "context": "ulated as the number of PD-L1-staining cells (tumor cells, lymphocyt"
+        },
+        {
+          "match": "staining",
+          "context": "ulated as the number of PD-L1-staining cells (tumor cells, lymphocyt"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Explicitly stated that no multiplicity correction or formal hypothesis testing was performed.",
+        "evidence": "...nature and PD-L1 CPS indicate nominal statistical significance (\u03b1\u2009<..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...central review (BICR) and key secondary endpoint of ORR per RECIST v1.1 by BIC..."
+      },
+      {
+        "message": "Includes exploratory/post hoc analyses without clear multiplicity correction.",
+        "evidence": "...sk category and PD-L1 status. Post hoc analysis of efficacy was also..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'staining'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...al analyses were performed in SAS version 9.4 and R version 4.2.1 software...."
+      },
+      {
+        "message": "Verified proportional hazards assumption.",
+        "evidence": "...rms, we used a stratified Cox proportional hazards model with the Efron method f..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Multiplicity",
+        "issue": "Lack of correction increases Type I error.",
+        "recommendation": "Use Bonferroni or FDR, or label as exploratory.",
+        "source_text": "no formal hypothesis testing nominal"
+      },
+      {
+        "item": "Deductive Rigor",
+        "issue": "Post hoc findings are hypothesis-generating.",
+        "recommendation": "Distinguish between pre-specified endpoints and exploratory analyses.",
+        "source_text": "Found term 'post hoc' without rigorous correction."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

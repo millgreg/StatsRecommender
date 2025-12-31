@@ -6,10 +6,10 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "n\u2009=\u20094",
-        "n\u2009=\u20093",
+        "n\u2009=\u20099",
         "n\u2009=\u20095",
-        "n\u2009=\u20099"
+        "n\u2009=\u20094",
+        "n\u2009=\u20093"
       ],
       "examples": [
         {
@@ -52,17 +52,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "heterogeneity",
-          "context": "ibroblasts reveals fibroblast heterogeneity in breast cancerThe emerging"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -84,10 +77,9 @@
     },
     "software": {
       "present": true,
-      "count": 6,
+      "count": 5,
       "unique_matches": [
-        "seurat",
-        "bioconductor"
+        "seurat"
       ],
       "examples": [
         {
@@ -114,8 +106,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "multiple comparisons",
-        "false discovery rate"
+        "false discovery rate",
+        "multiple comparisons"
       ],
       "examples": [
         {
@@ -150,8 +142,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "fold-change",
-        "wilcoxon"
+        "wilcoxon",
+        "fold-change"
       ],
       "examples": [
         {
@@ -287,8 +279,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "excluded",
-        "excluding"
+        "excluding",
+        "excluded"
       ],
       "examples": [
         {
@@ -325,13 +317,12 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 6,
+      "count": 5,
       "unique_matches": [
-        "transcriptomics",
-        "staining",
-        "confocal",
         "fluorescence",
-        "microscopy"
+        "confocal",
+        "microscopy",
+        "staining"
       ],
       "examples": [
         {
@@ -354,18 +345,18 @@
     "rigor_rating": "Medium",
     "critical_gaps": [
       {
-        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "No direct quote found."
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...ese cell populations, we used Seurat\u2019s FindClusters function with..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...gene expression matrix while excluding mitochondrial chromosome read..."
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "No direct quote found."
       }
     ],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'transcriptomics'"
+        "evidence": "Detected term: 'fluorescence'"
       },
       {
         "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
@@ -378,6 +369,10 @@
       {
         "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
         "evidence": "...). P values were adjusted for multiple comparisons using the Benjamini\u2013Hochberg..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...gene expression matrix while excluding mitochondrial chromosome read..."
       }
     ],
     "actionable_recommendations": [

@@ -6,11 +6,11 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "n = 72",
-        "n = 23",
         "n = 18",
         "n = 24",
-        "n = 14"
+        "n = 72",
+        "n = 14",
+        "n = 23"
       ],
       "examples": [
         {
@@ -126,15 +126,11 @@
     },
     "p_values": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
         "alpha"
       ],
       "examples": [
-        {
-          "match": "alPha",
-          "context": "IA/B seminoma: the COTRIMS trialPhase 2 single-arm trial of prima"
-        },
         {
           "match": "alpha",
           "context": ") FOOTER: Abbreviations: AFP, alpha fetoprotein; \u03b2-hCG, beta huma"
@@ -142,6 +138,10 @@
         {
           "match": "alpha",
           "context": "FOOTER: Abbreviations: AFP+, alpha fetoprotein serum marker posi"
+        },
+        {
+          "match": "alpha",
+          "context": ") FOOTER: Abbreviations: AFP, alpha fetoprotein; \u03b2-hCG, beta huma"
         }
       ]
     },
@@ -309,10 +309,10 @@
       "count": 21,
       "unique_matches": [
         "sensitivity",
-        "npv",
-        "positive predictive value",
         "ppv",
-        "specificity"
+        "npv",
+        "specificity",
+        "positive predictive value"
       ],
       "examples": [
         {
@@ -352,11 +352,11 @@
       },
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
-        "evidence": "...IA/B seminoma: the COTRIMS trialPhase 2 single-arm trial of prima..."
+        "evidence": "...) FOOTER: Abbreviations: AFP, alpha fetoprotein; \u03b2-hCG, beta huma..."
       },
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
-        "evidence": "...IA/B seminoma: the COTRIMS trialPhase 2 single-arm trial of prima..."
+        "evidence": "...) FOOTER: Abbreviations: AFP, alpha fetoprotein; \u03b2-hCG, beta huma..."
       }
     ],
     "strengths": [
@@ -379,12 +379,6 @@
         "issue": "Method of concealment (e.g. opaque envelopes) not described.",
         "recommendation": "Specify how randomization sequence was concealed.",
         "source_text": "Blinding found but no 'concealment' terms."
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'alPha' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       }
     ],
     "deterministic_audit": true

@@ -9,26 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 7,
-      "unique_matches": [
-        "randomise",
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "reporting systematic reviewsA randomised controlled trial of cognitiv"
-        },
-        {
-          "match": "randomise",
-          "context": "for assessing risk of bias in randomised trialsThe Warwick-Edinburgh"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "escents: systematic review of randomized controlled trialsI sleep, because we sleep: a"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -50,15 +34,11 @@
     },
     "variable_definitions": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "outcome measure"
       ],
       "examples": [
-        {
-          "match": "outcome measure",
-          "context": "Insomnia Severity Index as an outcome measure for insomnia researchSystemat"
-        },
         {
           "match": "outcome measure",
           "context": "ervention characteristics and outcome measures. FOOTER: #Reported exclusive"
@@ -162,19 +142,11 @@
     },
     "reporting_guidelines": {
       "present": true,
-      "count": 3,
+      "count": 1,
       "unique_matches": [
         "prisma"
       ],
       "examples": [
-        {
-          "match": "PRISMA",
-          "context": "and meta-analysis protocols (PRISMA-P) 2015 statementPractice par"
-        },
-        {
-          "match": "PRISMA",
-          "context": "t for school-aged childrenThe PRISMA 2020 statement: an updated gu"
-        },
         {
           "match": "PRISMA",
           "context": "tic review and meta-analysis (PRISMA) protocols (Moher et al., 201"
@@ -188,25 +160,10 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "longitudinal",
-          "context": "mes in children: a seven year longitudinal cohortBetter nights/better da"
-        },
-        {
-          "match": "longitudinal",
-          "context": "leep problems in childhood: a longitudinal study of developmental change"
-        },
-        {
-          "match": "longitudinal",
-          "context": "he World Health OrganizationA longitudinal study of insomnia, daytime sl"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -276,17 +233,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "etric properties and clinical sensitivity of a new scale for measuring"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -302,8 +252,8 @@
     }
   },
   "feedback": {
-    "overall_score": 4.0,
-    "rigor_rating": "Low",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
       {
         "message": "Sample size justification lacks explicit power calculation details.",
@@ -312,38 +262,15 @@
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
-      },
-      {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...mes in children: a seven year longitudinal cohortBetter nights/better da..."
-      },
-      {
-        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...mes in children: a seven year longitudinal cohortBetter nights/better da..."
       }
     ],
-    "strengths": [
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...6; Tiirikainen et al., 2019); HR-QoL, health-related quality o..."
-      },
-      {
-        "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...etric properties and clinical sensitivity of a new scale for measuring..."
-      }
-    ],
+    "strengths": [],
     "actionable_recommendations": [
       {
         "item": "Sample Size",
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Statistical Architecture",
-        "issue": "Clustered/repeated data requires hierarchical models.",
-        "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'longitudinal' but no mixed-effects models."
       }
     ],
     "deterministic_audit": true

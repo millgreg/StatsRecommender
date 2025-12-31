@@ -34,21 +34,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "stratification"
-      ],
-      "examples": [
-        {
-          "match": "stratification",
-          "context": "2021 scoring models and risk stratification tables to predict outcomes in"
-        },
-        {
-          "match": "stratification",
-          "context": "of EORTC, CUETO, and EAU risk stratification in prediction of recurrence,"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -84,8 +73,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "no adjustment",
-        "adjustment for multiplicity"
+        "adjustment for multiplicity",
+        "no adjustment"
       ],
       "examples": [
         {
@@ -127,8 +116,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "wilcoxon",
-        "\u03c72"
+        "\u03c72",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -186,12 +175,11 @@
     },
     "survival_analysis": {
       "present": true,
-      "count": 9,
+      "count": 8,
       "unique_matches": [
-        "log-rank",
+        "kaplan-meier",
         "rfs",
-        "overall survival",
-        "kaplan-meier"
+        "log-rank"
       ],
       "examples": [
         {
@@ -232,8 +220,8 @@
       "count": 6,
       "unique_matches": [
         "binary",
-        "continuous",
-        "proportions"
+        "proportions",
+        "continuous"
       ],
       "examples": [
         {
@@ -327,17 +315,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "nomogram"
-      ],
-      "examples": [
-        {
-          "match": "nomogram",
-          "context": "U NMIBC guidelines panelEORTC nomograms and risk groups for predicti"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,

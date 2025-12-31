@@ -9,17 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "ep quality in young adults: a randomized controlled trialSleep and circadian rhythmicit"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -147,12 +140,11 @@
     },
     "comparative_stats": {
       "present": true,
-      "count": 11,
+      "count": 10,
       "unique_matches": [
+        "t-test",
         "fisher's exact",
         "wilcoxon",
-        "t-test",
-        "power spectrum",
         "chi-square"
       ],
       "examples": [
@@ -241,9 +233,9 @@
       "present": true,
       "count": 10,
       "unique_matches": [
+        "frequencies",
         "categorical",
-        "continuous",
-        "frequencies"
+        "continuous"
       ],
       "examples": [
         {
@@ -261,17 +253,10 @@
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "matched controls"
-      ],
-      "examples": [
-        {
-          "match": "matched controls",
-          "context": "ces in children with adhd and matched controlsRestless sleep disorder in chi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -358,6 +343,10 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...Analyses were performed using SAS v9.4 (SAS Institute, Cary, NC..."
+      },
+      {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...r categorical variables, with p-values from ANOVA and Chi-Square te..."
       },
@@ -368,10 +357,6 @@
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...r categorical variables, with p-values from ANOVA and Chi-Square te..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...facial abnormalities were not excluded to preserve representation of..."
       }
     ],
     "strengths": [
@@ -380,12 +365,8 @@
         "evidence": "...ignificantly different with a Bonferroni adjustment. The PSG parameter..."
       },
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...Analyses were performed using SAS v9.4 (SAS Institute, Cary, NC..."
-      },
-      {
-        "message": "Appropriately used paired tests for dependent data.",
-        "evidence": "...ces in children with adhd and matched controlsRestless sleep disorder in chi..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...facial abnormalities were not excluded to preserve representation of..."
       }
     ],
     "actionable_recommendations": [
@@ -400,12 +381,6 @@
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'p-value' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       }
     ],
     "deterministic_audit": true

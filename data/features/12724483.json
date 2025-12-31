@@ -89,10 +89,10 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "p<0.001",
-        "p>0.05",
+        "p<0.01",
         "p<0.05",
-        "p<0.01"
+        "p<0.001",
+        "p>0.05"
       ],
       "examples": [
         {

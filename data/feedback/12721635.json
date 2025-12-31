@@ -74,8 +74,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sd",
-        "interquartile range"
+        "interquartile range",
+        "sd"
       ],
       "examples": [
         {
@@ -221,8 +221,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "not imputed",
-        "missing data"
+        "missing data",
+        "not imputed"
       ],
       "examples": [
         {
@@ -293,63 +293,44 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "in vivo",
-        "in vitro"
-      ],
-      "examples": [
-        {
-          "match": "in vitro",
-          "context": "tion in single and multilayer in vitro cell modelsDetermining the si"
-        },
-        {
-          "match": "in vivo",
-          "context": "cer diagnosisPeptide mediated in vivo tumor targeting of nanopartic"
-        },
-        {
-          "match": "in vivo",
-          "context": "effects of gold nanoparticles in vivo by different administration r"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   },
   "feedback": {
-    "overall_score": 5.5,
-    "rigor_rating": "Medium",
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...for statistical analyses. The missing data were not imputed. Treatment s..."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...) MR/US fusion\u2013guided biopsy. Secondary outcomes included MRI and (target + 1..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...for Men.Eleven patients were excluded from the SHIM analysis becaus..."
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...) MR/US fusion\u2013guided biopsy. Secondary outcomes included MRI and (target + 1..."
       }
     ],
     "strengths": [
       {
-        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'in vivo'"
-      },
-      {
         "message": "Detailed software versions provided.",
         "evidence": "...opsy rate of 85% at 3 months. SPSS, version 26 was used for statistical anal..."
-      }
-    ],
-    "actionable_recommendations": [
+      },
       {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'Secondary outcome' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...for Men.Eleven patients were excluded from the SHIM analysis becaus..."
       }
     ],
+    "actionable_recommendations": [],
     "deterministic_audit": true
   }
 }

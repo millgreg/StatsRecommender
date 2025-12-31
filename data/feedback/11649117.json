@@ -27,17 +27,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "heterogeneity",
-          "context": "atform to study mitochondrial heterogeneity and mitochondrial DNA dynamic"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -92,9 +85,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "p < 0.01",
+        "p < 0.001",
         "p < 0.05",
-        "p < 0.001"
+        "p < 0.01"
       ],
       "examples": [
         {
@@ -215,15 +208,11 @@
     },
     "diagnostic_metrics": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "specificity"
       ],
       "examples": [
-        {
-          "match": "specificity",
-          "context": "uctural determinants of lipid specificity within Ups/PRELI lipid transf"
-        },
         {
           "match": "specificity",
           "context": "6002) were used to assess the specificity of SLMO for binding with vari"
@@ -238,38 +227,39 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 23,
+      "count": 15,
       "unique_matches": [
+        "fluorescence",
         "in vitro",
         "knockout",
-        "western blot",
-        "transgenic",
-        "flow cytometry",
-        "cell line",
         "confocal",
-        "fluorescence",
-        "mice"
+        "cell line",
+        "western blot"
       ],
       "examples": [
         {
-          "match": "mice",
-          "context": "lserine decarboxylase gene in mice causes embryonic lethality an"
+          "match": "cell line",
+          "context": "ation of 10 \u03bcg/ml. The stable cell lines were maintained in 1 \u03bcg/ml p"
         },
         {
-          "match": "mice",
-          "context": "after partial hepatectomy in miceCirculating Phospholipid Patte"
+          "match": "cell line",
+          "context": ". To generate SlmoRNAi rescue cell lines, the synthesized SLMO cDNA,"
         },
         {
-          "match": "mice",
-          "context": "d viability of PSS1-deficient mice.Phospholipid ebb and flow mak"
+          "match": "cell line",
+          "context": "NAi2 cells. The Mfn1 knockout cell line was generated using CRISPR/Ca"
         }
       ]
     }
   },
   "feedback": {
-    "overall_score": 8.5,
-    "rigor_rating": "High",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...dent\u2019s unpaired t tests using Graphpad Prism 6 (Graphpad Software Inc.). A v..."
+      },
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...ad Software Inc.). A value of p < 0.05 was considered statistically..."
@@ -278,21 +268,14 @@
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'in vitro'"
+        "evidence": "Detected term: 'fluorescence'"
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...uctural determinants of lipid specificity within Ups/PRELI lipid transf..."
+        "evidence": "...6002) were used to assess the specificity of SLMO for binding with vari..."
       }
     ],
-    "actionable_recommendations": [
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'p < 0.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      }
-    ],
+    "actionable_recommendations": [],
     "deterministic_audit": true
   }
 }

@@ -7,9 +7,9 @@
       "count": 5,
       "unique_matches": [
         "n = 3",
+        "n = 4",
         "n = 62",
-        "n = 79",
-        "n = 4"
+        "n = 79"
       ],
       "examples": [
         {
@@ -118,8 +118,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -140,8 +140,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "chi-square",
-        "fisher\u2019s exact"
+        "fisher\u2019s exact",
+        "chi-square"
       ],
       "examples": [
         {
@@ -194,9 +194,9 @@
       "present": true,
       "count": 7,
       "unique_matches": [
+        "proportions",
         "categorical",
-        "continuous",
-        "proportions"
+        "continuous"
       ],
       "examples": [
         {
@@ -250,17 +250,10 @@
       "examples": []
     },
     "advanced_modeling_extra": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "recall bias"
-      ],
-      "examples": [
-        {
-          "match": "Recall bias",
-          "context": "ymptom disorder: a case reportRecall bias: a proposal for assessment an"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "systematic_review_metrics": {
       "present": false,
@@ -275,17 +268,10 @@
       "examples": []
     },
     "model_details": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "unstructured"
-      ],
-      "examples": [
-        {
-          "match": "unstructured",
-          "context": "c ovaries: a new syndrome?The unstructured clinical interviewThe clinica"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "domain_indicators": {
       "present": false,

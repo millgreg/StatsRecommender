@@ -221,16 +221,12 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
-        "staining",
-        "immunohistochemistry"
+        "immunohistochemistry",
+        "staining"
       ],
       "examples": [
-        {
-          "match": "Immunohistochemistry",
-          "context": "cers and its Correlation with Immunohistochemistry (IHC)Global cancer statistics"
-        },
         {
           "match": "immunohistochemistry",
           "context": "Photomicrographs depicting immunohistochemistry (IHC) positivity for cyclin D"
@@ -238,18 +234,27 @@
         {
           "match": "immunohistochemistry",
           "context": "FOOTER: Abbreviations: IHC, immunohistochemistry; Qf PCR, quantitative polymer"
+        },
+        {
+          "match": "staining",
+          "context": "IHC in terms of intensity of staining and percentage of cells stain"
         }
       ]
     }
   },
   "feedback": {
-    "overall_score": 10.0,
+    "overall_score": 8.5,
     "rigor_rating": "High",
-    "critical_gaps": [],
+    "critical_gaps": [
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...lysis was performed using the SPSS software. The study was desig..."
+      }
+    ],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'staining'"
+        "evidence": "Detected term: 'immunohistochemistry'"
       }
     ],
     "actionable_recommendations": [],

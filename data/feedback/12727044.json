@@ -209,7 +209,7 @@
     }
   },
   "feedback": {
-    "overall_score": 5.5,
+    "overall_score": 7.0,
     "rigor_rating": "Medium",
     "critical_gaps": [
       {
@@ -219,13 +219,14 @@
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
-      },
+      }
+    ],
+    "strengths": [
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
+        "message": "Exclusion criteria explicitly defined (transparency).",
         "evidence": "...acterial infection/focus were excluded. Each new episode of fever in..."
       }
     ],
-    "strengths": [],
     "actionable_recommendations": [
       {
         "item": "Sample Size",

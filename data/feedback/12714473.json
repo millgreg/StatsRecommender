@@ -9,26 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 7,
-      "unique_matches": [
-        "randomise",
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "noma: a phase 3, multicentre, randomised controlled trialConcurrent c"
-        },
-        {
-          "match": "randomise",
-          "context": "ts of a phase III multicentre randomised controlled trialInduction ch"
-        },
-        {
-          "match": "randomise",
-          "context": "cinoma: a phase 3 multicentre randomised controlled trialNasopharynge"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -70,8 +54,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "spss",
-        "spss version 23"
+        "spss version 23",
+        "spss"
       ],
       "examples": [
         {
@@ -113,8 +97,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "secondary end point",
-        "p-value"
+        "p-value",
+        "secondary end point"
       ],
       "examples": [
         {
@@ -131,8 +115,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -177,7 +161,7 @@
       "examples": [
         {
           "match": "propensity score",
-          "context": "etwork meta-analysis  In this propensity score\u2013matched retrospective cohort"
+          "context": "In this propensity score\u2013matched retrospective cohort"
         },
         {
           "match": "propensity score",
@@ -208,9 +192,9 @@
       "unique_matches": [
         "overall survival",
         "os",
+        "hazard ratio",
         "log-rank",
-        "rfs",
-        "hazard ratio"
+        "rfs"
       ],
       "examples": [
         {
@@ -385,12 +369,12 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
-        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...HO, World Health Organization.P-value\u2009<\u20090.05 in Cox regression anal..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...lated radiotherapy (IMRT). We excluded patients with (1) stage I and..."
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...HO, World Health Organization.P-value\u2009<\u20090.05 in Cox regression anal..."
       }
     ],
     "strengths": [
@@ -399,12 +383,12 @@
         "evidence": "...on of figures were done using SPSS version 23.0 (SPSS Inc., Chicago, Illino..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...odel was used to estimate the hazard ratios (HRs) and 95% confidence int..."
-      },
-      {
         "message": "Verified proportional hazards assumption.",
         "evidence": "...ng the log-rank test. The Cox proportional hazards model was used to estimate th..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...lated radiotherapy (IMRT). We excluded patients with (1) stage I and..."
       }
     ],
     "actionable_recommendations": [

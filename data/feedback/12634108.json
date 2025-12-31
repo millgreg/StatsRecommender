@@ -135,8 +135,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "sensitivity analysis",
-        "bayesian"
+        "bayesian",
+        "sensitivity analysis"
       ],
       "examples": [
         {
@@ -163,10 +163,10 @@
     },
     "regression_and_models": {
       "present": true,
-      "count": 7,
+      "count": 6,
       "unique_matches": [
-        "linear model",
-        "logistic regression"
+        "logistic regression",
+        "linear model"
       ],
       "examples": [
         {
@@ -271,11 +271,11 @@
     },
     "advanced_modeling_extra": {
       "present": true,
-      "count": 19,
+      "count": 7,
       "unique_matches": [
-        "excluded",
+        "cubic spline",
         "crossover",
-        "cubic spline"
+        "excluded"
       ],
       "examples": [
         {
@@ -325,8 +325,8 @@
     }
   },
   "feedback": {
-    "overall_score": 4.0,
-    "rigor_rating": "Low",
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
     "critical_gaps": [
       {
         "message": "Parametric tests used without documented normality checks.",
@@ -339,16 +339,12 @@
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ction) and nonlinear (natural cubic spline with degrees of freedom [df]..."
       }
     ],
     "strengths": [
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...s used to derive the national odds ratio (OR) using whole Brazilian da..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ction) and nonlinear (natural cubic spline with degrees of freedom [df]..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",

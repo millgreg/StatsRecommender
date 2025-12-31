@@ -41,8 +41,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "subgroup analysis",
-        "stratification"
+        "stratification",
+        "subgroup analysis"
       ],
       "examples": [
         {
@@ -133,8 +133,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -190,10 +190,10 @@
       "present": true,
       "count": 16,
       "unique_matches": [
-        "overall survival",
-        "os",
         "kaplan-meier",
-        "hazard ratio"
+        "overall survival",
+        "hazard ratio",
+        "os"
       ],
       "examples": [
         {
@@ -263,9 +263,9 @@
       "count": 4,
       "unique_matches": [
         "missing data",
-        "imputation",
+        "dropout",
         "no imputation",
-        "dropout"
+        "imputation"
       ],
       "examples": [
         {
@@ -284,7 +284,7 @@
     },
     "effect_size": {
       "present": true,
-      "count": 26,
+      "count": 25,
       "unique_matches": [
         "hr",
         "hazard ratio"
@@ -300,7 +300,7 @@
         },
         {
           "match": "HR",
-          "context": "th hormone receptor-positive (HR+) metastatic breast cancer (m"
+          "context": "t chemotherapy. Patients with HR+ disease must have received a"
         }
       ]
     },
@@ -329,11 +329,10 @@
     },
     "advanced_modeling_extra": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "excluded",
         "categorized",
-        "compliance"
+        "excluded"
       ],
       "examples": [
         {
@@ -343,10 +342,6 @@
         {
           "match": "categorized",
           "context": "ession subgroups, tumors were categorized as ER >10% or ER-low-positive"
-        },
-        {
-          "match": "compliance",
-          "context": "gy report for HER2 testing in compliance with 2023 ASCO/CAP updates an"
         }
       ]
     },
@@ -379,8 +374,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "in vitro",
-        "staining"
+        "staining",
+        "in vitro"
       ],
       "examples": [
         {

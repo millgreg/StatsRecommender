@@ -6,10 +6,10 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "n = 7",
         "n = 21",
         "n = 14",
-        "n = 31"
+        "n = 31",
+        "n = 7"
       ],
       "examples": [
         {
@@ -27,21 +27,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "erapy for chronic insomnia: a randomized controlled trialAn open trial of cognitive the"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "port for insomnia disorder: a randomized controlled trialCognitive factors and processe"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -62,17 +51,10 @@
       "examples": []
     },
     "variable_definitions": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "outcome measure"
-      ],
-      "examples": [
-        {
-          "match": "outcome measure",
-          "context": "insomnia severity index as an outcome measure for insomnia researchImpact o"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "analysis_principles": {
       "present": false,
@@ -125,11 +107,11 @@
       "present": true,
       "count": 8,
       "unique_matches": [
-        "alpha",
         "p-value",
         "p < 0.01",
-        "p < 0.05",
-        "p < 0.0083"
+        "alpha",
+        "p < 0.0083",
+        "p < 0.05"
       ],
       "examples": [
         {
@@ -156,8 +138,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "chi-square",
-        "t-test"
+        "t-test",
+        "chi-square"
       ],
       "examples": [
         {
@@ -222,17 +204,10 @@
       "examples": []
     },
     "data_types": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "categorical"
-      ],
-      "examples": [
-        {
-          "match": "categorical",
-          "context": "ent of observer agreement for categorical dataQuantitative criteria for"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "dependency": {
       "present": false,
@@ -376,12 +351,12 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
-        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...e used in this study was thus p < 0.0083. Each significant group diffe..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...primary sleep disorders were excluded: sleep apnea, narcolepsy, res..."
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...e used in this study was thus p < 0.0083. Each significant group diffe..."
       }
     ],
     "strengths": [
@@ -390,12 +365,12 @@
         "evidence": "...s performed as post-hoc test, Bonferroni correction was carried out by..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...ed a 3-fold classification of effect sizes: small (0.20\u20130.49), medium (..."
-      },
-      {
         "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
         "evidence": "...hi-square test and ANOVA with post-hoc test were used to compare the..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...primary sleep disorders were excluded: sleep apnea, narcolepsy, res..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",

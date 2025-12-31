@@ -64,11 +64,10 @@
     },
     "software": {
       "present": true,
-      "count": 6,
+      "count": 4,
       "unique_matches": [
-        "imagej",
         "seurat",
-        "bioconductor"
+        "imagej"
       ],
       "examples": [
         {
@@ -301,14 +300,12 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 26,
+      "count": 21,
       "unique_matches": [
-        "quantification",
-        "transcriptomics",
-        "staining",
-        "transcriptome",
+        "mice",
         "fluorescence",
-        "mice"
+        "quantification",
+        "staining"
       ],
       "examples": [
         {

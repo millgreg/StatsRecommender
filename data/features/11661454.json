@@ -6,8 +6,8 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "n = 3",
-        "n = 4"
+        "n = 4",
+        "n = 3"
       ],
       "examples": [
         {
@@ -249,12 +249,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 30,
+      "count": 21,
       "unique_matches": [
+        "mice",
         "quantification",
-        "in vivo",
-        "cell line",
-        "mice"
+        "cell line"
       ],
       "examples": [
         {

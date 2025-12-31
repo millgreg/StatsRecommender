@@ -135,17 +135,10 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "longitudinal",
-          "context": "tic disease in South Korea: a longitudinal, population-based study  We p"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -210,16 +203,12 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
-        "staining",
-        "immunohistochemistry"
+        "immunohistochemistry",
+        "staining"
       ],
       "examples": [
-        {
-          "match": "immunohistochemistry",
-          "context": "iform mole from its mimics by immunohistochemistry of the paternally imprinted g"
-        },
         {
           "match": "immunohistochemistry",
           "context": "; HM, hydatidiform mole; IHC, immunohistochemistry; n, number; PHM, partial HM;"
@@ -227,41 +216,29 @@
         {
           "match": "staining",
           "context": "the study period, HER2 DDISH staining quality was monitored by inte"
+        },
+        {
+          "match": "staining",
+          "context": "cillary techniques (p57 immunostaining, DNA ploidy and STR genotypin"
         }
       ]
     }
   },
   "feedback": {
-    "overall_score": 5.5,
-    "rigor_rating": "Medium",
-    "critical_gaps": [
-      {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...tic disease in South Korea: a longitudinal, population-based study  We p..."
-      },
-      {
-        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...tic disease in South Korea: a longitudinal, population-based study  We p..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ated that an \u2018HM could not be excluded\u2019 or where cases were \u2018suspici..."
-      }
-    ],
+    "overall_score": 10.0,
+    "rigor_rating": "High",
+    "critical_gaps": [],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'staining'"
-      }
-    ],
-    "actionable_recommendations": [
+        "evidence": "Detected term: 'immunohistochemistry'"
+      },
       {
-        "item": "Statistical Architecture",
-        "issue": "Clustered/repeated data requires hierarchical models.",
-        "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'longitudinal' but no mixed-effects models."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ated that an \u2018HM could not be excluded\u2019 or where cases were \u2018suspici..."
       }
     ],
+    "actionable_recommendations": [],
     "deterministic_audit": true
   }
 }

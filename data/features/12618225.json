@@ -26,24 +26,23 @@
     },
     "randomization": {
       "present": true,
-      "count": 6,
+      "count": 4,
       "unique_matches": [
         "randomly assigned",
-        "allocation",
-        "randomise"
+        "allocation"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "re-RELAX-AHF): a multicentre, randomised, placebo-controlled, paralle"
-        },
-        {
-          "match": "randomise",
-          "context": "heart failure (RELAX-AHF): a randomised, placebo-controlled trialSer"
+          "match": "randomly assigned",
+          "context": "pproximately 456 participants randomly assigned to volenrelaxin 25\u2009mg:50\u2009mg:1"
         },
         {
           "match": "randomly assigned",
           "context": "pproximately 456 participants randomly assigned to volenrelaxin 25\u2009mg:50\u2009mg:1"
+        },
+        {
+          "match": "allocation",
+          "context": "MRM) with terms for treatment allocation, study visit, treatment-by-vi"
         }
       ]
     },
@@ -136,8 +135,8 @@
       "present": true,
       "count": 16,
       "unique_matches": [
-        "no adjustment",
-        "adjustment for multiplicity"
+        "adjustment for multiplicity",
+        "no adjustment"
       ],
       "examples": [
         {
@@ -164,8 +163,8 @@
       "present": true,
       "count": 14,
       "unique_matches": [
-        "p\u2009<\u20090.01",
         "p\u2009<\u20090.05",
+        "p\u2009<\u20090.01",
         "secondary endpoint",
         "p\u2009<\u20090.001"
       ],
@@ -194,9 +193,9 @@
       "present": true,
       "count": 10,
       "unique_matches": [
-        "chi-square",
         "t-test",
-        "fisher\u2019s exact"
+        "fisher\u2019s exact",
+        "chi-square"
       ],
       "examples": [
         {
@@ -304,8 +303,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "repeated measures",
-        "longitudinal"
+        "longitudinal",
+        "repeated measures"
       ],
       "examples": [
         {
@@ -383,8 +382,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "table 1",
-        "baseline characteristic"
+        "baseline characteristic",
+        "table 1"
       ],
       "examples": [
         {
@@ -403,10 +402,9 @@
     },
     "advanced_modeling_extra": {
       "present": true,
-      "count": 5,
+      "count": 4,
       "unique_matches": [
-        "excluded",
-        "compliance"
+        "excluded"
       ],
       "examples": [
         {
@@ -449,17 +447,10 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "quantification"
-      ],
-      "examples": [
-        {
-          "match": "quantification",
-          "context": "endations for cardiac chamber quantification by echocardiography in adults"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   }
 }

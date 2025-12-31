@@ -21,23 +21,23 @@
     },
     "randomization": {
       "present": true,
-      "count": 13,
+      "count": 4,
       "unique_matches": [
-        "allocation",
-        "randomise"
+        "randomise",
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "lysis of the CRYSTAL and OPUS randomised clinical trialsCetuximab plu"
+          "context": "as tool version 2 (RoB 2) for randomised controlled trials,24 the Met"
         },
         {
           "match": "randomise",
-          "context": "icentre, open-label, phase 3, randomised, controlled trialIndividual"
+          "context": "Methodological Index for Non-randomised Studies for single arm inter"
         },
         {
           "match": "randomise",
-          "context": "for assessing risk of bias in randomised trialsMethodological index f"
+          "context": "nterventional studies and non-randomised controlled trials,25 the Ass"
         }
       ]
     },
@@ -62,23 +62,22 @@
     },
     "interaction_subgroup": {
       "present": true,
-      "count": 5,
+      "count": 3,
       "unique_matches": [
-        "subgroup analysis",
         "heterogeneity"
       ],
       "examples": [
         {
-          "match": "Subgroup analysis",
-          "context": "metastatic colorectal cancer: Subgroup analysis and biomarker identificationE"
+          "match": "heterogeneity",
+          "context": "s, indirectness, imprecision, heterogeneity, and incoherence. Two reviewe"
         },
         {
-          "match": "subgroup analysis",
-          "context": "BRAF mutated (mut) tumors: A subgroup analysis of the UNICANCER PRODIGE 14-A"
+          "match": "Heterogeneity",
+          "context": "and grade \u22653 adverse events. Heterogeneity across studies was evaluated"
         },
         {
           "match": "heterogeneity",
-          "context": "s, indirectness, imprecision, heterogeneity, and incoherence. Two reviewe"
+          "context": "odel was applied to allow for heterogeneity between studies in the treatm"
         }
       ]
     },
@@ -147,16 +146,11 @@
     },
     "p_values": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "alpha",
         "secondary outcome"
       ],
       "examples": [
-        {
-          "match": "alPha",
-          "context": "tional randomised phase II trialPhase II Randomized Trial of Sequ"
-        },
         {
           "match": "secondary outcome",
           "context": "was overall survival, and the secondary outcomes analysed were progression-fr"
@@ -197,8 +191,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "bayesian",
-        "markov chain"
+        "markov chain",
+        "bayesian"
       ],
       "examples": [
         {
@@ -223,7 +217,7 @@
     },
     "survival_analysis": {
       "present": true,
-      "count": 9,
+      "count": 6,
       "unique_matches": [
         "overall survival",
         "hazard ratio"
@@ -239,7 +233,7 @@
         },
         {
           "match": "overall survival",
-          "context": "l cancer: updated analysis of overall survival according to tumor KRAS and B"
+          "context": "tcomes of interest, including overall survival, progression-free survival, o"
         }
       ]
     },
@@ -251,15 +245,11 @@
     },
     "reporting_guidelines": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "prisma"
       ],
       "examples": [
-        {
-          "match": "PRISMA",
-          "context": "-Mutated Colorectal CancerThe PRISMA extension for network meta-an"
-        },
         {
           "match": "PRISMA",
           "context": "ic Reviews and Meta-Analyses (PRISMA) extension statement for netw"
@@ -268,16 +258,11 @@
     },
     "data_types": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "binary",
-        "continuous"
+        "binary"
       ],
       "examples": [
-        {
-          "match": "continuous",
-          "context": "e III trial of cetuximab with continuous or intermittent fluorouracil,"
-        },
         {
           "match": "binary",
           "context": "95% CrIs were used to assess binary endpoints, including objectiv"
@@ -306,8 +291,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "odds ratio",
-        "hazard ratio"
+        "hazard ratio",
+        "odds ratio"
       ],
       "examples": [
         {
@@ -353,13 +338,13 @@
       "present": true,
       "count": 8,
       "unique_matches": [
-        "surface under the cumulative ranking",
-        "transitivity",
-        "rankogram",
-        "network fragmentation",
         "deviance information criterion",
+        "transitivity",
+        "network fragmentation",
+        "sucra",
         "credible interval",
-        "sucra"
+        "rankogram",
+        "surface under the cumulative ranking"
       ],
       "examples": [
         {
@@ -377,17 +362,10 @@
       ]
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "PK signaling contributes to insensitivity of BRAF mutant colorectal can"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,

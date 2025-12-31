@@ -9,21 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "ents with sleep disturbancesA randomized controlled trial of cognitive behavioral thera"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "tance use difficultiesA pilot randomized controlled trial of the effects of cognitive-b"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -117,8 +106,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "wilcoxon",
-        "t-test"
+        "t-test",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -178,17 +167,10 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "Longitudinal",
-          "context": "major noncommunicable disease?Longitudinal relationships among problemat"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -252,8 +234,8 @@
     }
   },
   "feedback": {
-    "overall_score": 4.0,
-    "rigor_rating": "Low",
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
     "critical_gaps": [
       {
         "message": "Parametric tests used without documented normality checks.",
@@ -266,18 +248,9 @@
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
-      },
-      {
-        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...major noncommunicable disease?Longitudinal relationships among problemat..."
       }
     ],
-    "strengths": [
-      {
-        "message": "Appropriately used paired tests for dependent data.",
-        "evidence": "...major noncommunicable disease?Longitudinal relationships among problemat..."
-      }
-    ],
+    "strengths": [],
     "actionable_recommendations": [
       {
         "item": "Assumptions",
@@ -290,12 +263,6 @@
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Statistical Architecture",
-        "issue": "Clustered/repeated data requires hierarchical models.",
-        "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'longitudinal' but no mixed-effects models."
       }
     ],
     "deterministic_audit": true

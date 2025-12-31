@@ -9,21 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "ents with sleep disturbancesA randomized controlled trial of cognitive behavioral thera"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "tance use difficultiesA pilot randomized controlled trial of the effects of cognitive-b"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -117,8 +106,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "wilcoxon",
-        "t-test"
+        "t-test",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -178,17 +167,10 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "Longitudinal",
-          "context": "major noncommunicable disease?Longitudinal relationships among problemat"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,

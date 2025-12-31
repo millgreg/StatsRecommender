@@ -129,21 +129,10 @@
       "examples": []
     },
     "advanced_modeling": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "bayesian"
-      ],
-      "examples": [
-        {
-          "match": "Bayesian",
-          "context": "f Iran: an additive empirical Bayesian approachA comparison of breas"
-        },
-        {
-          "match": "Bayesian",
-          "context": "Iran using Cox and empirical Bayesian additive hazard modelsEpidemi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "assumption_checks": {
       "present": false,
@@ -262,14 +251,14 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...s, duplicated information was excluded. The database contains inform..."
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...d using SPSS (version 22) and GraphPad Prism (version 9). This cross-secti..."
       }
     ],
     "strengths": [
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...d using SPSS (version 22) and GraphPad Prism (version 9). This cross-secti..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...s, duplicated information was excluded. The database contains inform..."
       }
     ],
     "actionable_recommendations": [

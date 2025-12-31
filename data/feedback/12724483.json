@@ -89,10 +89,10 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "p<0.001",
-        "p>0.05",
+        "p<0.01",
         "p<0.05",
-        "p<0.01"
+        "p<0.001",
+        "p>0.05"
       ],
       "examples": [
         {
@@ -312,13 +312,14 @@
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...the normal distribution. With p>0.05 and the assumption of a norma..."
-      },
+      }
+    ],
+    "strengths": [
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
+        "message": "Exclusion criteria explicitly defined (transparency).",
         "evidence": "...schaemia (I74.0\u20135, I74.8) are excluded so that the impact of the COV..."
       }
     ],
-    "strengths": [],
     "actionable_recommendations": [
       {
         "item": "Assumptions",
@@ -331,12 +332,6 @@
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'p>0.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       },
       {
         "item": "Deductive Rigor",

@@ -25,17 +25,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "l with COVID-19 (RECOVERY): a randomised, controlled, open-label, pla"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": true,
@@ -61,26 +54,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "stratification",
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "stratification",
-          "context": "pen-label, platform trialRisk stratification and prognosis in sepsis: What"
-        },
-        {
-          "match": "stratification",
-          "context": "immune dysfunction score for stratification of patients with acute infect"
-        },
-        {
-          "match": "heterogeneity",
-          "context": "odulatory therapiesUncovering heterogeneity in sepsis: a comparative anal"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -101,21 +78,10 @@
       "examples": []
     },
     "software": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "bioconductor"
-      ],
-      "examples": [
-        {
-          "match": "Bioconductor",
-          "context": "f genomic datasets with the R/Bioconductor package biomaRtIdentifying fu"
-        },
-        {
-          "match": "Bioconductor",
-          "context": "lusteringCMA: a comprehensive Bioconductor package for supervised classi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "error_measures": {
       "present": false,
@@ -125,11 +91,9 @@
     },
     "multiplicity_correction": {
       "present": true,
-      "count": 4,
+      "count": 2,
       "unique_matches": [
-        "multiple testing",
-        "bonferroni",
-        "false discovery rate"
+        "bonferroni"
       ],
       "examples": [
         {
@@ -139,10 +103,6 @@
         {
           "match": "Bonferroni",
           "context": "NOVA. bChi-squared test after Bonferroni correction. cKruksal\u2013Wallis t"
-        },
-        {
-          "match": "false discovery rate",
-          "context": "uster analysisControlling the false discovery rate: a practical and powerful app"
         }
       ]
     },
@@ -210,10 +170,10 @@
       "present": true,
       "count": 18,
       "unique_matches": [
-        "bayesian",
         "random forest",
         "propensity score",
         "bootstrap",
+        "bayesian",
         "cross-validation"
       ],
       "examples": [
@@ -348,8 +308,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "post hoc",
-        "dunn"
+        "dunn",
+        "post hoc"
       ],
       "examples": [
         {
@@ -439,16 +399,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "transcriptomics",
         "transcriptome"
       ],
       "examples": [
-        {
-          "match": "transcriptomics",
-          "context": "moniaUnsupervised analysis of transcriptomics in bacterial sepsis across mu"
-        },
         {
           "match": "Transcriptome",
           "context": "ybridized to Affymetrix Human Transcriptome Array 2.0 (Thermo Fisher Scie"
@@ -457,7 +412,7 @@
     }
   },
   "feedback": {
-    "overall_score": 1.0,
+    "overall_score": 2.5,
     "rigor_rating": "Low",
     "critical_gaps": [
       {
@@ -477,10 +432,6 @@
         "evidence": "...tests. Kaplan\u2013Meier plots and log-rank tests were done using the sur..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...n their original studies were excluded. The experiments were not ran..."
-      },
-      {
         "message": "Diagnostic metrics reported without Confidence Intervals.",
         "evidence": "...unless stated otherwise. The ROC AUC analysis was performed us..."
       }
@@ -488,7 +439,7 @@
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'transcriptomics'"
+        "evidence": "Detected term: 'transcriptome'"
       },
       {
         "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
@@ -497,6 +448,10 @@
       {
         "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
         "evidence": "...is test, followed by a Dunn\u2019s post hoc test; categorical data were c..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...n their original studies were excluded. The experiments were not ran..."
       },
       {
         "message": "Detailed reporting of network/meta-analysis metrics.",
@@ -513,12 +468,6 @@
         "issue": "Parametric tests assume normality.",
         "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
         "source_text": "Found parametric tests: anova"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'P\u2009<\u20090.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       },
       {
         "item": "Statistical Architecture",

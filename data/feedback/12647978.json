@@ -27,24 +27,23 @@
     },
     "randomization": {
       "present": true,
-      "count": 10,
+      "count": 3,
       "unique_matches": [
-        "allocation",
-        "randomise",
-        "randomized controlled trial"
+        "randomized controlled trial",
+        "allocation"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "ch findings and protocol of a randomised controlled trial in NepalDo"
+          "match": "randomized controlled trial",
+          "context": "A two\u2010arm cluster\u2010randomized controlled trial (C\u2010RCT), with an allocation r"
         },
         {
-          "match": "randomized controlled trial",
-          "context": "diets: Results from a\u00a0cluster\u2010randomized controlled trial in Kanchanpur,\u00a0NepalText mess"
+          "match": "allocation",
+          "context": "rolled trial (C\u2010RCT), with an allocation ratio of 1:1, was carried out"
         },
         {
-          "match": "randomized controlled trial",
-          "context": "diets: Results from a\u00a0cluster\u2010randomized controlled trial in Kanchanpur,\u00a0NepalConstrain"
+          "match": "allocation",
+          "context": "cipants was not possible. The allocation of clusters to specific arms,"
         }
       ]
     },
@@ -247,23 +246,23 @@
     },
     "clustering": {
       "present": true,
-      "count": 17,
+      "count": 14,
       "unique_matches": [
-        "icc",
-        "cluster"
+        "cluster",
+        "icc"
       ],
       "examples": [
         {
           "match": "cluster",
-          "context": "g child diets: Results from a\u00a0cluster\u2010randomized controlled trial i"
+          "context": "A two\u2010arm cluster\u2010randomized controlled trial ("
         },
         {
           "match": "cluster",
-          "context": "g child diets: Results from a\u00a0cluster\u2010randomized controlled trial i"
+          "context": "of four based on the rank of cluster size to avoid confounding by"
         },
         {
           "match": "cluster",
-          "context": "are attendance in Zanzibar: A cluster randomized controlled trialLa"
+          "context": "size to avoid confounding by cluster size. Details of the trial pr"
         }
       ]
     },
@@ -353,6 +352,10 @@
     ],
     "strengths": [
       {
+        "message": "Analysis context identifies clinical research (Clinical trial requirements apply).",
+        "evidence": "Detected term: 'randomized'"
+      },
+      {
         "message": "Blinding of participants/assessors documented.",
         "evidence": "...iday and non\u2010rainy seasons. A blinded co\u2010author randomized clusters..."
       }
@@ -363,12 +366,6 @@
         "issue": "Method of concealment (e.g. opaque envelopes) not described.",
         "recommendation": "Specify how randomization sequence was concealed.",
         "source_text": "Blinding found but no 'concealment' terms."
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'significance level' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       },
       {
         "item": "Statistical Architecture",

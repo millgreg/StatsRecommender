@@ -1,0 +1,418 @@
+{
+  "title": "Tirzepatide leads to weight reduction in people with obesity due to MC4R deficiencyTransforming obesity: the advancement of multi-receptor drugsTirzepatide once weekly for the treatment of obesityTirzepatide versus semaglutide once weekly in patients with type 2 diabetesThe hunger genes: pathways to obesityPolygenic prediction of weight and obesity trajectories from birth to adulthood60 years of POMC: regulation of feeding and energy homeostasis by \u03b1-MSHClinical spectrum of obesity and mutations in the melanocortin 4 receptor geneHuman MC4R variants affect endocytosis, trafficking and dimerization revealing multiple cellular mechanisms involved in weight regulationProtein-altering variants associated with body mass index implicate pathways that control energy intake and expenditure in obesityLoss-of-function mutations in the melanocortin 4 receptor in a UK birth cohortObesity treatment effect in Danish children and adolescents carrying melanocortin-4 receptor mutationsObesity due to melanocortin 4 receptor (MC4R) deficiency is associated with increased linear growth and final height, fasting hyperinsulinemia, and incompletely suppressed growth hormone secretionAdults with pathogenic MC4R mutations have increased final height and thereby increased bone massSympathetic function in human carriers of melanocortin-4 receptor gene mutationsModulation of blood pressure by central melanocortinergic pathwaysLifestyle intervention in obese children with variations in the melanocortin 4 receptor geneEvaluation of a melanocortin-4 receptor (MC4R) agonist (Setmelanotide) in MC4R deficiencyPharmacological chaperones restore function to MC4R mutants responsible for severe early-onset obesityDual melanocortin-4 receptor and GLP-1 receptor agonism amplifies metabolic benefits in diet-induced obese micePatients with obesity caused by melanocortin-4 receptor mutations can be treated with a glucagon-like peptide-1 receptor agonistHuman gain-of-function MC4R variants show signaling bias and protect against obesityMelanocortin-4 receptor signaling is required for weight loss after gastric bypass surgeryGLP-1 receptor agonist treatment in morbid obesity and type 2 diabetes due to pathogenic homozygous melanocortin-4 receptor mutation: a case reportComputationally efficient whole-genome regression for quantitative and binary traits",
+  "pmcid": "12532586",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "n\u2009=\u2009493",
+        "n\u2009=\u20091",
+        "n\u2009=\u200977",
+        "n\u2009=\u20092"
+      ],
+      "examples": [
+        {
+          "match": "n\u2009=\u20091",
+          "context": "s with a call rate below 95% (n\u2009=\u20091,931), discordant variants in"
+        },
+        {
+          "match": "n\u2009=\u2009493",
+          "context": "ariants in duplicate samples (n\u2009=\u2009493) and monomorphic variants (n"
+        },
+        {
+          "match": "n\u2009=\u200977",
+          "context": "93) and monomorphic variants (n\u2009=\u200977,179), 646,504 variants and 2,"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "allocation"
+      ],
+      "examples": [
+        {
+          "match": "allocation",
+          "context": "ants at baseline by treatment allocation FOOTER: 1For all characterist"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "interaction effect"
+      ],
+      "examples": [
+        {
+          "match": "interaction effect",
+          "context": "asures the genotype\u2013treatment interaction effect. A mixed-effects model for th"
+        },
+        {
+          "match": "interaction effect",
+          "context": "reatment and MC4R LoF carrier interaction effect (Fig. 1b), while estimands fr"
+        },
+        {
+          "match": "interaction effect",
+          "context": "time to illustrate the visit interaction effect (Fig. 1c). Further informatio"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": ". A mixed model was run using SAS, including baseline weight, c"
+        },
+        {
+          "match": "SAS",
+          "context": ". A mixed model was run using SAS, including baseline weight, c"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sd",
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "Standard Error",
+          "context": "riation, %)Abbreviations: SE: Standard Error for estimated marginal means;"
+        },
+        {
+          "match": "SD",
+          "context": "or all characteristics, mean (SD) are shown; no, number (%); 2"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "multiple testing"
+      ],
+      "examples": [
+        {
+          "match": "multiple testing",
+          "context": "ed burden test, two-sided, no multiple testing adjustmentN represents the pa"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "p-value"
+      ],
+      "examples": [
+        {
+          "match": "P-value",
+          "context": "irzepatide treatment arm only2P-value represents MC4R mutation carr"
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "confidence interval",
+        "95% confidence"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "l means; LCI: Lower bound 95% confidence interval; UCI: Upper bound 95% confide"
+        },
+        {
+          "match": "confidence interval",
+          "context": "nterval; UCI: Upper bound 95% confidence interval"
+        },
+        {
+          "match": "95% confidence",
+          "context": "ginal means; LCI: Lower bound 95% confidence interval; UCI: Upper bound 95"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "fisher\u2019s exact",
+        "wilcoxon",
+        "chi-square"
+      ],
+      "examples": [
+        {
+          "match": "chi-square",
+          "context": "oxon rank-sum test; Pearson\u2019s chi-squared test; Fisher\u2019s exact test, t"
+        },
+        {
+          "match": "Chi-square",
+          "context": "oxon rank sum test; Pearson\u2019s Chi-squared test; Fisher\u2019s exact test, t"
+        },
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "; Pearson\u2019s chi-squared test; Fisher\u2019s exact test, two-sided.Lipid levels"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "mixed-effects"
+      ],
+      "examples": [
+        {
+          "match": "mixed-effects",
+          "context": "eatment interaction effect. A mixed-effects model for the imputed weight"
+        },
+        {
+          "match": "mixed-effects",
+          "context": "eatment interaction effect. A mixed-effects model for the imputed weight"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "rfs"
+      ],
+      "examples": [
+        {
+          "match": "rfs",
+          "context": "te (p.Ile291del, or p.Met292SerfsTer9, or p.Met292Ile); we obse"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "mixed-effect"
+      ],
+      "examples": [
+        {
+          "match": "mixed-effect",
+          "context": "eatment interaction effect. A mixed-effects model for the imputed weight"
+        },
+        {
+          "match": "mixed-effect",
+          "context": "eatment interaction effect. A mixed-effects model for the imputed weight"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "imputation"
+      ],
+      "examples": [
+        {
+          "match": "imputation",
+          "context": ". To ensure enough visits for imputation, we used only participants wi"
+        },
+        {
+          "match": "imputation",
+          "context": ". To ensure enough visits for imputation, we used only participants wi"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "excluding"
+      ],
+      "examples": [
+        {
+          "match": "excluding",
+          "context": "y control were applied. After excluding variants with a call rate bel"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "i-squared"
+      ],
+      "examples": [
+        {
+          "match": "i-squared",
+          "context": "on rank-sum test; Pearson\u2019s chi-squared test; Fisher\u2019s exact test, tw"
+        },
+        {
+          "match": "i-squared",
+          "context": "on rank sum test; Pearson\u2019s Chi-squared test; Fisher\u2019s exact test, tw"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 2.5,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": ".... A mixed model was run using SAS, including baseline weight, c..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...irzepatide treatment arm only2P-value represents MC4R mutation carr..."
+      },
+      {
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...te (p.Ile291del, or p.Met292SerfsTer9, or p.Met292Ile); we obse..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...irzepatide treatment arm only2P-value represents MC4R mutation carr..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...ed burden test, two-sided, no multiple testing adjustmentN represents the pa..."
+      },
+      {
+        "message": "Addressed missing data using imputation methods.",
+        "evidence": ".... To ensure enough visits for imputation, we used only participants wi..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...y control were applied. After excluding variants with a call rate bel..."
+      },
+      {
+        "message": "Detailed reporting of network/meta-analysis metrics.",
+        "evidence": "...on rank-sum test; Pearson\u2019s chi-squared test; Fisher\u2019s exact test, tw..."
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

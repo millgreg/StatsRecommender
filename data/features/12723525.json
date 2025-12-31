@@ -10,38 +10,34 @@
     },
     "randomization": {
       "present": true,
-      "count": 21,
+      "count": 12,
       "unique_matches": [
         "randomisation",
-        "allocation",
-        "randomise"
+        "randomise",
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "tive breast cancer (CITRINE): randomised, open label phase 3 trialMol"
+          "context": "This was a randomised, open label, phase 3, two ar"
+        },
+        {
+          "match": "randomisation",
+          "context": "n function, and readiness for randomisation. We excluded patients if they"
         },
         {
           "match": "randomise",
-          "context": "open-label, 2\u2008\u00d7\u20082 factorial, randomised phase 3 trialRandomized tria"
-        },
-        {
-          "match": "randomise",
-          "context": "ith early breast cancer in 26 randomised trialsPhase III study of dox"
+          "context": "6  Patients were assigned and randomised (1:1) to the carboplatin arm"
         }
       ]
     },
     "blinding": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
         "blinded"
       ],
       "examples": [
-        {
-          "match": "Blinded",
-          "context": "ysis of the WSG-ADAPT-TN TrialBlinded, randomized, multicenter stud"
-        },
         {
           "match": "blinded",
           "context": "tients nor investigators were blinded to the treatment assignments,"
@@ -131,8 +127,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "spss version 22",
-        "r 4.4.1"
+        "r 4.4.1",
+        "spss version 22"
       ],
       "examples": [
         {
@@ -189,8 +185,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -230,8 +226,8 @@
       "count": 7,
       "unique_matches": [
         "schoenfeld residuals",
-        "proportional hazards",
-        "proportional hazards assumption"
+        "proportional hazards assumption",
+        "proportional hazards"
       ],
       "examples": [
         {
@@ -254,9 +250,9 @@
       "unique_matches": [
         "overall survival",
         "kaplan-meier",
-        "log-rank",
         "restricted mean survival",
-        "hazard ratio"
+        "hazard ratio",
+        "log-rank"
       ],
       "examples": [
         {
@@ -383,11 +379,11 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "pre-specified",
-        "excluded",
-        "splines",
         "restricted cubic spline",
-        "cubic spline"
+        "excluded",
+        "cubic spline",
+        "pre-specified",
+        "splines"
       ],
       "examples": [
         {

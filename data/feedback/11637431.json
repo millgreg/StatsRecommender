@@ -64,11 +64,10 @@
     },
     "software": {
       "present": true,
-      "count": 6,
+      "count": 4,
       "unique_matches": [
-        "imagej",
         "seurat",
-        "bioconductor"
+        "imagej"
       ],
       "examples": [
         {
@@ -301,14 +300,12 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 26,
+      "count": 21,
       "unique_matches": [
-        "quantification",
-        "transcriptomics",
-        "staining",
-        "transcriptome",
+        "mice",
         "fluorescence",
-        "mice"
+        "quantification",
+        "staining"
       ],
       "examples": [
         {
@@ -331,8 +328,12 @@
     "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...od, based on unique peptides, missing values were imputed from a low, rand..."
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...were manually measured using imageJ [37] for each of the 8 patien..."
       },
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
@@ -341,20 +342,20 @@
       {
         "message": "Longitudinal/clustered data detected without hierarchical modeling.",
         "evidence": "...of Treitz) were resected and longitudinally opened to expose the mucosa..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ng to the Matrisome [8], were excluded. Following this filtration, d..."
       }
     ],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'quantification'"
+        "evidence": "Detected term: 'mice'"
       },
       {
         "message": "Appropriately used paired tests for dependent data.",
         "evidence": "...of Treitz) were resected and longitudinally opened to expose the mucosa..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ng to the Matrisome [8], were excluded. Following this filtration, d..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
@@ -362,12 +363,6 @@
       }
     ],
     "actionable_recommendations": [
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'P-value' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      },
       {
         "item": "Statistical Architecture",
         "issue": "Clustered/repeated data requires hierarchical models.",

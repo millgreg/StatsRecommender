@@ -91,8 +91,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -123,10 +123,9 @@
     },
     "advanced_modeling": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "bootstrap",
-        "cross-validation"
+        "bootstrap"
       ],
       "examples": [
         {
@@ -136,10 +135,6 @@
         {
           "match": "bootstrap",
           "context": "0] (also calculated from 2000 bootstrapped samples), which was signif"
-        },
-        {
-          "match": "cross-validation",
-          "context": "d resampling effectiveness in cross-validationInfluence of data splitting on"
         }
       ]
     },
@@ -180,17 +175,10 @@
       "examples": []
     },
     "clustering": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "hierarchical"
-      ],
-      "examples": [
-        {
-          "match": "hierarchical",
-          "context": "arningImageNet: a large-scale hierarchical image databaseChestX-ray8: ho"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": false,

@@ -107,8 +107,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sas",
-        "r version 4.3.1"
+        "r version 4.3.1",
+        "sas"
       ],
       "examples": [
         {
@@ -147,9 +147,9 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "alpha",
         "p\u2009<\u20090.05",
-        "secondary endpoint"
+        "secondary endpoint",
+        "alpha"
       ],
       "examples": [
         {
@@ -251,10 +251,10 @@
       "present": true,
       "count": 14,
       "unique_matches": [
-        "log-rank",
         "rfs",
+        "hazard ratio",
         "overall survival",
-        "hazard ratio"
+        "log-rank"
       ],
       "examples": [
         {
@@ -275,8 +275,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "mixed-effect",
-        "cox proportional"
+        "cox proportional",
+        "mixed-effect"
       ],
       "examples": [
         {
@@ -425,9 +425,9 @@
       "count": 5,
       "unique_matches": [
         "flow cytometry",
-        "staining",
+        "immunohistochemistry",
         "cell line",
-        "immunohistochemistry"
+        "staining"
       ],
       "examples": [
         {
@@ -446,9 +446,13 @@
     }
   },
   "feedback": {
-    "overall_score": 8.5,
-    "rigor_rating": "High",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...cal tests were two-sided, and P\u2009<\u20090.05 was considered significant. F..."
+      },
       {
         "message": "Categorical data mentioned, but no appropriate categorical tests found.",
         "evidence": "...and reported out as relative frequencies. A PBMC sample from the same..."
@@ -462,10 +466,6 @@
       {
         "message": "Detailed software versions provided.",
         "evidence": "...analyses were performed using SAS software (SAS Institute) and..."
-      },
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...stical power when the average hazard ratio of nivolumab and relatlimab F..."
       },
       {
         "message": "Appropriately used paired tests for dependent data.",

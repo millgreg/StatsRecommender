@@ -23,8 +23,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "allocation",
-        "randomized controlled trial"
+        "randomized controlled trial",
+        "allocation"
       ],
       "examples": [
         {
@@ -135,9 +135,9 @@
       "count": 9,
       "unique_matches": [
         "p\u2009>\u20090.1",
-        "secondary outcome",
         "p\u2009<\u20090.1",
         "alpha",
+        "secondary outcome",
         "p\u2009<\u20090.05"
       ],
       "examples": [
@@ -160,8 +160,8 @@
       "count": 6,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -242,17 +242,10 @@
       "examples": []
     },
     "reporting_guidelines": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "prisma"
-      ],
-      "examples": [
-        {
-          "match": "PRISMA",
-          "context": "atriale prospective studyThe PRISMA extension statement for repor"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "data_types": {
       "present": false,
@@ -283,9 +276,9 @@
       "count": 21,
       "unique_matches": [
         "mean difference",
-        "relative risk",
+        "or",
         "rr",
-        "or"
+        "relative risk"
       ],
       "examples": [
         {
@@ -390,20 +383,24 @@
     }
   },
   "feedback": {
-    "overall_score": 4.0,
+    "overall_score": 2.5,
     "rigor_rating": "Low",
     "critical_gaps": [
+      {
+        "message": "Detected high number of P-values (9) without explicit mention of multiplicity correction.",
+        "evidence": "...ss statistical heterogeneity. P\u2009>\u20090.1 and I2\u2009<\u200950% indicated no sta..."
+      },
       {
         "message": "Blinding present but allocation concealment details missing.",
         "evidence": "...d controlled trial, DB double-blinded, VHD valvular heart disease,..."
       },
       {
-        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...ss statistical heterogeneity. P\u2009>\u20090.1 and I2\u2009<\u200950% indicated no sta..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ients with AF and type 2 VHD, excluding mitral stenosis (moderate to..."
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...ss statistical heterogeneity. P\u2009>\u20090.1 and I2\u2009<\u200950% indicated no sta..."
       },
       {
         "message": "Heterogeneity (I2) mentioned without significance threshold.",
@@ -412,12 +409,16 @@
     ],
     "strengths": [
       {
+        "message": "Analysis context identifies clinical research (Clinical trial requirements apply).",
+        "evidence": "Detected term: 'randomized'"
+      },
+      {
         "message": "Blinding of participants/assessors documented.",
         "evidence": "...d controlled trial, DB double-blinded, VHD valvular heart disease,..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...AND (\u201cvalvular heart disease\u201d OR \u201cheart valve prosthesis\u201d OR \u201c..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ients with AF and type 2 VHD, excluding mitral stenosis (moderate to..."
       },
       {
         "message": "Detailed reporting of network/meta-analysis metrics.",
@@ -429,6 +430,12 @@
       }
     ],
     "actionable_recommendations": [
+      {
+        "item": "Multiplicity",
+        "issue": "Multiple testing without correction inflates false positive rate.",
+        "recommendation": "Apply correction (e.g., Bonferroni, Holm) or specify a priori hypotheses.",
+        "source_text": "High P-value count, no 'correction' terms."
+      },
       {
         "item": "Allocation Concealment",
         "issue": "Method of concealment (e.g. opaque envelopes) not described.",

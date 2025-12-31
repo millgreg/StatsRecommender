@@ -54,8 +54,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "spss",
-        "stata"
+        "stata",
+        "spss"
       ],
       "examples": [
         {
@@ -113,9 +113,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "chi-square",
+        "odds ratio",
         "fisher's exact",
-        "odds ratio"
+        "chi-square"
       ],
       "examples": [
         {
@@ -187,8 +187,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "categorical",
-        "binary"
+        "binary",
+        "categorical"
       ],
       "examples": [
         {
@@ -270,28 +270,28 @@
     },
     "diagnostic_metrics": {
       "present": true,
-      "count": 10,
+      "count": 8,
       "unique_matches": [
-        "sensitivity",
-        "npv",
-        "positive predictive value",
         "roc",
+        "sensitivity",
         "nomogram",
         "ppv",
-        "specificity"
+        "npv",
+        "specificity",
+        "positive predictive value"
       ],
       "examples": [
         {
           "match": "Nomogram",
-          "context": "Novel Nomogram for Prediction of Lymph Node"
-        },
-        {
-          "match": "nomogram",
-          "context": "cosa) carcinomaA preoperative nomogram model for the prediction of l"
-        },
-        {
-          "match": "Nomogram",
           "context": "regression model was plotted. Nomogram was constructed for the class"
+        },
+        {
+          "match": "ROC",
+          "context": "ver operating characteristic (ROC) curves along with area under"
+        },
+        {
+          "match": "ROC",
+          "context": "fit of the model was good. An ROC probability curve for the pre"
         }
       ]
     },

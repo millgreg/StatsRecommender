@@ -25,17 +25,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "l with COVID-19 (RECOVERY): a randomised, controlled, open-label, pla"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": true,
@@ -61,26 +54,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "stratification",
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "stratification",
-          "context": "pen-label, platform trialRisk stratification and prognosis in sepsis: What"
-        },
-        {
-          "match": "stratification",
-          "context": "immune dysfunction score for stratification of patients with acute infect"
-        },
-        {
-          "match": "heterogeneity",
-          "context": "odulatory therapiesUncovering heterogeneity in sepsis: a comparative anal"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -101,21 +78,10 @@
       "examples": []
     },
     "software": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "bioconductor"
-      ],
-      "examples": [
-        {
-          "match": "Bioconductor",
-          "context": "f genomic datasets with the R/Bioconductor package biomaRtIdentifying fu"
-        },
-        {
-          "match": "Bioconductor",
-          "context": "lusteringCMA: a comprehensive Bioconductor package for supervised classi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "error_measures": {
       "present": false,
@@ -125,11 +91,9 @@
     },
     "multiplicity_correction": {
       "present": true,
-      "count": 4,
+      "count": 2,
       "unique_matches": [
-        "multiple testing",
-        "bonferroni",
-        "false discovery rate"
+        "bonferroni"
       ],
       "examples": [
         {
@@ -139,10 +103,6 @@
         {
           "match": "Bonferroni",
           "context": "NOVA. bChi-squared test after Bonferroni correction. cKruksal\u2013Wallis t"
-        },
-        {
-          "match": "false discovery rate",
-          "context": "uster analysisControlling the false discovery rate: a practical and powerful app"
         }
       ]
     },
@@ -210,10 +170,10 @@
       "present": true,
       "count": 18,
       "unique_matches": [
-        "bayesian",
         "random forest",
         "propensity score",
         "bootstrap",
+        "bayesian",
         "cross-validation"
       ],
       "examples": [
@@ -348,8 +308,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "post hoc",
-        "dunn"
+        "dunn",
+        "post hoc"
       ],
       "examples": [
         {
@@ -439,16 +399,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "transcriptomics",
         "transcriptome"
       ],
       "examples": [
-        {
-          "match": "transcriptomics",
-          "context": "moniaUnsupervised analysis of transcriptomics in bacterial sepsis across mu"
-        },
         {
           "match": "Transcriptome",
           "context": "ybridized to Affymetrix Human Transcriptome Array 2.0 (Thermo Fisher Scie"

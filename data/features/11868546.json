@@ -140,10 +140,10 @@
       "present": true,
       "count": 9,
       "unique_matches": [
-        "p\u2009<\u20090.01",
         "p\u2009<\u20090.05",
-        "p\u2009<\u20090.001",
-        "p\u2009<\u20090.0001"
+        "p\u2009<\u20090.01",
+        "p\u2009<\u20090.0001",
+        "p\u2009<\u20090.001"
       ],
       "examples": [
         {
@@ -248,15 +248,11 @@
     },
     "data_types": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "continuous"
       ],
       "examples": [
-        {
-          "match": "continuous",
-          "context": "ved degradative lysosomes are continuously delivered to distal axons t"
-        },
         {
           "match": "continuous",
           "context": "iments, only cells displaying continuous labeling of the cytosolic flu"
@@ -337,8 +333,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "excluded",
-        "categorized"
+        "categorized",
+        "excluded"
       ],
       "examples": [
         {
@@ -389,12 +385,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 14,
+      "count": 11,
       "unique_matches": [
-        "quantification",
-        "confocal",
         "fluorescence",
-        "microscopy"
+        "confocal",
+        "quantification"
       ],
       "examples": [
         {
@@ -406,8 +401,8 @@
           "context": "c). Cells were imaged using a confocal laser-scanning microscope (LS"
         },
         {
-          "match": "microscopy",
-          "context": "olution of APEX2 for electron microscopy and proximity labelingMental"
+          "match": "fluorescence",
+          "context": "in this study by using immunofluorescence or quantitative PCR. The foll"
         }
       ]
     }

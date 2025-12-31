@@ -1,0 +1,220 @@
+{
+    "11677238.json": {
+        "title": "A transcription network...",
+        "correct_findings": [],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Observational (Correct)"
+    },
+    "12714441.json": {
+        "title": "Evaluation... Consensus Statements...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Review (FP)"
+    },
+    "11670362.json": {
+        "title": "Impact of retraining... deep learning",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "ML/Eng (FP)"
+    },
+    "12728592.json": {
+        "title": "Rank Aggregation Methods...",
+        "correct_findings": [],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Observational (Correct)"
+    },
+    "12705456.json": {
+        "title": "Perioperative pembrolizumab... phase 2 trial",
+        "correct_findings": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "RCT (Correct)"
+    },
+    "12712797.json": {
+        "title": "RETRACTION...",
+        "correct_findings": [],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Retracted (Ignored)"
+    },
+    "12724483.json": {
+        "title": "Influence of COVID-19...",
+        "correct_findings": [],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Observational (Correct)"
+    },
+    "12724488.json": {
+        "title": "IDEAL-compliant implementation...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Surgical (FP)"
+    },
+    "11661456.json": {
+        "title": "A bacterial methyltransferase...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Basic Sci (FP)"
+    },
+    "12686084.json": {
+        "title": "Effects of... skills...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Education (FP)"
+    },
+    "12599524.json": {
+        "title": "Collective international action...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Policy (FP)"
+    },
+    "12727046.json": {
+        "title": "Clinical Profile...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Obs Cohort (FP Detect)"
+    },
+    "12599526.json": {
+        "title": "Policies to promote...",
+        "correct_findings": [],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Observational (Correct)"
+    },
+    "12713940.json": {
+        "title": "Cardiopulmonary coupling...",
+        "correct_findings": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Clinical (Correct)"
+    },
+    "7617336.json": {
+        "title": "Reporting of Factorial...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Guideline (FP)"
+    },
+    "12713975.json": {
+        "title": "Sleep related movement disorders...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Review (FP)"
+    },
+    "12285504.json": {
+        "title": "Liver fibrosis...",
+        "correct_findings": [],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Observational (Correct)"
+    },
+    "7618369.json": {
+        "title": "Mutations in...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Basic Sci (FP)"
+    },
+    "12542862.json": {
+        "title": "Community based cohort...",
+        "correct_findings": [],
+        "false_positives": [
+            {
+                "type": "GAP",
+                "message": "Reporting of blinding...",
+                "evidence": "No matches"
+            }
+        ],
+        "missed_gaps": [],
+        "type": "Review (FP)"
+    },
+    "11614215.json": {
+        "title": "Environmental fungi...",
+        "correct_findings": [],
+        "false_positives": [],
+        "missed_gaps": [],
+        "type": "Observational (Correct)"
+    }
+}

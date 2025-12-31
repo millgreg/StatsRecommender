@@ -9,17 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "e abuse or a suicide attemptA randomized controlled trial to engage in care of adolesce"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,

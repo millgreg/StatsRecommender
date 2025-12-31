@@ -21,25 +21,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 4,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "g nonclinician sleep coaches: randomized controlled trialA randomized controlled trial"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "randomized controlled trialA randomized controlled trial of nurse-led care for symptom"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "ce, Mindfulness, and EmpathyA randomized controlled trial comparing guided internet-bas"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -114,17 +99,10 @@
       "examples": []
     },
     "comparative_stats": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "odds ratio"
-      ],
-      "examples": [
-        {
-          "match": "odds ratio",
-          "context": "active-duty Army soldiers: an odds ratio analysis of medical healthcar"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "non_parametric": {
       "present": false,
@@ -194,17 +172,10 @@
       "examples": []
     },
     "effect_size": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "odds ratio"
-      ],
-      "examples": [
-        {
-          "match": "odds ratio",
-          "context": "active-duty Army soldiers: an odds ratio analysis of medical healthcar"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "post_hoc": {
       "present": false,
@@ -258,12 +229,7 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       }
     ],
-    "strengths": [
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...active-duty Army soldiers: an odds ratio analysis of medical healthcar..."
-      }
-    ],
+    "strengths": [],
     "actionable_recommendations": [],
     "deterministic_audit": true
   }

@@ -236,12 +236,7 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       }
     ],
-    "strengths": [
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...n\u2009=\u20091 315 ni\u00f1os). FOOTER: OR: Odds Ratio ajustado. IC 95 %: Intervalos..."
-      }
-    ],
+    "strengths": [],
     "actionable_recommendations": [],
     "deterministic_audit": true
   }

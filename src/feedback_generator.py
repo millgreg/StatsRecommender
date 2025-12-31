@@ -18,7 +18,7 @@ class FeedbackGenerator:
         Generates feedback using a deterministic rule engine and optionally an LLM.
         """
         # 1. Generate Deterministic Baseline
-        rule_feedback = self.rule_engine.generate_feedback(features)
+        rule_feedback = self.rule_engine.generate_feedback(features, title=title)
         
         if not self.api_key:
             return {

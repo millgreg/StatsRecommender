@@ -107,8 +107,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sas",
-        "r version 4.3.1"
+        "r version 4.3.1",
+        "sas"
       ],
       "examples": [
         {
@@ -147,9 +147,9 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "alpha",
         "p\u2009<\u20090.05",
-        "secondary endpoint"
+        "secondary endpoint",
+        "alpha"
       ],
       "examples": [
         {
@@ -251,10 +251,10 @@
       "present": true,
       "count": 14,
       "unique_matches": [
-        "log-rank",
         "rfs",
+        "hazard ratio",
         "overall survival",
-        "hazard ratio"
+        "log-rank"
       ],
       "examples": [
         {
@@ -275,8 +275,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "mixed-effect",
-        "cox proportional"
+        "cox proportional",
+        "mixed-effect"
       ],
       "examples": [
         {
@@ -425,9 +425,9 @@
       "count": 5,
       "unique_matches": [
         "flow cytometry",
-        "staining",
+        "immunohistochemistry",
         "cell line",
-        "immunohistochemistry"
+        "staining"
       ],
       "examples": [
         {

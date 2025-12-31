@@ -191,15 +191,11 @@
     },
     "advanced_modeling_extra": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "compliance"
       ],
       "examples": [
-        {
-          "match": "Compliance",
-          "context": "Cervical Cancer: An Audit of Compliance of a Tertiary Care CenterRece"
-        },
         {
           "match": "compliance",
           "context": "spectively analyzed to assess compliance to the ESGO quality indicator"

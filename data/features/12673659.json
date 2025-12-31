@@ -26,25 +26,24 @@
     },
     "randomization": {
       "present": true,
-      "count": 13,
+      "count": 9,
       "unique_matches": [
         "randomisation",
-        "allocation",
         "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "ation: multisite parallel arm randomised controlled trial in BreastSc"
+          "context": "as a multisite, parallel arm, randomised controlled trial conducted a"
         },
         {
           "match": "randomise",
-          "context": "nterim results from the BRAID randomised controlled trialBreast cance"
+          "context": "g mammogram were included and randomised. Women were excluded if they"
         },
         {
           "match": "randomise",
-          "context": "ts: a BreastScreen Queensland randomised controlled trialGeneral prac"
+          "context": "needed a sample of 373 women randomised to each arm (total n=1119)."
         }
       ]
     },
@@ -145,8 +144,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "bonferroni",
-        "nominal"
+        "nominal",
+        "bonferroni"
       ],
       "examples": [
         {
@@ -215,8 +214,8 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "relative risk",
-        "odds ratio"
+        "odds ratio",
+        "relative risk"
       ],
       "examples": [
         {
@@ -268,8 +267,8 @@
       "present": true,
       "count": 8,
       "unique_matches": [
-        "linear model",
-        "logistic regression"
+        "logistic regression",
+        "linear model"
       ],
       "examples": [
         {
@@ -296,10 +295,10 @@
       "present": true,
       "count": 18,
       "unique_matches": [
-        "proportions",
-        "ordinal",
         "frequencies",
         "categorical",
+        "ordinal",
+        "proportions",
         "continuous"
       ],
       "examples": [
@@ -362,8 +361,8 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "relative risk",
-        "odds ratio"
+        "odds ratio",
+        "relative risk"
       ],
       "examples": [
         {

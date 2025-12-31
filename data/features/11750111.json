@@ -6,8 +6,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "n = 9",
-        "n = 11"
+        "n = 11",
+        "n = 9"
       ],
       "examples": [
         {
@@ -90,9 +90,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "multiple testing",
         "tukey",
-        "false discovery rate"
+        "false discovery rate",
+        "multiple testing"
       ],
       "examples": [
         {
@@ -183,8 +183,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "linear model",
-        "anova"
+        "anova",
+        "linear model"
       ],
       "examples": [
         {
@@ -264,8 +264,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "post hoc",
-        "tukey"
+        "tukey",
+        "post hoc"
       ],
       "examples": [
         {
@@ -325,12 +325,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 13,
+      "count": 10,
       "unique_matches": [
-        "western blot",
         "fluorescence",
         "quantification",
-        "microscopy"
+        "western blot"
       ],
       "examples": [
         {

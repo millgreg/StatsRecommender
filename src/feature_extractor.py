@@ -16,9 +16,9 @@ class FeatureExtractor:
         # Initial set of patterns/keywords for CONSORT items
         self.rules = {
             # Category: Study Design & Sampling
-            "sample_size": [r"(?i)sample size", r"(?i)power calculation", r"(?<![a-zA-Z])n\s*[=\u2009]\s*\d+(?![a-zA-Z])", r"(?i)total of \d+ participants"],
+            "sample_size": [r"(?i)sample size", r"(?i)power calculation", r"(?<![a-zA-Z])n\s*[=\u2009]\s*\d+(?![a-zA-Z])", r"(?i)total of \d+ participants", r"(?i)statistical power", r"G\*Power"],
             "randomization": [r"(?i)randomis(e|ation)", r"(?i)randomized controlled trial", r"(?i)randomly assigned", r"(?i)allocation"],
-            "blinding": [r"(?i)blinded", r"(?i)\bmasking\b(?!\s*to\s*(?:peptide|antigen|ligand|receptor|epitope))", r"(?i)masked", r"(?i)unblinded"],
+            "blinding": [r"(?i)blinded", r"(?i)\bmasking\b(?!\s*to\s*(?:peptide|antigen|ligand|receptor|epitope))", r"(?i)masked", r"(?i)unblinded", r"(?i)(?:single|double|triple)(?:-| )blind", r"(?i)blinding"],
             "allocation_concealment": [r"(?i)concealment", r"(?i)opaque envelopes", r"(?i)sequentially numbered", r"(?i)central randomisation"],
             "interaction_subgroup": [r"(?i)statistical interaction", r"(?i)interaction (effect|term|p-value)", r"(?i)subgroup analysis", r"(?i)stratification", r"(?i)heterogeneity"],
             "variable_definitions": [r"(?i)outcome measure", r"(?i)primary endpoint", r"(?i)variable definition"],
@@ -40,7 +40,7 @@ class FeatureExtractor:
             ],
             "error_measures": [r"(?i)standard deviation", r"(?<![a-zA-Z])sd(?![a-zA-Z])", r"(?i)standard error", r"(?<![a-zA-Z])sem(?![a-zA-Z])", r"(?i)interquartile range", r"(?<![a-zA-Z])iqr(?![a-zA-Z])", r"STRICT:SD"],
             "multiplicity_correction": [r"(?i)\bbonferroni\b", r"(?i)\bbenjamini-hochberg\b", r"(?i)false discovery rate", r"(?i)multiple (comparisons|testing)", r"(?i)adjustment for multiplicity", r"(?i)\btukey\b", r"(?i)\bscheff.\b", r"(?i)\bholm\b(?!\s*laser)", r"(?i)\bdunnett\b", r"(?i)\bsidak\b", r"(?i)control the family-wise error", r"(?i)nominal", r"(?i)no (formal )?.*hypothesis testing", r"(?i)no\s+(?:formal\s+)?(?:adjustment|correction|multiplicity)"],
-            "normality_checks": [r"(?i)\bshapiro-wilk\b", r"(?i)\bkolmogorov-smirnov\b", r"(?i)\bnormality (test|check)\b", r"(?i)\bskewness\b", r"(?i)\bkurtosis\b", r"(?i)\bqq-plot\b", r"(?i)\bquantile-quantile\b"],
+            "normality_checks": [r"(?i)\bshapiro-wilk\b", r"(?i)\bkolmogorov-smirnov\b", r"(?i)\bnormality (test|check)\b", r"(?i)\bskewness\b", r"(?i)\bkurtosis\b", r"(?i)\bqq-plot\b", r"(?i)\bquantile-quantile\b", r"(?i)distribution (?:was )?checked", r"(?i)gaussian distribution"],
             
             # Statistical Methods (General)
             "p_values": [r"(?i)p\s*[=<>]\s*\d+\.\d+", r"(?i)p-value", r"(?i)significance level", r"(?i)alpha", r"(?i)secondary (end\s*point|outcome)"],

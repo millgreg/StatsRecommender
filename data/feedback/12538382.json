@@ -1,0 +1,409 @@
+{
+  "title": "Anti-CD38 monoclonal antibody CM313 for primary immune thrombocytopenia: multicentre, randomised, placebo controlled, phase 2 trialImmune ThrombocytopeniaPrimary immune thrombocytopenia in US clinical practice: incidence and healthcare burden in first 12 months following diagnosisThe incidence of immune thrombocytopenic purpura in children and adults: A critical review of published reportsHuman thrombopoietin levels are high when thrombocytopenia is due to megakaryocyte deficiency and low when due to increased platelet destructionAutoantibody-mediated complement activation on platelets is a common finding in patients with immune thrombocytopenic purpura (ITP)Recent advances in the mechanisms and treatment of immune thrombocytopeniaImmune thrombocytopenia (ITP) World Impact Survey (I-WISh): Impact of ITP on health-related quality of lifeThe 2022 review of the 2019 American Society of Hematology guidelines on immune thrombocytopeniaAmerican Society of Hematology 2019 guidelines for immune thrombocytopeniaNewly diagnosed immune thrombocytopenia adults: Clinical epidemiology, exposure to treatments, and evolution. Results of the CARMEN multicenter prospective cohortNovel therapeutics and future directions for refractory immune thrombocytopeniaCD38: A Target for Immunotherapeutic Approaches in Multiple MyelomaDaratumumab As a Treatment for Adult Immune Thrombocytopenia: A Phase II Study with Safety Run-in (the DART Study)Safety, tolerability, and efficacy of mezagitamab (TAK-079) in chronic or persistent primary immune thrombocytopenia: Interim results from a phase 2, randomized, double-blind, placebo-controlled study2025 update on clinical trials in immune thrombocytopeniaMezagitamab in systemic lupus erythematosus: clinical and mechanistic findings of CD38 inhibition in an autoimmune diseaseTargeting CD38 with Daratumumab in Refractory Systemic Lupus ErythematosusEfficacy of daratumumab in refractory primary Sj\u00f6gren diseasePreclinical characterization of a novel investigational monoclonal antibody CM313 with potent CD38-positive cell killing activityA Novel Anti-CD38 Monoclonal Antibody for Treating Immune ThrombocytopeniaSplenectomy for immune thrombocytopenia: down but not outHow we treat primary immune thrombocytopenia in adultsDaratumumab, an original approach for treating multi-refractory autoimmune cytopeniaDaratumumab as a novel treatment option in refractory ITPPhase 3 randomised study of avatrombopag, a novel thrombopoietin receptor agonist for the treatment of chronic immune thrombocytopeniaEfficacy of romiplostim in patients with chronic immune thrombocytopenic purpura: a double-blind randomised controlled trialA multicenter, randomized phase III trial of hetrombopag: a novel thrombopoietin receptor agonist for the treatment of immune thrombocytopeniaA multicenter randomized controlled trial of recombinant human thrombopoietin treatment in patients with primary immune thrombocytopeniaFostamatinib for the treatment of adult persistent and chronic immune thrombocytopenia: Results of two phase 3, randomized, placebo-controlled trialsEfficacy and safety of sovleplenib (HMPL-523) in adult patients with chronic primary immune thrombocytopenia in China (ESLIM-01): a randomised, double-blind, placebo-controlled, phase 3 studyRituximab in the treatment of immune thrombocytopenia: what is the role of this agent in 2019?Sovleplenib (HMPL-523), a novel Syk inhibitor, for patients with primary immune thrombocytopenia in China: a randomised, double-blind, placebo-controlled, phase 1b/2 studyImmune Thrombocytopenia TreatmentLong-term safety and efficacy of rituximab in 248 adults with immune thrombocytopenia: Results at 5\u2009years from the French prospective registry ITP-rituxProfound symptomatic hypogammaglobulinemia: a rare late complication after rituximab treatment for immune thrombocytopenia. Report of 3 cases and systematic review of the literatureEfficacy and safety of the neonatal Fc receptor inhibitor efgartigimod in adults with primary immune thrombocytopenia (ADVANCE IV): a multicentre, randomised, placebo-controlled, phase 3 trialHigh-affinity autoreactive plasma cells disseminate through multiple organs in patients with immune thrombocytopenic purpuraNK Cell Phenotype Is Associated With Response and Resistance to Daratumumab in Relapsed/Refractory Multiple MyelomaHLA-DR NK cells are mostly characterized by less mature phenotype and high functional activityInhibitory Fc\u03b3RIIb (CD32b) becomes activated by therapeutic mAb in both cis and trans and drives internalization according to antibody specificity",
+  "pmcid": "12538382",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "8% for placebo, we required a sample size of 39 participants (allocated"
+        },
+        {
+          "match": "Sample size",
+          "context": "enrol a total of 45 patients. Sample size calculations were performed u"
+        }
+      ]
+    },
+    "randomization": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "randomisation",
+        "randomise",
+        "allocation"
+      ],
+      "examples": [
+        {
+          "match": "randomise",
+          "context": "as an investigator initiated, randomised, placebo controlled phase 2"
+        },
+        {
+          "match": "randomise",
+          "context": "ed consent. Participants were randomised in a 2:1 ratio to receive CM"
+        },
+        {
+          "match": "randomisation",
+          "context": "size of three to generate the randomisation list for patients. The invest"
+        }
+      ]
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "concealment"
+      ],
+      "examples": [
+        {
+          "match": "concealment",
+          "context": "the trial managed allocation concealment, and printed drug labels were"
+        }
+      ]
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "primary endpoint"
+      ],
+      "examples": [
+        {
+          "match": "primary endpoint",
+          "context": "nresponsive to treatment. The primary endpoint was the overall response rate"
+        }
+      ]
+    },
+    "analysis_principles": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "intention-to-treat"
+      ],
+      "examples": [
+        {
+          "match": "intention-to-treat",
+          "context": "lysis set, which followed the intention-to-treat principle and included all ra"
+        }
+      ]
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sas",
+        "sas version 9.4"
+      ],
+      "examples": [
+        {
+          "match": "SAS",
+          "context": "ceive CM313 or placebo. Using SAS software, a statistician appl"
+        },
+        {
+          "match": "SAS version 9.4",
+          "context": "analyses were conducted using SAS version 9.4. Efficacy outcomes were evalu"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "interquartile range",
+        "standard error"
+      ],
+      "examples": [
+        {
+          "match": "standard error",
+          "context": "ovariate. Least squares mean, standard errors, and 95% CIs were calculated"
+        },
+        {
+          "match": "standard error",
+          "context": "rted as means with or without standard errors of the mean, and categorical"
+        },
+        {
+          "match": "interquartile range",
+          "context": "313 or to placebo FOOTER: IQR=interquartile range; ITP=immune thrombocytopenia;"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "95% confidence",
+        "95% ci",
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "method was used to calculate 95% CIs for differences between grou"
+        },
+        {
+          "match": "95% CI",
+          "context": "es mean, standard errors, and 95% CIs were calculated accordingly."
+        },
+        {
+          "match": "95% CI",
+          "context": "d median times. Corresponding 95% CIs for rates and median times w"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "mann-whitney",
+        "fisher\u2019s exact",
+        "wilcoxon"
+      ],
+      "examples": [
+        {
+          "match": "Fisher\u2019s exact",
+          "context": "ervals (CIs) for proportions. Fisher\u2019s exact test was used for group compa"
+        },
+        {
+          "match": "Mann-Whitney",
+          "context": "ortions. We used the Wilcoxon Mann-Whitney test to calculate group diffe"
+        },
+        {
+          "match": "Wilcoxon",
+          "context": "ding proportions. We used the Wilcoxon Mann-Whitney test to calculat"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "kaplan-meier"
+      ],
+      "examples": [
+        {
+          "match": "Kaplan-Meier",
+          "context": "time-to-event data using the Kaplan-Meier method for estimating event r"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "binary",
+        "proportions",
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "categorical",
+          "context": "ndard errors of the mean, and categorical variables were presented as a"
+        },
+        {
+          "match": "continuous",
+          "context": "ne function changes. Briefly, continuous variables were reported as me"
+        },
+        {
+          "match": "binary",
+          "context": "r more of the study drug. For binary efficacy outcomes, we used th"
+        }
+      ]
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "repeated measures"
+      ],
+      "examples": [
+        {
+          "match": "repeated measures",
+          "context": "ing a mixed effects model for repeated measures, with treatment group, time p"
+        }
+      ]
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "not imputed"
+      ],
+      "examples": [
+        {
+          "match": "not imputed",
+          "context": "t were treated as missing and not imputed. WHO bleeding scores (grade 1"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "baseline characteristic"
+      ],
+      "examples": [
+        {
+          "match": "baseline characteristic",
+          "context": "China. CAPTION: Personal and baseline characteristics of participants with persist"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "flow cytometry"
+      ],
+      "examples": [
+        {
+          "match": "Flow cytometry",
+          "context": "ific Receptors Detecting Kit, Flow cytometry-fluorescein). CAPTION: Effica"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Missing data handled via complete-case analysis (potential bias).",
+        "evidence": "...t were treated as missing and not imputed. WHO bleeding scores (grade 1..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...ing a mixed effects model for repeated measures, with treatment group, time p..."
+      },
+      {
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...time-to-event data using the Kaplan-Meier method for estimating event r..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
+        "evidence": "Detected term: 'flow cytometry'"
+      },
+      {
+        "message": "Detailed software versions provided.",
+        "evidence": "...ceive CM313 or placebo. Using SAS software, a statistician appl..."
+      },
+      {
+        "message": "Appropriately used paired tests for dependent data.",
+        "evidence": "...ing a mixed effects model for repeated measures, with treatment group, time p..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'repeated' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

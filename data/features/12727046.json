@@ -9,17 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "open-label, non-inferiority, randomised controlled trialOutcome of p"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -129,8 +122,8 @@
       "count": 5,
       "unique_matches": [
         "overall survival",
-        "os",
-        "hazard ratio"
+        "hazard ratio",
+        "os"
       ],
       "examples": [
         {

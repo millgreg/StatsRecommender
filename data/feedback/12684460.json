@@ -196,7 +196,7 @@
       "examples": [
         {
           "match": "baseline characteristic",
-          "context": "t/hyperactivity disorder  The baseline characteristics of participants were summari"
+          "context": "The baseline characteristics of participants were summari"
         }
       ]
     },
@@ -217,11 +217,11 @@
       "count": 8,
       "unique_matches": [
         "sensitivity",
-        "npv",
-        "positive predictive value",
         "ppv",
+        "auc = ",
+        "npv",
         "specificity",
-        "auc = "
+        "positive predictive value"
       ],
       "examples": [
         {

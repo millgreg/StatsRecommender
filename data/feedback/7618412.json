@@ -6,12 +6,12 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "n = 29",
-        "n = 24",
         "sample size",
+        "n = 42",
+        "n = 24",
         "n = 159",
-        "n = 3",
-        "n = 42"
+        "n = 29",
+        "n = 3"
       ],
       "examples": [
         {
@@ -30,25 +30,24 @@
     },
     "randomization": {
       "present": true,
-      "count": 15,
+      "count": 5,
       "unique_matches": [
         "randomisation",
-        "allocation",
         "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "tally sustainable products: A randomised controlled trial in an onlin"
+          "context": "his study was a 2x2 factorial randomised controlled trial. The study"
+        },
+        {
+          "match": "randomisation",
+          "context": "ted diets could unbalance the randomisation. Participants provided online"
         },
         {
           "match": "randomise",
-          "context": "r grocery purchases online: A randomised controlled trial and lessons"
-        },
-        {
-          "match": "randomise",
-          "context": "ic versus alcoholic drinks: A randomised controlled trialFood systems"
+          "context": "line consent and were equally randomised to one of the four trial arm"
         }
       ]
     },
@@ -257,17 +256,10 @@
       "examples": []
     },
     "clustering": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "cluster"
-      ],
-      "examples": [
-        {
-          "match": "cluster",
-          "context": "fruit and vegetable snacks? A cluster randomized trial within an on"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": true,
@@ -381,7 +373,7 @@
     }
   },
   "feedback": {
-    "overall_score": 2.5,
+    "overall_score": 4.0,
     "rigor_rating": "Low",
     "critical_gaps": [
       {
@@ -389,20 +381,16 @@
         "evidence": "...tem were investigated through chi-square tests and descriptive statist..."
       },
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...count for an estimated 10% of missing data. Participants who bought less..."
       },
       {
-        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "No direct quote found."
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...score, and with 90% power and alpha of 0.05, the required sample..."
       },
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...score, and with 90% power and alpha of 0.05, the required sample..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...household. Participants were excluded if they followed a vegan or v..."
       }
     ],
     "strengths": [
@@ -415,12 +403,12 @@
         "evidence": "...ysing the primary outcome was blinded to intervention allocation. A..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...Appendix B. Based on a small effect size (f = 0.1) for any interaction..."
-      },
-      {
         "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
         "evidence": "...), followed by a Games-Howell post-hoc test. A two-way ANOVA was use..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...household. Participants were excluded if they followed a vegan or v..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
@@ -433,12 +421,6 @@
         "issue": "Parametric tests assume normality.",
         "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
         "source_text": "Found parametric tests: anova"
-      },
-      {
-        "item": "Statistical Architecture",
-        "issue": "Clustered/repeated data requires hierarchical models.",
-        "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'cluster' but no mixed-effects models."
       }
     ],
     "deterministic_audit": true

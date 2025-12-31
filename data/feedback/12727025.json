@@ -6,8 +6,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sample size",
         "n\n\u2009=\u200992",
+        "sample size",
         "n\n\u2009=\u200991"
       ],
       "examples": [
@@ -27,25 +27,19 @@
     },
     "randomization": {
       "present": true,
-      "count": 4,
+      "count": 2,
       "unique_matches": [
         "randomly assigned",
-        "allocation",
-        "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "one marrow transplantation: a randomised controlled trial comparing t"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "ric acute myeloid leukemia: a randomized controlled trialAcute lymphoblastic leukemia i"
-        },
-        {
           "match": "randomly assigned",
           "context": "formed consent. Patients were randomly assigned to a 1:1 ratio to receive sta"
+        },
+        {
+          "match": "Allocation",
+          "context": "ensive oral hygiene protocol. Allocation concealment was done using se"
         }
       ]
     },
@@ -59,8 +53,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "sequentially numbered",
-        "concealment"
+        "concealment",
+        "sequentially numbered"
       ],
       "examples": [
         {
@@ -156,8 +150,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "chi-square",
-        "fisher's exact"
+        "fisher's exact",
+        "chi-square"
       ],
       "examples": [
         {
@@ -320,14 +314,7 @@
       }
     ],
     "strengths": [],
-    "actionable_recommendations": [
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'significance level' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      }
-    ],
+    "actionable_recommendations": [],
     "deterministic_audit": true
   }
 }

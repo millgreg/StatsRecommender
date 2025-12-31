@@ -1,0 +1,501 @@
+{
+  "title": "Data-driven subtypes of polycystic ovary syndrome and their association with clinical outcomesAuthor Correction: Data-driven subtypes of polycystic ovary syndrome and their association with clinical outcomesThe prevalence and phenotypic features of polycystic ovary syndrome: a systematic review and meta-analysisPrevalence, incidence and years lived with disability due to polycystic ovary syndrome in 204 countries and territories, 1990\u20132019Polycystic ovary syndromeOverweight, obesity and central obesity in women with polycystic ovary syndrome: a systematic review and meta-analysisDetecting insulin resistance in polycystic ovary syndrome: purposes and pitfallsPolycystic ovary syndromePolycystic ovary syndrome: why widening the diagnostic criteria may be harming womenGaps in knowledge among physicians regarding diagnostic criteria and management of polycystic ovary syndromeHealth care-related economic burden of polycystic ovary syndrome in the United States: pregnancy-related and long-term health consequencesRecommendations from the international evidence-based guideline for the assessment and management of polycystic ovary syndromeDisease progression and treatment response in data-driven subgroups of type 2 diabetes compared with models based on simple clinical features: an analysis using clinical trial dataThe Rotterdam criteria for polycystic ovary syndrome: evidence-based criteria?Distinct subtypes of polycystic ovary syndrome with novel genetic associations: an unsupervised, phenotypic clustering analysisRecommendations from the 2023 International Evidence-based Guideline for the assessment and management of polycystic ovary syndromeTestosterone levels in pre-menopausal women are associated with nonalcoholic fatty liver disease in midlifeMaternal testosterone and offspring birth weight: a mendelian randomization studyBody mass index is negatively associated with a good perinatal outcome after in vitro fertilization among patients with polycystic ovary syndrome: a national studySex hormone-binding globulin and risk of type 2 diabetes in women and menCirculating LH/hCG receptor (LHCGR) may identify pre-treatment IVF patients at risk of OHSS and poor implantationFresh versus frozen embryos for infertility in the polycystic ovary syndromeSystematic review and meta-analysis of birth outcomes in women with polycystic ovary syndromeAlterations of cardiometabolic risk profile in polycystic ovary syndrome: 13 years follow-up in an unselected populationThe Pregnancy in Polycystic Ovary Syndrome II (PPCOS II) trial: rationale and design of a double-blind randomized trial of clomiphene citrate and letrozole for the treatment of infertility in women with polycystic ovary syndromeHabitual physical activity is associated with improved anthropometric and androgenic profile in PCOS: a cross-sectional studyCardiac autonomic modulation in polycystic ovary syndrome: does the phenotype matter?Revised 2003 consensus on diagnostic criteria and long-term health risks related to polycystic ovary syndrome (PCOS)Prevalence, phenotype and cardiometabolic risk of polycystic ovary syndrome under different diagnostic criteriaAre there any sensitive and specific sex steroid markers for polycystic ovary syndrome?Acupuncture for ovulation induction in polycystic ovary syndrome: a randomized controlled trialTranscriptional and epigenetic changes influencing skeletal muscle metabolism in women with polycystic ovary syndromePrevalence of polycystic ovary syndrome in women with severe obesity\u2014effects of a structured weight loss programmeSimplified 4-item criteria for polycystic ovary syndrome: a bridge too far?Multiple imputation: dealing with missing dataNovel subgroups of adult-onset diabetes and their association with outcomes: a data-driven cluster analysis of six variablesCluster-wise assessment of cluster stabilityMachine learning to identify metabolic subtypes of obesity: a multi-center studyData-driven subgroups of prediabetes and the associations with outcomes in Chinese adultsPredictive values of body mass index and waist circumference to risk factors of related diseases in Chinese adult populationScreening for prediabetes and type 2 diabetes: US Preventive Services Task Force recommendation statementChinese guideline for lipid managementBirth weight reference percentiles for Chinese",
+  "pmcid": "12705455",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "n\u2009=\u200935"
+      ],
+      "examples": [
+        {
+          "match": "n\u2009=\u200935",
+          "context": "est parameters were excluded (n\u2009=\u200935,163). The validation cohorts"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "spss"
+      ],
+      "examples": [
+        {
+          "match": "SPSS",
+          "context": "analyses were performed using SPSS v.26 and R v.4.0.3. Shapiro\u2013W"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "interquartile range"
+      ],
+      "examples": [
+        {
+          "match": "interquartile range",
+          "context": "or this cohort was 6.5\u2009years (interquartile range 6.16\u20136.85). Remission of PCOS"
+        }
+      ]
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "dunnett",
+        "multiple comparisons",
+        "bonferroni"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "s were performed using either Bonferroni or Dunnett T3 correction. Cat"
+        },
+        {
+          "match": "Bonferroni",
+          "context": "wo groups were two-sided with Bonferroni correction for multiple compa"
+        },
+        {
+          "match": "multiple comparisons",
+          "context": "ith Bonferroni correction for multiple comparisons.aConception, serum human chor"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "p\u2009<\u20090.05",
+        "secondary outcome"
+      ],
+      "examples": [
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "ical pregnancy in each group.gP\u2009<\u20090.05 compared with SHBG-PCOS.hP\u2009<"
+        },
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "0.05 compared with SHBG-PCOS.hP\u2009<\u20090.05 compared with HA-PCOS.iP\u2009<\u20090."
+        },
+        {
+          "match": "P\u2009<\u20090.05",
+          "context": "<\u20090.05 compared with HA-PCOS.iP\u2009<\u20090.05 compared with OB-PCOS.jP\u2009<\u20090."
+        }
+      ]
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "95% ci"
+      ],
+      "examples": [
+        {
+          "match": "95% CI",
+          "context": "OTER: Data are n/N (%) or OR (95% CI). The two-sided Chi-squared t"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "\u03c72",
+        "t-test",
+        "fisher\u2019s exact",
+        "chi-square"
+      ],
+      "examples": [
+        {
+          "match": "t-test",
+          "context": "were compared using Student\u2019s t-test or analysis of variance with"
+        },
+        {
+          "match": "Chi-square",
+          "context": "or OR (95% CI). The two-sided Chi-squared test was used to calculate t"
+        },
+        {
+          "match": "\u03c72",
+          "context": "les were compared with either \u03c72 or Fisher\u2019s exact test. ORs w"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "bootstrap",
+        "cross-validation"
+      ],
+      "examples": [
+        {
+          "match": "bootstrap",
+          "context": "Jaccard similarities through bootstrap resampling 1,000 iterations35"
+        },
+        {
+          "match": "cross-validation",
+          "context": "function, which used tenfold cross-validation methods. The ridge regression"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "os"
+      ],
+      "examples": [
+        {
+          "match": "OS",
+          "context": "d with frozen embryo group or OS group). Bold indicates statis"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "logistic regression"
+      ],
+      "examples": [
+        {
+          "match": "Logistic regression",
+          "context": "n the 90th percentile as LGA. Logistic regression was used to calculate the ORs"
+        },
+        {
+          "match": "logistic regression",
+          "context": "st. ORs were calculated using logistic regression analysis, comparing cases wit"
+        },
+        {
+          "match": "logistic regression",
+          "context": "d P values were calculated by logistic regression (compared with frozen embryo"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "categorical",
+        "continuous"
+      ],
+      "examples": [
+        {
+          "match": "Categorical",
+          "context": "ed in Extended Data Table 1). Categorical variables were excluded, beca"
+        },
+        {
+          "match": "Categorical",
+          "context": "oni or Dunnett T3 correction. Categorical variables were compared with"
+        },
+        {
+          "match": "continuous",
+          "context": "lted in the selection of nine continuous variables\u2014BMI, LH, FSH, testo"
+        }
+      ]
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "Cluster",
+          "context": "clust package (v.1.4-0) in R. Cluster stability was assessed by com"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "missing data",
+        "imputation"
+      ],
+      "examples": [
+        {
+          "match": "missing data",
+          "context": ". Features with more than 30% missing data, which might be caused by the"
+        },
+        {
+          "match": "imputation",
+          "context": "analysis. K-nearest neighbor imputation with k\u2009=\u200910 was performed to"
+        }
+      ]
+    },
+    "effect_size": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "or"
+      ],
+      "examples": [
+        {
+          "match": "OR",
+          "context": "e FOOTER: Data are n/N (%) or OR (95% CI). The two-sided Chi-s"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "dunn",
+        "post-hoc",
+        "multiple comparisons"
+      ],
+      "examples": [
+        {
+          "match": "Post-hoc",
+          "context": "nonnormal distribution data. Post-hoc comparisons among subtypes we"
+        },
+        {
+          "match": "post-hoc",
+          "context": "t or Fisher\u2019s exact test, and post-hoc pairwise tests between each t"
+        },
+        {
+          "match": "multiple comparisons",
+          "context": "ith Bonferroni correction for multiple comparisons.aConception, serum human chor"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "baseline characteristic",
+        "table 1"
+      ],
+      "examples": [
+        {
+          "match": "Baseline characteristic",
+          "context": "transferred embryos. CAPTION: Baseline characteristics of the discovery cohort FOOT"
+        },
+        {
+          "match": "Baseline characteristic",
+          "context": "very cohort FOOTER:  CAPTION: Baseline characteristics of the validation cohorts FO"
+        },
+        {
+          "match": "Table 1",
+          "context": "rt (detailed in Extended Data Table 1). Categorical variables were"
+        }
+      ]
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 5,
+      "unique_matches": [
+        "excluded"
+      ],
+      "examples": [
+        {
+          "match": "excluded",
+          "context": "tions or test parameters were excluded (n\u2009=\u200935,163). The validation"
+        },
+        {
+          "match": "excluded",
+          "context": "). Categorical variables were excluded, because they cannot be accom"
+        },
+        {
+          "match": "excluded",
+          "context": "bias of the physicians, were excluded from further analysis. K-near"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "i-squared"
+      ],
+      "examples": [
+        {
+          "match": "i-squared",
+          "context": "OR (95% CI). The two-sided Chi-squared test was used to calculate th"
+        }
+      ]
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "roc",
+        "sensitivity"
+      ],
+      "examples": [
+        {
+          "match": "ROC",
+          "context": "ans served as a reference for ROC curve analysis. Each individu"
+        },
+        {
+          "match": "ROC",
+          "context": "s, were then used to generate ROC curves. The AUC for each subt"
+        },
+        {
+          "match": "sensitivity",
+          "context": "t average silhouette width in sensitivity analyses assessing the fit of"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  },
+  "feedback": {
+    "overall_score": 1.0,
+    "rigor_rating": "Low",
+    "critical_gaps": [
+      {
+        "message": "Parametric tests used without documented normality checks.",
+        "evidence": "...were compared using Student\u2019s t-test or analysis of variance with..."
+      },
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...analyses were performed using SPSS v.26 and R v.4.0.3. Shapiro\u2013W..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...ical pregnancy in each group.gP\u2009<\u20090.05 compared with SHBG-PCOS.hP\u2009<..."
+      },
+      {
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...d with frozen embryo group or OS group). Bold indicates statis..."
+      },
+      {
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...ical pregnancy in each group.gP\u2009<\u20090.05 compared with SHBG-PCOS.hP\u2009<..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...s were performed using either Bonferroni or Dunnett T3 correction. Cat..."
+      },
+      {
+        "message": "Addressed missing data using imputation methods.",
+        "evidence": ".... Features with more than 30% missing data, which might be caused by the..."
+      },
+      {
+        "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
+        "evidence": "...nonnormal distribution data. Post-hoc comparisons among subtypes we..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...tions or test parameters were excluded (n\u2009=\u200935,163). The validation..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...ans served as a reference for ROC curve analysis. Each individu..."
+      }
+    ],
+    "actionable_recommendations": [
+      {
+        "item": "Assumptions",
+        "issue": "Parametric tests assume normality.",
+        "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
+        "source_text": "Found parametric tests: t-test"
+      },
+      {
+        "item": "Statistical Architecture",
+        "issue": "Clustered/repeated data requires hierarchical models.",
+        "recommendation": "Use LMM, GLMM, or GEE.",
+        "source_text": "Found 'cluster' but no mixed-effects models."
+      }
+    ],
+    "deterministic_audit": true
+  }
+}

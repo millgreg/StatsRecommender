@@ -51,19 +51,14 @@
     },
     "interaction_subgroup": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "stratification",
-        "heterogeneity"
+        "stratification"
       ],
       "examples": [
         {
           "match": "stratification",
           "context": "ed a five-fold site-preserved stratification140. Due to the small cohort s"
-        },
-        {
-          "match": "heterogeneity",
-          "context": "ution of driver gene mutation heterogeneity in renal cancer using deep le"
         }
       ]
     },
@@ -101,8 +96,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "multiple comparisons",
-        "tukey"
+        "tukey",
+        "multiple comparisons"
       ],
       "examples": [
         {
@@ -168,9 +163,9 @@
       "count": 9,
       "unique_matches": [
         "glmm",
+        "mixed-effects",
         "cross-validation",
-        "bootstrapping",
-        "mixed-effects"
+        "bootstrapping"
       ],
       "examples": [
         {
@@ -210,9 +205,9 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "mixed-effect",
+        "logistic regression",
         "cox proportional",
-        "logistic regression"
+        "mixed-effect"
       ],
       "examples": [
         {
@@ -309,8 +304,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "multiple comparisons",
-        "tukey"
+        "tukey",
+        "multiple comparisons"
       ],
       "examples": [
         {
@@ -348,8 +343,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "excluded",
-        "excluding"
+        "excluding",
+        "excluded"
       ],
       "examples": [
         {
@@ -389,20 +384,15 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
         "quantification",
-        "transcriptomics",
         "staining"
       ],
       "examples": [
         {
           "match": "staining",
           "context": "h slide exclusion due to poor staining, poor focus, lacking cancerou"
-        },
-        {
-          "match": "transcriptomics",
-          "context": "est-1k: A dataset for spatial transcriptomics and histology image analysisI"
         },
         {
           "match": "quantification",

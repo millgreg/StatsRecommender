@@ -1,0 +1,143 @@
+{
+  "12713864.json": {
+    "title": "Objective and subjective sleep characteristics in hospitalized older adults...",
+    "correct_findings": [
+      {
+        "type": "GAP",
+        "message": "P-values reported only as thresholds (e.g., P<0.05).",
+        "evidence": "...race, sex, body mass index.**p < 0.05, ***p < 0.01.MoCA, Montreal C..."
+      },
+      {
+        "type": "STR",
+        "message": "Detailed software versions provided.",
+        "evidence": "...analyses were conducted using SAS version 9.4 (SAS Institute Inc., Cary, NC..."
+      },
+      {
+        "type": "STR",
+        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
+        "evidence": "...ion. Results are presented as odds ratios and 95% confidence intervals..."
+      }
+    ],
+    "false_positives": [
+      {
+        "type": "GAP",
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "type": "STR",
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...electric accelerometer with a sensitivity of 0.025 G and a sampling rat..."
+      }
+    ],
+    "missed_gaps": []
+  },
+  "12717301.json": {
+    "title": "Examining the Connectorship Scale...",
+    "correct_findings": [
+      {
+        "type": "GAP",
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "type": "GAP",
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      }
+    ],
+    "false_positives": [],
+    "missed_gaps": [
+      "Parsing Failure - Methods section was empty"
+    ]
+  },
+  "12684460.json": {
+    "title": "Wearable Signals for Diagnosing ADHD...",
+    "correct_findings": [
+      {
+        "type": "GAP",
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
+      {
+        "type": "GAP",
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "type": "STR",
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...ficit/hyperactivity disorder; AUC = area under the receiver operat..."
+      }
+    ],
+    "false_positives": [
+      {
+        "type": "GAP",
+        "message": "Diagnostic metrics reported without Confidence Intervals.",
+        "evidence": "...ficit/hyperactivity disorder; AUC = area under the receiver operat..."
+      }
+    ],
+    "missed_gaps": []
+  },
+  "12538382.json": {
+    "title": "Anti-CD38 monoclonal antibody CM313...",
+    "correct_findings": [
+      {
+        "type": "GAP",
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...time-to-event data using the Kaplan-Meier method..."
+      }
+    ],
+    "false_positives": [
+      {
+        "type": "GAP",
+        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "evidence": "...t were treated as missing and not imputed..."
+      },
+      {
+        "type": "GAP",
+        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
+        "evidence": "...ing a mixed effects model for repeated measures..."
+      },
+      {
+        "type": "STR",
+        "message": "Analysis context identifies basic science or bioinformatics...",
+        "evidence": "Detected term: 'flow cytometry'"
+      }
+    ],
+    "missed_gaps": []
+  },
+  "12532586.json": {
+    "title": "Tirzepatide leads to weight reduction...",
+    "correct_findings": [
+      {
+        "type": "GAP",
+        "message": "Software mentioned without specific versions.",
+        "evidence": ".... A mixed model was run using SAS..."
+      },
+      {
+        "type": "GAP",
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...irzepatide treatment arm only2P-value represents MC4R mutation carr..."
+      }
+    ],
+    "false_positives": [
+      {
+        "type": "GAP",
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "type": "GAP",
+        "message": "Survival analysis used without verifying proportional hazards assumption.",
+        "evidence": "...te (p.Ile291del, or p.Met292SerfsTer9, or p.Met292Ile)..."
+      },
+      {
+        "type": "STR",
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...no multiple testing adjustment..."
+      }
+    ],
+    "missed_gaps": []
+  }
+}

@@ -9,17 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "ep quality in young adults: a randomized controlled trialSleep and circadian rhythmicit"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -147,12 +140,11 @@
     },
     "comparative_stats": {
       "present": true,
-      "count": 11,
+      "count": 10,
       "unique_matches": [
+        "t-test",
         "fisher's exact",
         "wilcoxon",
-        "t-test",
-        "power spectrum",
         "chi-square"
       ],
       "examples": [
@@ -241,9 +233,9 @@
       "present": true,
       "count": 10,
       "unique_matches": [
+        "frequencies",
         "categorical",
-        "continuous",
-        "frequencies"
+        "continuous"
       ],
       "examples": [
         {
@@ -261,17 +253,10 @@
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "matched controls"
-      ],
-      "examples": [
-        {
-          "match": "matched controls",
-          "context": "ces in children with adhd and matched controlsRestless sleep disorder in chi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,

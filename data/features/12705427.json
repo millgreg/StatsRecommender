@@ -9,21 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": "cumference, and safetyA pilot randomized controlled trial of liraglutide 3.0 mg for bin"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "and food liking: results of a randomized controlled trialTwo-year effect of semaglutide"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -291,17 +280,10 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "mice"
-      ],
-      "examples": [
-        {
-          "match": "mice",
-          "context": "umbens delta-band activity in mice and manOptimal detection of c"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   }
 }

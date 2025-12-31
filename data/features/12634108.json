@@ -135,8 +135,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "sensitivity analysis",
-        "bayesian"
+        "bayesian",
+        "sensitivity analysis"
       ],
       "examples": [
         {
@@ -163,10 +163,10 @@
     },
     "regression_and_models": {
       "present": true,
-      "count": 7,
+      "count": 6,
       "unique_matches": [
-        "linear model",
-        "logistic regression"
+        "logistic regression",
+        "linear model"
       ],
       "examples": [
         {
@@ -271,11 +271,11 @@
     },
     "advanced_modeling_extra": {
       "present": true,
-      "count": 19,
+      "count": 7,
       "unique_matches": [
-        "excluded",
+        "cubic spline",
         "crossover",
-        "cubic spline"
+        "excluded"
       ],
       "examples": [
         {

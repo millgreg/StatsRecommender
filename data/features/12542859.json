@@ -1,0 +1,215 @@
+{
+  "title": "International collaboration in cohort studies in China: opportunities and challengesMortality in relation to smoking: 50 years\u2019 observations on male British doctorsCohort Profile: The Framingham Heart Study (FHS): overview of milestones in cardiovascular epidemiologyEmerging tobacco hazards in China: 2. Early mortality results from a prospective studyThe Shanghai Women\u2019s Health Study: rationale, study design, and baseline characteristicsChina Kadoorie Biobank of 0.5 million people: survey methods, baseline characteristics and long-term follow-upContrasting male and female trends in tobacco-attributed mortality in China: evidence from successive nationwide prospective cohort studiesEmerging tobacco hazards in China: 2. Early mortality results from a prospective studyCohort profile: The Shanghai Men\u2019s Health StudyData resource profile: China Chronic Disease and Risk Factor Surveillance (CCDRFS)Rationales, design and recruitment of the Taizhou Longitudinal Study[Establishment of Shanghai suburban adult cohort and biobank] [Chinese]. The diverse life-course cohort (DLCC): protocol of a large-scale prospective study in ChinaCohort profile: Regional Ethnic Cohort Study in Northwest ChinaCohort profile: South China Cohort[Design and performance of a prospective cohort study of common chronic and non-communicable diseases in central China] [Chinese] . Cohort profile: the China Multi-Ethnic Cohort (CMEC) studyCohort profile: The Northeast China Biobank (NEC-Biobank)[Established and on-going cohort studies in China: a literature study] [Chinese]Data resource profile: China Cohort Consortium (CCC)Serum cholesterol concentration and coronary heart disease in population with low cholesterol concentrationsCausal associations of blood lipids with risk of ischemic stroke and intracerebral hemorrhage in Chinese adultsMRC/BHF Heart Protection Study of cholesterol lowering with simvastatin in 20,536 high-risk individuals: a randomised placebo-controlled trialConventional and genetic evidence on alcohol and vascular disease aetiology: a prospective study of 500\u2008000 men and women in ChinaMTHFR and risk of stroke and heart disease in a low-folate population: a prospective study of 156\u200a000 Chinese adultsTobacco control in ChinaPlasma proteomic associations with genetics and health in the UK BiobankWhole-genome sequencing of half-a-million UK Biobank participants.Transparency in authors\u2019 contributions and responsibilities to promote integrity in scientific publication[Data harmonization and sharing in study cohorts of respiratory diseases] [Chinese]Trump\u2019s NIH research cuts are temporarily blocked as 22 US states suePrevalence and risk factors of chronic obstructive pulmonary disease in China (the China Pulmonary Health [CPH] study): a national cross-sectional studySolid fuel use and risks of respiratory diseases. A cohort study of 280,000 Chinese never-smokers",
+  "pmcid": "12542859",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "sample size"
+      ],
+      "examples": [
+        {
+          "match": "Sample size",
+          "context": "es in adults in China FOOTER: Sample size of adult participants. Some c"
+        },
+        {
+          "match": "sample size",
+          "context": "hildren and the corresponding sample size was not indicated in this tab"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "comparative_stats": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "non_parametric": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "assumption_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "survival_analysis": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "regression_and_models": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "clustering": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "post_hoc": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    }
+  }
+}

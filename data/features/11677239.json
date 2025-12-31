@@ -27,25 +27,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "heterogeneity",
-          "context": "A-seq highlights intratumoral heterogeneity in primary glioblastomaTarget"
-        },
-        {
-          "match": "heterogeneity",
-          "context": "gulators of therapeutic tumor heterogeneityCancer statistics, 2020Single-"
-        },
-        {
-          "match": "heterogeneity",
-          "context": "l deconvolution of fibroblast heterogeneity in mouse pulmonary fibrosisTa"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -69,8 +54,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "flowjo",
-        "seurat"
+        "seurat",
+        "flowjo"
       ],
       "examples": [
         {
@@ -246,17 +231,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "molog of L1 enhances the chemosensitivity of lung cancer cells via inhi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -266,15 +244,13 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 12,
+      "count": 9,
       "unique_matches": [
-        "immunohistochemistry",
-        "in vivo",
         "flow cytometry",
-        "transcriptome",
-        "cell line",
-        "fluorescence",
-        "mice"
+        "mice",
+        "in vivo",
+        "immunohistochemistry",
+        "cell line"
       ],
       "examples": [
         {

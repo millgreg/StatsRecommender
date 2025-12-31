@@ -52,10 +52,9 @@
     },
     "software": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "imagej",
-        "bioconductor"
+        "imagej"
       ],
       "examples": [
         {
@@ -65,10 +64,6 @@
         {
           "match": "ImageJ",
           "context": "ges were generated using Fiji/ImageJ software (NIH). Mitochondrial"
-        },
-        {
-          "match": "Bioconductor",
-          "context": "gene clustersChIPseeker: an R/Bioconductor package for ChIP peak annotat"
         }
       ]
     },
@@ -99,19 +94,15 @@
     },
     "p_values": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "alpha",
-        "p<0.05"
+        "p<0.05",
+        "alpha"
       ],
       "examples": [
         {
           "match": "p<0.05",
           "context": "tatistically significant when p<0.05. Results are represented as m"
-        },
-        {
-          "match": "Alpha",
-          "context": "ein structure prediction with AlphaFoldThe ModERN Resource: Genom"
         },
         {
           "match": "Alpha",
@@ -242,20 +233,15 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 10,
+      "count": 9,
       "unique_matches": [
+        "fluorescence",
         "western blot",
         "quantification",
-        "staining",
-        "cell line",
         "confocal",
-        "fluorescence"
+        "staining"
       ],
       "examples": [
-        {
-          "match": "cell line",
-          "context": "netic mosaic analysis of stem cell lineages in the  OvaryFast and acc"
-        },
         {
           "match": "Western blot",
           "context": "1mM Na3VO4 (MilliporeSigma). Western blot was performed using a XCell S"
@@ -263,17 +249,25 @@
         {
           "match": "staining",
           "context": "her direct imaging or further staining and fixation. For live imagin"
+        },
+        {
+          "match": "staining",
+          "context": "or 5 min was used for nuclear staining of live tissues and fixed tis"
         }
       ]
     }
   },
   "feedback": {
-    "overall_score": 7.0,
+    "overall_score": 5.5,
     "rigor_rating": "Medium",
     "critical_gaps": [
       {
         "message": "Parametric tests used without documented normality checks.",
         "evidence": "..., 2021). Two-tailed Student\u2019s t-test was used for statistical anal..."
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...tensity statistics), and Fiji/ImageJ software (NIH, https://fiji.s..."
       },
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
@@ -283,7 +277,7 @@
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'western blot'"
+        "evidence": "Detected term: 'fluorescence'"
       }
     ],
     "actionable_recommendations": [
@@ -292,12 +286,6 @@
         "issue": "Parametric tests assume normality.",
         "recommendation": "Report Shapiro-Wilk/KS test or use non-parametric tests.",
         "source_text": "Found parametric tests: t-test"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'p<0.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       }
     ],
     "deterministic_audit": true

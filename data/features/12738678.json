@@ -61,8 +61,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "stata version 15",
-        "stata"
+        "stata",
+        "stata version 15"
       ],
       "examples": [
         {
@@ -79,9 +79,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "sd",
+        "interquartile range",
         "standard deviation",
-        "interquartile range"
+        "sd"
       ],
       "examples": [
         {

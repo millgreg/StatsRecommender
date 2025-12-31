@@ -17,23 +17,22 @@
     },
     "randomization": {
       "present": true,
-      "count": 7,
+      "count": 4,
       "unique_matches": [
-        "allocation",
-        "randomise"
+        "allocation"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "for reporting parallel group randomised trialsCT-based determination"
+          "match": "allocation",
+          "context": "he flow diagram depicting the allocation of patients who were enrolled"
         },
         {
-          "match": "randomise",
-          "context": "ureter (TISU): a multicentre randomised controlled non-inferiority t"
+          "match": "allocation",
+          "context": "A flow diagram depicting the allocation of patients in this study. Fo"
         },
         {
-          "match": "randomise",
-          "context": "for assessing risk of bias in randomised trialsDifferent failure rate"
+          "match": "allocation",
+          "context": "randomization table for even allocation among the 5 clinical trial in"
         }
       ]
     },
@@ -84,9 +83,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
+        "spss statistics 27",
         "sas",
-        "sas, version 9.4",
-        "spss statistics 27"
+        "sas, version 9.4"
       ],
       "examples": [
         {
@@ -213,9 +212,9 @@
       "present": true,
       "count": 5,
       "unique_matches": [
+        "proportions",
         "categorical",
-        "continuous",
-        "proportions"
+        "continuous"
       ],
       "examples": [
         {

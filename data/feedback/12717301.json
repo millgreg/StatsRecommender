@@ -3,17 +3,10 @@
   "pmcid": "12717301",
   "features": {
     "sample_size": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "sample size"
-      ],
-      "examples": [
-        {
-          "match": "sample size",
-          "context": "analysis and determination of sample size for covariance structure mode"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "randomization": {
       "present": false,
@@ -196,21 +189,10 @@
       "examples": []
     },
     "model_details": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "covariance structure"
-      ],
-      "examples": [
-        {
-          "match": "covariance structure",
-          "context": "f criteria for fit indexes in covariance structure analysis: Conventional criter"
-        },
-        {
-          "match": "covariance structure",
-          "context": "ermination of sample size for covariance structure modelingThe role of self-effi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "domain_indicators": {
       "present": false,
@@ -220,16 +202,27 @@
     }
   },
   "feedback": {
-    "overall_score": 8.5,
-    "rigor_rating": "High",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
+      {
+        "message": "Sample size justification lacks explicit power calculation details.",
+        "evidence": "No direct quote found."
+      },
       {
         "message": "Reporting of blinding or masking procedure is missing.",
         "evidence": "No matches for 'blinded' or 'masked'"
       }
     ],
     "strengths": [],
-    "actionable_recommendations": [],
+    "actionable_recommendations": [
+      {
+        "item": "Sample Size",
+        "issue": "No power calculation found.",
+        "recommendation": "Provide alpha, power, and effect size parameters.",
+        "source_text": "No matches for 'power' or 'sample size calculation'"
+      }
+    ],
     "deterministic_audit": true
   }
 }

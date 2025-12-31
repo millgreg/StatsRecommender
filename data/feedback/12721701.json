@@ -78,9 +78,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "sd",
+        "interquartile range",
         "standard deviation",
-        "interquartile range"
+        "sd"
       ],
       "examples": [
         {
@@ -113,9 +113,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
+        "p\u2009<\u20090.05",
         "significance level",
-        "p\u2009<\u20090.01",
-        "p\u2009<\u20090.05"
+        "p\u2009<\u20090.01"
       ],
       "examples": [
         {
@@ -229,9 +229,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
+        "binary",
         "categorical",
-        "continuous",
-        "binary"
+        "continuous"
       ],
       "examples": [
         {
@@ -249,24 +249,17 @@
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "Longitudinal",
-          "context": "streptococci in young childrenLongitudinal association between obesity a"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
       "count": 2,
       "unique_matches": [
-        "icc",
-        "cluster"
+        "cluster",
+        "icc"
       ],
       "examples": [
         {
@@ -352,16 +345,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "quantification",
-        "mice"
+        "quantification"
       ],
       "examples": [
-        {
-          "match": "mice",
-          "context": "ajor salivary glands of obese miceImpaired mitochondria and intr"
-        },
         {
           "match": "quantification",
           "context": "coli (105\u2013109\u2009CFU/mL) for the quantification of total bacterial load were"
@@ -370,34 +358,30 @@
     }
   },
   "feedback": {
-    "overall_score": 5.5,
-    "rigor_rating": "Medium",
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...up is shown in parentheses if missing data exist. Significant p\u2010values (..."
       },
       {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...streptococci in young childrenLongitudinal association between obesity a..."
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...analyses were performed using SPSS software version 28.0 (IBM Co..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...ignificant at the 0.01 level (p\u2009<\u20090.01).Correlation is significant a..."
       },
       {
         "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...streptococci in young childrenLongitudinal association between obesity a..."
+        "evidence": "No direct quote found."
       }
     ],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
         "evidence": "Detected term: 'quantification'"
-      },
-      {
-        "message": "Detailed software versions provided.",
-        "evidence": "...analyses were performed using SPSS software version 28.0 (IBM Co..."
-      },
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...ociated phospholipase A2; OR, odds ratio; SAA, serum amyloid A; S. mut..."
       }
     ],
     "actionable_recommendations": [
@@ -405,7 +389,7 @@
         "item": "Statistical Architecture",
         "issue": "Clustered/repeated data requires hierarchical models.",
         "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'longitudinal' but no mixed-effects models."
+        "source_text": "Found 'cluster' but no mixed-effects models."
       }
     ],
     "deterministic_audit": true

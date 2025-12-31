@@ -9,25 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 9,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "e hepatocellular carcinoma: a randomised phase 3 non-inferiority tria"
-        },
-        {
-          "match": "randomise",
-          "context": "carcinoma (DOSISPHERE-01): a randomised, multicentre, open-label pha"
-        },
-        {
-          "match": "Randomise",
-          "context": "ate stage HCC: The SPACE trialRandomised, multicentre prospective tri"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -42,17 +27,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "stratification"
-      ],
-      "examples": [
-        {
-          "match": "stratification",
-          "context": "staging system with treatment stratification for patients with hepatocellu"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,

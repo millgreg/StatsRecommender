@@ -6,8 +6,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "n = 7",
-        "n = 100"
+        "n = 100",
+        "n = 7"
       ],
       "examples": [
         {
@@ -108,9 +108,9 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "multiple comparisons",
-        "tukey",
         "sidak",
+        "tukey",
+        "multiple comparisons",
         "bonferroni"
       ],
       "examples": [
@@ -136,12 +136,11 @@
     },
     "p_values": {
       "present": true,
-      "count": 5,
+      "count": 3,
       "unique_matches": [
         "significance level",
         "p < 0.05",
-        "p-value",
-        "alpha"
+        "p-value"
       ],
       "examples": [
         {
@@ -162,8 +161,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -243,11 +242,11 @@
     },
     "data_types": {
       "present": true,
-      "count": 5,
+      "count": 4,
       "unique_matches": [
-        "continuous",
         "proportions",
-        "frequencies"
+        "frequencies",
+        "continuous"
       ],
       "examples": [
         {
@@ -271,17 +270,10 @@
       "examples": []
     },
     "clustering": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "hierarchical"
-      ],
-      "examples": [
-        {
-          "match": "Hierarchical",
-          "context": "in the mouse posterior cortexHierarchical models of object recognition"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": false,
@@ -299,11 +291,11 @@
       "present": true,
       "count": 8,
       "unique_matches": [
-        "tukey",
-        "post hoc",
-        "sidak",
         "multiple comparisons",
-        "dunn"
+        "post hoc",
+        "dunn",
+        "sidak",
+        "tukey"
       ],
       "examples": [
         {
@@ -339,21 +331,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "h-specific luminance contrast sensitivity are non-uniform across visual"
-        },
-        {
-          "match": "sensitivity",
-          "context": "sical measurement of contrast sensitivity in the behaving mouseEvoked p"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -363,24 +344,24 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 30,
+      "count": 28,
       "unique_matches": [
-        "fluorescence",
         "mice",
+        "fluorescence",
         "microscopy"
       ],
       "examples": [
         {
           "match": "mice",
-          "context": "oss the cortical hierarchy in miceCompression and Reflection of"
-        },
-        {
-          "match": "mice",
-          "context": "tex neurons in awake behaving miceLayer-Specific Physiological F"
-        },
-        {
-          "match": "mice",
           "context": "1 male and 11 female) C57BL/6 mice (Jackson Laboratories). Mice"
+        },
+        {
+          "match": "Mice",
+          "context": "mice (Jackson Laboratories). Mice were housed under a reverse 1"
+        },
+        {
+          "match": "mice",
+          "context": "bitum. Inclusion criteria for mice included the following: 1) pr"
         }
       ]
     }

@@ -52,10 +52,9 @@
     },
     "software": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "imagej",
-        "bioconductor"
+        "imagej"
       ],
       "examples": [
         {
@@ -65,10 +64,6 @@
         {
           "match": "ImageJ",
           "context": "ges were generated using Fiji/ImageJ software (NIH). Mitochondrial"
-        },
-        {
-          "match": "Bioconductor",
-          "context": "gene clustersChIPseeker: an R/Bioconductor package for ChIP peak annotat"
         }
       ]
     },
@@ -99,19 +94,15 @@
     },
     "p_values": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "alpha",
-        "p<0.05"
+        "p<0.05",
+        "alpha"
       ],
       "examples": [
         {
           "match": "p<0.05",
           "context": "tatistically significant when p<0.05. Results are represented as m"
-        },
-        {
-          "match": "Alpha",
-          "context": "ein structure prediction with AlphaFoldThe ModERN Resource: Genom"
         },
         {
           "match": "Alpha",
@@ -242,20 +233,15 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 10,
+      "count": 9,
       "unique_matches": [
+        "fluorescence",
         "western blot",
         "quantification",
-        "staining",
-        "cell line",
         "confocal",
-        "fluorescence"
+        "staining"
       ],
       "examples": [
-        {
-          "match": "cell line",
-          "context": "netic mosaic analysis of stem cell lineages in the  OvaryFast and acc"
-        },
         {
           "match": "Western blot",
           "context": "1mM Na3VO4 (MilliporeSigma). Western blot was performed using a XCell S"
@@ -263,6 +249,10 @@
         {
           "match": "staining",
           "context": "her direct imaging or further staining and fixation. For live imagin"
+        },
+        {
+          "match": "staining",
+          "context": "or 5 min was used for nuclear staining of live tissues and fixed tis"
         }
       ]
     }

@@ -20,17 +20,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "cardiac disease (CUPID 2): a randomised, multinational, double-blind"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -224,8 +217,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "excluded",
-        "compliance"
+        "compliance",
+        "excluded"
       ],
       "examples": [
         {
@@ -290,14 +283,18 @@
         "evidence": "...n of investigational product. No formal hypothesis testing was planned, and no sample si..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...third-degree heart block were excluded. Patients who were supported..."
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...e analyzed and reported using SAS v.9.4. Further information on..."
       }
     ],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
         "evidence": "Detected term: 'western blot'"
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...third-degree heart block were excluded. Patients who were supported..."
       },
       {
         "message": "Documented participant compliance or attrition.",

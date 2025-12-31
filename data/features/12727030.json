@@ -86,28 +86,17 @@
       "examples": []
     },
     "p_values": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "alpha"
-      ],
-      "examples": [
-        {
-          "match": "alpha",
-          "context": "er for cancer progression?TNF-alpha promoter polymorphisms and su"
-        },
-        {
-          "match": "Alpha",
-          "context": "erDegradation of p53 by human Alphapapillomavirus E6 proteins sho"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "confidence_intervals": {
       "present": true,
       "count": 5,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -128,8 +117,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "chi-square",
-        "odds ratio"
+        "odds ratio",
+        "chi-square"
       ],
       "examples": [
         {
@@ -193,9 +182,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
+        "frequencies",
         "categorical",
-        "continuous",
-        "frequencies"
+        "continuous"
       ],
       "examples": [
         {
@@ -219,17 +208,10 @@
       "examples": []
     },
     "clustering": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "cluster"
-      ],
-      "examples": [
-        {
-          "match": "cluster",
-          "context": "ta-analysisInterleukin-1 gene cluster polymorphisms and its haploty"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": false,

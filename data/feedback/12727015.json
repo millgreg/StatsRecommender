@@ -191,15 +191,11 @@
     },
     "advanced_modeling_extra": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "compliance"
       ],
       "examples": [
-        {
-          "match": "Compliance",
-          "context": "Cervical Cancer: An Audit of Compliance of a Tertiary Care CenterRece"
-        },
         {
           "match": "compliance",
           "context": "spectively analyzed to assess compliance to the ESGO quality indicator"
@@ -232,8 +228,8 @@
     }
   },
   "feedback": {
-    "overall_score": 5.5,
-    "rigor_rating": "Medium",
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
     "critical_gaps": [
       {
         "message": "Sample size justification lacks explicit power calculation details.",
@@ -244,18 +240,18 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...data were analyzed using IBM SPSS Statistics for Windows, version 22 (IBM..."
+      },
+      {
         "message": "Categorical data mentioned, but no appropriate categorical tests found.",
         "evidence": "...esented as mean or median and categorical variables are presented as pe..."
       }
     ],
     "strengths": [
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...data were analyzed using IBM SPSS Statistics for Windows, version 22 (IBM..."
-      },
-      {
         "message": "Documented participant compliance or attrition.",
-        "evidence": "...Cervical Cancer: An Audit of Compliance of a Tertiary Care CenterRece..."
+        "evidence": "...spectively analyzed to assess compliance to the ESGO quality indicator..."
       }
     ],
     "actionable_recommendations": [

@@ -251,8 +251,8 @@
     }
   },
   "feedback": {
-    "overall_score": 5.5,
-    "rigor_rating": "Medium",
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
     "critical_gaps": [
       {
         "message": "Parametric tests used without documented normality checks.",
@@ -263,16 +263,15 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...nal consistencies (Cronbach\u2019s alpha) of students\u2019 recorded sports..."
+      },
+      {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...nal consistencies (Cronbach\u2019s alpha) of students\u2019 recorded sports..."
       }
     ],
-    "strengths": [
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...ation, t\u00a0t-value, d\u00a0Cohen\u02bcs\u00a0d effect sizes*p\u202f\u2264\u20090.05; **p\u202f\u2264\u20090.01; ***p\u202f\u2264..."
-      }
-    ],
+    "strengths": [],
     "actionable_recommendations": [
       {
         "item": "Assumptions",

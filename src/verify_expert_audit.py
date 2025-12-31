@@ -79,7 +79,13 @@ def calculate_metrics(feedback_dir="data/feedback", expert_audit_path="data/expe
             match_found = False
             for i, ag in enumerate(found_gaps):
                 if i in captured_auto_indices: continue
-                ag_lower = ag.lower()
+                # Handle both string (legacy) and dict (new) formats
+                if isinstance(ag, dict):
+                    ag_str = ag.get("message", "")
+                else:
+                    ag_str = str(ag)
+                    
+                ag_lower = ag_str.lower()
                 
                 # Check for overlap between expert terms and automated gap
                 if relevant_terms and any(t in ag_lower for t in relevant_terms):

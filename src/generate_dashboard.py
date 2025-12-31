@@ -10,6 +10,8 @@ def generate_dashboard(feedback_dir="data/feedback", output_path="reports/rigor_
     feedback_files = glob.glob(os.path.join(feedback_dir, "*.json"))
     all_data = []
     all_gaps = []
+    all_strengths = []
+    basic_science_count = 0
     
     for fpath in feedback_files:
         with open(fpath, "r", encoding="utf-8") as f:
@@ -25,11 +27,20 @@ def generate_dashboard(feedback_dir="data/feedback", output_path="reports/rigor_
                 "strengths": data.get("feedback", {}).get("strengths", [])
             }
             all_data.append(entry)
-            all_gaps.extend(entry["gaps"])
+            all_gaps.extend([g["message"] for g in entry["gaps"]]) # Extract message string
+            all_strengths.extend([s["message"] for s in entry["strengths"]])
+            
+            # Check for basic science domain
+            if any("Basic Science" in s["message"] for s in entry["strengths"]):
+                 basic_science_count += 1
 
     # Aggregate common problems
+    # Aggregate common problems & strengths
     gap_counts = Counter(all_gaps)
     common_problems = gap_counts.most_common(6)
+    
+    strength_counts = Counter(all_strengths)
+    common_strengths = strength_counts.most_common(6)
 
     # Sort data by score (descending)
     all_data.sort(key=lambda x: x["score"], reverse=True)
@@ -76,12 +87,23 @@ def generate_dashboard(feedback_dir="data/feedback", output_path="reports/rigor_
                 <span class="stat-value">{high_rigor_pct:.0f}%</span>
                 <span class="stat-label">High Rigor Rate</span>
             </div>
+            <div class="stat-card" style="border-color: #818cf8">
+                <span class="stat-value" style="color: #818cf8">{basic_science_count}</span>
+                <span class="stat-label">Basic Science Papers</span>
+            </div>
         </div>
 
         <section class="problem-section">
             <h2>⚠️ Recurring Problematic Points</h2>
             <div class="problem-list">
                 {"".join(f'<div class="problem-item"><b>{gap}</b> Found in {count} papers</div>' for gap, count in common_problems)}
+            </div>
+        </section>
+
+        <section class="strength-section">
+            <h2>✅ Common Strengths</h2>
+            <div class="strength-list">
+                {"".join(f'<div class="strength-item"><b>{strength}</b> Found in {count} papers</div>' for strength, count in common_strengths)}
             </div>
         </section>
 
@@ -102,7 +124,12 @@ def generate_dashboard(feedback_dir="data/feedback", output_path="reports/rigor_
                             <small style="color: var(--text-muted)">{e['filename']}</small>
                         </td>
                         <td>
-                            <span class="score-pill score-{e['rating'].lower()}">{e['score']:.1f}</span>
+                            <div class="score-container">
+                                <span class="score-pill score-{e['rating'].lower()}">{e['score']:.1f}</span>
+                                <div class="score-bar-bg">
+                                    <div class="score-bar-fill" style="width: {e['score'] * 10}%"></div>
+                                </div>
+                            </div>
                         </td>
                         <td>
                             <ul class="gaps-list">

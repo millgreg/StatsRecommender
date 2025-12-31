@@ -10,16 +10,11 @@
     },
     "randomization": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "randomly assigned",
-        "randomise"
+        "randomly assigned"
       ],
       "examples": [
-        {
-          "match": "randomise",
-          "context": "oled safety analysis of three randomised, double-blind, placebo-contr"
-        },
         {
           "match": "randomly assigned",
           "context": "cturitions. Participants were randomly assigned 1:1 to receive vibegron 75 mg"
@@ -76,8 +71,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sd",
-        "interquartile range"
+        "interquartile range",
+        "sd"
       ],
       "examples": [
         {
@@ -206,17 +201,10 @@
       ]
     },
     "clustering": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "nested"
-      ],
-      "examples": [
-        {
-          "match": "nested",
-          "context": "e and the risk of dementia: a nested case-control studyAnticholine"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": true,
@@ -260,8 +248,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "excluded",
-        "compliance"
+        "compliance",
+        "excluded"
       ],
       "examples": [
         {

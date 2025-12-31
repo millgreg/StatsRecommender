@@ -135,17 +135,10 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "longitudinal",
-          "context": "tic disease in South Korea: a longitudinal, population-based study  We p"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -210,16 +203,12 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
-        "staining",
-        "immunohistochemistry"
+        "immunohistochemistry",
+        "staining"
       ],
       "examples": [
-        {
-          "match": "immunohistochemistry",
-          "context": "iform mole from its mimics by immunohistochemistry of the paternally imprinted g"
-        },
         {
           "match": "immunohistochemistry",
           "context": "; HM, hydatidiform mole; IHC, immunohistochemistry; n, number; PHM, partial HM;"
@@ -227,6 +216,10 @@
         {
           "match": "staining",
           "context": "the study period, HER2 DDISH staining quality was monitored by inte"
+        },
+        {
+          "match": "staining",
+          "context": "cillary techniques (p57 immunostaining, DNA ploidy and STR genotypin"
         }
       ]
     }

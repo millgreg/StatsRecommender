@@ -9,26 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 7,
-      "unique_matches": [
-        "randomise",
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "noma: a phase 3, multicentre, randomised controlled trialConcurrent c"
-        },
-        {
-          "match": "randomise",
-          "context": "ts of a phase III multicentre randomised controlled trialInduction ch"
-        },
-        {
-          "match": "randomise",
-          "context": "cinoma: a phase 3 multicentre randomised controlled trialNasopharynge"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -70,8 +54,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "spss",
-        "spss version 23"
+        "spss version 23",
+        "spss"
       ],
       "examples": [
         {
@@ -113,8 +97,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "secondary end point",
-        "p-value"
+        "p-value",
+        "secondary end point"
       ],
       "examples": [
         {
@@ -131,8 +115,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -177,7 +161,7 @@
       "examples": [
         {
           "match": "propensity score",
-          "context": "etwork meta-analysis  In this propensity score\u2013matched retrospective cohort"
+          "context": "In this propensity score\u2013matched retrospective cohort"
         },
         {
           "match": "propensity score",
@@ -208,9 +192,9 @@
       "unique_matches": [
         "overall survival",
         "os",
+        "hazard ratio",
         "log-rank",
-        "rfs",
-        "hazard ratio"
+        "rfs"
       ],
       "examples": [
         {

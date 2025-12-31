@@ -16,26 +16,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "randomise",
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "randomized controlled trialsA randomised controlled trial of extended"
-        },
-        {
-          "match": "randomized controlled trial",
-          "context": "and network meta-analysis of randomized controlled trialsA randomised controlled trial"
-        },
-        {
-          "match": "Randomized Controlled Trial",
-          "context": "Data Analyses Substitute for Randomized Controlled Trials?Methodological consideration"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -158,8 +142,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -197,37 +181,32 @@
     },
     "advanced_modeling": {
       "present": true,
-      "count": 10,
+      "count": 5,
       "unique_matches": [
-        "sensitivity analysis",
         "propensity score"
       ],
       "examples": [
         {
           "match": "propensity score",
-          "context": "meta-analysisHigh-dimensional propensity score adjustment in studies of trea"
+          "context": "rence was <0.1.24 We used 1:1 propensity score matching to adjust for confou"
         },
         {
           "match": "propensity score",
-          "context": "mensional versus conventional propensity scores in a comparative effectivene"
+          "context": "o adjust for confounding. The propensity score was estimated using a logisti"
         },
         {
           "match": "propensity score",
-          "context": "mance of the high-dimensional propensity score algorithm: an empirical examp"
+          "context": "covariates. We conducted the propensity score estimation and matching withi"
         }
       ]
     },
     "assumption_checks": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "proportional hazards"
       ],
       "examples": [
-        {
-          "match": "Proportional Hazards",
-          "context": "in a Nordic Healthcare ModelA Proportional Hazards Model for the Subdistribution"
-        },
         {
           "match": "proportional hazards",
           "context": "nce intervals (CIs) using Cox proportional hazards models. The proportionality a"
@@ -256,9 +235,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "linear model",
+        "logistic regression",
         "cox proportional",
-        "logistic regression"
+        "linear model"
       ],
       "examples": [
         {
@@ -381,15 +360,11 @@
     },
     "diagnostic_metrics": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "sensitivity"
       ],
       "examples": [
-        {
-          "match": "Sensitivity",
-          "context": "stribution of a Competing RiskSensitivity Analysis in Observational Res"
-        },
         {
           "match": "sensitivity",
           "context": "oups.27  We conducted several sensitivity analyses. First, we extended"

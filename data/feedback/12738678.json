@@ -61,8 +61,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "stata version 15",
-        "stata"
+        "stata",
+        "stata version 15"
       ],
       "examples": [
         {
@@ -79,9 +79,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "sd",
+        "interquartile range",
         "standard deviation",
-        "interquartile range"
+        "sd"
       ],
       "examples": [
         {
@@ -343,6 +343,10 @@
     ],
     "strengths": [
       {
+        "message": "Analysis context identifies clinical research (Clinical trial requirements apply).",
+        "evidence": "Detected term: 'randomized'"
+      },
+      {
         "message": "Detailed software versions provided.",
         "evidence": "...with the statistical program Stata version 15.0 (StataCorp 2011, College St..."
       },
@@ -361,12 +365,6 @@
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'p\u2009<\u20090.05' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       }
     ],
     "deterministic_audit": true

@@ -129,21 +129,10 @@
       "examples": []
     },
     "advanced_modeling": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "bayesian"
-      ],
-      "examples": [
-        {
-          "match": "Bayesian",
-          "context": "f Iran: an additive empirical Bayesian approachA comparison of breas"
-        },
-        {
-          "match": "Bayesian",
-          "context": "Iran using Cox and empirical Bayesian additive hazard modelsEpidemi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "assumption_checks": {
       "present": false,

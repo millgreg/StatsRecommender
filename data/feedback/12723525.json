@@ -10,38 +10,34 @@
     },
     "randomization": {
       "present": true,
-      "count": 21,
+      "count": 12,
       "unique_matches": [
         "randomisation",
-        "allocation",
-        "randomise"
+        "randomise",
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "tive breast cancer (CITRINE): randomised, open label phase 3 trialMol"
+          "context": "This was a randomised, open label, phase 3, two ar"
+        },
+        {
+          "match": "randomisation",
+          "context": "n function, and readiness for randomisation. We excluded patients if they"
         },
         {
           "match": "randomise",
-          "context": "open-label, 2\u2008\u00d7\u20082 factorial, randomised phase 3 trialRandomized tria"
-        },
-        {
-          "match": "randomise",
-          "context": "ith early breast cancer in 26 randomised trialsPhase III study of dox"
+          "context": "6  Patients were assigned and randomised (1:1) to the carboplatin arm"
         }
       ]
     },
     "blinding": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
         "blinded"
       ],
       "examples": [
-        {
-          "match": "Blinded",
-          "context": "ysis of the WSG-ADAPT-TN TrialBlinded, randomized, multicenter stud"
-        },
         {
           "match": "blinded",
           "context": "tients nor investigators were blinded to the treatment assignments,"
@@ -131,8 +127,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "spss version 22",
-        "r 4.4.1"
+        "r 4.4.1",
+        "spss version 22"
       ],
       "examples": [
         {
@@ -189,8 +185,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -230,8 +226,8 @@
       "count": 7,
       "unique_matches": [
         "schoenfeld residuals",
-        "proportional hazards",
-        "proportional hazards assumption"
+        "proportional hazards assumption",
+        "proportional hazards"
       ],
       "examples": [
         {
@@ -254,9 +250,9 @@
       "unique_matches": [
         "overall survival",
         "kaplan-meier",
-        "log-rank",
         "restricted mean survival",
-        "hazard ratio"
+        "hazard ratio",
+        "log-rank"
       ],
       "examples": [
         {
@@ -383,11 +379,11 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "pre-specified",
-        "excluded",
-        "splines",
         "restricted cubic spline",
-        "cubic spline"
+        "excluded",
+        "cubic spline",
+        "pre-specified",
+        "splines"
       ],
       "examples": [
         {
@@ -441,16 +437,16 @@
     "rigor_rating": "Medium",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...t patient. Assuming an annual dropout rate of 5%, a total of 808 pa..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...n the two arms at a two sided significance level of 5%, on the basis of a 1:1..."
       },
       {
         "message": "Categorical data mentioned, but no appropriate categorical tests found.",
         "evidence": "...subgroup interaction term for categorical variables. We also reported c..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ival, we applied a restricted cubic spline with four knots. P values wer..."
       }
     ],
     "strengths": [
@@ -463,12 +459,12 @@
         "evidence": "...We used SPSS version 22.0 and R 4.4.1 for statistical analyses. Pat..."
       },
       {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...nal hazards model to estimate hazard ratios and confidence intervals, an..."
-      },
-      {
         "message": "Verified proportional hazards assumption.",
         "evidence": "...hazards by assessment of the Schoenfeld residuals. When proportional hazards as..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ival, we applied a restricted cubic spline with four knots. P values wer..."
       }
     ],
     "actionable_recommendations": [],

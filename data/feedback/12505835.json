@@ -106,8 +106,8 @@
       "count": 5,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -196,19 +196,14 @@
     },
     "dependency": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "repeated measures",
-        "longitudinal"
+        "repeated measures"
       ],
       "examples": [
         {
           "match": "repeated measures",
           "context": "both the non-independence of repeated measures within patients and the clust"
-        },
-        {
-          "match": "longitudinal",
-          "context": "K general practice: a 10-year longitudinal cohort studyRisk-reducing mas"
         }
       ]
     },
@@ -310,7 +305,7 @@
     "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...test. We did not replace any missing data as we aimed to describe patte..."
       },
       {
@@ -336,13 +331,13 @@
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...ervals (CIs), and a two sided significance level of 5% was used for all analys..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...ownload for that practice. We excluded PSA tests for all patients th..."
       }
     ],
     "strengths": [
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...ownload for that practice. We excluded PSA tests for all patients th..."
+      },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
         "evidence": "...e the age specific threshold. Sensitivity analyses were done for two re..."
@@ -354,12 +349,6 @@
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'significance level' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       },
       {
         "item": "Statistical Architecture",

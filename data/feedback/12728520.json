@@ -141,13 +141,13 @@
     },
     "survival_analysis": {
       "present": true,
-      "count": 10,
+      "count": 7,
       "unique_matches": [
         "overall survival",
         "os",
         "kaplan-meier",
-        "log-rank",
-        "hazard ratio"
+        "hazard ratio",
+        "log-rank"
       ],
       "examples": [
         {
@@ -248,8 +248,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "roc",
         "specificity",
+        "roc",
         "sensitivity"
       ],
       "examples": [
@@ -294,10 +294,6 @@
       }
     ],
     "strengths": [
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...significance. By calculating hazard ratios (risk ratios) and confidence..."
-      },
       {
         "message": "Verified proportional hazards assumption.",
         "evidence": "...llmark using a univariate Cox proportional hazards (Cox-PH) regression model. Th..."

@@ -17,25 +17,24 @@
     },
     "randomization": {
       "present": true,
-      "count": 19,
+      "count": 14,
       "unique_matches": [
         "randomisation",
-        "allocation",
         "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "atrial fibrillation (RAFF4): randomised clinical trial2016 ESC Guide"
+          "context": "rative effectiveness, patient randomised (1:1) trial with an open lab"
         },
         {
           "match": "randomise",
-          "context": "(RAFF2): a partial factorial randomised trialEarly or delayed cardio"
+          "context": "earch assistants obtained the randomised allocation by using an onlin"
         },
         {
-          "match": "randomisation",
-          "context": "ractice: guidance on handling randomisation errorsImproper analysis of tr"
+          "match": "randomise",
+          "context": "actices checklist.18 Patients randomised to the vernakalant group rec"
         }
       ]
     },
@@ -94,15 +93,11 @@
     },
     "analysis_principles": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
         "intention-to-treat"
       ],
       "examples": [
-        {
-          "match": "intention-to-treat",
-          "context": "rial fibrillationApplying the intention-to-treat principle in practice: guidan"
-        },
         {
           "match": "intention-to-treat",
           "context": "s rhythm, was conducted on an intention-to-treat basis, in which all randomise"
@@ -148,9 +143,9 @@
       "present": true,
       "count": 13,
       "unique_matches": [
-        "sd",
+        "interquartile range",
         "standard deviation",
-        "interquartile range"
+        "sd"
       ],
       "examples": [
         {
@@ -212,8 +207,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "95% confidence",
-        "confidence interval"
+        "confidence interval",
+        "95% confidence"
       ],
       "examples": [
         {
@@ -254,17 +249,10 @@
       "examples": []
     },
     "advanced_modeling": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "bayesian"
-      ],
-      "examples": [
-        {
-          "match": "Bayesian",
-          "context": "tion: a systematic review and Bayesian network meta-analysisRecommen"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "assumption_checks": {
       "present": true,
@@ -301,9 +289,9 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "multivariable regression",
+        "logistic regression",
         "cox proportional",
-        "logistic regression"
+        "multivariable regression"
       ],
       "examples": [
         {
@@ -330,9 +318,9 @@
       "present": true,
       "count": 6,
       "unique_matches": [
+        "binary",
         "categorical",
-        "continuous",
-        "binary"
+        "continuous"
       ],
       "examples": [
         {
@@ -371,8 +359,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "odds ratio",
-        "hazard ratio"
+        "hazard ratio",
+        "odds ratio"
       ],
       "examples": [
         {
@@ -469,9 +457,17 @@
     }
   },
   "feedback": {
-    "overall_score": 5.5,
-    "rigor_rating": "Medium",
+    "overall_score": 4.0,
+    "rigor_rating": "Low",
     "critical_gaps": [
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...tatistical Analysis Software (SAS) version 9.4. We included a p..."
+      },
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...rried out at the two sided 5% significance level. We also used a secondary per..."
+      },
       {
         "message": "Includes exploratory/post hoc analyses without clear multiplicity correction.",
         "evidence": "...Patients who were determined post hoc not to be in atrial fibrillat..."
@@ -479,10 +475,6 @@
       {
         "message": "P-values reported only as thresholds (e.g., P<0.05).",
         "evidence": "...rried out at the two sided 5% significance level. We also used a secondary per..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...acute atrial fibrillation. We excluded patients for appropriateness..."
       }
     ],
     "strengths": [
@@ -491,16 +483,12 @@
         "evidence": "...ogy cardiologist who was also masked to the allocation group and a..."
       },
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...tatistical Analysis Software (SAS) version 9.4. We included a p..."
-      },
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...ed as absolute difference and odds ratio, together with 95% confidence..."
-      },
-      {
         "message": "Verified proportional hazards assumption.",
         "evidence": "...n was also analysed using Cox proportional hazards regression; patients in whom..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...acute atrial fibrillation. We excluded patients for appropriateness..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",

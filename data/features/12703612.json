@@ -165,29 +165,18 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "paired design"
-      ],
-      "examples": [
-        {
-          "match": "paired design",
-          "context": "etwork analysis for data from paired designWGCNA: an R package for weight"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "hierarchical"
       ],
       "examples": [
-        {
-          "match": "hierarchical",
-          "context": "y studiesMerging K-means with hierarchical clustering for identifying ge"
-        },
         {
           "match": "hierarchical",
           "context": "Subsequently, bi-directional hierarchical clustering [10, 11] was perfo"
@@ -222,8 +211,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "excluded",
-        "categorized"
+        "categorized",
+        "excluded"
       ],
       "examples": [
         {

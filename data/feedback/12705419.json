@@ -17,23 +17,14 @@
     },
     "randomization": {
       "present": true,
-      "count": 5,
+      "count": 1,
       "unique_matches": [
-        "allocation",
-        "randomise"
+        "allocation"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "ocarcinoma (CheckMate 649): a randomised, open-label, phase 3 trialPe"
-        },
-        {
-          "match": "randomise",
-          "context": "ageal cancer (KEYNOTE-590): a randomised, placebo-controlled, phase 3"
-        },
-        {
-          "match": "randomise",
-          "context": "adenocarcinoma: RATIONALE-305 randomised, double blind, phase 3 trial"
+          "match": "allocation",
+          "context": "ators were not blinded to the allocation of enrolled patients. EDGE-Ga"
         }
       ]
     },
@@ -170,23 +161,22 @@
     },
     "survival_analysis": {
       "present": true,
-      "count": 7,
+      "count": 5,
       "unique_matches": [
-        "overall survival",
         "os"
       ],
       "examples": [
         {
-          "match": "overall survival",
-          "context": "ssion-free survival (PFS) and overall survival (OS) final analyses of a phas"
-        },
-        {
-          "match": "OS",
-          "context": "l (PFS) and overall survival (OS) final analyses of a phase II"
-        },
-        {
           "match": "OS",
           "context": "ers. Secondary endpoints were OS, PFS, DCR and DOR overall and"
+        },
+        {
+          "match": "OS",
+          "context": "l as ORR by PD-L1 expression. OS was defined as the time from"
+        },
+        {
+          "match": "OS",
+          "context": "power considerations. Median OS, median PFS, median DOR, PFS"
         }
       ]
     },
@@ -323,16 +313,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 3,
+      "count": 2,
       "unique_matches": [
-        "staining",
-        "immunohistochemistry"
+        "staining"
       ],
       "examples": [
-        {
-          "match": "immunohistochemistry",
-          "context": "tric sub study 2 (1422P)PD-L1 immunohistochemistry in gastric cancer: comparison"
-        },
         {
           "match": "staining",
           "context": "r cells with membranous PD-L1 staining at any intensity and tumor-as"
@@ -349,8 +334,12 @@
     "rigor_rating": "Low",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...date, regardless of events or dropout. Statistical analyses were pe..."
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...analyses were performed using SAS software, version 9.4. Furthe..."
       },
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
@@ -358,11 +347,7 @@
       },
       {
         "message": "Survival analysis used without verifying proportional hazards assumption.",
-        "evidence": "...ssion-free survival (PFS) and overall survival (OS) final analyses of a phas..."
-      },
-      {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...system brain metastases were excluded. Complete eligibility criteri..."
+        "evidence": "...ers. Secondary endpoints were OS, PFS, DCR and DOR overall and..."
       }
     ],
     "strengths": [
@@ -371,22 +356,15 @@
         "evidence": "Detected term: 'staining'"
       },
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...analyses were performed using SAS software, version 9.4. Furthe..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...system brain metastases were excluded. Complete eligibility criteri..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
         "evidence": "...in, abdominal pain, drug hypersensitivity, anaphylactic reaction, hyper..."
       }
     ],
-    "actionable_recommendations": [
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'Secondary endpoint' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      }
-    ],
+    "actionable_recommendations": [],
     "deterministic_audit": true
   }
 }

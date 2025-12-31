@@ -3,43 +3,16 @@
   "pmcid": "7617336",
   "features": {
     "sample_size": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "sample size"
-      ],
-      "examples": [
-        {
-          "match": "Sample size",
-          "context": "iple interventions efficientlySample size estimation in phase III cance"
-        },
-        {
-          "match": "Sample size",
-          "context": "ICH E9(R1) estimands frameworkSample size calculation in hierarchical 2"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 9,
-      "unique_matches": [
-        "randomise",
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "and presentation of factorial randomised controlled trialsFactorial d"
-        },
-        {
-          "match": "randomise",
-          "context": "nomic evaluation of factorial randomised controlled trials: challenge"
-        },
-        {
-          "match": "randomise",
-          "context": "ncer prevention trialsBias in randomised factorial trialsCONSORT 2010"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -169,7 +142,7 @@
     },
     "reporting_guidelines": {
       "present": true,
-      "count": 9,
+      "count": 7,
       "unique_matches": [
         "consort",
         "spirit"
@@ -177,15 +150,15 @@
       "examples": [
         {
           "match": "CONSORT",
-          "context": "mized Trials Extension of the CONSORT 2010 StatementFactorial desig"
+          "context": "This CONSORT extension development occurre"
         },
         {
           "match": "CONSORT",
-          "context": "ized trials: extension of the CONSORT 2010 StatementThe2\u00d72 cluster"
+          "context": "read in conjunction with the CONSORT 2010 checklist (https://www.e"
         },
         {
           "match": "CONSORT",
-          "context": "factorial trial design  This CONSORT extension development occurre"
+          "context": "arification on the items. The CONSORT-factorial Checklist is licens"
         }
       ]
     },
@@ -202,26 +175,10 @@
       "examples": []
     },
     "clustering": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "cluster",
-        "hierarchical"
-      ],
-      "examples": [
-        {
-          "match": "cluster",
-          "context": "CONSORT 2010 StatementThe2\u00d72 cluster randomized controlled factori"
-        },
-        {
-          "match": "cluster",
-          "context": "factorial trials with unequal cluster sizesChallenging issues in cl"
-        },
-        {
-          "match": "hierarchical",
-          "context": "orkSample size calculation in hierarchical 2\u00d72 factorial trials with une"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": false,

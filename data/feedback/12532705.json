@@ -1,0 +1,499 @@
+{
+  "title": "Early-life serological profiles and the development of natural protective humoral immunity to  in a high-burden settingPublisher Correction: Early-life serological profiles and the development of natural protective humoral immunity to  in a high-burden settingThe global burden of group A streptococcal diseasesGlobal, regional, and national burden of rheumatic heart disease, 1990\u20132015The  vaccine landscapeThe path to Group A  vaccines: World Health Organization research and development technology roadmap and preferred product characteristicsHigh burden and seasonal variation of paediatric scabies and pyoderma prevalence in The Gambia: a cross-sectional studyCorrelates of immunity to Group A Streptococcus: a pathway to vaccine developmentWHO/IVI global stakeholder consultation on group A  vaccine development: report from a meeting held on 12\u201313 December 2016Group A Streptococcus pharyngitis and pharyngeal carriage: a meta-analysis carriage and infection within households in The Gambia: a longitudinal cohort studyIdentification of the  surface antigens recognised by pooled human immunoglobulinNaturally acquired functional antibody responses to group A  differ between major strain typesCorrelates of protection for M protein-based vaccines against group A streptococcusProtective study with a Group A streptococcal M protein vaccine: infectivity challenge of human volunteersNew 30-valent M protein-based vaccine evokes cross-opsonic antibodies against non-vaccine serotypes of group A streptococciSafety and immunogenicity of a 30-valent M protein-based group A streptococcal vaccine in healthy adult volunteers: a randomized, controlled phase I studyStudies on immunity to streptococcal infections in manType-specific immunity and pharyngeal acquisition of group A Acquisition of Group A streptococcal M protein antibodiesGlobal  type distribution of group A streptococci: systematic review and implications for vaccine developmentGlobal  strain diversity, disease associations, and implications for vaccine development: a systematic reviewMulti high-throughput approach for highly selective identification of vaccine candidates: the Group A Streptococcus caseProspective longitudinal analysis of immune responses in pediatric subjects after pharyngeal acquisition of group A StreptococciAn experimental Group A  vaccine that reduces pharyngitis and tonsillitis in a nonhuman primate modelSerum immune responses to group A Streptococcal antigens following pharyngeal acquisitions among children in Cape Town, South AfricaSite-specific conjugation of cell wall polyrhamnose to protein SpyAD envisioning a safe universal group A Streptococcal vaccineImpact of immunization against SpyCEP during invasive disease with two streptococcal species:  and Development and characterisation of a four-plex assay to measure  antigen-specific IgG in human seraAn eight-plex immunoassay for Group A streptococcus serology and vaccine developmentImmune cross-opsonization within  clusters following Group A  skin infection: broadening the scope of type-specific immunitySystematic review and meta-analysis of the prevalence of group A Streptococcal  clusters in Africa to inform vaccine developmentMolecular epidemiology of Group A  infections in The GambiaGenomic characterization of skin and soft tissue \n isolates from a low-income and a high-income settingDevelopment and characterization of a hemolysis inhibition assay to determine functionality of anti-Streptolysin O antibodies in human seraCharacterization of an IL-8 cleavage inhibition assay to determine the functionality of anti-SpyCEP antibodies in human seraA flow cytometry-based assay to determine the ability of anti- antibodies to mediate monocytic phagocytosis in human seraPrime-pull immunization with a bivalent M-protein and Spy-CEP peptide vaccine adjuvanted with CAF\u00ae01 liposomes induces both mucosal and peripheral protection from  mutant Normal ranges of Streptococcal antibody titers are similar whether streptococci are endemic to the setting or notCross-sectional study of population-specific streptococcal antibody titres in Uganda pharyngitis elicits diverse antibody responses to key vaccine antigens influenced by the imprint of past infectionsThe role of the carrier in treatment failures after antibiotic for group A streptococci in the upper respiratory tractSerological profiling of group A  infections in acute rheumatic feverIncreased breadth of Group A  antibody responses in children with acute rheumatic fever compared to precursor pharyngitis and skin infectionsAn acute rheumatic fever immune signature comprising inflammatory markers, IgG3, and -specific antibodiesFc glycan-mediated regulation of placental antibody transferImmunoglobulin G and subclasses placental transfer in fetuses and preterm newborns: a systematic reviewModeling the potential health impact of prospective Strep A vaccinesHigh burden of impetigo and scabies in a tropical countryStructure-guided design of a broadly cross-reactive multivalent group a streptococcal vaccineMolecular methods enhance the detection of pyoderma-related \n- type distribution in childrenA double-blind, randomized phase II trial of the safety and immunogenicity of 26-valent Group A  vaccine in healthy adultsProgress towards a glycoconjugate vaccine against Group A StreptococcusGroup A Streptococcus (GAS) carbohydrate as an immunogen for protection against GAS infectionThe classical Lancefield antigen of Group A  is a virulence determinant with implications for vaccine designEvaluation of a Group A  synthetic oligosaccharide as vaccine candidateStreptococcal immunity is constrained by lack of immunological memory following a single episode of pyodermaImmune signature of acute pharyngitis in a  human challenge trialEvaluating clinical decision rules and rapid diagnostic tests for the diagnosis of  pharyngitis in Gambian children: a diagnostic accuracy studyConstructing time-specific reference rangesReconstruction of antibody dynamics and infection histories to evaluate dengue risk",
+  "pmcid": "12532705",
+  "features": {
+    "sample_size": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "sample size",
+        "n\u2009=\u2009378",
+        "n\u2009=\u2009244",
+        "total of 442 participants",
+        "n\u2009=\u20099",
+        "n\u2009=\u20091"
+      ],
+      "examples": [
+        {
+          "match": "sample size",
+          "context": "thin individuals, given large sample sizes. Functional immunoassay data"
+        },
+        {
+          "match": "n\u2009=\u20099",
+          "context": "ctagen), 25% pooled sera from n\u2009=\u20099 participants who experienced"
+        },
+        {
+          "match": "n\u2009=\u2009244",
+          "context": "he SpyCATS study final visit (n\u2009=\u2009244). This combination was select"
+        }
+      ]
+    },
+    "randomization": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "blinding": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "allocation_concealment": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "interaction_subgroup": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "interaction term"
+      ],
+      "examples": [
+        {
+          "match": "interaction term",
+          "context": "tion points, with and without interaction terms, to select a final model wit"
+        },
+        {
+          "match": "interaction term",
+          "context": "el with each antigen, without interaction terms and with covariates included"
+        }
+      ]
+    },
+    "variable_definitions": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "analysis_principles": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "itt_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "software": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "graphpad prism"
+      ],
+      "examples": [
+        {
+          "match": "GraphPad Prism",
+          "context": "a 4PL curve was fitted using GraphPad Prism version 10 (GraphPad Software"
+        },
+        {
+          "match": "GraphPad Prism",
+          "context": "ional assays were produced in GraphPad Prism version 10 by fitting 4PL cur"
+        }
+      ]
+    },
+    "error_measures": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "multiplicity_correction": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "false discovery rate",
+        "bonferroni",
+        "multiple comparisons"
+      ],
+      "examples": [
+        {
+          "match": "Bonferroni",
+          "context": "followed by Dunn\u2019s test with Bonferroni correction was used. Explorin"
+        },
+        {
+          "match": "false discovery rate",
+          "context": "s multiple antigens using the false discovery rate (FDR) method. For multiple co"
+        },
+        {
+          "match": "multiple comparisons",
+          "context": "covery rate (FDR) method. For multiple comparisons between groups, Kruskall\u2013Wall"
+        }
+      ]
+    },
+    "normality_checks": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "p_values": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "confidence_intervals": {
+      "present": true,
+      "count": 4,
+      "unique_matches": [
+        "confidence interval"
+      ],
+      "examples": [
+        {
+          "match": "confidence interval",
+          "context": "ctive thresholds FOOTER: 1CI, confidence interval; HR, hazard ratio.IgG levels"
+        },
+        {
+          "match": "confidence interval",
+          "context": "d household size FOOTER: 1CI, confidence interval; HR, hazard ratio. IgG measur"
+        },
+        {
+          "match": "confidence interval",
+          "context": "event breakdown FOOTER: 1CI, confidence interval; HR, hazard ratio. IgG measur"
+        }
+      ]
+    },
+    "comparative_stats": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "titer",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "1CI, confidence interval; OR, odds ratio. Anti-M IgG before, during an"
+        },
+        {
+          "match": "titer",
+          "context": "fference in log10-transformed titers between the pre-event and po"
+        },
+        {
+          "match": "titer",
+          "context": "ltiplex assays to measure IgG titers to S. pyogenes antigens from"
+        }
+      ]
+    },
+    "non_parametric": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "non-parametric"
+      ],
+      "examples": [
+        {
+          "match": "non-parametric",
+          "context": "s and the Shapiro\u2013-Wilk test, non-parametric tests were used. After additi"
+        }
+      ]
+    },
+    "advanced_modeling": {
+      "present": true,
+      "count": 7,
+      "unique_matches": [
+        "mixed-effects",
+        "cross-validation"
+      ],
+      "examples": [
+        {
+          "match": "mixed-effects",
+          "context": "around events was done with a mixed-effects linear regression analysis ac"
+        },
+        {
+          "match": "Mixed-effects",
+          "context": "onstant between measurements. Mixed-effects logistic regression models we"
+        },
+        {
+          "match": "mixed-effects",
+          "context": "enes events was modeled using mixed-effects logistic regression. Time in"
+        }
+      ]
+    },
+    "assumption_checks": {
+      "present": true,
+      "count": 6,
+      "unique_matches": [
+        "homoscedasticity",
+        "proportional hazards",
+        "collinearity"
+      ],
+      "examples": [
+        {
+          "match": "homoscedasticity",
+          "context": "After additional testing for homoscedasticity by plotting residuals, the Pe"
+        },
+        {
+          "match": "collinearity",
+          "context": "ach antigen given substantial collinearity between conserved antigens. T"
+        },
+        {
+          "match": "proportional hazards",
+          "context": "nderson\u2013Gill extension of Cox proportional hazards models10,65. IgG measurements"
+        }
+      ]
+    },
+    "survival_analysis": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "hazard ratio"
+      ],
+      "examples": [
+        {
+          "match": "hazard ratio",
+          "context": "1CI, confidence interval; HR, hazard ratio.IgG levels were measured from"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "1CI, confidence interval; HR, hazard ratio. IgG measurements from 1,987"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "1CI, confidence interval; HR, hazard ratio. IgG measurements from 1,987"
+        }
+      ]
+    },
+    "regression_and_models": {
+      "present": true,
+      "count": 17,
+      "unique_matches": [
+        "logistic regression",
+        "cox proportional",
+        "mixed-effect"
+      ],
+      "examples": [
+        {
+          "match": "Cox proportional",
+          "context": "he Anderson\u2013Gill extension of Cox proportional hazards models10,65. IgG meas"
+        },
+        {
+          "match": "Cox proportional",
+          "context": "ndersen\u2013Gill extension of the Cox proportional hazards model was used to exp"
+        },
+        {
+          "match": "Cox proportional",
+          "context": "ere included in multivariable Cox proportional hazards models to explore the"
+        }
+      ]
+    },
+    "reporting_guidelines": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "data_types": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "dependency": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "longitudinal"
+      ],
+      "examples": [
+        {
+          "match": "longitudinal",
+          "context": "nes events within the SpyCATS longitudinal cohort study. RFEs were defin"
+        }
+      ]
+    },
+    "clustering": {
+      "present": true,
+      "count": 29,
+      "unique_matches": [
+        "cluster"
+      ],
+      "examples": [
+        {
+          "match": "cluster",
+          "context": "M peptides from the E3 M/emm cluster, which were most common in th"
+        },
+        {
+          "match": "cluster",
+          "context": "ble regions, corresponding to cluster-representative peptides, were"
+        },
+        {
+          "match": "cluster",
+          "context": "re determined21. For each emm cluster, the most frequent emm type g"
+        }
+      ]
+    },
+    "missing_data": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "effect_size": {
+      "present": true,
+      "count": 8,
+      "unique_matches": [
+        "or",
+        "hr",
+        "hazard ratio",
+        "odds ratio"
+      ],
+      "examples": [
+        {
+          "match": "odds ratio",
+          "context": "1CI, confidence interval; OR, odds ratio. Anti-M IgG before, during an"
+        },
+        {
+          "match": "OR",
+          "context": "ER: 1CI, confidence interval; OR, odds ratio. Anti-M IgG befor"
+        },
+        {
+          "match": "hazard ratio",
+          "context": "1CI, confidence interval; HR, hazard ratio.IgG levels were measured from"
+        }
+      ]
+    },
+    "post_hoc": {
+      "present": true,
+      "count": 2,
+      "unique_matches": [
+        "dunn",
+        "multiple comparisons"
+      ],
+      "examples": [
+        {
+          "match": "multiple comparisons",
+          "context": "covery rate (FDR) method. For multiple comparisons between groups, Kruskall\u2013Wall"
+        },
+        {
+          "match": "Dunn",
+          "context": ", Kruskall\u2013Wallis followed by Dunn\u2019s test with Bonferroni correc"
+        }
+      ]
+    },
+    "baseline_reporting": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "advanced_modeling_extra": {
+      "present": true,
+      "count": 3,
+      "unique_matches": [
+        "categorized",
+        "excluding",
+        "categorization"
+      ],
+      "examples": [
+        {
+          "match": "excluding",
+          "context": "factors for incident events, excluding weekly swabs from carriage in"
+        },
+        {
+          "match": "categorized",
+          "context": "t or crusted skin lesions. We categorized events into two distinct type"
+        },
+        {
+          "match": "categorization",
+          "context": "n-focused events (PFEs). This categorization was used to investigate the r"
+        }
+      ]
+    },
+    "systematic_review_metrics": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "diagnostic_metrics": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "specificity"
+      ],
+      "examples": [
+        {
+          "match": "specificity",
+          "context": "rom the E3 emm cluster. Assay specificity was determined by competitive"
+        }
+      ]
+    },
+    "model_details": {
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
+    },
+    "domain_indicators": {
+      "present": true,
+      "count": 1,
+      "unique_matches": [
+        "quantification"
+      ],
+      "examples": [
+        {
+          "match": "quantification",
+          "context": "th an IC50 below the limit of quantification (LOQ) were assigned an IC50 v"
+        }
+      ]
+    }
+  },
+  "feedback": {
+    "overall_score": 5.5,
+    "rigor_rating": "Medium",
+    "critical_gaps": [
+      {
+        "message": "Reporting of blinding or masking procedure is missing.",
+        "evidence": "No matches for 'blinded' or 'masked'"
+      },
+      {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...a 4PL curve was fitted using GraphPad Prism version 10 (GraphPad Software..."
+      },
+      {
+        "message": "Paired data mentioned but no paired statistical tests found.",
+        "evidence": "...nes events within the SpyCATS longitudinal cohort study. RFEs were defin..."
+      }
+    ],
+    "strengths": [
+      {
+        "message": "Analysis context identifies clinical research (Clinical trial requirements apply).",
+        "evidence": "Detected term: 'participant'"
+      },
+      {
+        "message": "Explicitly addressed multiplicity correction for multiple comparisons.",
+        "evidence": "...followed by Dunn\u2019s test with Bonferroni correction was used. Explorin..."
+      },
+      {
+        "message": "Performed pre-planned or correctly adjusted post hoc comparisons.",
+        "evidence": "...covery rate (FDR) method. For multiple comparisons between groups, Kruskall\u2013Wall..."
+      },
+      {
+        "message": "Accounted for data dependency using advanced modeling.",
+        "evidence": "...around events was done with a mixed-effects linear regression analysis ac..."
+      },
+      {
+        "message": "Verified proportional hazards assumption.",
+        "evidence": "...After additional testing for homoscedasticity by plotting residuals, the Pe..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...factors for incident events, excluding weekly swabs from carriage in..."
+      },
+      {
+        "message": "Reported diagnostic metrics (AUC/ROC).",
+        "evidence": "...rom the E3 emm cluster. Assay specificity was determined by competitive..."
+      }
+    ],
+    "actionable_recommendations": [],
+    "deterministic_audit": true
+  }
+}

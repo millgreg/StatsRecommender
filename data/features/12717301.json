@@ -3,17 +3,10 @@
   "pmcid": "12717301",
   "features": {
     "sample_size": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "sample size"
-      ],
-      "examples": [
-        {
-          "match": "sample size",
-          "context": "analysis and determination of sample size for covariance structure mode"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "randomization": {
       "present": false,
@@ -196,21 +189,10 @@
       "examples": []
     },
     "model_details": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "covariance structure"
-      ],
-      "examples": [
-        {
-          "match": "covariance structure",
-          "context": "f criteria for fit indexes in covariance structure analysis: Conventional criter"
-        },
-        {
-          "match": "covariance structure",
-          "context": "ermination of sample size for covariance structure modelingThe role of self-effi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "domain_indicators": {
       "present": false,

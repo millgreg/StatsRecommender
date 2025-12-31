@@ -9,17 +9,10 @@
       "examples": []
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "randomized controlled trial",
-          "context": ": protocol for a double-blind randomized controlled trialRepetitive transcranial magnet"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -40,17 +33,10 @@
       "examples": []
     },
     "variable_definitions": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "outcome measure"
-      ],
-      "examples": [
-        {
-          "match": "outcome measure",
-          "context": "Insomnia Severity Index as an outcome measure for insomnia researchFitting"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "analysis_principles": {
       "present": false,
@@ -96,17 +82,10 @@
       "examples": []
     },
     "p_values": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "alpha"
-      ],
-      "examples": [
-        {
-          "match": "alpha",
-          "context": "toms of insomniaThe effect of alpha rhythm sleep on EEG activity"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "confidence_intervals": {
       "present": false,
@@ -127,27 +106,10 @@
       "examples": []
     },
     "advanced_modeling": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "mixed-effects",
-        "bootstrap",
-        "linear mixed model"
-      ],
-      "examples": [
-        {
-          "match": "linear mixed model",
-          "context": "ootstrap methods for tests in linear mixed models\u2013the R package pbkrtestTransc"
-        },
-        {
-          "match": "mixed-effects",
-          "context": "somnia researchFitting linear mixed-effects models using lme4Pregabalin i"
-        },
-        {
-          "match": "bootstrap",
-          "context": "approximation and parametric bootstrap methods for tests in linear m"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "assumption_checks": {
       "present": false,
@@ -162,17 +124,10 @@
       "examples": []
     },
     "regression_and_models": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "mixed-effect"
-      ],
-      "examples": [
-        {
-          "match": "mixed-effect",
-          "context": "somnia researchFitting linear mixed-effects models using lme4Pregabalin"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "reporting_guidelines": {
       "present": false,
@@ -181,17 +136,10 @@
       "examples": []
     },
     "data_types": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "continuous"
-      ],
-      "examples": [
-        {
-          "match": "continuous",
-          "context": "h insomnia symptoms following continuous theta-burst stimulation of th"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "dependency": {
       "present": false,
@@ -242,22 +190,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "specificity",
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "Sensitivity",
-          "context": "in chronically short sleepersSensitivity and specificity of polysomnog"
-        },
-        {
-          "match": "specificity",
-          "context": "short sleepersSensitivity and specificity of polysomnographic criteria"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,

@@ -16,25 +16,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 4,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "ysis of 13\u2009864 women in seven randomised trialsEarly breast cancer: E"
-        },
-        {
-          "match": "randomise",
-          "context": "ticentre, open-label, phase 3 randomised trial6 versus 12 months of a"
-        },
-        {
-          "match": "randomise",
-          "context": "se-free survival results of a randomised phase 3 non-inferiority tria"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -196,13 +181,12 @@
     },
     "survival_analysis": {
       "present": true,
-      "count": 6,
+      "count": 5,
       "unique_matches": [
-        "overall survival",
-        "os",
         "kaplan-meier",
+        "hazard ratio",
         "log-rank",
-        "hazard ratio"
+        "os"
       ],
       "examples": [
         {
@@ -306,7 +290,7 @@
       "examples": [
         {
           "match": "post hoc",
-          "context": "breast cancer subtypes  This post hoc secondary analysis of the SOL"
+          "context": "This post hoc secondary analysis of the SOL"
         },
         {
           "match": "post hoc",

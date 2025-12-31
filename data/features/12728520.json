@@ -141,13 +141,13 @@
     },
     "survival_analysis": {
       "present": true,
-      "count": 10,
+      "count": 7,
       "unique_matches": [
         "overall survival",
         "os",
         "kaplan-meier",
-        "log-rank",
-        "hazard ratio"
+        "hazard ratio",
+        "log-rank"
       ],
       "examples": [
         {
@@ -248,8 +248,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "roc",
         "specificity",
+        "roc",
         "sensitivity"
       ],
       "examples": [

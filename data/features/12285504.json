@@ -75,17 +75,10 @@
       "examples": []
     },
     "p_values": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "alpha"
-      ],
-      "examples": [
-        {
-          "match": "alpha",
-          "context": "c strip test for serum asialo alpha1-acid glycoprotein in patient"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "confidence_intervals": {
       "present": false,

@@ -10,23 +10,14 @@
     },
     "randomization": {
       "present": true,
-      "count": 8,
+      "count": 1,
       "unique_matches": [
-        "randomise",
         "randomized controlled trial"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "leg cramps in older adults: a randomised trialdelicate balance: iron"
-        },
-        {
-          "match": "randomise",
-          "context": "e group: study protocol for a randomised controlled trialCognition in"
-        },
-        {
-          "match": "randomise",
-          "context": "ing shear-wave elastography\u2014a randomised clinical trialAltered cortic"
+          "match": "Randomized controlled trial",
+          "context": "the elderly was very limited. Randomized controlled trials, cohort studies, case-contro"
         }
       ]
     },
@@ -115,17 +106,10 @@
       "examples": []
     },
     "advanced_modeling": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "propensity score"
-      ],
-      "examples": [
-        {
-          "match": "propensity score",
-          "context": "ertension in men and women: a propensity score-matched analysisPrevalence of"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "assumption_checks": {
       "present": false,
@@ -158,17 +142,10 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "matched analysis"
-      ],
-      "examples": [
-        {
-          "match": "matched analysis",
-          "context": "and women: a propensity score-matched analysisPrevalence of restless legs sy"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": false,
@@ -201,22 +178,10 @@
       "examples": []
     },
     "advanced_modeling_extra": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "crossover",
-        "compliance"
-      ],
-      "examples": [
-        {
-          "match": "crossover",
-          "context": "cement splint: revisiting two crossover studiesEvidence-based and con"
-        },
-        {
-          "match": "compliance",
-          "context": "andomized controlled trial of compliance and efficacyPrevalence of sle"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "systematic_review_metrics": {
       "present": false,

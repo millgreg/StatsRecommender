@@ -27,17 +27,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "heterogeneity",
-          "context": "uces intracellular mutational heterogeneity in colon cancer cellsPrimary,"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -142,30 +135,18 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "matched case-control"
-      ],
-      "examples": [
-        {
-          "match": "matched case-control",
-          "context": "ng gastric cancer patients: a matched case-control studyNoncoding RNAs in cancer"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "icc",
-        "hierarchical"
+        "icc"
       ],
       "examples": [
-        {
-          "match": "hierarchical",
-          "context": "ng sites on circRNAs based on hierarchical feature expansion and fusionS"
-        },
         {
           "match": "ICC",
           "context": "CC, hepatocellular carcinoma; ICC, intrahepatic cholangiocarcin"
@@ -209,25 +190,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 3,
-      "unique_matches": [
-        "sensitivity"
-      ],
-      "examples": [
-        {
-          "match": "sensitivity",
-          "context": "ected by HuR and confers chemosensitivity through regulation of P-glyco"
-        },
-        {
-          "match": "sensitivity",
-          "context": "F1 in gastric tumors restores sensitivity to antitumor immunity by recr"
-        },
-        {
-          "match": "sensitivity",
-          "context": "n of Lin28 decreases the chemosensitivity of gastric cancer cells to ox"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -236,22 +202,10 @@
       "examples": []
     },
     "domain_indicators": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "transcriptome",
-        "mice"
-      ],
-      "examples": [
-        {
-          "match": "mice",
-          "context": "n progenitor cell survival in miceDrug delivery approaches for H"
-        },
-        {
-          "match": "Transcriptome",
-          "context": "n emerging tumor immunotherapyTranscriptome-wide identification of rna-bi"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     }
   }
 }

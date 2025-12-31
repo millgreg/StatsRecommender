@@ -7,10 +7,10 @@
       "count": 5,
       "unique_matches": [
         "n\u2009=\u20096",
+        "n\u2009=\u200919",
         "n\u2009=\u20098",
-        "n\u2009=\u200917",
         "n\u2009=\u200921",
-        "n\u2009=\u200919"
+        "n\u2009=\u200917"
       ],
       "examples": [
         {
@@ -46,17 +46,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "heterogeneity",
-          "context": "to reject tumors with antigen heterogeneityJoint confidence region estima"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": true,
@@ -87,9 +80,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
+        "r, 0.7",
         "flowjo",
         "sas",
-        "r, 0.7",
         "graphpad prism"
       ],
       "examples": [
@@ -165,8 +158,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "log-rank",
         "rfs",
+        "log-rank",
         "os"
       ],
       "examples": [
@@ -301,19 +294,11 @@
     },
     "diagnostic_metrics": {
       "present": true,
-      "count": 3,
+      "count": 1,
       "unique_matches": [
         "roc"
       ],
       "examples": [
-        {
-          "match": "ROC",
-          "context": "ver operating characteristic (ROC) analysisPersonalized RNA neo"
-        },
-        {
-          "match": "ROC",
-          "context": "ion estimation for area under ROC curve and Youden index  A pha"
-        },
         {
           "match": "ROC",
           "context": "low T cell responders and the ROC analysis was performed using"
@@ -328,17 +313,12 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 4,
+      "count": 3,
       "unique_matches": [
         "flow cytometry",
-        "staining",
-        "mice"
+        "staining"
       ],
       "examples": [
-        {
-          "match": "mice",
-          "context": "f large established tumors in mice by combination immunotherapy"
-        },
         {
           "match": "staining",
           "context": "in the intracellular cytokine staining (ICS) assay (n\u2009=\u20096/8). A dire"
@@ -346,6 +326,10 @@
         {
           "match": "staining",
           "context": "he FoxP3/transcription factor staining buffer set (Thermo Fisher Sci"
+        },
+        {
+          "match": "flow cytometry",
+          "context": "IFN\u03b3 and TNF was performed by flow cytometry. PBMCs were thawed and rested"
         }
       ]
     }
@@ -355,16 +339,16 @@
     "rigor_rating": "Medium",
     "critical_gaps": [
       {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...a logistic regression model. SAS v9.4 and R v4.4.3 were used t..."
+      },
+      {
         "message": "Survival analysis used without verifying proportional hazards assumption.",
         "evidence": "...e survival distributions. The log-rank test was used to compare the..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...electroporation permitted. We excluded patients who received antitum..."
-      },
-      {
         "message": "Diagnostic metrics reported without Confidence Intervals.",
-        "evidence": "...ver operating characteristic (ROC) analysisPersonalized RNA neo..."
+        "evidence": "...low T cell responders and the ROC analysis was performed using..."
       }
     ],
     "strengths": [
@@ -373,12 +357,12 @@
         "evidence": "Detected term: 'flow cytometry'"
       },
       {
-        "message": "Detailed software versions provided.",
-        "evidence": "...a logistic regression model. SAS v9.4 and R v4.4.3 were used t..."
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...electroporation permitted. We excluded patients who received antitum..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
-        "evidence": "...ver operating characteristic (ROC) analysisPersonalized RNA neo..."
+        "evidence": "...low T cell responders and the ROC analysis was performed using..."
       }
     ],
     "actionable_recommendations": [],

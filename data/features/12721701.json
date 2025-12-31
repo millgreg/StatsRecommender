@@ -78,9 +78,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "sd",
+        "interquartile range",
         "standard deviation",
-        "interquartile range"
+        "sd"
       ],
       "examples": [
         {
@@ -113,9 +113,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
+        "p\u2009<\u20090.05",
         "significance level",
-        "p\u2009<\u20090.01",
-        "p\u2009<\u20090.05"
+        "p\u2009<\u20090.01"
       ],
       "examples": [
         {
@@ -229,9 +229,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
+        "binary",
         "categorical",
-        "continuous",
-        "binary"
+        "continuous"
       ],
       "examples": [
         {
@@ -249,24 +249,17 @@
       ]
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "Longitudinal",
-          "context": "streptococci in young childrenLongitudinal association between obesity a"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
       "present": true,
       "count": 2,
       "unique_matches": [
-        "icc",
-        "cluster"
+        "cluster",
+        "icc"
       ],
       "examples": [
         {
@@ -352,16 +345,11 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
-        "quantification",
-        "mice"
+        "quantification"
       ],
       "examples": [
-        {
-          "match": "mice",
-          "context": "ajor salivary glands of obese miceImpaired mitochondria and intr"
-        },
         {
           "match": "quantification",
           "context": "coli (105\u2013109\u2009CFU/mL) for the quantification of total bacterial load were"

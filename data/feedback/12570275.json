@@ -25,25 +25,24 @@
     },
     "randomization": {
       "present": true,
-      "count": 19,
+      "count": 13,
       "unique_matches": [
         "randomisation",
-        "allocation",
         "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
           "match": "randomise",
-          "context": "senchymal stem cells: phase 3 randomised clinical trial (PREVENT-TAHA"
+          "context": "A8 trial is a single blinded, randomised, phase 3 superiority trial c"
         },
         {
-          "match": "randomise",
-          "context": "senchymal stem cells: phase 3 randomised clinical trialPost-myocardia"
+          "match": "randomisation",
+          "context": "roup analysis, we chose a 1:2 randomisation ratio (intervention to contro"
         },
         {
-          "match": "randomise",
-          "context": "cardial infarction: the BOOST randomised controlled clinical trialInt"
+          "match": "Randomisation",
+          "context": "for these potential dropouts. Randomisation was done centrally at the mai"
         }
       ]
     },
@@ -177,9 +176,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "p<0.05",
         "secondary endpoint",
-        "secondary outcome"
+        "secondary outcome",
+        "p<0.05"
       ],
       "examples": [
         {
@@ -218,9 +217,9 @@
       "count": 6,
       "unique_matches": [
         "mann-whitney",
-        "wilcoxon",
         "\u03c72",
-        "fisher\u2019s exact"
+        "fisher\u2019s exact",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -261,8 +260,8 @@
       "count": 4,
       "unique_matches": [
         "schoenfeld residuals",
-        "proportional hazards",
-        "proportional hazards assumption"
+        "proportional hazards assumption",
+        "proportional hazards"
       ],
       "examples": [
         {
@@ -283,9 +282,9 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "log-rank",
         "kaplan-meier",
-        "hazard ratio"
+        "hazard ratio",
+        "log-rank"
       ],
       "examples": [
         {
@@ -332,9 +331,9 @@
       "present": true,
       "count": 8,
       "unique_matches": [
+        "frequencies",
         "categorical",
-        "continuous",
-        "frequencies"
+        "continuous"
       ],
       "examples": [
         {
@@ -466,8 +465,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "in vitro",
-        "flow cytometry"
+        "flow cytometry",
+        "in vitro"
       ],
       "examples": [
         {
@@ -486,26 +485,22 @@
     "rigor_rating": "Medium",
     "critical_gaps": [
       {
-        "message": "Missing data handeld via complete-case analysis (potential bias).",
+        "message": "Missing data handled via complete-case analysis (potential bias).",
         "evidence": "...lls, we anticipated a rate of dropout and consent withdrawal of 8-1..."
       },
       {
-        "message": "Data exclusion criteria should be explicitly detailed.",
-        "evidence": "...y, or autoimmune disease were excluded from the study. A negative pr..."
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...P values with a threshold of P<0.05. We used Cox proportional haz..."
       }
     ],
     "strengths": [
       {
         "message": "Analysis context identifies basic science or bioinformatics (Softened clinical trial requirements).",
-        "evidence": "Detected term: 'in vitro'"
+        "evidence": "Detected term: 'flow cytometry'"
       },
       {
         "message": "Detailed software versions provided.",
         "evidence": "...ar ejection fraction. We used Stata version 18 for all statistical analysis...."
-      },
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...Aalen estimates of cumulative hazard ratios. We used Kaplan-Meier surviv..."
       },
       {
         "message": "Appropriately used paired tests for dependent data.",
@@ -514,6 +509,10 @@
       {
         "message": "Verified proportional hazards assumption.",
         "evidence": "...l test on the basis of scaled Schoenfeld residuals, with results reported in the..."
+      },
+      {
+        "message": "Exclusion criteria explicitly defined (transparency).",
+        "evidence": "...y, or autoimmune disease were excluded from the study. A negative pr..."
       }
     ],
     "actionable_recommendations": [],

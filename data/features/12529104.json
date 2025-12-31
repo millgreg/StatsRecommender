@@ -113,10 +113,10 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "p < 0.001",
         "p < 0.01",
         "significance level",
         "p < 0.05",
+        "p < 0.001",
         "p > 0.005"
       ],
       "examples": [
@@ -144,8 +144,8 @@
       "present": true,
       "count": 6,
       "unique_matches": [
-        "wilcoxon",
-        "t-test"
+        "t-test",
+        "wilcoxon"
       ],
       "examples": [
         {
@@ -233,8 +233,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "matched pairs",
         "paired t-test",
+        "matched pairs",
         "repeated measures"
       ],
       "examples": [
@@ -302,17 +302,10 @@
       "examples": []
     },
     "diagnostic_metrics": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "specificity"
-      ],
-      "examples": [
-        {
-          "match": "specificity",
-          "context": "tyLearning-related fine-scale specificity imaged in motor cortex circui"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "model_details": {
       "present": false,
@@ -322,25 +315,24 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 6,
+      "count": 4,
       "unique_matches": [
         "microscopy",
-        "staining",
-        "mice",
-        "immunohistochemistry"
+        "immunohistochemistry",
+        "staining"
       ],
       "examples": [
         {
-          "match": "mice",
-          "context": "ngle-pellet reaching tasks in miceDifferential contributions of"
-        },
-        {
-          "match": "mice",
-          "context": "r cortex circuits of behaving miceTwo distinct layer-specific dy"
+          "match": "immunohistochemistry",
+          "context": "S) at 4\u00b0C until processed for immunohistochemistry. For all immunohistochemistry"
         },
         {
           "match": "immunohistochemistry",
-          "context": "S) at 4\u00b0C until processed for immunohistochemistry. For all immunohistochemistry"
+          "context": "immunohistochemistry. For all immunohistochemistry, free-floating staining metho"
+        },
+        {
+          "match": "staining",
+          "context": "histochemistry, free-floating staining methods were used. Coronal co"
         }
       ]
     }

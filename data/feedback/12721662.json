@@ -16,17 +16,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomized controlled trial"
-      ],
-      "examples": [
-        {
-          "match": "Randomized Controlled Trial",
-          "context": "A Multicenter Prospective Randomized Controlled Trial Comparing Cxbladder Triage to"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -42,19 +35,11 @@
     },
     "interaction_subgroup": {
       "present": true,
-      "count": 3,
+      "count": 1,
       "unique_matches": [
         "stratification"
       ],
       "examples": [
-        {
-          "match": "stratification",
-          "context": "sts and improves patient risk stratificationA multigene urine test for the"
-        },
-        {
-          "match": "stratification",
-          "context": "ne test for the detection and stratification of bladder cancer in patients"
-        },
         {
           "match": "stratification",
           "context": "differ from current guideline stratification. Those who didn\u2019t fulfill all"
@@ -300,8 +285,8 @@
       "present": true,
       "count": 2,
       "unique_matches": [
-        "categorization",
-        "categorized"
+        "categorized",
+        "categorization"
       ],
       "examples": [
         {
@@ -324,9 +309,9 @@
       "present": true,
       "count": 11,
       "unique_matches": [
+        "specificity",
         "positive predictive value",
         "npv",
-        "specificity",
         "sensitivity"
       ],
       "examples": [
@@ -365,9 +350,13 @@
     }
   },
   "feedback": {
-    "overall_score": 8.5,
-    "rigor_rating": "High",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
+      {
+        "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
+        "evidence": "...int (clinical utility) vs the secondary endpoint (clinical validity). To be in..."
+      },
       {
         "message": "Categorical data mentioned, but no appropriate categorical tests found.",
         "evidence": "...re based on the test of equal proportions (prop.test in R). Confidence..."
@@ -381,10 +370,6 @@
       {
         "message": "Detailed software versions provided.",
         "evidence": "...are 95%. Analysis was done in R, version 4.2.10 CAPTION: Demographics FOOTER:..."
-      },
-      {
-        "message": "Reported effect sizes (e.g., OR, HR, MD) alongside statistical significance.",
-        "evidence": "...als for the difference in the relative risk are based on the formula for..."
       },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",

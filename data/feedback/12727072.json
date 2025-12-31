@@ -33,17 +33,10 @@
       "examples": []
     },
     "variable_definitions": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "outcome measure"
-      ],
-      "examples": [
-        {
-          "match": "outcome measure",
-          "context": "lth survey questionnaire: new outcome measure for primary careReliability a"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "analysis_principles": {
       "present": false,
@@ -61,8 +54,8 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "sas",
-        "r 4.1.2"
+        "r 4.1.2",
+        "sas"
       ],
       "examples": [
         {
@@ -83,8 +76,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "sd",
-        "interquartile range"
+        "interquartile range",
+        "sd"
       ],
       "examples": [
         {
@@ -245,15 +238,11 @@
     },
     "dependency": {
       "present": true,
-      "count": 10,
+      "count": 9,
       "unique_matches": [
         "longitudinal"
       ],
       "examples": [
-        {
-          "match": "longitudinal",
-          "context": "recruitment, assessment, and longitudinal monitoring of participants fo"
-        },
         {
           "match": "Longitudinal",
           "context": "rs. The four cohorts are: the Longitudinal Study of Early onset dementia"
@@ -261,6 +250,10 @@
         {
           "match": "Longitudinal",
           "context": "ly members (LEAF) cohort, the Longitudinal/cohort Study of Patients with"
+        },
+        {
+          "match": "Longitudinal",
+          "context": "mentia (COHD) cohort, and the Longitudinal Study of Patients with Parkin"
         }
       ]
     },
@@ -371,12 +364,16 @@
         "evidence": "No matches for 'blinded' or 'masked'"
       },
       {
+        "message": "Software mentioned without specific versions.",
+        "evidence": "...yses were conducted using the SAS Enterprise Guide (version 7.1..."
+      },
+      {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
         "evidence": "...ienna, Austria). A two-tailed p-value<0.05 was considered statistic..."
       },
       {
         "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...recruitment, assessment, and longitudinal monitoring of participants fo..."
+        "evidence": "...rs. The four cohorts are: the Longitudinal Study of Early onset dementia..."
       },
       {
         "message": "Categorical data mentioned, but no appropriate categorical tests found.",
@@ -384,7 +381,7 @@
       },
       {
         "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...recruitment, assessment, and longitudinal monitoring of participants fo..."
+        "evidence": "...rs. The four cohorts are: the Longitudinal Study of Early onset dementia..."
       },
       {
         "message": "ANOVA mentioned without specifying post-hoc tests.",
@@ -400,10 +397,6 @@
       }
     ],
     "strengths": [
-      {
-        "message": "Detailed software versions provided.",
-        "evidence": "...yses were conducted using the SAS Enterprise Guide (version 7.1..."
-      },
       {
         "message": "Reported diagnostic metrics (AUC/ROC).",
         "evidence": "...linguistic accuracy, cultural sensitivity, and relevance, especially wh..."
@@ -421,12 +414,6 @@
         "issue": "No power calculation found.",
         "recommendation": "Provide alpha, power, and effect size parameters.",
         "source_text": "No matches for 'power' or 'sample size calculation'"
-      },
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'p-value' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
       },
       {
         "item": "Statistical Architecture",

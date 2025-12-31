@@ -78,9 +78,9 @@
       "present": true,
       "count": 7,
       "unique_matches": [
-        "sd",
+        "interquartile range",
         "standard deviation",
-        "interquartile range"
+        "sd"
       ],
       "examples": [
         {
@@ -132,8 +132,8 @@
       "present": true,
       "count": 4,
       "unique_matches": [
-        "chi-square",
-        "fisher's exact"
+        "fisher's exact",
+        "chi-square"
       ],
       "examples": [
         {

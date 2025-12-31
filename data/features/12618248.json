@@ -26,25 +26,23 @@
     },
     "randomization": {
       "present": true,
-      "count": 11,
+      "count": 5,
       "unique_matches": [
         "randomly assigned",
-        "allocation",
-        "randomise",
-        "randomized controlled trial"
+        "allocation"
       ],
       "examples": [
         {
-          "match": "randomise",
-          "context": "hy and HIV-infected adults: a randomised, placebo-controlled phase II"
+          "match": "randomly assigned",
+          "context": "Eligible pregnant women were randomly assigned 1:1 to receive the two-dose E"
         },
         {
-          "match": "randomise",
-          "context": "and adolescents in Africa: a randomised, placebo-controlled, multice"
+          "match": "allocation",
+          "context": "ancy completion (group B). An allocation template was created by coaut"
         },
         {
-          "match": "randomise",
-          "context": "n children in Sierra Leone: a randomised, double-blind, controlled tr"
+          "match": "allocation",
+          "context": "ensure correspondence to the allocation table before sealing the enve"
         }
       ]
     },
@@ -158,8 +156,8 @@
       "count": 11,
       "unique_matches": [
         "95% confidence",
-        "confidence interval",
-        "95% ci"
+        "95% ci",
+        "confidence interval"
       ],
       "examples": [
         {
@@ -247,9 +245,9 @@
       "present": true,
       "count": 3,
       "unique_matches": [
-        "not imputed",
         "missing data",
-        "missing information"
+        "missing information",
+        "not imputed"
       ],
       "examples": [
         {
@@ -330,9 +328,9 @@
       "present": true,
       "count": 9,
       "unique_matches": [
-        "excluded",
         "categorized",
-        "compliance"
+        "compliance",
+        "excluded"
       ],
       "examples": [
         {

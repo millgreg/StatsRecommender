@@ -27,17 +27,10 @@
       "examples": []
     },
     "interaction_subgroup": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "heterogeneity"
-      ],
-      "examples": [
-        {
-          "match": "Heterogeneity",
-          "context": "in 2019: A systematic analysisHeterogeneity and clinical genomics of -pro"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "variable_definitions": {
       "present": false,
@@ -94,15 +87,11 @@
     },
     "p_values": {
       "present": true,
-      "count": 2,
+      "count": 1,
       "unique_matches": [
         "alpha"
       ],
       "examples": [
-        {
-          "match": "Alpha",
-          "context": "ein structure prediction with AlphaFoldCoot: Model-building tools"
-        },
         {
           "match": "Alpha",
           "context": "oC structure predicted by the AlphaFold2 program (92) was used as"
@@ -176,34 +165,16 @@
       "examples": []
     },
     "dependency": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "longitudinal"
-      ],
-      "examples": [
-        {
-          "match": "Longitudinal",
-          "context": "through overgrowth of  in miceLongitudinal and comparative analysis of g"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "clustering": {
-      "present": true,
-      "count": 2,
-      "unique_matches": [
-        "cluster"
-      ],
-      "examples": [
-        {
-          "match": "cluster",
-          "context": "ation analysis of biotin gene cluster of Location of promoter and o"
-        },
-        {
-          "match": "cluster",
-          "context": "ator sites in the biotin gene cluster of Sinefungin, a potent inhib"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "missing_data": {
       "present": false,
@@ -254,24 +225,14 @@
     },
     "diagnostic_metrics": {
       "present": true,
-      "count": 3,
+      "count": 1,
       "unique_matches": [
-        "roc",
-        "specificity",
-        "sensitivity"
+        "roc"
       ],
       "examples": [
         {
           "match": "ROC",
           "context": "ically processed by the auto PROC program developed by the beam"
-        },
-        {
-          "match": "sensitivity",
-          "context": "iotin synthesisEvaluating the sensitivity of  to biotin deprivation usi"
-        },
-        {
-          "match": "specificity",
-          "context": "er protein complex reveal how specificity is achieved in the P450(BioI)"
         }
       ]
     },
@@ -283,47 +244,37 @@
     },
     "domain_indicators": {
       "present": true,
-      "count": 24,
+      "count": 18,
       "unique_matches": [
         "in vitro",
         "knockout",
+        "mice",
         "western blot",
-        "in vivo",
-        "crystallography",
-        "staining",
-        "mice"
+        "staining"
       ],
       "examples": [
         {
           "match": "mice",
-          "context": "cia through overgrowth of  in miceLongitudinal and comparative a"
-        },
-        {
-          "match": "mice",
-          "context": "king the human environment in mice reveals that inhibiting bioti"
-        },
-        {
-          "match": "mice",
           "context": "As for all the experiments of mice infections, they were carried"
+        },
+        {
+          "match": "mice",
+          "context": ". The protocol for studies on mice was licensed by the Laborator"
+        },
+        {
+          "match": "mice",
+          "context": "ganisms (24). Apart from CD-1 mice blood samples, the plasma of"
         }
       ]
     }
   },
   "feedback": {
-    "overall_score": 4.0,
-    "rigor_rating": "Low",
+    "overall_score": 7.0,
+    "rigor_rating": "Medium",
     "critical_gaps": [
       {
         "message": "P-values reported without effect sizes (e.g. Odds Ratio).",
-        "evidence": "...ein structure prediction with AlphaFoldCoot: Model-building tools..."
-      },
-      {
-        "message": "Paired data mentioned but no paired statistical tests found.",
-        "evidence": "...through overgrowth of  in miceLongitudinal and comparative analysis of g..."
-      },
-      {
-        "message": "Longitudinal/clustered data detected without hierarchical modeling.",
-        "evidence": "...through overgrowth of  in miceLongitudinal and comparative analysis of g..."
+        "evidence": "...oC structure predicted by the AlphaFold2 program (92) was used as..."
       },
       {
         "message": "Diagnostic metrics reported without Confidence Intervals.",
@@ -340,20 +291,7 @@
         "evidence": "...ically processed by the auto PROC program developed by the beam..."
       }
     ],
-    "actionable_recommendations": [
-      {
-        "item": "Effect Sizes",
-        "issue": "Significance reported without magnitude.",
-        "recommendation": "Report Effect Sizes with CIs.",
-        "source_text": "Detected 'Alpha' but did not find Effect Size keywords (e.g., OR, HR, Cohen's d)."
-      },
-      {
-        "item": "Statistical Architecture",
-        "issue": "Clustered/repeated data requires hierarchical models.",
-        "recommendation": "Use LMM, GLMM, or GEE.",
-        "source_text": "Found 'longitudinal' but no mixed-effects models."
-      }
-    ],
+    "actionable_recommendations": [],
     "deterministic_audit": true
   }
 }

@@ -20,17 +20,10 @@
       ]
     },
     "randomization": {
-      "present": true,
-      "count": 1,
-      "unique_matches": [
-        "randomise"
-      ],
-      "examples": [
-        {
-          "match": "randomise",
-          "context": "cardiac disease (CUPID 2): a randomised, multinational, double-blind"
-        }
-      ]
+      "present": false,
+      "count": 0,
+      "unique_matches": [],
+      "examples": []
     },
     "blinding": {
       "present": false,
@@ -224,8 +217,8 @@
       "present": true,
       "count": 5,
       "unique_matches": [
-        "excluded",
-        "compliance"
+        "compliance",
+        "excluded"
       ],
       "examples": [
         {
